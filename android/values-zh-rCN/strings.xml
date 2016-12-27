@@ -1,0 +1,964 @@
+<resources>
+
+    <string name="upgrade_immediately">立即升级</string>
+    <string name="about_kuzhai">关于%1$s</string>
+    <string name="info_updates">当前版本已经是最新版本</string>
+    <string name="err_internet">网络错误，请检查设备是否处于配置模式</string>
+    <string name="not_found_device">没有发现智能设备，请检查设备是否处于配对模式</string>
+    <string name="not_device">设备不存在</string>
+    <string name="air_cleaner">空气净化器</string>
+    <string name="best">优</string>
+    <string name="fine">良</string>
+    <string name="middle">中</string>
+    <string name="bad">差</string>
+    <string name="inferior">劣</string>
+    <string name="shutdown">已关机</string>
+    <string name="wind_speed">风速</string>
+    <string name="fireplace_power_on">开机</string>
+    <string name="fireplace_power_off">关机</string>
+    <string name="air">空气：</string>
+    <string name="temperature">温度：</string>
+    <string name="c">摄氏度</string>
+    <string name="humidity">湿度：</string>
+    <string name="not_internet_current">当前没有可用网络</string>
+    <string name="et_search">搜索</string>
+
+
+    <string name="device_not_online">设备未在线</string>
+
+    <string name="operation_failure">操作失败</string>
+    <string name="online">(在线)</string>
+    <string name="offline">(离线)</string>
+    <string name="device_offline">设备离线，无法进行操作</string>
+
+    <string name="device_manufacturers">厂商:</string>
+    <string name="device_type">型号:</string>
+    <string name="share_owner_device">只有设备主人才能分享设备</string>
+    <string name="device_upgraded_to">设备即将升级到</string>
+
+
+    <string name="info_wait_upgrade">版本,升级时您将不能操作设备,升级过程可能会持续几十秒,请耐心等待.</string>
+    <string name="info_sure_delete">确定删除该设备?</string>
+    <string name="del_group">确定删除设备分组?</string>
+    <string name="ota_failed_upgrade">设备%1$sota升级失败</string>
+    <string name="ota_success_upgrade">设备%1$sota升级成功</string>
+    <string name="ota_finish_upgrade">设备%1$sota升级完成</string>
+    <string name="productinfo">设备信息</string>
+    <string name="notgrade">当前固件已是最新版本</string>
+
+    <string name="firmware_upgradeing">设备%1$s正在进行固件升级...</string>
+    <string name="background_updateing">设备%1$s正在后台进行固件升级...</string>
+    <string name="sms_mustbenoempty">验证码不能为空</string>
+
+    <string name="tips">温馨提示</string>
+    <string name="info_relogin">您登录已经失效，请重新登录</string>
+
+    <string name="ok">确定</string>
+    <string name="cancel">取消</string>
+    <string name="test_wechat">测试微信</string>
+    <string name="group_exits">分组已经存在</string>
+    <string name="delete_group">删除分组，该分组下的设备依然存在，您确定要删除该分组?</string>
+    <string name="change_device">修改设备</string>
+
+    <string name="info_not_change">该设备不属于您，不能修改设备名称</string>
+    <string name="change_name_success">修改名称成功</string>
+    <string name="change_name_failed">修改名称失败</string>
+    <string name="waiting">请稍后...</string>
+    <string name="divece_name">设备名称:</string>
+    <string name="device_name_not">设备名称不能为空</string>
+    <string name="timer">定时</string>
+    <string name="once">仅此一次</string>
+    <string name="everyday">每天</string>
+    <string name="day">日</string>
+    <string name="days">工作日</string>
+    <string name="weekends">周末</string>
+    <string name="week">周</string>
+    <string name="add_timer_success">增加定时器成功</string>
+    <string name="delete_timer_success">删除定时器成功</string>
+
+    <string name="add_timer_failed">添加定时器失败</string>
+    <string name="delete_timer_failed">删除定时器失败</string>
+    <string name="timer_set_err">定时器时间设置错误</string>
+    <string name="only_number">只允许添加8个定时器</string>
+    <string name="date">天</string>
+
+    <string name="sms_number">手机号码</string>
+    <string name="sms_code">发送验证码</string>
+    <string name="email_number">邮箱账号</string>
+    <string name="email_code">邮箱验证码</string>
+    <string name="repassword">重置密码</string>
+    <string name="commit">提交</string>
+    <string name="user_register">新用户注册</string>
+    <string name="password_not">密码不能为空</string>
+    <string name="enter_phone_numbers">手机号码/邮箱账号</string>
+
+    <string name="groupName_not">分组名不能为空</string>
+    <string name="registering">正在注册...</string>
+    <string name="resend">s后重新发送</string>
+    <string name="change_user_info">修改用户信息</string>
+    <string name="enter_name">请输入新昵称</string>
+    <string name="name_not">昵称不能为空</string>
+    <string name="modify_name_success">修改昵称成功</string>
+    <string name="modify_name_failed">修改昵称失败</string>
+    <string name="change_password">请输入旧密码</string>
+
+    <string name="add_confirm">确认</string>
+    <string name="old_paswd_not">旧密码不能为空</string>
+    <string name="new_paswd_not">新密码不能为空</string>
+    <string name="secondary_not">二次确认密码不能为空</string>
+    <string name="two_passwords_notsam">两次输入的密码不一样</string>
+    <string name="info_old_paswd">您原来的密码输入有误,至少8位</string>
+    <string name="info_fomat_paswd">密码至少8位</string>
+    <string name="info_check_internet">没有可用网络，请检查网络连接</string>
+
+    <string name="info_fomat_email">请填写正确的"E-mail"地址</string>
+
+    <string name="info_again_enter">原始密码错误，请重新输入</string>
+    <string name="change_password_failed">修改密码失败：</string>
+    <string name="change_susess">修改成功</string>
+    <string name="user">用户</string>
+    <string name="user_online">用户不在线</string>
+    <string name="user_exist">用户不存在</string>
+    <string name="share_success">分享成功</string>
+    <string name="user_denied">用户已拒绝</string>
+    <string name="user_sharex">用户已分享</string>
+    <string name="share_outtime">分享超时</string>
+    <string name="wait_requset">等待确认</string>
+    <string name="share_device">分享设备</string>
+    <string name="repeat_time">重复定时</string>
+
+    <string name="select_user">请选择用户</string>
+    <string name="enter_phone_number">请输入正确的手机号码</string>
+    <string name="not_share_own">不需要分享设备给自己</string>
+    <string name="has_share">该用户已经分享</string>
+    <string name="err_cmdorfomat">错误的命令或者格式</string>
+    <string name="err_server">服务器内部错误</string>
+    <string name="not_even">响应位数不是偶数:</string>
+    <string name="only_english">只允许英文</string>
+    <string name="err_length">长度超过512字符</string>
+    <string name="enter_not_null">输入不能为空</string>
+
+
+    <string name="err_fomat">格式不对:</string>
+    <string name="logining">正在登录...</string>
+    <string name="committime">正在创建定时器...</string>
+    <string name="login_failed">登录失败，用户名或密码错误</string>
+    <string name="login_failed_normal">登录失败</string>
+    <string name="shook_on">摇头模式：开</string>
+    <string name="shook_off">摇头模式：关</string>
+    <string name="device_one">设备1</string>
+    <string name="device_two">设备2</string>
+    <string name="device_three">设备3</string>
+    <string name="device_four">设备4</string>
+    <string name="register_success">注册成功</string>
+
+    <string name="switch_net_error">切换网络错误，请重新添加</string>
+    <string name="connect_failed">连接设备失败，请检查设备是否处于配对模式</string>
+    <string name="add_success">分组添加成功</string>
+    <string name="add_failed">添加失败</string>
+    <string name="repeat_password_success">重置密码成功</string>
+    <string name="register_failed">注册失败</string>
+    <string name="downloading">正在下载</string>
+    <string name="download_failed">下载失败，点击重新下载</string>
+    <string name="downloaded">已经下载(</string>
+    <string name="download_install">下载完成,点击安装(</string>
+    <string name="download_complete">下载完成(</string>
+    <string name="not_internet">没有可用网络</string>
+
+    <string name="add_group">添加分组</string>
+    <string name="add_device_group">新增设备分组</string>
+    <string name="edit_group">修改设备分组</string>
+
+    <string name="timer_set">定时设置</string>
+
+    <string name="info_kuzhai">易微联是一款免费的通用智能家居遥控软件。\n\n易微联可以对多个品牌的智能开关，智能插线板进行远程状态控制及定时设置，可以对多种RGB LED灯泡进行调光控制及定时设置，兼容多个型号的温湿度、空气质量传感器等智能设备。\n\n使用易微联，无需重复安装多个APP就可以实现多个厂家型号的智能硬件的控制和联动。</string>
+    <string name="my_device">我的设备</string>
+
+    <string name="add_new_timer">添加定时器</string>
+    <string name="repeat">重复</string>
+    <string name="one">一 </string>
+    <string name="two">二 </string>
+    <string name="three">三 </string>
+    <string name="four">四 </string>
+    <string name="five">五 </string>
+    <string name="six">六 </string>
+    <string name="seven">七 </string>
+
+    <string name="complete">完 成</string>
+    <string name="add_new_group">添加新分组</string>
+
+    <string name="info_newtime">现在没有定时器，请点击下方按钮设置新定时器</string>
+    <string name="run_cmd">执行命令</string>
+
+    <string name="switch_on">打开开关</string>
+    <string name="off_switch">关闭开关</string>
+    <string name="time_set">时间设置</string>
+    <string name="single_timer">单次定时</string>
+    <string name="modify_nickname">修改昵称</string>
+    <string name="undo_share">撤销分享</string>
+    <string name="hex_display">hex显示</string>
+    <string name="enter_cmd">请在此输入命令</string>
+    <string name="assiic_directive">assiic指令</string>
+    <string name="hex_directive">十六进制指令</string>
+    <string name="clear_result">清除结果</string>
+    <string name="share">分享</string>
+    <string name="display_send">显示发送</string>
+    <string name="send_verification_code">发送验证码</string>
+    <string name="register">注册账号</string>
+    <string name="personal_infomation">个人信息</string>
+
+    <string name="message_center">消息中心</string>
+    <string name="intelligent_scene">智能场景</string>
+    <string name="feedback">意见反馈</string>
+    <string name="login">登录</string>
+    <string name="info_reset_password">找回密码</string>
+    <string name="return_op">返回</string>
+    <string name="return_space">返\t回</string>
+
+    <string name="discovered_device">已搜索到的智能设备</string>
+    <string name="select_add_device">请选择您要添加的智能设备</string>
+    <string name="next">下一步</string>
+    <string name="config_discover_device">配置搜索到的设备</string>
+    <string name="remember_wifi_password">记住Wi-Fi密码</string>
+    <string name="name_device">命名设备</string>
+    <string name="my_smart_socketone">我的智能插座1</string>
+    <string name="one_gear">一档</string>
+    <string name="two_gear">二档</string>
+    <string name="third_gear">三档</string>
+
+    <string name="stall_mode">档位模式</string>
+    <string name="temperature_mode">温度模式</string>
+    <string name="current_temperature">当前温度</string>
+    <string name="loading">加载中...</string>
+    <string name="old_password">旧密码</string>
+    <string name="new_password">新密码</string>
+    <string name="enter_new_passwod">请输入新密码</string>
+    <string name="again_new_password">请再次输入新密码</string>
+    <string name="set_group_nameicon">请设置分组的名称和图标</string>
+    <string name="enter_group_name">请输入分组名称</string>
+    <string name="selected_icon">选择图标</string>
+    <string name="upload_icon">上传图标</string>
+
+    <string name="enter_share_nuber">请输入分享对象的手机号码</string>
+    <string name="find_new_version">发现新的易微联版本，您需要升级到最新版本才能继续使用</string>
+    <string name="upgrade">升级</string>
+    <string name="enter_device_name">请输入设备名称</string>
+    <string name="recevice_equipment">收到分享设备邀请</string>
+    <string name="my_devices">我的设备</string>
+    <string name="delete">删除</string>
+    <string name="firmware_upgrade">固件升级</string>
+
+    <string name="register_users">注册用户</string>
+    <string name="login_btn">登陆按钮</string>
+    <string name="reset_password">重置密码</string>
+    <string name="send_notification_msg">发送通知消息</string>
+    <string name="set_timer_time">单次定时</string>
+    <string name="set_repeat_time">重复定时</string>
+    <string name="set_delay_time">延时定时</string>
+
+    <string name="setting_in">设置在</string>
+    <string name="minutes">分钟后</string>
+    <string name="cut">裁切</string>
+    <string name="manager_group">管理分组</string>
+    <!-- <string name="exit_coolkit">退出酷宅</string>-->
+
+    <string name="app_name">易微联</string>
+   <!-- <string name="app_name">酷宅</string>-->
+    <string name="reciver_invite">用户%1$s邀请您使用设备%2$s</string>
+    <string name="new_home_kit">易微联%1$s版本更新</string>
+    <string name="versionString">当前版本：%1$s，点击检查更新</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="select_wifi">请选择一个Wi-Fi连接</string>
+    <string name="input_phone">请填写手机号码</string>
+    <string name="input_email">请输入邮箱账号</string>
+    <string name="name_or_pwd_is_empty">用户名或密码为空</string>
+    <string name="account_notvalid">输入的账号不合法</string>
+    <string name="input_account">请输入账号</string>
+    <string name="phone_notvalid">手机号不合法</string>
+
+
+    <string name="not_intent_word">当前没有可用网络</string>
+    <!--<string name="splittime">月|日|' '|时|分</string>-->
+    <string name="select_date">请先选择星期</string>
+    <string name="title_update">设备正在进行固件升级，暂时不能操作，请等待</string>
+    <string name="lineoff_device">设备未在线</string>
+    <string name="deviceupdate">设备正在升级，请勿重复操作</string>
+    <string name="timers">定时</string>
+    <string name="everydays">每天</string>
+    <string name="workdate">工作日</string>
+    <string name="weekdate">周末</string>
+    <string name="weeks">周</string>
+    <string name="ones">"一 "</string>
+    <string name="twos">"二 "</string>
+    <string name="threes">"三 "</string>
+    <string name="fours">"四 "</string>
+    <string name="fives">"五 "</string>
+    <string name="sixs">"六 "</string>
+    <string name="timeday">"日 "</string>
+    <string name="add_timers_success">增加定时器成功</string>
+    <string name="update_timers_ok">修改定时器成功</string>
+    <string name="update_timers_delay_ok">修改延时器成功</string>
+    <string name="delete_timers_ok">删除定时器成功</string>
+    <string name="onces">仅此一次</string>
+    <string name="describ_feebback">描述你的问题</string>
+    <string name="feedback_success">反馈成功</string>
+    <string name="feedback_fail">反馈失败</string>
+    <string name="usernot_exsit">用户不存在，请注册</string>
+    <string name="dataerr">数据错误,请重新添加定时器</string>
+    <string name="dev_offline">设备不在线</string>
+    <string name="outtimer">网络连接超时</string>
+    <string name="choice_part">地区选择</string>
+    <string name="version">测试版</string>>
+    <string name="about_coolkit_weixin">如果你已经成功添加了设备,只要关注我们的微信服务号,就可以直接通过微信来控制这些设备.扫描上面二维码,进入微信并关注服务号即可.</string>
+
+    <string name="confirm">确定</string>
+    <string name="confirm_en_ok">确定</string>
+    <string name="error_sms_code">验证码错误,请重新获取</string>
+    <string name="reset_error">重置错误</string>
+    <string name="reset_fail">重置失败</string>
+    <string name="dont_reset_agin">该用户已存在,请不要重复注册</string>
+    <string name="countrycode_smscode_error">验证码或区号错误</string>
+
+    <string name="send_msg_limit">发送短信次数超过限制</string>
+    <string name="send_msg_fail_check">发送短信失败,请检查输入和网络</string>
+    <string name="send_msg_fail">发送短信失败</string>
+
+    <string name="send_email_fail_check">发送失败,请检查输入和网络</string>
+    <string name="send_email_fail">发送失败,请重新发送</string>
+
+    <string name="send_email_success">发送成功，请查收邮箱</string>
+     <string name="send_sms_success">发送成功，请查收短信</string>
+
+
+    <string name="info_updateerr">您的设备不在线不能进行升级</string>
+
+    <string name="puls_select">插座通道选择</string>
+
+    <string name="edit_dialog">正在修改定时器</string>
+    <string name="del_dialog">正在删除定时器...</string>
+    <string name="device_info_title">设备信息</string>
+
+    <string name="connectto_nopwd">未输入密码,点击确定继续连接该网络.</string>
+    <string name="infoweek">星期</string>
+    <string name="equesdate">定时器时间设置错误,不能在当前时间之前</string>
+    <string name="SSID_no_chinese">SSID不能含有汉字</string>
+    <string name="pwd_no_chinese">密码不能含有汉字</string>
+    <string name="Wifi_Name">设备接入Wi-Fi:</string>
+    <string name="Wifi_PassWord">Wi-Fi密码:</string>
+    <string name="wifi_password_none">密码为空</string>
+    <string name="change_name">修改设备</string>
+    <string name="only_owner">仅所有者可见</string>
+    <string name="firmware">固件版本号:</string>
+    <string name="canupgrade">发现新版本 点击更新</string>
+    <string name="infoupgrade">固件版本可升级，请到设备设置页面更新固件</string>
+    <string name="deviceoffline">设备不在线</string>
+
+    <string name="name_repeat">名字不能重复</string>
+
+
+    <string name="power_on">上电开</string>
+    <string name="power_off">上电关</string>
+    <string name="change_password_out">修改密码</string>
+    <string name="confirm_new_password">确认密码</string>
+    <string name="Save">保存</string>
+    <string name="virtual_fengshan">风扇</string>
+    <string name="virtual_chazhuo">插座</string>
+    <string name="line_real_device">请连接真实设备</string>
+    <string name="hour">小时</string>
+    <string name="check_wifi">登录失败,请检查网络</string>
+    <string name="group_add">新增设备分组</string>
+    <string name="group_del">删除设备分组</string>
+    <string name="try_again_later">请稍候再试</string>
+
+    <string name="send_config_over_time">添加设备超时，请重新添加</string>
+    <string name="begintime">开始时间</string>
+    <string name="intervaltime">间隔时间</string>
+    <string name="keeptime">持续时间</string>
+    <string name="keep_not">持续时间不能为零</string>
+    <string name="interval_not">间隔时间不能为零</string>
+    <string name="keep_smaller_interval">持续时间需小于间隔时间</string>
+    <string name="switch_open">开</string>
+    <string name="switch_close">关</string>
+    <string name="start_action">开始动作</string>
+    <string name="end_action">结束动作</string>
+    <string name="data_exception">数据异常,请稍后再试</string>
+    <string name="switchcountry">请选择国家</string>
+    <string name="password">密码</string>
+    <string name="language_choice_simple_chinese">简体中文</string>
+    <string name="language_choice_english">English</string>
+    <string name="language_actionbar_text">选择语言</string>
+    <string name="current_version">当前版本</string>
+    <string name="change_nickname">修改昵称</string>
+    <string name="nickname">用户昵称</string>
+    <string name="on_change_language">语言切换中..</string>
+    <string name="go_on">继续</string>
+    <string name="add_device">添加设备</string>
+    <string name="retry">重试</string>
+    <string name="retry_space">重\t试</string>
+    <string name="device_list">我的设备</string>
+    <string name="change_language">切换语言</string>
+    <string name="user_pwd">用户密码</string>
+    <string name="search_failed">搜索失败,请重试...</string>
+    <string name="sure_quit_add">确定放弃添加设备?</string>
+    <string name="add_success2">添加成功</string>
+    <string name="add_success_but_not_name">添加成功,命名失败,使用缺省名称%1$s</string>
+    <string name="confirm_quit_name">确定放弃命名设备？</string>
+    <string name="device_name_default">我的设备%1$s</string>
+
+    <string name="over">结束</string>
+    <string name="connected_device_wait">正在努力连接设备,请稍等...</string>
+
+    <string name="regist_device_wait">正在注册设备,请稍等...</string>
+    <string name="device_has_been_register">您已注册过该设备!</string>
+    <string name="county_locale">国家/地区</string>
+    <string name="delete_failed">删除设备失败,请稍后重试!</string>
+    <string name="groupName_notRepeat">分组名不能重复</string>
+    <string name="operat_success">操作成功</string>
+    <string name="switch_power">功率:</string>
+    <string name="operating">操作</string>
+    <string name="device_belong_other">该设备已被别人注册!</string>
+    <string name="back_device_list">返回列表</string>
+    <string name="device_setting">设置</string>
+    <string name="connect_device_fail">连接设备失败,请重试!</string>
+    <string name="notfound_deviceversion">未获取设备固件</string>
+    <string name="only_own_operate">仅所有者可操作</string>
+    <string name="alert_feedback">意见反馈</string>
+    <string name="delete_device">删除设备</string>
+    <string name="open">打开</string>
+    <string name="close">关闭</string>
+    <string name="vibration_switch">震动开关</string>
+    <string name="please_close">请关闭</string>
+    <string name="no_sensor">设备无法读取传感器数值，请检查传感器是否连接</string>
+    <string name="no_permission_try_system">缺少权限，可尝试在系统设置中为易微联启用权限</string>
+    <string name="need_extra_permission">需要额外权限，确定向系统申请权限吗</string>
+    <string name="need_permission_coarse">请授予易微联网络或定位相关权限，否则无法配对！</string>
+
+
+    <!--温湿度翻译-->
+    <string name="uread">未读取</string>
+    <string name="hum_detail">湿度要求在0-100之间</string>
+    <string name="first_big_than_second">第一个空格的数值不小于第二个空格</string>
+    <string name="please_enter_condition">请输入条件</string>
+    <string name="hum_bigger_than">大于</string>
+    <string name="hum_smaller_than">小于</string>
+    <string name="temp_bigger_than">大于</string>
+    <string name="temp_smaller_than">小于</string>
+    <string name="temp_setting">温度设置</string>
+    <string name="hum_setting">湿度设置</string>
+    <!---->
+
+    <string name="change_nickname_success">修改成功</string>
+    <string name="operat_fail_retry">操作失败,请重试!</string>
+    <string name="auto_model">自动模式</string>
+    <string name="manual_model">手动模式</string>
+    <string name="auto_model_unable_control">自动模式下无法控制开关</string>
+    <string name="enter_account">请输入账号</string>
+    <string name="found_gen_one">找到第一代设备\n%1$s</string>
+    <string name="found_gen_two">找到第二代设备...</string>
+    <string name="device_registing">注册设备中...</string>
+    <string name="device_dispatching">分配服务器中...</string>
+    <string name="device_regist_done">设备注册结束</string>
+    <string name="device_add_finish">完成添加</string>
+    <!--<string name="device_connceting">设备联网中...</string>-->
+    <string name="first_requesting">第一次请求...</string>
+    <string name="second_requesting">第二次请求...</string>
+    <string name="change_net">点我切换网络</string>
+    <string name="power_stay">上电保持</string>
+    <string name="pls_enable_wifi">请打开wifi设置</string>
+    <string name="no_address">您未填写联系方式,是否继续?</string>
+    <string name="long_press_button">长按配对按钮，直到设备灯闪烁</string>
+    <string name="choice_describe">从以下选择最符合的描述</string>
+    <string name="first_part">第一代配对方式,设备灯闪一下，灭一下...循环</string>
+    <string name="second_part">第二代配对方式,设备灯闪3下，长亮，再闪3下，长亮...循环</string>
+    <string name="other_case">其他情况</string>
+    <string name="choice_state">请选择状态</string>
+    <string name="not_find">没有搜索到智能设备</string>
+    <string name="delete_group_ok">删除分组成功</string>
+    <string name="delete_group_fails">删除分组失败</string>
+    <string name="update_success">编辑分组成功</string>
+    <string name="add_new_scene">新增场景</string>
+    <string name="scene_name">场景名称</string>
+    <string name="scene_setting">场景设置</string>
+    <string name="scene_list_is_null">场景设备列表为空</string>
+    <string name="please_enter_scene_name">请输入场景名称</string>
+    <string name="updae_scene_fail">修改场景失败</string>
+    <string name="save_scene_fail">保存场景失败</string>
+    <string name="execute">执行</string>
+    <string name="request_time_out">请求超时</string>
+    <string name="delete_scene">删除场景</string>
+    <string name="delete_scene_fail">删除场景失败,请稍后重试</string>
+    <string name="scene_limit">场景个数不能超过20个</string>
+    <string name="channel1">通道1:</string>
+    <string name="channel2">通道2:</string>
+    <string name="channel3">通道3:</string>
+    <string name="channel4">通道4:</string>
+    <string name="keep">保持</string>
+    <string name="delete_scene_success">删除场景成功</string>
+
+    <string name="channel">通道</string>
+    <string name="channel_name">通道名称</string>
+    <string name="production">产品介绍</string>
+    <string name="weichatQR">微信公众号</string>
+    <string name="channel_name_not_be_empty">通道名称不能为空</string>
+    <string name="latest_version">最新版本:</string>
+    <string name="open_led">请先点击打开led灯</string>
+    <string name="wait_for_confirm">等待对方确认中</string>
+    <string name="Scene_log_detail">详情</string>
+
+
+    <string name="efan_model">模式</string>
+    <string name="efan_normal">正常风</string>
+    <string name="efan_natural">自然风</string>
+    <string name="efan_sleep">睡眠风</string>
+    <string name="open_efan_first">请先打开风扇</string>
+    <string name="efan_speed">档位</string>
+    <string name="efan_shake">摇头</string>
+
+    <string name="success">成功</string>
+    <string name="failed">失败</string>
+    <string name="history">历史记录</string>
+    <string name="one_key_clean">一键清理</string>
+
+    <string name="slide_right_operat_device">向右滑动试试场景功能,一次操作多个设备</string>
+    <string name="slide_right_group_device">向右滑动试试分组功能,对设备进行分组</string>
+    <string name="click_scene_group">在这里添加场景</string>
+
+    <string name="i_know">我知道了</string>
+    <string name="click_set_channel_name">点击给每个通道一个名称</string>
+    <string name="device_offline_check_net">设备处于离线状态,请检查网络</string>
+    <string name="sure_delete_scene">确定要删除该场景</string>
+    <string name="open_fan">打开风扇</string>
+    <string name="close_fan">关闭风扇</string>
+    <string name="resetting">正在重置...</string>
+    <string name="open_switch_first">请先打开开关</string>
+    <string name="start">开始</string>
+    <string name="end">结束</string>
+    <string name="current_power">当前功率:</string>
+    <string name="total_power">共用电量</string>
+    <string name="kwh">度</string>
+    <string name="day_power">每天用电量</string>
+    <string name="jan">1月</string>
+    <string name="feb">2月</string>
+    <string name="mar">3月</string>
+    <string name="apr">4月</string>
+    <string name="may">5月</string>
+    <string name="june">6月</string>
+    <string name="july">7月</string>
+    <string name="aug">8月</string>
+    <string name="sept">9月</string>
+    <string name="oct">10月</string>
+    <string name="nov">11月</string>
+    <string name="dec">12月</string>
+    <string name="current_month_power">本月用电量</string>
+    <string name="current_power_title">本次统计用电量</string>
+    <string name="history_power">历史用电量</string>
+    <string name="add_new_smart_scene" >新增智能场景</string>
+    <string name="where_it_meet">当满足:</string>
+    <string name="device_excute">执行:</string>
+    <string name="when_temp">当温度 ≥</string>
+    <string name="tme_end_show">℃</string>
+    <string name="when_temp_less">当温度 ≤</string>
+    <string name="when_hum_more">当湿度 ≥</string>
+    <string name="when_hum_less">当湿度 ≤</string>
+    <string name="hum_end_show">%</string>
+    <string name="no_add_trgiger">未添加执行条件</string>
+    <string name="no_excute_result">未添加执行结果</string>
+    <string name="tem_hum_temperature">温度</string>
+    <string name="tem_hum_humdity">湿度</string>
+    <string name="select_switch_operation">请选择开关操作</string>
+    <string name="enter_params">请输入参数</string>
+    <string name="select_condition">请选择条件</string>
+    <string name="smart_scene_time">时间:</string>
+    <string name="language_choice_russia">Русский</string>
+    <string name="smart_scene">智能场景</string>
+    <string name="two_temp_cant_be_equals">温度不能相等</string>
+    <string name="two_hum_cant_be_equals">湿度不能相等</string>
+
+    <string name="confirm_to_state_pair">确认进入配对状态</string>
+    <string name="longpress_to_state_pair">长按配对按钮，保持5秒左右，设备进入配对状态，灯快闪如下</string>
+    <string name="other_pair_instruction">其它配对方式说明</string>
+    <string name="other_pair_instruction_led">如果是LED灯，请开关三次，每次通/断时间大于两秒，灯进入呼吸闪烁状态</string>
+    <string name="choose_wifi">为设备联网选择一个WIFI</string>
+    <string name="pairing">正在配对...</string>
+    <string name="pair_failure">配对失败</string>
+    <string name="pair_failure_reason_title_cannot_found_device">无法找到设备，请检查以下配置</string>
+    <string name="pair_failure_reason_title_error_in_process">通信过程出错，请按提示操作</string>
+    <string name="pair_failure_reason_check_assistant">请检查手机管家类软件权限设置，确保易微联App有WIFI，位置的访问权限</string>
+    <string name="pair_failure_reason_check_device_pair_state">设备没在配对模式，请让设备进入配对模式</string>
+    <string name="pair_failure_reason_cannot_connect_manual_setting">无法切换到设备热点，请手工直连设备热点：找到系统WIFI设置里面ITEAD开头的WIFI，输入密码\"12345678\"进行连接，完成后返回易微联。</string>
+    <string name="pair_failure_reason_timeout_first_request">第一次通信超时，请重试</string>
+    <string name="pair_failure_reason_timeout_second_request">第二次通信超时，请重试</string>
+    <string name="pair_failure_reason_check_wifi_pwd">检查WIFI密码是否正确</string>
+    <string name="pair_failure_reason_check_net_enable">添加失败，请确认手机联网正常后重新添加</string>
+    <string name="goto_system_setting">前往系统WIFI设置</string>
+    <string name="has_not_change_to_device_host">（没有切换到设备热点）</string>
+    <string name="scene_device_list">设备列表</string>
+    <string name="tem_detail">温度取值范围-999~999</string>
+    <string name="first_smaller_second">第一个空格小于第二个空格</string>
+    <string name="third_smaller_fourth">第三个空格小于第四个空格</string>
+    <string name="language_choice_danmark">Dansk</string>
+    <string name="wifi_name">WiFi 名称</string>
+    <string name="wifi_pwd">WiFi 密码</string>
+    <string name="click_me_to_select">点我选择设备</string>
+    <string name="current_scene_no_device">当前场景下无设备</string>
+    <string name="no_choice_device">没有可选设备</string>
+    <string name="choose_device">选择设备</string>
+    <string name="cardview_device_off_line">离线</string>
+    <string name="new_no_device_alert">没有设备,点击下面按钮进行添加</string>
+    <string name="splash_timer">定时器</string>
+    <string name="splash_timer_text">单通道开关插座和改装件支持循环定时！可实现每隔1小时打开一次开关，随后20分钟后关闭的定时。固件版本要1.5.0及以上。</string>
+    <string name="share_splash_text">想让家人朋友也控制设备？不用把账号密码说出去，让他/她注册账号，分享给他/她就可以了。</string>
+    <string name="splash_share_device">分享设备</string>
+    <string name="goto_ewelink">进入易微联</string>
+    <string name="back">返 回</string>
+    <string name="everything_connect">一切从连接开始</string>
+    <string name="delay_timers">添加延时</string>
+    <string name="weekday">星期:</string>
+    <string name="new_timer_repeat">重复:</string>
+    <string name="action_one">执行一次</string>
+    <string name="action_repeat">按周重复</string>
+    <string name="new_timer_action">动作:</string>
+    <string name="new_timer_channel">通道:</string>
+    <string name="new_timer_data">日期</string>
+    <string name="new_timer_time">时间</string>
+    <string name="new_timer_minute">分钟</string>
+    <string name="new_timer_after">在此时间之后执行动作</string>
+    <string name="refresh_power">刷新用电量</string>
+    <string name="delay">延时</string>
+    <string name="thisyear">今年</string>
+    <string name="nextyear">明年</string>
+    <string name="timer_start">启 动</string>
+
+
+    <string name="coldwarm">冷暖</string>
+    <string name="brightness">亮度</string>
+    <string name="delay_timer_cant_edit">不能编辑，可以删除或停用后添加新的延时</string>
+    <string name="no_custome_timer">没有设置定时器,点击下方按钮添加</string>
+
+    <string name="no_delay_timer">没有设置延时,点击下方按钮添加延时</string>
+
+    <string name="only_timer_number">无法创建，最多创建20个定时器（包括延时和循环定时）</string>
+    <string name="only_timer_active_number">无法创建，最多创建8个生效的定时器（包括延时和循环定时）</string>
+    <string name="language_choice_old_chinese">繁體中文</string>
+    <string name="device_offline_cant_operat">设备离线,无法进行操作</string>
+    <string name="add_delay_timers_success">增加延时器成功</string>
+    <string name="create_delay">正在创建延时器</string>
+    <string name="delete_delayt_ok">删除延时器成功</string>
+    <string name="delete_delay_dialog">正在删除延时器...</string>
+    <string name="duration_every">每</string>
+    <string name="duration_hours">小时</string>
+    <string name="duration_excute_once">分钟执行一次</string>
+    <string name="duration_later_execute">分钟后再执行</string>
+    <string name="duration_start_time">起始时间</string>
+    <string name="duration_cancel">取 消</string>
+    <string name="duration_ok">确 定</string>
+
+    <string name="copy_text_and_open_wechat">复制公众号并打开微信添加</string>
+    <string name="has_not_installed_wechat">没有安装微信</string>
+    <string name="wechat_subscription_can_also_control">（公众号也可控制设备）</string>
+    <string name="duration_delete">删 除</string>
+    <string name="duration_start">启用</string>
+    <string name="duration_create_looper_success">创建定时器成功</string>
+    <string name="duration_update_looper_success">修改定时器成功</string>
+    <string name="duration_2less1">随后的时间长度应该小于循环周期长度</string>
+    <string name="duration_1not0">时间长度不能为0</string>
+    <string name="duration_timer8">无法创建，最多有8个启用的定时器(包括延时和循环定时)</string>
+    <string name="duration_timer20">无法创建，最多有20个定时器(包括延时和循环定时)</string>
+    <string name="duration_create_fail">循环定时器创建失败,请重试</string>
+    <string name="duration_deleting">删除循环定时器...</string>
+    <string name="duration_delete_success">删除定时器成功</string>
+    <string name="duration_creating">正在创建循环定时器...</string>
+    <string name="duration_updating">正在修改循环定时器...</string>
+    <string name="share_failed">分享失败,对方不在线,请让对方登录易微联后再分享.</string>
+    <string name="device_not_share_click_to_share">设备未被分享,点击下方按钮进行分享</string>
+    <string name="list_already_has_account">列表中已有该账号</string>
+    <string name="sure_delete">确认删除?</string>
+    <string name="settinginfo_power_state">上电开关</string>
+    <string name="duration_2not0">时间长度不能为0</string>
+    <string name="new_device_setting">设备设置</string>
+    <string name="duration_update_failed">修改循环定时器失败</string>
+    <string name="duration_delete_failed">删除循环定时器失败</string>
+    <string name="duration_timer">循环定时</string>
+    <string name="ota_new_version">发现新版本:</string>
+
+    <string name="all_device">所有设备</string>
+    <string name="my_share">我的分享</string>
+    <string name="share_to_me">分享给我的</string>
+    <string name="device_ungroup">未分组设备</string>
+    <string name="device_remove_from_group">确定要将设备从分组移出吗？</string>
+    <string name="current_group_device">当前分组设备</string>
+    <string name="move_from_other_group">从其它分组移动</string>
+    <string name="scene">场景</string>
+    <string name="scan_for_instructions">扫说明书</string>
+    <string name="group">分组</string>
+
+
+    <string name="group_nums_limit">创建自定义分组最多20个</string>
+    <string name="tip_group_empty_add">没有分组，点击下面按钮进行添加</string>
+    <string name="exit_logout">退出登录</string>
+    <string name="only_own_can_operation">只有设备主人才可以操作定时器</string>
+    <string name="fan_on">打开</string>
+    <string name="fan_off">关闭</string>
+
+    <string name="new_user_center_group">分组&#160;%1$s</string>
+    <string name="new_user_center_scene">场景&#160;%1$s</string>
+    <string name="wait_user_response">等待对方响应...</string>
+    <string name="device_list_no_net">网络不可用</string>
+    <string name="air_quality">空气质量</string>
+    <string name="sensor_temp">温度</string>
+    <string name="temp_state_cold">凉</string>
+    <string name="temp_state_comfortable">舒适</string>
+    <string name="temp_state_hot">热</string>
+    <string name="air_quality_good">优</string>
+    <string name="air_quality_moderate">良</string>
+    <string name="air_quality_bad">差</string>
+    <string name="sensor_humidity">湿度</string>
+    <string name="sensor_hum_dry">干燥</string>
+    <string name="sensor_hum_normal">正常</string>
+    <string name="sensor_hum_wet">潮湿</string>
+    <string name="sensor_noise">噪音</string>
+    <string name="sensor_noise_quiet">安静</string>
+    <string name="sensor_noise_normal">正常</string>
+    <string name="sensor_noise_noisy">吵闹</string>
+    <string name="sensor_light">光照</string>
+    <string name="sensor_light_bright">明亮</string>
+    <string name="sensor_light_normal">正常</string>
+    <string name="sensor_light_dusky">昏暗</string>
+    <string name="account_has_register">该账号已被注册!</string>
+    <string name="no_net_feedback_failed">反馈失败,请检查网络</string>
+    <string name="io_exception_feedback_failed">反馈失败,读写异常</string>
+    <string name="humidity_level">档位</string>
+    <string name="humidity_water_info">水位</string>
+    <string name="humidity_on_off">开关</string>
+    <string name="water_level_normal">正常</string>
+    <string name="water_level_shortage">缺水</string>
+    <string name="not_connect_wait">还未连接成功,请稍等</string>
+    <string name="auto">自动</string>
+    <string name="high">高清</string>
+    <string name="standard">标清</string>
+    <string name="video_not_download">视频未下载</string>
+    <string name="take_photo_success">抓拍完成,请进入相册查看:</string>
+    <string name="live">直播|</string>
+    <string name="detection_move">检测到移动</string>
+    <string name="confirm_en_cancel">取消</string>
+    <string name="isrecording">正在进行视频录制</string>
+    <string name="ota_upgrade_alert_info">升级设备固件可能会导致设备当前的开关状态变化,是否继续?</string>
+    <string name="recording_video">正在录制视频,确定退出?</string>
+    <string name="recording_audio">正在通话,确定退出?</string>
+    <string name="recording_video_not_max">正在录制视频,不允许切换全屏</string>
+    <string name="recording_audio_not_max">正在通话,不允许切换全屏</string>
+    <string name="quwen">驱蚊</string>
+    <string name="jiashi">加湿</string>
+    <string name="fulizi">负离子</string>
+    <string name="humidostat">湿控</string>
+    <string name="thermostat">温控</string>
+    <string name="humidity_not_empty">数值不能为空</string>
+    <string name="humidity_range">湿度取值范围0~100</string>
+    <string name="second_value_smaller_first">下限应该小于上限</string>
+    <string name="humidity_setting">湿度设置</string>
+    <string name="temperature_setting">温度设置</string>
+    <string name="temperature_not_empty">数值不能为空</string>
+    <string name="temperature_range">温度取值范围0~100</string>
+    <string name="ifan_start">启动</string>
+    <string name="more">大于</string>
+    <string name="less">小于</string>
+    <string name="close_humdity">％ 则关闭加湿器</string>
+    <string name="open_humidity">％ 则打开加湿器</string>
+    <string name="open_ifan">℃ 则打开风扇</string>
+    <string name="close_ifan">℃ 则关闭风扇</string>
+
+    <string name="apk_downloading">新版本下载中</string>
+
+    <string name="device_not_belong_this_brand">设备不属于该品牌</string>
+    <string name="device_info_not_be_empty">传递的参数不完整</string>
+    <string name="device_info_format">设备id不符合规范</string>
+    <string name="add_device_failed">添加设备失败</string>
+    <string name="device_not_exist">设备不存在</string>
+    <string name="add_subdevice_failed">添加子设备失败</string>
+    <string name="find_brand_failed">查找品牌失败</string>
+    <string name="find_mode_failed">查找产品型号失败</string>
+    <string name="multiple_power_on">开</string>
+    <string name="multiple_power_off">关</string>
+    <string name="log">日志</string>
+    <string name="please_choose_device">请选择设备.</string>
+    <string name="add_condition">添加条件</string>
+    <string name="add_execute_device">添加执行</string>
+    <string name="please_operater_under_current_device">请在当前设备下选择操作!</string>
+    <string name="smart_execute_device">联动执行设备</string>
+    <string name="click_execute">点击执行</string>
+    <string name="select_trigger_condition">请选择触发条件</string>
+    <string name="temp_bigger">温度 ≥</string>
+    <string name="temp_smaller">温度 ≤</string>
+    <string name="humi_bigger">湿度 ≥</string>
+    <string name="humi_smaller">湿度 ≤</string>
+    <string name="add_scene">添加场景</string>
+    <string name="tem_upper_smaller_lower">温度上限应大于温度下限</string>
+    <string name="tem_upper_not_equal_lower">温度上限不等于温度下限</string>
+    <string name="hum_upper_not_equal_lower">湿度上限不等于湿度下限</string>
+    <string name="hum_upper_smaller_lower">湿度上限应大于湿度下限</string>
+    <string name="executing">执行中</string>
+    <string name="trigger_condition_device">联动条件设备</string>
+    <string name="edit_scene">编辑场景</string>
+    <string name="please_input_number">请输入数值</string>
+    <string name="number_upper">数值输入超过上限</string>
+    <string name="sensor_tem_range">温度范围0-50</string>
+    <string name="sensor_hum_range">湿度范围20-90</string>
+    <string name="sensor_light_not_equal">光照最大值和最小值不相等</string>
+    <string name="sensor_air_not_equal">空气质量最大值和最小值不相等</string>
+    <string name="sensor_noisy_not_equal">噪音最大值和最小值不相等</string>
+    <string name="repeat_condition">参数不能有相同条件</string>
+    <string name="tem_hum_dht11_tem_range">温度范围0-50</string>
+    <string name="tem_hum_2301_tem_range">温度范围-40~80</string>
+    <string name="tem_hum_b20_tem_range">温度范围-55~125</string>
+    <string name="tem_hum_dht11_hum_range">湿度范围20-90</string>
+    <string name="tem_hum_2301_hum_range">湿度范围0-100</string>
+    <string name="no_userful_device">没有可用设备</string>
+    <string name="duration_cycle">循环周期:</string>
+    <string name="duration_delay">随后</string>
+    <string name="duration_delay_do">分钟再执行:</string>
+    <string name="duration_cycle_do">分钟.周期开始执行:</string>
+    <string name="delay_start_again">再次启动</string>
+    <string name="delay_timer_executing_alert">(时长: %1$s天 %2$s小时 %3$s分钟 进行中)</string>
+    <string name="delay_timer_stop_alert">(时长: %1$s天 %2$s小时 %3$s分钟 已结束)</string>
+
+    <string name="youqiao_statistics">统计</string>
+    <string name="youqiao_alarm">报警</string>
+    <string name="youqiao_download">下载</string>
+    <string name="youqiao_fee_rate">费率</string>
+    <string name="youqiao_fee_rate_per_unit">/度</string>
+    <string name="youqiao_energy_now">实时功率</string>
+    <string name="youqiao_threshold">阈值</string>
+    <string name="youqiao_electric">电流</string>
+    <string name="youqiao_voltage">电压</string>
+    <string name="youqiao_alarm_thresold">报警阈值设置</string>
+    <string name="youqiao_reset">重置</string>
+    <string name="youqiao_fee">电费</string>
+    <string name="youqiao_fee_total">共用电费</string>
+    <string name="youqiao_not_null_input_thresold">请输入%1$s</string>
+    <string name="youqiao_history_download_success">已下载至目录：\n%1$s</string>
+    <string name="youqiao_history_download_failure">下载失败，请检查手机存储卡状态</string>
+    <string name="youqiao_has_no_100_day_data">没有取到历史数据，请稍后再试</string>
+
+    <string name="dialog_share_permit_timer">定时器权限</string>
+    <string name="dialog_share_permit_add">新增</string>
+    <string name="dialog_share_permit_edit">修改</string>
+    <string name="dialog_share_permit_remove">删除</string>
+    <string name="dialog_share_permit_enable">启用</string>
+    <string name="lan_control">局域网控制</string>
+    <string name="udp_control_alert">局域网控制无法使用该功能.</string>
+    <string name="light_bigger_more">光照上限应该大于下限</string>
+    <string name="air_bigger_more">空气质量上限应该大于下限</string>
+    <string name="noise_bigger_more">噪音上限应该大于下限</string>
+    <string name="isopen_timer">是否开启定时器?</string>
+    <string name="copy_success">复制成功</string>
+    <string name="language_choice_italian">Italiano</string>
+    <string name="language_choice_polan">polskim</string>
+    <string name="share_permit_timer">定时器权限:</string>
+    <string name="share_permit_timer_enable">启用/禁用</string>
+    <string name="share_device_request_failure">%1$s分享设备失败</string>
+    <string name="have_no_permission_timer">没有权限操作，请联系设备主人配置权限</string>
+    <string name="word_timer">定时器</string>
+    <string name="word_timer_delay">延时器</string>
+    <string name="share_not_share_user">接收方已删除设备</string>
+    <string name="share_not_in_3_minute">3分钟内不能分享给同一个用户</string>
+    <string name="share_time_out_3_minute">分享已经超时</string>
+
+    <string-array name="phone_managers">
+        <item>com.qihoo.appstore+360手机助手</item>
+        <item>com.tencent.qqpimsecure+QQ手机管家</item>
+        <item>com.qihoo360.mobilesafe+360手机卫士</item>
+        <item>com.ijinshan.mguard+金山手机卫士</item>
+        <item>com.lbe.security+LBE安全大师</item>
+    </string-array>
+
+    <string-array name="country_code1">
+        <item>中国+86 </item>
+        <item>台湾+886 </item>
+        <item>香港+852 </item>
+        <item>澳门+853 </item>
+        <item>阿富汗+93 </item>
+        <item>阿尔巴尼亚+355 </item>
+        <item>阿尔及利亚+213 </item>
+        <item>阿根廷+54 </item>
+        <item>阿联酋+971</item>
+        <item>阿曼+968</item>
+        <item>埃及+20 </item>
+        <item>爱尔兰+353 </item>
+        <item>澳大利亚+61 </item>
+        <item>巴基斯坦+92 </item>
+        <item>巴拿马+507 </item>
+        <item>巴西+55 </item>
+        <item>保加利亚+359 </item>
+        <item>比利时 +32</item>
+        <item>冰岛+354 </item>
+        <item>波兰+48 </item>
+        <item>朝鲜+850 </item>
+        <item>丹麦+45 </item>
+        <item>德国+49 </item>
+        <item>多米尼加+1809</item>
+        <item>俄罗斯+7 </item>
+        <item>法国+33 </item>
+        <item>菲律宾+63 </item>
+        <item>芬兰+358 </item>
+        <item>哥斯达黎加+506 </item>
+        <item>古巴+53 </item>
+        <item>哈萨克斯坦+76 </item>
+        <item>海地+509 </item>
+        <item>韩国+82 </item>
+        <item>荷兰+31 </item>
+        <item>加拿大+1 </item>
+        <item>克罗地亚+385 </item>
+        <item>吉尔吉斯斯坦+996 </item>
+        <item>柬埔寨+855 </item>
+        <item>捷克+420</item>
+        <item>津巴布韦+263 </item>
+        <item>老挝+856</item>
+        <item>马达加斯加+261 </item>
+        <item>马尔代夫+960 </item>
+        <item>马来西亚+60 </item>
+        <item>马其顿+389 </item>
+        <item>美国+1 </item>
+        <item>蒙古+976 </item>
+        <item>缅甸+95 </item>
+        <item>墨西哥+52 </item>
+        <item>南非+27 </item>
+        <item>尼泊尔+977 </item>
+        <item>挪威+47 </item>
+        <item>葡萄牙+351 </item>
+        <item>日本+81 </item>
+        <item>瑞典+46 </item>
+        <item>瑞士+41 </item>
+        <item>塞浦路斯+357 </item>
+        <item>斯里兰卡+94 </item>
+        <item>斯洛伐克+421 </item>
+        <item>斯洛文尼亚+386 </item>
+        <item>苏丹+249 </item>
+        <item>索马里+252 </item>
+        <item>塔吉克斯坦+992 </item>
+        <item>泰国+66 </item>
+        <item>坦桑尼亚+255 </item>
+        <item>土耳其+90 </item>
+        <item>委内瑞拉+58</item>
+        <item>乌克兰+380 </item>
+        <item>西班牙+34 </item>
+        <item>希腊+30 </item>
+        <item>新加坡+65 </item>
+        <item>新西兰+64</item>
+        <item>匈牙利+36 </item>
+        <item>叙利亚+963 </item>
+        <item>牙买加+1876 </item>
+        <item>也门+967 </item>
+        <item>伊拉克+964 </item>
+        <item>以色列+972 </item>
+        <item>意大利+39 </item>
+        <item>印度+91 </item>
+        <item>印度尼西亚+62 </item>
+        <item>英国+44 </item>
+        <item>越南+84</item>
+        <item>赞比亚+260 </item>
+
+    </string-array>
+
+</resources>
