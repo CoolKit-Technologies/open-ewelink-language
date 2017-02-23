@@ -113,7 +113,6 @@
   "SAVE_WIFI_PASSWORD": "记住WiFi密码",
   "WIFI_PASSWORD": "WiFi 密码",
   "CAN_USE_WIFI_DEVICE": "为设备联网选择一个WIFI",
-  "SELECT_ADD_MODEL_BLINK": "请选择灯的闪烁方式。(如果是LED灯，请选择第二个，开关三次，每次通/断时间大于2秒，灯进入呼吸闪烁状态)",
   "DETERMINE_PAIR": "确认进入配对状态",
   "SELECT_ADD_MODEL": "长按配对按钮,保持5秒左右,设备进入配对状态",
   "DELAY_TIMING": "延时定时",
@@ -696,6 +695,10 @@
   "TIMER_PERMISSIONS_DELETE":"删除",
   "TIMER_PERMISSIONS_ENABLE_AND_DISABLE":"启用/禁用",
   "FAILED_TO_UPDATE_SHARE_TRY_AGAIN":"修改定时器权限失败，请检查网络并重试",
-  "NO_TIMER_PERMISSIONS":"没有权限操作，请联系设备主人配置权限。"
+  "NO_TIMER_PERMISSIONS":"没有权限操作，请联系设备主人配置权限。",
+
+  "SELECT_ADD_MODEL_BLINK": "请选择灯的闪烁方式。(如果购买的是调光调色吸顶灯，请选择第二个，开关三次，每次通/断时间大于2秒，灯进入呼吸闪烁状态)",
+  "DEVICE_INFO_NOKE_MORE":"了解更多"
+
 
 }

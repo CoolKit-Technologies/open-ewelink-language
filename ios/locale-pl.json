@@ -545,7 +545,7 @@
   "SAVE_WIFI_PASSWORD":"Zapamiętaj hasło WiFi",
   "WIFI_PASSWORD":"Hasło WiFi",
   "CAN_USE_WIFI_DEVICE": "Wybierz sieć WiFi",
-  "SELECT_ADD_MODEL_BLINK":"Wybierz migotanie LED. (Wybierz drugą, jeżeli urządzenie to ściemiacz LED)",
+
   "DETERMINE_PAIR":"Potwiedź wejście w stan parowania",
   "SELECT_ADD_MODEL": "Przytrzymaj przycisk parowania na 5s, aby wejść w stan parowania",
   "DELAY_TIMING": "Opóźnij",
@@ -717,6 +717,8 @@
   "SUCCESS_TO_RESTART_TIMER": "Enable successfully ",
   "FAIL_TO_RESTART_TIMER": "Failed to enable, please check network connectivity",
   "COPY_Social_SUCCESS": "Copy successfully",
-  "COPY_Social_FAIL": "Copy failed"
+  "COPY_Social_FAIL": "Copy failed",
+
+  "SELECT_ADD_MODEL_BLINK":"Wybierz migotanie LED. (Wybierz drugą, jeżeli urządzenie to ściemiacz LED)"
 
 }

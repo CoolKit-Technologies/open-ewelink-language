@@ -504,7 +504,7 @@
   "DEVICE_DETAIL_SHARE":"Share",
   "DEVICE_OFFLINE_TEXT": "The device is offline, unable to turn on/off",
   "IN_ALL_POWER_CONSUMPTION":"Total power",
-  "ELECTRICITY_CONSUMPTION":"kwh",
+  "ELECTRICITY_CONSUMPTION":"kWh",
   "EVERY_DAY_POWER_CONSUMPTION":"Daily electricity consumption",
   "THIS_MONTH_POWER_CONSUMPTION":"This month",
   "HISTORY_POWER":"Consumption History",
@@ -543,7 +543,6 @@
   "SAVE_WIFI_PASSWORD":"Remember WiFi password",
   "WIFI_PASSWORD":"WiFi password",
   "CAN_USE_WIFI_DEVICE": "Please select a WiFi",
-  "SELECT_ADD_MODEL_BLINK":"Please select LED blinking way. (Select the 2nd if your device is dimming LED)",
   "DETERMINE_PAIR":"Confirm have entered pairing state",
   "SELECT_ADD_MODEL": "Hold the pairing button for 5s to enter into pairing state",
   "DELAY_TIMING": "Delay",
@@ -710,7 +709,9 @@
   "SUCCESS_TO_RESTART_TIMER": "Enable successfully ",
   "FAIL_TO_RESTART_TIMER": "Failed to enable, please check network connectivity",
   "COPY_Social_SUCCESS": "Copy successfully",
-  "COPY_Social_FAIL": "Copy failed"
+  "COPY_Social_FAIL": "Copy failed",
+
+  "SELECT_ADD_MODEL_BLINK":"Please select LED blinking way. (Select the 2nd if your device is dimming LED)"
 
 
 }
