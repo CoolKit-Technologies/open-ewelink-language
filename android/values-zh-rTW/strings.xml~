@@ -491,14 +491,14 @@
     <string name="connected_device_wait">正在努力連接設備,請稍等...</string>
 
     <string name="regist_device_wait">正在註冊設備,請稍等...</string>
-    <string name="device_has_been_register">您已註冊過該設備</string>
+    <string name="device_has_been_register">您已註冊過該設備!</string>
     <string name="county_locale">國家/地區</string>
     <string name="delete_failed">刪除設備失敗,請稍後重試!</string>
     <string name="groupName_notRepeat">分組名不能重複</string>
     <string name="operat_success">操作成功</string>
     <string name="switch_power">功率:</string>
     <string name="operating">操作</string>
-    <string name="device_belong_other">該設備已被別人註冊</string>
+    <string name="device_belong_other">該設備已被別人註冊!</string>
     <string name="back_device_list">返回列表</string>
     <string name="device_setting">設置</string>
     <string name="connect_device_fail">連接設備失敗,請重試!</string>
@@ -788,7 +788,6 @@
     <string name="back">返 回</string>
     <string name="brightness">亮度</string>
     <string name="cardview_device_off_line">離線</string>
-    <string name="cardview_device_on_line">在線</string>
     <string name="choose_device">選擇設備</string>
     <string name="choose_wifi">為設備聯網選擇壹個WIFI</string>
     <string name="click_me_to_select">點我選擇設備</string>
@@ -919,7 +918,7 @@
     <string name="high">高清</string>
     <string name="standard">标清</string>
     <string name="video_not_download">视频未下载</string>
-    <string name="take_photo_success">抓拍完成，請進入文件管理的視頻文件夾查看</string>
+    <string name="take_photo_success">抓拍完成,请进入相册查看:</string>
     <string name="live">直播|</string>
     <string name="detection_move">检测到移动</string>
     <string name="confirm_en_cancel">取消</string>
@@ -1028,89 +1027,4 @@
     <string name="dialog_share_permit_edit">修改</string>
     <string name="dialog_share_permit_remove">删除</string>
     <string name="dialog_share_permit_enable">启用</string>
-
-    <string name="youqiao_statistics">統計</string>
-    <string name="youqiao_alarm">報警</string>
-    <string name="youqiao_download">下載</string>
-    <string name="youqiao_fee_rate">費率</string>
-    <string name="youqiao_fee_rate_per_unit">/度</string>
-    <string name="youqiao_energy_now">實時功率</string>
-    <string name="youqiao_threshold">閾值</string>
-    <string name="youqiao_electric">電流</string>
-    <string name="youqiao_voltage">電壓</string>
-    <string name="youqiao_alarm_thresold">報警閾值設置</string>
-    <string name="youqiao_reset">重置</string>
-    <string name="youqiao_fee">電費</string>
-    <string name="youqiao_fee_total">共用電費</string>
-    <string name="youqiao_not_null_input_thresold">請輸入%1$s</string>
-    <string name="youqiao_history_download_success">已下載至目錄：\n%1$s</string>
-    <string name="youqiao_history_download_failure">下載失敗，請檢查手機存儲卡狀態</string>
-    <string name="youqiao_has_no_100_day_data">沒有取到歷史數據，請稍後再試</string>
-
-
-
-    <!--nest-->
-    <string name="nest_current_tempc">当前温度℃</string>
-    <string name="nest_current_tempf">当前温度℉</string>
-    <string name="nest_target_tempc">目标温度℃</string>
-    <string name="nest_target_tempf">目标温度℉</string>
-    <string name="nest_humidity">湿度</string>
-    <string name="nest_whether_has_person">是否有人</string>
-    <string name="select_nest_device">选择Nest设备</string>
-    <string name="pair_nest_device">Nest设备</string>
-    <string name="nest_show_has_person">有人</string>
-    <string name="nest_show_has_no_person">无人</string>
-    <string name="add_nest_failed_400">添加失败,参数错误</string>
-    <string name="add_nest_failed_401">添加失败,认证不通过</string>
-    <string name="add_nest_failed_403">添加失败,无权限</string>
-    <string name="add_nest_failed_409">添加失败,该设备已被添加过</string>
-    <string name="add_nest_failed_500">添加失败,服务器内部错误</string>
-    <string name="nest_tempec_limit">温度取值范围-50 ~ 150</string>
-    <string name="nest_tempef_limit">温度取值范围-122 ~ 302</string>
-    <string name="nest_humidy_limit">湿度取值范围0 ~ 100</string>
-    <string name="user_alreayexist">该用户已存在</string>
-    <string name="login_failed_lack_params">登陆失败,缺少参数</string>
-    <string name="login_failed_server_error">登陆失败,服务器错误</string>
-    <string name="device_upgrade_failed">设备固件升级失败</string>
-    <string name="nest_show_current_temp">当前温度</string>
-    <string name="nest_show_target_temp">目标温度</string>
-    <string name="nest_has_person">有人</string>
-    <string name="nest_has_no_person">无人</string>
-    <string name="has_no_nest_to_add">暂无可添加的nest设备</string>
-
-
-    <string name="record_least_time">At least 10 seconds to play,stop later</string>
-
-    <string name="p2p_connect_fail">p2p連接失敗</string>
-    <string name="storage_space_not_enough">存儲空間不足</string>
-    <string name="camera_refresh">重新連接</string>
-    <string name="device_upgrade_success_version">设备固件升级成功为%1$s版本</string>
-    <string name="not_userful_qrcode">不是有效的二维码</string>
-    <string name="qr_scan_alert">将二维码放入框内,即可自动扫描</string>
-    <string name="qr_scan">二维码扫描</string>
-    <string name="single_device_choose">单通道设备选择</string>
-    <string name="want_know_more">了解更多</string>
-    <string name="app_name2">易微聯 </string>
-    <string name="please_input_phone_number">请输入卡号</string>
-
-    <string name="not_wifi_confirm_play_video">當前不是WIFI連接，是否播放報警視頻？</string>
-    <string name="empty_url">播放地址為空</string>
-    <string name="gsm_phone_number">卡号</string>
-    <string name="gsm_recharge">充值</string>
-    <string name="gsm_package">套餐:</string>
-    <string name="gsm_total">总流量:</string>
-    <string name="gsm_used">已用流量:</string>
-    <string name="gsm_has">剩余流量:</string>
-    <string name="switch_operat_history">操作记录</string>
-    <string name="single_switch_history">操作记录</string>
-    <string name="qr_shaoyishao">扫一扫</string>
-    <string name="device">设备</string>
-    <string name="add_wexin_public_charge">请加微信公众号coolkitcn进行充值</string>
-    <string name="switch_notify">设备端和分享用户操作通知</string>
-    <string name="switch_history">动作</string>
-    <string name="switch_time">时间</string>
-    <string name="switch_trigger_type">设备或APP触发</string>
-    <string name="device_state_changed">设备状态发生变化</string>
-    <string name="umeng_notification_switch_state_on">打开</string>
-    <string name="umeng_notification_switch_state_off">关闭</string>
 </resources>
