@@ -544,7 +544,6 @@
   "SAVE_WIFI_PASSWORD":"Ricorda la password WiFi",
   "WIFI_PASSWORD":"password WiFi",
   "CAN_USE_WIFI_DEVICE": "Seleziona un WiFi",
-  "SELECT_ADD_MODEL_BLINK":"Seleziona la modalità lampeggiamento del LED. (Seleziona il 2° se il dispositivo ha il LED spento)",
   "DETERMINE_PAIR":"Verifica l'attivazione della modalità di accoppiamento",
   "SELECT_ADD_MODEL": "Tieni premuto il pulsante di accoppiamento per 5s per entrare nella modalità accoppiamento",
   "DELAY_TIMING": "Ritardo",
@@ -716,5 +715,9 @@
   "SUCCESS_TO_RESTART_TIMER": "Enable successfully ",
   "FAIL_TO_RESTART_TIMER": "Failed to enable, please check network connectivity",
   "COPY_Social_SUCCESS": "Copy successfully",
-  "COPY_Social_FAIL": "Copy failed"
+  "COPY_Social_FAIL": "Copy failed",
+
+
+  "SELECT_ADD_MODEL_BLINK":"Seleziona la modalità lampeggiamento del LED. (Seleziona il 2° se il dispositivo ha il LED spento)"
+
 }

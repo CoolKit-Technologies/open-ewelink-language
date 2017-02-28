@@ -114,7 +114,7 @@
   "SAVE_WIFI_PASSWORD": "記住WiFi密碼",
   "WIFI_PASSWORD": "WiFi 密碼",
   "CAN_USE_WIFI_DEVICE": "為設備聯網選擇一個WIFI",
-  "SELECT_ADD_MODEL_BLINK": "請選擇燈的閃爍方式。(如果是LED燈，請選擇第二個，開關三次，每次通/斷時間大於2秒，燈進入呼吸閃爍狀態)",
+
   "DETERMINE_PAIR": "確認進入配對狀態",
   "SELECT_ADD_MODEL": "長按配對按鈕,保持5秒左右,設備進入配對狀態",
   "DELAY_TIMING": "延時定時",
@@ -151,7 +151,7 @@
   "WEIXIN_INFO": "      ",
   "PRODUCT_INTRODUCTION": "產品介紹",
   "CHECK_UPDATE": "檢查更新",
-  "WEIXIN_PUBLISH": "      ",
+  "WEIXIN_PUBLISH": "微信公众号",
   "VIRTUAL_DEVICE": "虛擬裝置",
   "GET_SCENC_INFO_ERROR": "獲取情境資訊失敗,請檢查網路狀態並重試!",
   "GET_GROUP_INFO_ERROR": "獲取分組資訊失敗,請檢查網路狀態並重試!",
@@ -701,5 +701,7 @@
   "FAIL_TO_RESTART_TIMER": "启动定时器失败,请检查网络并重试",
   "COPY_Social_SUCCESS": "复制成功",
   "COPY_Social_FAIL": "复制失败",
-  "THEN": "随后"
+  "THEN": "随后",
+
+  "SELECT_ADD_MODEL_BLINK": "请选择灯的闪烁方式。(如果购买的是调光调色吸顶灯，请选择第二个，开关三次，每次通/断时间大于2秒，灯进入呼吸闪烁状态)"
 }
