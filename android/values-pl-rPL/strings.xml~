@@ -382,6 +382,7 @@
     <string name="password">Hasło</string>
     <string name="language_choice_simple_chinese">简体中文</string>
     <string name="language_choice_english">English</string>
+    <string name="language_choice_polish">Polski</string>
     <string name="language_actionbar_text">Zmień język</string>
     <string name="current_version">Wersja</string>
     <string name="change_nickname">Zmień nazwę</string>
@@ -400,7 +401,7 @@
     <string name="over">Koniec</string>
     <string name="connected_device_wait">Łączenie z urządzeniem, proszę czekać...</string>
     <string name="regist_device_wait">Rejestrowanie, proszę czekać...</string>
-    <string name="device_has_been_register">Już zarejestrowałeś to urządzenie</string>//todo
+    <string name="device_has_been_register">Już zarejestrowałeś to urządzenie!</string>//todo
     CHECK
     <string name="delete_failed">Nie usunięto urządzenia, spróbuj ponownie później!</string>
     <string name="groupName_notRepeat">Nazwa grupy nie może być taka sama </string>
@@ -409,7 +410,7 @@
     <string name="operat_success">Sukces</string>
     <string name="switch_power">Zasilanie:</string>
     <string name="operating">Sterowanie</string>
-    <string name="device_belong_other">Urządzenie należy do innego użytkownika</string>
+    <string name="device_belong_other">Urządzenie należy do innego użytkownika!</string>
     <string name="back_device_list">Powrót do listy</string>
     <string name="device_setting">Ustawienia</string>
     <string name="connect_device_fail">Błąd połączenia z urządzeniem. Spróbuj ponownie</string>
@@ -947,7 +948,6 @@
     <string name="choose_device">Wybierz urządzenie</string>
     <string name="no_choice_device">Brak opcjonalnego urządzenia</string>
     <string name="cardview_device_off_line">Rozłączony</string>
-    <string name="cardview_device_on_line">online</string>
     <string name="new_no_device_alert">Aktualnie brak urządzeń. Kliknij przycisk poniżej, aby dodać.</string>
     <string name="splash_timer">Zegar</string>
     <string name="splash_timer_text">Pojedyńczy kanał gniazdko/wyłącznik może pracować w pętli! Pętla zegara może być wykonywana automatycznie za każdym razem (powiedzmy 1 godziną) i trwać krócej od zadanej (powiedzmy 20 min). Obsługiwana wersja firmware 1.5.0 i wyższa.</string>
@@ -1078,7 +1078,7 @@
     <string name="high">HD</string>
     <string name="standard">SD</string>
     <string name="video_not_download">Film jeszcze nie pobrany</string>
-    <string name="take_photo_success">opis pliku, proszę zobaczyć na wideo.</string>
+    <string name="take_photo_success">Przechwytywanie zakończone. Zobacz album:</string>
     <string name="live">Na żywo|</string>
     <string name="detection_move">Wykryto ruch</string>
     <string name="confirm_en_cancel">Anuluj</string>
@@ -1187,96 +1187,4 @@
     <string name="dialog_share_permit_edit">Modify</string>
     <string name="dialog_share_permit_remove">Delete</string>
     <string name="dialog_share_permit_enable">Enable</string>
-
-
-    <string name="youqiao_statistics">Statistics</string>
-    <string name="youqiao_alarm">Alarm</string>
-    <string name="youqiao_download">Download</string>
-    <string name="youqiao_fee_rate">Electricity Rate</string>
-    <string name="youqiao_fee_rate_per_unit">/kWh</string>
-    <string name="youqiao_energy_now">Real-time Power</string>
-    <string name="youqiao_threshold">Threshold</string>
-    <string name="youqiao_electric">Current</string>
-    <string name="youqiao_voltage">Voltage</string>
-    <string name="youqiao_alarm_thresold">Alarm Thresold Setting</string>
-    <string name="youqiao_reset">Reset</string>
-    <string name="youqiao_fee">Electric Charge</string>
-    <string name="youqiao_fee_total">Total:</string>
-    <string name="youqiao_not_null_input_thresold">Please input %1$s</string>
-    <string name="youqiao_history_download_success">Downloaded to directory:\n%1$s</string>
-    <string name="youqiao_history_download_failure">Download failed, please check the storage card is correct</string>
-    <string name="youqiao_has_no_100_day_data">Has no history data,try later please.</string>
-
-
-
-    <!--nest-->
-    <string name="nest_current_tempc">Current Temp.℃</string>
-    <string name="nest_current_tempf">Current Temp.℉</string>
-    <string name="nest_target_tempc">Target Temp.℃</string>
-    <string name="nest_target_tempf">Target Temp.℉</string>
-    <string name="nest_humidity">Humidity</string>
-    <string name="nest_whether_has_person">Anybody home?</string>
-    <string name="nest_has_person">Yes</string>
-    <string name="nest_has_no_person">No</string>
-    <string name="select_nest_device">Select Nest Device</string>
-    <string name="pair_nest_device">Nest Device</string>
-    <string name="nest_show_has_person">I’m home</string>
-    <string name="nest_show_has_no_person">I’m away</string>
-    <string name="add_nest_failed_400">Failed to add, error</string>
-    <string name="add_nest_failed_401">Failed to add,verify failed</string>
-    <string name="add_nest_failed_403">Failed to add,permission denied</string>
-    <string name="add_nest_failed_409">Failed to add,this device has already been added</string>
-    <string name="add_nest_failed_500">Failed to add,internal server error</string>
-    <string name="nest_tempec_limit">Temperature ℃ range: -50 ~ 150</string>
-    <string name="nest_tempef_limit">Temperature ℉ range: -122 ~ 302</string>
-    <string name="nest_humidy_limit">Humidity range: 0 ~ 100</string>
-    <string name="user_alreayexist">User already exists</string>
-    <string name="login_failed_lack_params">Login failed, required parameter missing</string>
-    <string name="login_failed_server_error">Login failed, server error</string>
-    <string name="device_upgrade_failed">Device firmware upgrade failed</string>
-    <string name="nest_show_current_temp">Current\nTemp.</string>
-    <string name="nest_show_target_temp">Target\nTemp.</string>
-    <string name="has_no_nest_to_add">No Nest devices can be added</string>
-
-    <string name="record_least_time">At least 10 seconds to play,stop later</string>
-
-    <string name="p2p_connect_fail">p2p connect fail</string>
-    <string name="storage_space_not_enough">storage space not enough</string>
-    <string name="camera_refresh">Refresh</string>
-    <string name="device_upgrade_success_version">Device firmware successfully upgrade to version %1$s</string>
-
-
-
-    <string name="not_userful_qrcode">Invalid QR code</string>
-    <string name="qr_scan_alert">Please scan QR code</string>
-    <string name="qr_scan">Scanning </string>
-    <string name="single_device_choose">Single Channel Device</string>
-    <string name="want_know_more">Learn More</string>
-    <string name="app_name2">EWeLink </string>
-    <string name="please_input_phone_number">Card Number</string>
-
-    <string name="not_wifi_confirm_play_video">WIFI connection Not Available currently. Determine to play the alarm video?</string>
-    <string name="empty_url">video url is empty</string>
-    <string name="take_video_success">Video successfully,please enter photo album to watch</string>
-    <string name="take_video_success2">Video successfully,please enter photo album to watch</string>
-    <string name="gsm_phone_number">Card Number</string>
-    <string name="gsm_recharge">Top Up</string>
-    <string name="gsm_package">Data Plan:</string>
-    <string name="gsm_total">Total Data:</string>
-    <string name="gsm_used">Data Usage:</string>
-    <string name="gsm_has">Data Available:</string>
-    <string name="switch_operat_history">Operation record</string>
-    <string name="single_switch_history">Operation record</string>
-    <string name="qr_shaoyishao">Scan QR Code</string>
-    <string name="device">Device</string>
-    <string name="add_wexin_public_charge">Top up on WeChat, follow "coolkitcn"</string>
-    <string name="switch_notify">Operation notifications</string>
-    <string name="switch_history">Action</string>
-    <string name="switch_time">Time</string>
-    <string name="switch_trigger_type">Trigger By</string>
-    <string name="device_state_changed">Device status changed</string>
-    <string name="umeng_notification_switch_state_on">ON</string>
-    <string name="umeng_notification_switch_state_off">OFF</string>
-
-
 </resources>
