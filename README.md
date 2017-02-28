@@ -94,4 +94,4 @@ We created this project to support translation for eWelink
 
 	* Note: it only needs to translate "specific internationalized country name" and "specific internationalized translation", which is the content behind the ":" *
 ---
-android 翻译注意事项:
+android 翻译注意事项:天天
