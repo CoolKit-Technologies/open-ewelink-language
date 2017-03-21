@@ -136,46 +136,4 @@ We created this project to support translation for eWelink
 	8.<string name="xxxxx">yy\n\nzz</string>
 	只需要翻译yy,zz, "\n\n"不做修改.
 	
-	---
-# Android Translation Notes
-
-## Translation File:
-	values: English
-	values-da-rDK: Danish
-	values-it-rIT: Italian
-	values-pl-rPL: Polish
-	values-ru-rRU: Russian
-	values-zh-rCN: Simplified Chinese
-	values-zh-rTW: Traditional Chinese
-
-## Translation rules：
-    For example:
-	1.<string-array name="phone_managers">
-	 No need to translate.	
-	</string-array>
-
-	2.<string-array name="country_code1">
-		<item>xxx+yy</item>  
-	Please translate the content before "+".
-	</string-array>
-
-	3.<string name="xxxxx">yyyyy</string>
-	Only need to translate yyyyy.
-
-	4.<string name="xxxxx">yyyyy%1$s</string>
-	Only need to translate yyyyy. Keep "%1$s" unchanged.
-
-	5.<string name="xxxxx">yyyyy\n%1$s</string>
-	Only need to translate yyyyy. Keep "\n%1$s" unchanged.
-
-	6.<string name="xxxxx">(timer: %1$sdays %2$shours %3$sminutes xx)</string>
-	Only need to translate timer: days  hours minutes xx
-	Keep "%1$s","%2$s","%3$s" unchanged.
-
-	7.<string name="xxxxx">yy\tzz</string>
-	Only need to translate yy,zz. Keep "\t" unchanged.
-
-
-	8.<string name="xxxxx">yy\n\nzz</string>
-	Only need to translate yy,zz. Keep "\n\n" unchanged.
 	
