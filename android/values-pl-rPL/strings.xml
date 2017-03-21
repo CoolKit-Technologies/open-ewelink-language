@@ -1278,5 +1278,18 @@
     <string name="umeng_notification_switch_state_on">ON</string>
     <string name="umeng_notification_switch_state_off">OFF</string>
 
-
+	<string name="business_cooperation">Business Cooperation</string>
+    <string name="rgb5_bottom_white">White</string>
+    <string name="rgb5_bottom_color">Color</string>
+    <string name="rgb5_bottom_situation">Scene</string>
+    <string name="rgb5_light">Rest</string>
+    <string name="rgb5_read">Reading</string>
+    <string name="rgb5_party">Party</string>
+    <string name="rgb5_play">Casual</string>
+    <string name="pair_gsm_device">GSM device</string>
+    <string name="rgb5_dark">Dark</string>
+    <string name="rgb5_bright">Bright</string>
+    <string name="rgb5_cold">Cold</string>
+    <string name="rgb5_warm">Warm</string>
+    <string name="open_rgb5">please turn on the LED Bulb first</string>
 </resources>
