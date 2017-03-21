@@ -937,6 +937,20 @@
     <string name="umeng_notification_switch_state_on">打开</string>
     <string name="umeng_notification_switch_state_off">关闭</string>
 
+	<string name="business_cooperation">商务合作</string>
+    <string name="rgb5_bottom_white">白光</string>
+    <string name="rgb5_bottom_color">彩光</string>
+    <string name="rgb5_bottom_situation">情景</string>
+    <string name="rgb5_light">晚安</string>
+    <string name="rgb5_read">阅读</string>
+    <string name="rgb5_party">聚会</string>
+    <string name="rgb5_play">休闲</string>
+    <string name="pair_gsm_device">GSM设备</string>
+    <string name="rgb5_dark">暗</string>
+    <string name="rgb5_bright">亮</string>
+    <string name="rgb5_cold">冷</string>
+    <string name="rgb5_warm">暖</string>
+    <string name="open_rgb5">请先打开球泡灯</string>
 
     <string-array name="phone_managers">
         <item>com.qihoo.appstore+360手机助手</item>
