@@ -393,12 +393,12 @@
     <string name="over">Slut</string>
     <string name="connected_device_wait">Tilslutning af enheden, vent venligst ...</string>
     <string name="regist_device_wait">Registrering, vent venligst ...</string>
-    <string name="device_has_been_register">Du har allerede registreret enheden</string>
+    <string name="device_has_been_register">Du har allerede registreret enheden!</string>
     <string name="delete_failed">Sletning af enhed mislykkedes, prøv igen senere!</string>
     <string name="operat_success">Succes</string>
     <string name="switch_power">Forsyning:</string>
     <string name="operating">Betjening</string>
-    <string name="device_belong_other">Enhed tilhører en anden bruger</string>
+    <string name="device_belong_other">Enhed tilhører en anden bruger!</string>
     <string name="back_device_list">Tilbage til liste</string>
     <string name="device_setting">Opsætning</string>
     <string name="connect_device_fail">Kunne ikke forbinde enhed, prøv venligst igen</string>
@@ -792,7 +792,7 @@
     <string name="when_hum_more">Fugtighed ≥</string>
     <string name="when_hum_less">Fugtighed ≤</string>
     <string name="hum_end_show">%RH</string>
-    <string name="tem_hum_temperature">Temperatur</string>
+    <string name="tem_hum_temperature">Fugtighed</string>
     <string name="tem_hum_humdity">Fugtighed</string>
     <string name="select_switch_operation">Vælg venligst kontakt operation</string>
     <string name="enter_params">Venligst indgangs parametre</string>
@@ -878,7 +878,9 @@
 
     <string name="total_power">Total</string>
 
+    <string name="timer_start">Start</string>
 
+    <string name="thisyear">Dette år</string>
 
     <string name="splash_timer_text">Enkelt kanal kontakt / kontakt supporterer gentage tider nu! Gentage timer kan være automatisk udført hver forudindstillet tid (siger 1 time), og fortsætte i en kortere forudindstillet tid (siger 20min). Understøttet firmwareversion 1.5.0 og højere.</string>
 
@@ -896,6 +898,7 @@
 
     <string name="retry_space">Prøv igen</string>
 
+    <string name="refresh_power">Opfriske</string>
 
     <string name="production">Produkt introduktion</string>
 
@@ -925,6 +928,7 @@
 
     <string name="no_address">Du har ikke udfyldt kontakt, fortsætte?</string>
 
+    <string name="nextyear">Næste år</string>
 
     <string name="new_timer_time">Tider</string>
 
@@ -952,7 +956,7 @@
 
     <string name="latest_version">Sidste:</string>
 
-    <string name="kwh">kWh</string>
+    <string name="kwh">kW.h</string>
 
     <string name="keep">bevar</string>
 
@@ -1010,6 +1014,7 @@
 
     <string name="delay_timers">Nedtællings timer</string>
 
+    <string name="delay">Nedtælling</string>
 
     <string name="del_group">Er du sikker på at fjerne denne gruppe?</string>
 
@@ -1052,7 +1057,6 @@
     <string name="channel">Kanal</string>
 
     <string name="cardview_device_off_line">er offline</string>
-    <string name="cardview_device_on_line">er online</string>
 
     <string name="back">Tilbage</string>
 
@@ -1069,30 +1073,122 @@
     <string name="Scene_log_detail">Detaljer</string>
 
 
+    <string name="coldwarm">Tilstand</string>
 
+    <string name="brightness">Lysstyrke</string>
 
+    <string name="delay_timer_cant_edit">Kan ikke redigere. Prøv igen efter sletning eller deaktivere eksisterende timere.</string>
 
+    <string name="no_custome_timer">Ingen timere i øjeblikket. Tryk under knappen for at tilføje nu!</string>
 
+    <string name="no_delay_timer">Ingen nedtællingstimere i øjeblikket. Tryk under knappen for at tilføje nu!</string>
 
+    <string name="only_timer_number">Samlet antal timere (herunder nedtælling) ikke mere end 20</string>
 
+    <string name="only_timer_active_number">Samlet antal aktiverede timere (herunder nedtælling) ikke mere end 8</string>
 
     <string name="language_choice_old_chinese">繁體中文</string>
+
+    <string name="device_offline_cant_operat">Enhed er offline, ude af stand til at fungere nu</string>
+
+
+    <string name="create_delay">Oprettelse af nedtælling timer...</string>
+
+    <string name="delete_delayt_ok">Slettet</string>
+
+    <string name="delete_delay_dialog">Sletning af nedtælling timer...</string>
+
 
     <string name="need_permission_coarse">Venligst give EweLink netværk tilladelse for placering, ellers kan du ikke parre enhed!</string>
 
 
+    <string name="duration_every">hver</string>
 
+    <string name="duration_hours">timer</string>
+
+    <string name="duration_excute_once">minutter at udføre</string>
+
+    <string name="duration_later_execute">minutter senere gennemført</string>
+
+    <string name="duration_start_time">start tider</string>
+
+    <string name="duration_cancel">Slette</string>
+
+    <string name="duration_ok">Komplet</string>
+
+    <string name="duration_delete">Slette</string>
+
+    <string name="duration_start">Muliggøre</string>
+
+
+    <string name="duration_2less1">Den 2. gang skal være mindre end 1. gang</string>
+
+    <string name="duration_1not0">Den 1. gang kan ikke være 0</string>
+
+    <string name="duration_timer8">Kan ikke oprette, understøtter kun maks.8 aktivere timere (inkluderer nedtælling / loop-timer)</string>
+
+    <string name="duration_timer20">Kan ikke oprette, understøtter kun maks. 20 timere (inkluderer nedtælling / loop-timer)</string>
+
+    <string name="duration_create_fail">Kunne ikke oprette loop timer, prøv igen</string>
+
+    <string name="duration_deleting">Sletter...</string>
+
+    <string name="duration_delete_success">Sletning succes</string>
+
+    <string name="duration_creating">Oprettelse ...</string>
+
+    <string name="duration_updating">Udfører...</string>
+
+    <string name="share_failed">Deling mislykkedes. Brugeren du vil dele ikke er online. Spørg brugeren om at logge ind på eWeLink først.</string>
+
+    <string name="device_not_share_click_to_share">Klik nedenfor på ikonet for at dele det</string>
+
+    <string name="list_already_has_account">Kontoen er allerede på din liste</string>
+
+    <string name="sure_delete">Delete?</string>
+    <string name="duration_2not0">The time can not be 0</string>
+    <string name="new_device_setting">Device Setting</string>
+    <string name="duration_update_failed">Failed to modify loop timer</string>
+    <string name="duration_delete_failed">Failed to delete loop timer</string>
+    <string name="duration_timer">Loop Timer</string>
+    <string name="ota_new_version">New Version:</string>
+
+
+    <string name="scene">Scene</string>
+    <string name="group">Group</string>
+
+    <string name="exit_logout">Log out</string>
 
     <string name="power_stay">STAY</string>
     <string name="power_on">ON</string>
     <string name="power_off">OFF</string>
 
+    <string name="settinginfo_power_state">Power on Switch State</string>
+    <string name="only_own_can_operation">Only owner can change the timers.</string>
+    <string name="fan_on">ON</string>
+    <string name="fan_off">OFF</string>
     <string name="add_success">Added successfully!</string>
     <string name="notgrade">Latest</string>
 
 
+    <string name="copy_text_and_open_wechat">Copy WeChat account and follow</string>
+    <string name="has_not_installed_wechat">You have not installed WeChat yet</string>
+    <string name="wechat_subscription_can_also_control">（Control devices in WeChat）</string>
 
+    <string name="all_device">All Devices</string>
+    <string name="my_share">Devices I have shared</string>
+    <string name="share_to_me">Devices shared by others</string>
+    <string name="device_ungroup">Devices not have a group</string>
+    <string name="device_remove_from_group">Remove it from this group?</string>
+    <string name="current_group_device">Device list</string>
+    <string name="move_from_other_group">Add from other group</string>
+    <string name="scan_for_instructions">Scan User Manual</string>
+    <string name="group_nums_limit">Support max. 20 groups</string>
+    <string name="tip_group_empty_add">No groups currently, tap below button to create now!</string>
+    <string name="add_delay_timers_success">Add successfully</string>
 
+    <string name="duration_create_looper_success">Added successfully</string>
+    <string name="duration_update_looper_success">Change successfully</string>
     <string name="one_key_clean">Clean Up</string>
     <string name="no_add_trgiger">No trigger condition</string>
     <string name="no_excute_result">No trigger result</string>
@@ -1100,15 +1196,117 @@
 
     <string name="new_user_center_group">%1$s&#160;Group</string>
     <string name="new_user_center_scene">%1$s&#160;Scene</string>
+    <string name="wait_user_response">Waiting for response...</string>
+    <string name="device_list_no_net">Network unavailable</string>
+    <string name="air_quality">Air quality</string>
+    <string name="sensor_temp">Temp.</string>
+    <string name="temp_state_cold">Cool</string>
+    <string name="temp_state_comfortable">Comfortable</string>
+    <string name="temp_state_hot">Hot</string>
+    <string name="air_quality_good">Good</string>
+    <string name="air_quality_moderate">Moderate</string>
+    <string name="air_quality_bad">Unhealthy</string>
+    <string name="sensor_humidity">Hum.</string>
+    <string name="sensor_hum_dry">Dry</string>
+    <string name="sensor_hum_normal">Normal</string>
+    <string name="sensor_hum_wet">Wet</string>
+    <string name="sensor_noise">Noise</string>
+    <string name="sensor_noise_quiet">Quiet</string>
+    <string name="sensor_noise_normal">Normal</string>
+    <string name="sensor_noise_noisy">Noisy</string>
+    <string name="sensor_light">Light</string>
+    <string name="sensor_light_bright">Bright</string>
+    <string name="sensor_light_normal">Normal</string>
+    <string name="sensor_light_dusky">Dusky</string>
+    <string name="account_has_register">The account has been registered!</string>
+    <string name="no_net_feedback_failed">Failed to submit feedback, please check network.</string>
+    <string name="io_exception_feedback_failed">Failed to submit feedback, system file read/write error.</string>
+    <string name="humidity_level">Humidity Level</string>
+    <string name="humidity_water_info">Water</string>
+    <string name="humidity_on_off">ON/OFF</string>
+    <string name="water_level_normal">normal</string>
+    <string name="water_level_shortage">shortage</string>
 
+    <string name="apk_downloading">Downloading</string>
 
+    <string name="not_connect_wait">Connecting, please wait</string>
+    <string name="auto">Auto</string>
+    <string name="high">HD</string>
+    <string name="standard">SD</string>
+    <string name="video_not_download">Video not downloaded yet</string>
+    <string name="take_photo_success">Capture completed, please enter album to view:</string>
+    <string name="live">Live|</string>
+    <string name="detection_move">Detect moving</string>
+    <string name="confirm_en_cancel">Cancel</string>
+    <string name="isrecording">Recording video</string>
+    <string name="ota_upgrade_alert_info">Firmware upgrade may cause device state change, continue?</string>
+    <string name="recording_video">Recording video ,Exit?</string>
+    <string name="recording_audio">On talking, exit?</string>
     <string name="recording_video_not_max">Recording video ,not allow change</string>
     <string name="recording_audio_not_max">On talking, not allow change</string>
+    <string name="quwen">Repellent</string>
+    <string name="jiashi">Humidify</string>
+    <string name="fulizi">Anion</string>
+    <string name="humidostat">Hum</string>
+    <string name="thermostat">Temp</string>
+    <string name="humidity_not_empty">Humidity range can not be empty!</string>
+    <string name="humidity_range">Humidity range:0~100</string>
+    <string name="second_value_smaller_first">The 2nd value should smaller than the 1st.</string>
+    <string name="humidity_setting">Humidity Setting</string>
+    <string name="temperature_setting">Temperature Setting</string>
+    <string name="temperature_not_empty">Temperature range can not be empty!</string>
+    <string name="temperature_range">Temperature range:0~100</string>
+    <string name="ifan_start">Start</string>
     <string name="more">＞</string>
     <string name="less">＜</string>
+    <string name="close_humdity">％ Turn off Humidifier</string>
+    <string name="open_humidity">％ Turn on Humidifier</string>
+    <string name="open_ifan">℃ Turn on Fan</string>
+    <string name="close_ifan">℃ Turn off Fan</string>
 
+    <string name="device_not_belong_this_brand">Device not belong to this brand!</string>
+    <string name="device_info_not_be_empty">Device name, id and apikey must not be empty!</string>
+    <string name="device_info_format">Invalid device id format!</string>
+    <string name="add_device_failed">Add device failed! </string>
+    <string name="device_not_exist">Device does not exist!</string>
+    <string name="add_subdevice_failed">Add subdevice failed!</string>
+    <string name="find_brand_failed">find brand failed!</string>
+    <string name="find_mode_failed">find modelInfo failed!</string>
     <string name="multiple_power_on">ON</string>
     <string name="multiple_power_off">OFF</string>
+    <string name="log">Log</string>
+    <string name="please_choose_device">Please select a device.</string>
+    <string name="add_condition">Add Condition</string>
+    <string name="add_execute_device">Add Execute Device</string>
+    <string name="please_operater_under_current_device">Please select the operating under the current device!</string>
+    <string name="smart_execute_device">Execute Devices</string>
+    <string name="click_execute">Click to execute</string>
+    <string name="select_trigger_condition">Please select the trigger condition</string>
+    <string name="temp_bigger">Temperature ≥</string>
+    <string name="temp_smaller">Temperature ≤</string>
+    <string name="humi_bigger">Humidity ≥</string>
+    <string name="humi_smaller">Humidity ≤</string>
+    <string name="add_scene">Add Scene</string>
+    <string name="tem_upper_smaller_lower">Temperature Upper limit should be more than lower limit</string>
+    <string name="tem_upper_not_equal_lower">Temperature Upper limit should not be equal to lower limit</string>
+    <string name="hum_upper_not_equal_lower">Humidity Upper limit should be more than lower limit</string>
+    <string name="hum_upper_smaller_lower">Humidity Upper limit should not be equal to lower limit</string>
+    <string name="executing">Executing</string>
+    <string name="trigger_condition_device">Trigger Device</string>
+    <string name="edit_scene">Edit Scene</string>
+    <string name="please_input_number">Please input a value</string>
+    <string name="number_upper">Value exceeds the upper limit</string>
+    <string name="sensor_tem_range">Temperature range: 0-50</string>
+    <string name="sensor_hum_range">Humidity range: 20-90</string>
+    <string name="sensor_light_not_equal">Light’s max and mini values can not be equal</string>
+    <string name="sensor_air_not_equal">Air quality’s max and mini values can not be equal</string>
+    <string name="sensor_noisy_not_equal">Noise’s max and mini values can not be equal</string>
+    <string name="repeat_condition">Repeated condition!</string>
+    <string name="tem_hum_dht11_tem_range">Temperature range: 0-50</string>
+    <string name="tem_hum_2301_tem_range">Temperature range: -40-80</string>
+    <string name="tem_hum_b20_tem_range">Temperature range: -55-125</string>
+    <string name="tem_hum_dht11_hum_range">Humidity range: 20-90</string>
+    <string name="tem_hum_2301_hum_range">Humidity range: 0-100</string>
     <string name="no_userful_device">No device available</string>
     <string name="duration_cycle">Cycle:</string>
     <string name="duration_delay">Delay</string>
@@ -1144,283 +1342,4 @@
     <string name="dialog_share_permit_edit">Modify</string>
     <string name="dialog_share_permit_remove">Delete</string>
     <string name="dialog_share_permit_enable">Enable</string>
-
-    <string name="youqiao_statistics">Statistics</string>
-    <string name="youqiao_alarm">Alarm</string>
-    <string name="youqiao_download">Download</string>
-    <string name="youqiao_fee_rate">Electricity Rate</string>
-    <string name="youqiao_fee_rate_per_unit">/kWh</string>
-    <string name="youqiao_energy_now">Real-time Power</string>
-    <string name="youqiao_threshold">Threshold</string>
-    <string name="youqiao_electric">Current</string>
-    <string name="youqiao_voltage">Voltage</string>
-    <string name="youqiao_alarm_thresold">Alarm Thresold Setting</string>
-    <string name="youqiao_reset">Reset</string>
-    <string name="youqiao_fee">Electric Charge</string>
-    <string name="youqiao_fee_total">Total:</string>
-    <string name="youqiao_not_null_input_thresold">Please input %1$s</string>
-    <string name="youqiao_history_download_success">Downloaded to directory:\n%1$s</string>
-    <string name="youqiao_history_download_failure">Download failed, please check the storage card is correct</string>
-    <string name="youqiao_has_no_100_day_data">Has no history data,try later please.</string>
-
-
-    <!--nest-->
-    <string name="nest_current_tempc">Current Temp.℃</string>
-    <string name="nest_current_tempf">Current Temp.℉</string>
-    <string name="nest_target_tempc">Target Temp.℃</string>
-    <string name="nest_target_tempf">Target Temp.℉</string>
-    <string name="nest_humidity">Humidity</string>
-    <string name="nest_whether_has_person">Anybody home?</string>
-    <string name="nest_has_person">Yes</string>
-    <string name="nest_has_no_person">No</string>
-    <string name="select_nest_device">Select Nest Device</string>
-    <string name="pair_nest_device">Nest Device</string>
-    <string name="nest_show_has_person">I’m home</string>
-    <string name="nest_show_has_no_person">I’m away</string>
-    <string name="add_nest_failed_400">Failed to add, error</string>
-    <string name="add_nest_failed_401">Failed to add,verify failed</string>
-    <string name="add_nest_failed_403">Failed to add,permission denied</string>
-    <string name="add_nest_failed_409">Failed to add,this device has already been added</string>
-    <string name="add_nest_failed_500">Failed to add,internal server error</string>
-    <string name="nest_tempec_limit">Temperature ℃ range: -50 ~ 150</string>
-    <string name="nest_tempef_limit">Temperature ℉ range: -122 ~ 302</string>
-    <string name="nest_humidy_limit">Humidity range: 0 ~ 100</string>
-    <string name="user_alreayexist">User already exists</string>
-    <string name="login_failed_lack_params">Login failed, required parameter missing</string>
-    <string name="login_failed_server_error">Login failed, server error</string>
-    <string name="device_upgrade_failed">Device firmware upgrade failed</string>
-    <string name="nest_show_current_temp">Current\nTemp.</string>
-    <string name="nest_show_target_temp">Target\nTemp.</string>
-    <string name="has_no_nest_to_add">No Nest devices can be added</string>
-
-    <string name="record_least_time">At least 10 seconds to play,stop later</string>
-
-    <string name="p2p_connect_fail">p2p connect fail</string>
-    <string name="storage_space_not_enough">storage space not enough</string>
-    <string name="camera_refresh">Refresh</string>
-    <string name="device_upgrade_success_version">Device firmware successfully upgrade to version %1$s</string>
-
-
-    <string name="refresh_power">"Opfriske"</string>
-    <string name="delay">"Forsinke"</string>
-    <string name="thisyear">"Dette år"</string>
-    <string name="nextyear">"Næste år"</string>
-    <string name="timer_start">"Starte"</string>
-    <string name="coldwarm">"Mode"</string>
-    <string name="brightness">"Lysstyrke"</string>
-    <string name="delay_timer_cant_edit">"Kan ikke redigere. Prøv igen når du har slettet eller deaktiveret eksisterende timere."</string>
-    <string name="no_custome_timer">"Ingen timere øjeblikket. Tryk under knappen for at tilføje nu!"</string>
-    <string name="no_delay_timer">"Ingen nedtællingstimere i øjeblikket. Tryk under knappen for at tilføje nu!"</string>
-    <string name="only_timer_number">"Samlet antal timere (herunder nedtælling og loop-timer) bør ikke mere end 20"</string>
-    <string name="only_timer_active_number">"Samlet antal aktiverede timere (herunder nedtælling og loop-timer) bør ikke mere end 8"</string>
-    <string name="device_offline_cant_operat">"Enhed offline, ude af stand til at fungere nu"</string>
-    <string name="add_delay_timers_success">"Tilføjet"</string>
-    <string name="create_delay">"Opretter nedtælling ..."</string>
-    <string name="delete_delayt_ok">"Slettet"</string>
-    <string name="delete_delay_dialog">"Sletter nedtælling ..."</string>
-    <string name="copy_text_and_open_wechat">"Kopier WeChat konto og følg"</string>
-    <string name="has_not_installed_wechat">"Du har ikke installeret WeChat endnu"</string>
-    <string name="wechat_subscription_can_also_control">"(Betjeningsanordninger i WeChat)"</string>
-    <string name="all_device">"Alle enheder"</string>
-    <string name="my_share">"Enheder jeg har delt"</string>
-    <string name="share_to_me">"Enheder deles af andre"</string>
-    <string name="device_ungroup">"Enheder ikke har en gruppe"</string>
-    <string name="device_remove_from_group">"Fjern den fra denne gruppe?"</string>
-    <string name="current_group_device">"Enheds liste"</string>
-    <string name="move_from_other_group">"Tilføj fra anden gruppe"</string>
-    <string name="scan_for_instructions">"Scan brugervejledning"</string>
-    <string name="group_nums_limit">"Support maks. 20 grupper"</string>
-    <string name="tip_group_empty_add">"Ingen grupper i øjeblikket, du skal trykke nedenfor for at oprette nu!"</string>
-    <string name="duration_every">"Hver"</string>
-    <string name="duration_hours">"timer"</string>
-    <string name="duration_excute_once">"minut udføre"</string>
-    <string name="duration_later_execute">"minutter senere eksekvere"</string>
-    <string name="duration_start_time">"Starttidspunkt"</string>
-    <string name="duration_cancel">"Afbryd"</string>
-    <string name="duration_ok">"Udført"</string>
-    <string name="duration_delete">"Slet"</string>
-    <string name="duration_start">"Aktiver"</string>
-    <string name="duration_create_looper_success">"Tilføjet"</string>
-    <string name="duration_update_looper_success">"Ændring fuldført"</string>
-    <string name="duration_2less1">"Den 2. gang skal være mindre end 1. gang"</string>
-    <string name="duration_1not0">"Den tid kan ikke være 0"</string>
-    <string name="duration_timer8">"Kan ikke oprette, understøtter max.8 aktiverede timere (inkluderer nedtælling / loop timere)"</string>
-    <string name="duration_timer20">"Kan ikke oprette, understøtter max.20 timere (inkluderer nedtælling / loop timere)"</string>
-    <string name="duration_create_fail">"Kunne ikke oprette loop timer, prøv igen"</string>
-    <string name="duration_deleting">"Sletter..."</string>
-    <string name="duration_delete_success">"Slettet med succes"</string>
-    <string name="duration_creating">"Opretter..."</string>
-    <string name="duration_updating">"Behandler ..."</string>
-    <string name="share_failed">"Din invitation er blevet afvist, deling mislykkedes"</string>
-    <string name="device_not_share_click_to_share">"Klik på ikonet nedenfor for at dele det"</string>
-    <string name="list_already_has_account">"Kontoen er allerede på din liste"</string>
-    <string name="sure_delete">"Slette?"</string>
-    <string name="settinginfo_power_state">"Tilkoble ved opstart"</string>
-    <string name="duration_2not0">"Tiden kan ikke være 0"</string>
-    <string name="new_device_setting">"Enheds indstilling"</string>
-    <string name="duration_update_failed">"Det lykkedes ikke at ændre loop timer"</string>
-    <string name="duration_delete_failed">"Kunne ikke slette loop timer"</string>
-    <string name="duration_timer">"Loop-timer"</string>
-    <string name="ota_new_version">"Ny version:"</string>
-    <string name="scene">"Scene"</string>
-    <string name="group">"Gruppe"</string>
-    <string name="exit_logout">"Log ud"</string>
-    <string name="only_own_can_operation">"Kun ejeren kan ændre timerne."</string>
-    <string name="fan_on">"TILkoblet"</string>
-    <string name="fan_off">"FRAkoblet"</string>
-
-
-
-
-    <string name="wait_user_response">"Venter på svar ..."</string>
-    <string name="device_list_no_net">"Netværk ikke tilgængeligt"</string>
-    <string name="air_quality">"Luftkvalitet"</string>
-    <string name="sensor_temp">"Temp."</string>
-    <string name="temp_state_cold">"Køler"</string>
-    <string name="temp_state_comfortable">"Komfortabel"</string>
-    <string name="temp_state_hot">"Varm"</string>
-    <string name="air_quality_good">"God"</string>
-    <string name="air_quality_moderate">"Moderat"</string>
-    <string name="air_quality_bad">"Usund"</string>
-    <string name="sensor_humidity">"Hum."</string>
-    <string name="sensor_hum_dry">"Tørt"</string>
-    <string name="sensor_hum_normal">"Normal"</string>
-    <string name="sensor_hum_wet">"Våd"</string>
-    <string name="sensor_noise">"Støj"</string>
-    <string name="sensor_noise_quiet">"Roligt"</string>
-    <string name="sensor_noise_normal">"Normal"</string>
-    <string name="sensor_noise_noisy">"Støjende"</string>
-    <string name="sensor_light">"Lys"</string>
-    <string name="sensor_light_bright">"Bright"</string>
-    <string name="sensor_light_normal">"Normal"</string>
-    <string name="sensor_light_dusky">"Dæmpet"</string>
-
-
-
-
-
-
-    <string name="account_has_register">"Kontoen er registreret!"</string>
-    <string name="no_net_feedback_failed">"Det lykkedes ikke at sende feedback,  kontroller netværk."</string>
-    <string name="io_exception_feedback_failed">"Det lykkedes ikke at sende feedback, systemfil læse / skrive fejl."</string>
-    <string name="humidity_level">"Fugtigheds niveau"</string>
-    <string name="humidity_water_info">"Vand"</string>
-    <string name="humidity_on_off">"TÆND / SLUK"</string>
-    <string name="water_level_normal">"Normal"</string>
-    <string name="water_level_shortage">"mangel"</string>
-    <string name="not_connect_wait">"Tilslutter, vent venligst"</string>
-    <string name="auto">"Auto"</string>
-    <string name="high">"Høj"</string>
-    <string name="standard">"SD"</string>
-    <string name="video_not_download">"Video ikke hentet endnu"</string>
-    <string name="take_photo_success">"Capture afsluttet, skal du indtaste album til visning:"</string>
-    <string name="live">"Live |"</string>
-    <string name="detection_move">"Registere flytning"</string>
-    <string name="confirm_en_cancel">"Afbryd"</string>
-    <string name="isrecording">"Optagelse video"</string>
-    <string name="ota_upgrade_alert_info">"Enheds opdatering kan ændre enheds tilstanden vil du forsætte ?"</string>
-    <string name="recording_video">"Optagelse video, Exit?"</string>
-    <string name="recording_audio">"Med tale, forlade?"</string>
-    <string name="quwen">"Frastødende"</string>
-    <string name="jiashi">"Befugte"</string>
-    <string name="fulizi">"Anion"</string>
-    <string name="humidostat">"Hum"</string>
-    <string name="thermostat">"Temp"</string>
-    <string name="humidity_not_empty">"Luftfugtighed område kan ikke være tom!"</string>
-    <string name="humidity_range">"Fugtighed: 0~100"</string>
-    <string name="second_value_smaller_first">"Den 2. værdi bør mindre end 1st."</string>
-    <string name="humidity_setting">"Hum."</string>
-    <string name="temperature_setting">"Temp."</string>
-    <string name="temperature_not_empty">"Temperaturområde kan ikke være tom!"</string>
-    <string name="temperature_range">"Temperaturområde: 0 ~ 100"</string>
-    <string name="ifan_start">"Starte"</string>
-
-
-
-    <string name="close_humdity">"% Slå fra luftfugter"</string>
-    <string name="open_humidity">"% Tænd luftfugter"</string>
-    <string name="open_ifan">"℃ Tænd ventilator"</string>
-    <string name="close_ifan">"℃ Sluk ventilator"</string>
-
-
-    <string name="apk_downloading">"Overfører"</string>
-    <string name="device_not_belong_this_brand">"Enhed hører ikke  til dette mærke!"</string>
-    <string name="device_info_not_be_empty">"Enheds navn, id og apikey må ikke være tomt!"</string>
-    <string name="device_info_format">"Ugyldigt enhed ID format!"</string>
-    <string name="add_device_failed">"Tilføj enhed mislykkedes!"</string>
-    <string name="device_not_exist">"Enheden findes ikke!"</string>
-    <string name="add_subdevice_failed">"Tilføj under enhed mislykkedes!"</string>
-    <string name="find_brand_failed">"find mærke mislykkedes!"</string>
-    <string name="find_mode_failed">"find model Info mislykkedes!"</string>
-    <string name="log">"Hændelser"</string>
-    <string name="please_choose_device">"Vælg venligst en enhed."</string>
-    <string name="add_condition">"Tilføj betingelse"</string>
-    <string name="add_execute_device">"Tilføj Udfør enhed"</string>
-    <string name="please_operater_under_current_device">"Vælg det operativsystem, under den nuværende enhed!"</string>
-    <string name="smart_execute_device">"Udfør enheder"</string>
-    <string name="click_execute">"Klik for at udføre"</string>
-
-
-
-    <string name="select_trigger_condition">"Vælg trigger tilstand"</string>
-    <string name="temp_bigger">"Temperatur ≥"</string>
-    <string name="temp_smaller">"Temperatur ≤"</string>
-    <string name="humi_bigger">"Fugtighed ≥"</string>
-    <string name="humi_smaller">"Fugtighed ≤"</string>
-    <string name="add_scene">"Tilføj Scene"</string>
-    <string name="tem_upper_smaller_lower">"Temperatur øvre grænse skal være mindre end nedre grænse"</string>
-    <string name="tem_upper_not_equal_lower">"Temperatur øvre grænse bør ikke være lig med nedre grænse"</string>
-    <string name="hum_upper_not_equal_lower">"Fugtighed øvre grænse skal være mindre end nedre grænse"</string>
-    <string name="hum_upper_smaller_lower">"Fugtighed øvre grænse bør ikke være lig med nedre grænse"</string>
-    <string name="executing">"Udfører"</string>
-    <string name="trigger_condition_device">"Aktivere enhed"</string>
-    <string name="edit_scene">"Rediger Scene"</string>
-    <string name="please_input_number">"Indtast venligst en værdi"</string>
-    <string name="number_upper">"Værdi overstiger den øvre grænse"</string>
-    <string name="sensor_tem_range">"Temperaturområde: 0-50"</string>
-    <string name="sensor_hum_range">"Luftfugtighed: 20-90%"</string>
-    <string name="sensor_light_not_equal">"Lys er max og mini værdier kan ikke være lige"</string>
-    <string name="sensor_air_not_equal">"Luftkvalitet er maks. og mini værdier kan ikke være lige"</string>
-    <string name="sensor_noisy_not_equal">"Støj er maks. og mini værdier kan ikke være lige"</string>
-    <string name="repeat_condition">"Gentagen tilstand!"</string>
-    <string name="tem_hum_dht11_tem_range">"Temperaturområde: 0-50"</string>
-    <string name="tem_hum_2301_tem_range">"Temperaturområde: -40-80"</string>
-    <string name="tem_hum_b20_tem_range">"Temperaturområde: -55-125"</string>
-    <string name="tem_hum_dht11_hum_range">"Luftfugtighed: 20-90%"</string>
-    <string name="tem_hum_2301_hum_range">"Luftfugtighed: 0-100%"</string>
-
-
-
-    <string name="not_userful_qrcode">Invalid QR code</string>
-    <string name="qr_scan_alert">Please scan QR code</string>
-    <string name="qr_scan">Scanning </string>
-    <string name="single_device_choose">Single Channel Device</string>
-    <string name="want_know_more">Learn More</string>
-    <string name="app_name2">EWeLink </string>
-    <string name="please_input_phone_number">Card Number</string>
-
-    <string name="not_wifi_confirm_play_video">WIFI connection Not Available currently. Determine to play the alarm video?</string>
-    <string name="empty_url">video url is empty</string>
-    <string name="take_video_success">Video successfully,please enter photo album to watch</string>
-    <string name="take_video_success2">Video successfully,please enter photo album to watch</string>
-    <string name="gsm_phone_number">Card Number</string>
-    <string name="gsm_recharge">Top Up</string>
-    <string name="gsm_package">Data Plan:</string>
-    <string name="gsm_total">Total Data:</string>
-    <string name="gsm_used">Data Usage:</string>
-    <string name="gsm_has">Data Available:</string>
-    <string name="switch_operat_history">Operation record</string>
-    <string name="single_switch_history">Operation record</string>
-    <string name="qr_shaoyishao">Scan QR Code</string>
-    <string name="device">Device</string>
-    <string name="add_wexin_public_charge">Top up on WeChat, follow "coolkitcn"</string>
-    <string name="switch_notify">Operation notifications</string>
-    <string name="switch_history">Action</string>
-    <string name="switch_time">Time</string>
-    <string name="switch_trigger_type">Trigger By</string>
-    <string name="device_state_changed">Device status changed</string>
-    <string name="umeng_notification_switch_state_on">ON</string>
-    <string name="umeng_notification_switch_state_off">OFF</string>
-
-
 </resources>
