@@ -1,0 +1,20 @@
+# Mac
+.DS_Store
+
+# WebStorm
+.idea
+
+# iOS
+platforms/ios/www/
+*.xcuserdatad
+
+#lib
+/lib/*
+!/lib/other-custom
+
+
+#node
+node_modules/
+
+#dest
+#www/dest/
