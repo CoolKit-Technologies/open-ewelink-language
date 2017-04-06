@@ -47,8 +47,6 @@
   "INVITATION_MESSAGE_SET": "分享邀请正在发送，请耐心等待对方回应",
   "FAILED_TO_SHARE_TRY_AGAIN": "发起分享失败，请检查网络并重试",
   "AFTER_THIS_TIME_TO_PERFORM_ACTION": "在此时间之后执行动作",
-  "NO_TIMER": "没有设置定时器，请点击下方按钮添加新定时器",
-  "NO_TIMER_DELAY": "没有设置延时，请点击下方按钮添加延时",
   "FAILED_TO_ADD_COUNTDOWN": "添加延时失败，请稍后再试",
   "SUCCESS_TO_ADD_COUNTDOWN_SUCCESS": "添加延时成功!",
   "EDIT_DELAY_TIMER_ERROR": "不能编辑，可以删除或停用后添加新的延时",
@@ -81,7 +79,6 @@
   "CURRENT_STATISTICAL_POWER": "本次统计用电量",
   "PLEASE_OPEN_SWITCH_FIRST": "关闭状态下,无法进行电量统计",
   "CURRENT_POWER": "当前功率",
-  "Danish": "Dansk",
   "CHECK_CAMERA_PERMISSIONS": "请检查照相机权限",
   "ADD_DEVICE_ERROR_NOT_CONNECT_DEVICE_2": "没有打开WiFi设置,请打开WiFi",
   "CANNOT_CONNECT_DEVICE_CHECK_PROPERTIES": "通信过程出错,请检查以下配置",
@@ -101,7 +98,6 @@
   "ESP_REGISTER_DEVCIE_NOW": "正在注册设备...",
   "ESP_CONNECT_DEVICE_NOW": "正在连接设备...",
   "ESP_CONFIGURATION_NOW": "正在进行配置...",
-  "Russian": "Русский язык",
   "DEVICE_MATCHING_SUCCESS": "配对成功!!!",
   "NETWORK_AVAILABLE_ADD_DEVICE": "网络可用,正在添加设备...",
   "DETACE_STATE_WIFI": "检测WiFi状态...",
@@ -268,8 +264,6 @@
   "START_OSCILATION": "开始摇头",
   "STOP_OSCILATION": "停止摇头",
   "OFF_FANS": "关闭风扇",
-  "Simple_Chinese": "简体中文",
-  "English": "English",
   "SPEED": "风速",
   "SET_FAN_SPEEN": "设置风速",
   "SPEED_ONLY": "速",
@@ -422,7 +416,7 @@
   "LAST_STEP": "上一步",
   "ADD_DEVICE": "添加设备",
   "GROUP": "群组",
-  "RAPID_TIMING": "快速定时",
+  "RAPID_TIMING": "",
   "Detailed_timing": "详细定时",
   "Set_in_the": "设置在",
   "Set_in_After": "设置在",
@@ -618,7 +612,7 @@
   "HUMIDIFIER_HYDROPENIA": "缺水",
   "HUMIDIFIER_NORMAL": "正常",
   "SUCCESS_TO_EDIT_TIMER": "修改定时器成功!",
-  "ENERGY_NOW": "ENETGY NOW",
+  "ENERGY_NOW": "ENERGY NOW",
   "CURRENT_VALUE": "CURRENT",
   "CURRENT_VOLTAGE": "VOLTAGE",
   "DETAIL_ALARM": "报警",
@@ -681,9 +675,6 @@
   "FAIL_TO_RESTART_TIMER": "启动定时器失败,请检查网络并重试",
   "COPY_Social_SUCCESS": "复制成功",
   "COPY_Social_FAIL": "复制失败",
-  "Traditional_Chinese": "繁體中文",
-  "Polish": "Polski",
-  "Italian": "Italiano",
   "TIMER_PERMISSIONS": "定时器权限",
   "TIMER_PERMISSIONS_ADD": "新增",
   "TIMER_PERMISSIONS_EDIT": "修改",
@@ -710,8 +701,39 @@
   "ALEXA_VERIFICATION_CODE":"Verification code",
   "ALEXA_INFO":"(ONLY For Alexa eWeLink fan skill login)",
   "NOT_VALID_CODE":"不是有效的二维码",
-
   "OPERATION_ACTION":"动作",
   "OPERATION_TIME":"时间",
-  "OPERATION_TYPE":"设备或APP触发"
+  "OPERATION_TYPE":"设备或APP触发",
+  "NO_TIMER": "没有设置定时器，请点击下方按钮添加新定时器",
+  "NO_TIMER_DELAY": "没有设置延时，请点击下方按钮添加延时",
+
+  "RGB_WHITE_LIGHT":"白光",
+  "RGB_COLOURFUL_LIGHT":"彩光",
+  "RGB_SCENARIO":"情景",
+  "RGB_DUSKY":"暗",
+  "RGB_LIGHT":"亮",
+  "RGB_COLD":"冷",
+  "RGB_WARM":"暖",
+  "RGB_NOT_OPEN_RGB_LIGHT":"请先打开球泡灯",
+  "RGB_GoodNight":"晚安",
+  "RGB_Reading":"阅读",
+  "RGB_Party":"聚会",
+  "RGB_Leisure":"休闲",
+
+
+
+
+  "Simple_Chinese": "简体中文",
+  "Traditional_Chinese": "繁體中文",
+  "English": "English",
+  "Russian": "Русский язык",
+  "Danish": "Dansk",
+  "Polish": "Polski",
+  "Italian": "Italiano",
+  "Spaish":"Reino de España",
+  "French":"le français",
+  "German":"Deutsch"
+
+
+
 }
