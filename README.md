@@ -14,6 +14,9 @@ We created this project to support translation for eWelink
 	locale-zh.json : 简体中文翻译
 	locale-zh_HK.json : 繁体中文（香港）翻译
 	locale-zh_TW.json : 繁体中文 （台湾）翻译
+	locale-fr.json : 法语翻译
+	locale-de.json : 德语翻译
+	locale-es.json : 西班牙语翻译
 
 ## 翻译规则：
 	国家码翻译：对国家名称的国际化，使用JSON格式来描述一个国家，如果需要新增国家，请新增一个JSON格式
@@ -60,6 +63,9 @@ We created this project to support translation for eWelink
   locale-zh.json :  Simplified Chinese translation
   locale-zh_HK.json : Traditional Chinese (HK) translation
   locale-zh_TW.json : Traditional Chinese (Taiwan) translation
+  locale-fr.json : French translator
+  locale-de.json : German translator
+  locale-es.json : Spanish translator
 
 
 ## Translation rules：
