@@ -594,6 +594,13 @@ angular.module('iotgo')
             prefix: '+852'
         },
         {
+            zh_name: '缅甸',
+            en_name: 'Burma',
+            ru_name: 'Burma',
+            da_name: 'Burma',
+            prefix: '+95'
+        },
+        {
             zh_name: '匈牙利',
             en_name: 'Hungary',
             ru_name: 'Венгрия',
