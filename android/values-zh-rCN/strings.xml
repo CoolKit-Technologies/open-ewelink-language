@@ -1,4 +1,4 @@
-<resources>
+<resources>  <!--中文-->
 
     <string name="upgrade_immediately">立即升级</string>
     <string name="about_kuzhai">关于%1$s</string>
@@ -90,7 +90,7 @@
     <string name="commit">提交</string>
     <string name="user_register">新用户注册</string>
     <string name="password_not">密码不能为空</string>
-    <string name="enter_phone_numbers">手机号码/邮箱账号</string>
+    <string name="enter_phone_numbers">手机号码或邮箱</string>
 
     <string name="groupName_not">分组名不能为空</string>
     <string name="registering">正在注册...</string>
@@ -386,8 +386,6 @@
     <string name="data_exception">数据异常,请稍后再试</string>
     <string name="switchcountry">请选择国家</string>
     <string name="password">密码</string>
-    <string name="language_choice_simple_chinese">简体中文</string>
-    <string name="language_choice_english">English</string>
     <string name="language_actionbar_text">选择语言</string>
     <string name="current_version">当前版本</string>
     <string name="change_nickname">修改昵称</string>
@@ -571,7 +569,6 @@
     <string name="enter_params">请输入参数</string>
     <string name="select_condition">请选择条件</string>
     <string name="smart_scene_time">时间:</string>
-    <string name="language_choice_russia">Русский</string>
     <string name="smart_scene">智能场景</string>
     <string name="two_temp_cant_be_equals">温度不能相等</string>
     <string name="two_hum_cant_be_equals">湿度不能相等</string>
@@ -598,7 +595,6 @@
     <string name="tem_detail">温度取值范围-999~999</string>
     <string name="first_smaller_second">第一个空格小于第二个空格</string>
     <string name="third_smaller_fourth">第三个空格小于第四个空格</string>
-    <string name="language_choice_danmark">Dansk</string>
     <string name="wifi_name">WiFi 名称</string>
     <string name="wifi_pwd">WiFi 密码</string>
     <string name="click_me_to_select">点我选择设备</string>
@@ -642,7 +638,6 @@
 
     <string name="only_timer_number">无法创建，最多创建20个定时器（包括延时和循环定时）</string>
     <string name="only_timer_active_number">无法创建，最多创建8个生效的定时器（包括延时和循环定时）</string>
-    <string name="language_choice_old_chinese">繁體中文</string>
     <string name="device_offline_cant_operat">设备离线,无法进行操作</string>
     <string name="add_delay_timers_success">增加延时器成功</string>
     <string name="create_delay">正在创建延时器</string>
@@ -854,8 +849,6 @@
     <string name="noise_bigger_more">噪音上限应该大于下限</string>
     <string name="isopen_timer">是否开启定时器?</string>
     <string name="copy_success">复制成功</string>
-    <string name="language_choice_italian">Italiano</string>
-    <string name="language_choice_polan">polskim</string>
     <string name="share_permit_timer">定时器权限:</string>
     <string name="share_permit_timer_enable">启用/禁用</string>
     <string name="share_device_request_failure">%1$s分享设备失败</string>
@@ -936,8 +929,7 @@
     <string name="device_state_changed">设备状态发生变化</string>
     <string name="umeng_notification_switch_state_on">打开</string>
     <string name="umeng_notification_switch_state_off">关闭</string>
-
-	<string name="business_cooperation">商务合作</string>
+    <string name="business_cooperation">商务合作</string>
     <string name="rgb5_bottom_white">白光</string>
     <string name="rgb5_bottom_color">彩光</string>
     <string name="rgb5_bottom_situation">情景</string>
@@ -951,6 +943,31 @@
     <string name="rgb5_cold">冷</string>
     <string name="rgb5_warm">暖</string>
     <string name="open_rgb5">请先打开球泡灯</string>
+
+    <!--language-->
+    <string name="language_choice_simple_chinese">简体中文</string>
+    <string name="language_choice_english">English</string>
+    <string name="language_choice_old_chinese">繁體中文</string>
+    <string name="language_choice_russia">Русский</string>
+    <string name="language_choice_danmark">Dansk</string>
+    <string name="language_choice_italian">Italiano</string>
+    <string name="language_choice_polan">polskim</string>
+    <string name="language_choice_frech">Français</string>
+    <string name="language_choice_spanish">Español</string>
+    <string name="language_choice_genman">Deutsch</string>
+    <string name="language_choice_portugal">português</string>
+    <string name="language_choice_greece">ελληνικά</string>
+    <string name="language_choice_czech">český</string>
+    <string name="language_choice_bulgaria">български</string>
+    <string name="language_choice_turkey">Türkiye</string>
+    <string name="language_choice_slovank">slovenského jazyk</string>
+
+
+    <string name="night_light">夜灯</string>
+    <string name="aromatherapy_light_switch">灯</string>
+    <string name="aromatherapy_state_small">小</string>
+    <string name="aromatherapy_state_big">大</string>
+    <string name="install_googleplay_first">请先安装Google Play</string>
 
     <string-array name="phone_managers">
         <item>com.qihoo.appstore+360手机助手</item>
@@ -986,6 +1003,7 @@
         <item>德国+49 </item>
         <item>多米尼加+1809</item>
         <item>俄罗斯+7 </item>
+        <item>白俄罗斯+375</item>
         <item>法国+33 </item>
         <item>菲律宾+63 </item>
         <item>芬兰+358 </item>
@@ -1047,5 +1065,54 @@
         <item>赞比亚+260 </item>
 
     </string-array>
+    <string name="facebook_app_id">1787091648274959</string>
+    <string name="app_downloading">App正在下载中</string>
+    <string name="water_level">水位</string>
+    <string name="opent_light_switch_first">请先打开灯光开关</string>
+    <string name="add_remote_control">添加遥控器</string>
+    <string name="button_name">按键</string>
+    <string name="wifi_rf_edit">编辑</string>
+    <string name="rf_single_button">单按键</string>
+    <string name="rf_double_button">双按键</string>
+    <string name="rf_three_button">三按键</string>
+    <string name="rf_four_button">四按键</string>
+    <string name="rf_curtain">窗帘</string>
+    <string name="rf_alarm">报警器</string>
+    <string name="rf_open">开</string>
+    <string name="rf_stop">停</string>
+    <string name="rf_close">关</string>
+    <string name="rf_remote_max_size">最多只能添加4个遥控</string>
+    <string name="remote_control_name_not_empty">遥控器名称不能为空</string>
+    <string name="rf_channel_name_not_empty">按键名称不能为空</string>
+    <string name="rf_has_item_alert">长按遥控器按键进入学习模式</string>
+    <string name="alarm_history">报警历史</string>
+    <string name="my_curtains">我的窗帘</string>
+    <string name="my_remote_control">我的遥控器</string>
+    <string name="rfbridge_edit">编辑名称</string>
+    <string name="rfbridge_remote_control_name">遥控器名称:</string>
+    <string name="rfbridge_channel1_name">按键1名称:</string>
+    <string name="rfbridge_channel2_name">按键2名称:</string>
+    <string name="rfbridge_channel3_name">按键3名称:</string>
+    <string name="rfbridge_channel4_name">按键4名称:</string>
+    <string name="rfbridge_button_no_study">按键还未学习</string>
+    <string name="delete_this_remote_control">确定删除该遥控？</string>
+    <string name="alarm_push">收到报警</string>
+    <string name="alarm_time_push_at">报警发生于</string>
+    <string name="has_already_cancel_share">已被取消分享.</string>
+    <string name="nest_cancel_auth">nest设备授权被取消</string>
+    <string name="aromatherapy_colorful_light">七彩灯</string>
+    <string name="top_than_close">高于此值则关闭</string>
+    <string name="lower_than_open">低于此值则打开</string>
+    <string name="near_alarm">最近报警</string>
+    <string name="ewelinktest">易微联测试</string>
+    <string name="long_press_to_study_button">RF网关进入学习状态，请在1分钟内按遥控器按键或让告警设备产生告警</string>
+    <string name="enter_verifycode">请输入发送的验证码</string>
+    <string name="has_send_verifycode_please_get">已经发送验证码,请查收</string>
+    <string name="click_to_get_verifycode">请点击发送按钮获取验证码</string>
+    <string name="beijing_temp_big_more">必须大于下方温度至少1度</string>
+    <string name="beijing_temp_big_range">温度设置范围6~35</string>
+    <string name="beijing_temp_small_range">温度设置范围5~34</string>
+    <string name="beijing_temp_small_less">必须小于上方温度至少1度</string>
+    <string name="has_already_send_to_you">已发送验证码到您的手机或邮箱，收到后请输入</string>
 
 </resources>

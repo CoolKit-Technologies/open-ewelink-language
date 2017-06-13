@@ -1,0 +1,1337 @@
+<?xml version="1.0" encoding="utf-8"?>  <!--希腊-->
+<resources>
+
+    <string name="upgrade_immediately">Αναβάθμιση τώρα</string>
+    <string name="about_kuzhai">Περίπου %1$s</string>
+    <string name="info_updates">Η τρέχουσα έκδοση είναι η τελευταία</string>
+    <string name="err_internet">Σφάλμα δικτύου, βεβαιωθείτε ότι η συσκευή είναι σε λειτουργία ρύθμισης.</string>
+    <string name="not_found_device">Δεν βρέθηκαν συσκευές, βεβαιωθείτε ότι η συσκευή είναι σε λειτουργία ρύθμισης.</string>
+    <string name="not_device">Δεν υπάρχουν συσκευές</string>
+    <string name="air_cleaner">Καθαριστής αέρα</string>
+    <string name="best">Καλύτερο</string>
+    <string name="fine">Καλό</string>
+    <string name="middle">Μεσαίο</string>
+    <string name="bad">Κακό</string>
+    <string name="inferior">Χειρότερο</string>
+    <string name="shutdown">Τερματισμός λειτουργίας</string>
+    <string name="wind_speed">Ταχύτητα ανέμου</string>
+    <string name="fireplace_power_on">Ενεργοποίηση</string>
+    <string name="fireplace_power_off">Απενεργοποίηση</string>
+
+    <string name="air">Αέρας:</string>
+    <string name="temperature">Θερμοκρασία:</string>
+    <string name="c">Κελσίου</string>
+    <string name="humidity">Υγρασία:</string>
+    <string name="not_internet_current">Δεν υπάρχει διαθέσιμο δίκτυο </string>
+
+
+    <string name="device_not_online">Συσκευή χωρίς σύνδεση </string>
+
+    <string name="operation_failure">Η λειτουργία απέτυχε</string>
+    <string name="online">(Σε σύνδεση)</string>
+    <string name="offline">(Εκτός Σύνδεσης)</string>
+    <string name="device_offline">Συσκευή εκτός σύνδεσης, δεν μπορεί να ελέγχει τώρα</string>
+    <string name="device_manufacturers">Κατασκευαστής:</string>
+    <string name="device_type">Μοντέλο:</string>
+    <string name="share_owner_device">Μόνο ο κάτοχος μπορεί να διαμοιραστεί τη συσκευή</string>
+    <string name="device_upgraded_to">Η συσκευή πρέπει να αναβαθμιστεί σε</string>
+
+
+    <string name="info_wait_upgrade">Δεν επιτρέπεται να λειτούργει κατά την αναβάθμιση, η διαδικασία μπορεί να συνεχιστεί για λίγο, παρακαλώ περιμένετε</string>
+    <string name="info_sure_delete">Είστε βέβαιοι θέλετε να αφαιρέσετε αυτή τη συσκευή;</string>
+    <string name="del_group">Είστε βέβαιοι θέλετε να καταργήσετε αυτή την ομάδα;</string>
+    <string name="ota_failed_upgrade">Η συσκευή  %1$s OTA αναβάθμισης απέτυχε</string>
+    <string name="ota_success_upgrade">Η συσκευή %1$s ΟΤΑ Αναβάθμιση επιτυχής</string>
+    <string name="ota_finish_upgrade">Συσκευή %1$s OTA αναβάθμισης πλήρης</string>
+
+    <string name="firmware_upgradeing">Συσκευή  %1$s αναβαθμίζετε ...</string>
+    <string name="background_updateing">Συσκευή  %1$s  αναβάθμιση στο παρασκήνιο ...</string>
+    <string name="sms_mustbenoempty">Ο Κωδικός επαλήθευσης δεν μπορεί να είναι κενός</string>
+
+    <string name="tips">Υπενθύμιση</string>
+    <string name="info_relogin">Η Είσοδος έληξε, συνδεθείτε ξανά.</string>
+
+    <string name="ok">Εντάξει</string>
+    <string name="Save">Αποθήκευση</string>
+    <string name="cancel">Ματαίωση</string>
+    <string name="test_wechat">WeChat Test</string>
+    <string name="group_exits">Η ομάδα υπάρχει ήδη</string>
+    <string name="delete_group">Θα υπάρχουν συσκευές της διαγραμμένης ομάδας. Είστε σίγουροι ότι θέλετε να διαγράψετε την ομάδα;</string>
+    <string name="change_device">Αλλαγή Ονόματος συσκευής</string>
+
+    <string name="info_not_change">Μόνο ιδιοκτήτης έχει δικαίωμα να αλλάξει το όνομα της συσκευής</string>
+    <string name="change_name_success">Άλλαξε επιτυχώς</string>
+    <string name="change_name_failed">Αλλαγή ονόματος απέτυχε</string>
+    <string name="waiting">Αναμονή...</string>
+    <string name="divece_name">Όνομα της συσκευής:</string>
+    <string name="device_name_not">Το όνομα συσκευής δεν μπορεί να είναι κενό</string>
+    <string name="timer">Χρονόμετρο</string>
+    <string name="once">Μια φορά</string>
+    <string name="everyday">Κάθε μέρα</string>
+    <string name="day">Ημέρα</string>
+    <string name="days">Εργάσιμες ημέρες</string>
+    <string name="weekends">Σαββατοκύριακο</string>
+    <string name="week">Εβδομάδα</string>
+    <string name="add_timer_success">Προστέθηκε με επιτυχία</string>
+    <string name="delete_timer_success">Διαγράφηκε με επιτυχία</string>
+    <string name="date">Ημέρα</string>
+
+    <string name="add_timer_failed">Αποτυχία προσθήκης χρονομέτρου</string>
+    <string name="delete_timer_failed">Απέτυχε η διαγραφή του χρονοδιακόπτη</string>
+    <string name="timer_set_err">Χρόνος καθυστέρησης</string>
+    <string name="only_number">Μόνο 8 χρονόμετρα επιτρέπονται.</string>
+
+
+    <string name="repassword">Επαναφορά κωδικού πρόσβασης</string>
+    <string name="commit">Υποβολή</string>
+    <string name="user_register">Εγγραφή</string>
+    <string name="password_not">Ο κωδικός πρόσβασης δεν μπορεί να είναι κενός</string>
+    <string name="enter_phone_numbers">Αριθμός τηλεφώνου or e-mail</string>
+    <string name="registering">Εγγραφή ...</string>
+    <string name="resend">Αποστολή ξανά</string>
+    <string name="change_user_info">Αλλαγή Πληροφοριών  χρήστη</string>
+    <string name="enter_name">Πληκτρολογήστε το νέο ψευδώνυμο</string>
+    <string name="name_not">Το ψευδώνυμο δεν μπορεί να είναι κενό</string>
+    <string name="modify_name_success">Τροποποίηση επιτυχής</string>
+    <string name="modify_name_failed">Τροποποίηση ψευδώνυμου απέτυχε</string>
+    <string name="change_password">Παλιός κωδικός</string>
+    <string name="email_number">Διεύθυνση ηλεκτρονικού ταχυδρομείου</string>
+    <string name="email_code">Κωδικός επαλήθευσης Email</string>
+    <string name="sms_number">Αριθμός τηλεφώνου</string>
+    <string name="sms_code">Αποστολή Κωδικού</string>
+
+    <string name="old_paswd_not">Ο παλιός κωδικός πρόσβασης δεν μπορεί να είναι κενό</string>
+    <string name="new_paswd_not">Ο νέος κωδικός πρόσβασης δεν μπορεί να είναι κενό</string>
+    <string name="secondary_not">Επιβεβαιώστε τον κωδικό πρόσβασης δεν μπορεί να είναι κενό</string>
+    <string name="two_passwords_notsam">Ο νέος κωδικός πρόσβασης δεν ταιριάζει</string>
+    <string name="info_old_paswd">Ο κωδικός πρόσβασης πρέπει να περιέχει τουλάχιστον 8 χαρακτήρες</string>
+    <string name="info_fomat_paswd">Τουλάχιστον 8 χαρακτήρες</string>
+    <string name="info_check_internet">Χωρίς δίκτυο, παρακαλούμε να ελέγξετε την κατάσταση του δικτύου</string>
+
+    <string name="info_fomat_email">Παρακαλώ συμπληρώστε μια έγκυρη διεύθυνση ηλεκτρονικού ταχυδρομείου</string>
+
+    <string name="info_again_enter">Λάθος παλιός κωδικός πρόσβασης, παρακαλούμε εισάγετε ξανά</string>
+    <string name="change_password_failed">Αποτυχία τροποποίησης τον κωδικού πρόσβασης:</string>
+    <string name="change_susess">Άλλαξε επιτυχώς</string>
+    <string name="user">Χρήστης</string>
+    <string name="user_online">Χωρίς σύνδεση χρήστη</string>
+    <string name="user_exist">Δεν υπάρχουν χρήστες</string>
+    <string name="share_success">Επιτυχής</string>
+    <string name="user_denied">Άρνηση</string>
+    <string name="user_sharex">Ήδη σε κοινή χρήση</string>
+    <string name="share_outtime">Μοιραστείτε το χρονικό όριο</string>
+    <string name="wait_requset">Επιβεβαιώνοντας</string>
+    <string name="share_device">Διαμοιρασμός συσκευής</string>
+    <string name="repeat_time">Επαναλάβετε το χρονοδιάγραμμα</string>
+
+    <string name="select_user">Επιλέξτε ένα χρήστη</string>
+    <string name="enter_phone_number">Λάθος αριθμός τηλεφώνου</string>
+    <string name="not_share_own">Διαμοιρασμός για τον εαυτό σας, δεν επιτρέπεται</string>
+    <string name="has_share">Ήδη σε κοινή χρήση</string>
+    <string name="err_cmdorfomat">Λάθος εντολή ή μορφή</string>
+    <string name="err_server">Σφάλμα Διακομιστή</string>
+    <string name="not_even">Ο αριθμός δεν είναι άρτιος:</string>
+    <string name="only_english">Μόνο Αγγλικά επιτρέπονται</string>
+    <string name="err_length">Δεν μπορεί να υπερβαίνει τους 512 χαρακτήρες</string>
+    <string name="enter_not_null">Η Είσοδος δεν μπορεί να είναι κενό</string>
+    <string name="device_info_title">Πληροφορίες συσκευής</string>
+    <string name="del_dialog">Διαγραφή χρονοδιακόπτη ...</string>
+
+    <string name="err_fomat">Λάθος μορφή:</string>
+    <string name="logining">Σύνδεση</string>
+    <string name="committime">Δημιουργία χρονομέτρου ...</string>
+    <string name="login_failed">Η σύνδεση απέτυχε,Λάθος κωδικός η λογαριασμός</string>
+    <string name="login_failed_normal">Η σύνδεση απέτυχε</string>
+    <string name="shook_on">Ανακίνηση: ανοιχτό</string>
+    <string name="shook_off">Ανακίνηση: κλειστό</string>
+    <string name="device_one">Συσκευή 1</string>
+    <string name="device_two">Συσκευή 2</string>
+    <string name="device_three">Συσκευή 3</string>
+    <string name="device_four">Συσκευή 4</string>
+    <string name="register_success">Επιτυχής εγγραφή</string>
+
+    <string name="switch_net_error">Σφάλμα εναλλαγής δικτύου, προσθέστε και πάλι</string>
+    <string name="connect_failed">Βεβαιωθείτε ότι η συσκευή βρίσκεται σε κατάσταση σύζευξης</string>
+    <string name="add_failed">Η προσθήκη απέτυχε </string>
+    <string name="repeat_password_success">Επαναφορά κωδικού επιτυχής</string>
+    <string name="register_failed">Αποτυχία εγγραφής</string>
+    <string name="downloading">Λήψη</string>
+    <string name="download_failed">Η λήψη απέτυχε, κάντε κλικ για να κατεβάσετε ξανά</string>
+    <string name="downloaded">Η λήψη ολοκληρώθηκε</string>
+    <string name="download_install">Η λήψη ολοκληρώθηκε, κάντε κλικ για εγκατάσταση</string>
+    <string name="download_complete">Η λήψη ολοκληρώθηκε</string>
+    <string name="not_internet">Μη διαθέσιμο δίκτυο</string>
+
+    <string name="add_group">Νέα ομάδα</string>
+    <string name="add_device_group">Νέα ομάδα συσκευών</string>
+    <string name="edit_group">Επεξεργασία ομάδας</string>
+
+    <string name="timer_set">Χρονοδιακόπτης</string>
+
+    <string name="info_kuzhai">Η EWeLink είναι μια ελεύθερη έξυπνη εφαρμογή για το σπίτι. \n\n Η εφαρμογή EWeLink μπορεί να ελέγξει όλα τα έξυπνα οικιακά προϊόντα από την ITEAD και τους συνεργάτες της. Υποστηρίζει απομακρυσμένη ενεργοποίηση / απενεργοποίηση συνδεδεμένων συσκευών, ρύθμιση χρονοδιαγραμμάτων, κοινή χρήση , διαχείριση ομάδας και scene / smart scene. Με την EWeLink, μπορείτε να προσαρμόσετε το χρώμα και τη φωτεινότητα για πολλαπλές λυχνίες RGB, μπορείτε να παρακολουθείτε τη θερμοκρασία και την υγρασία με το Sonoff TH, μπορείτε ακόμη και να παρακολουθείτε την ποιότητα του αέρα. \n\n ακόμα περισσότερες συσκευές είναι σε εξέλιξη, παρακαλώ μείνετε συντονισμένοι</string>
+    <string name="my_device">Η συσκευή μου</string>
+
+    <string name="add_new_timer">Νέος χρονοδιακόπτης</string>
+    <string name="repeat">Επανάληψη</string>
+    <string name="one">Ένα</string>
+    <string name="two">Δύο</string>
+    <string name="three">Τρία</string>
+    <string name="four">Τέσσερα</string>
+    <string name="five">Πέντε</string>
+    <string name="six">Έξι</string>
+    <string name="seven">Επτά</string>
+
+    <string name="complete">Αποθήκευση</string>
+    <string name="add_new_group">Προσθήκη νέας ομάδας</string>
+
+    <string name="info_newtime">Δεν υπάρχει χρονόμετρο, παρακαλώ πατήστε το εικονίδιο για να προσθέσετε το νέο χρονοδιακόπτη</string>
+    <string name="run_cmd">Επεξεργασία χρονοδιακόπτη</string>
+
+    <string name="switch_on">Ενεργοποίηση</string>
+    <string name="off_switch">Απενεργοποίηση</string>
+    <string name="time_set">Ρύθμιση ώρας</string>
+    <string name="single_timer">Ενιαίο χρονοδιάγραμμα</string>
+    <string name="modify_nickname">Τροποποίηση ψευδώνυμου</string>
+    <string name="undo_share">Διακοπή κοινής χρήσης</string>
+    <string name="hex_display">hex display</string>
+    <string name="enter_cmd">Παρακαλώ εισάγετε την εντολή</string>
+    <string name="assiic_directive">Οδηγία ASCII</string>
+    <string name="hex_directive">Δεκαέξι δεκαδικά </string>
+    <string name="clear_result">Καθαρισμός αποτελέσματος</string>
+    <string name="share">Κοινή χρήση</string>
+    <string name="display_send">Αποστολή οθόνης</string>
+    <string name="send_verification_code">Στείλτε</string>
+    <string name="register">Εγγραφή</string>
+    <string name="personal_infomation">Προσωπικές πληροφορίες</string>
+
+    <string name="message_center">Κέντρο μηνυμάτων</string>
+    <string name="intelligent_scene">eWeLink scene</string>
+    <string name="feedback">Ανατροφοδότηση</string>
+    <string name="login">Σύνδεση</string>
+    <string name="info_reset_password">Ξεχάσατε τον κωδικό σας;</string>
+    <string name="return_op">Πίσω</string>
+    <string name="return_space">Επιστροφή</string>
+
+    <string name="discovered_device">Βρέθηκαν συσκευές</string>
+    <string name="select_add_device">Προσθέστε μια συσκευή</string>
+    <string name="next">Επόμενο</string>
+    <string name="config_discover_device">Διαμόρφωση συσκευών που βρέθηκαν</string>
+    <string name="remember_wifi_password">Να θυμάσαι τον κωδικό</string>
+    <string name="name_device">Το όνομα αυτής της συσκευής</string>
+    <string name="my_smart_socketone">Η συσκευή μου</string>
+    <string name="one_gear">Ταχύτητα Επίπεδο 1</string>
+    <string name="two_gear">Ταχύτητα Επίπεδο 2</string>
+    <string name="third_gear">Ταχύτητα Επίπεδο 3</string>
+
+    <string name="stall_mode">Λειτουργία</string>
+    <string name="temperature_mode">Λειτουργία θερμοκρασίας</string>
+    <string name="current_temperature">Τρέχουσα θερμοκρασία.</string>
+    <string name="loading">Φόρτωση...</string>
+    <string name="old_password">Παλιός κωδικός</string>
+    <string name="new_password">Νέος Κωδικός</string>
+    <string name="enter_new_passwod">Εισάγετε νέο κωδικό</string>
+    <string name="again_new_password">Εισάγετε νέο κωδικό</string>
+    <string name="set_group_nameicon">Ονομάστε την ομάδα και ορίστε εικονίδιο</string>
+    <string name="enter_group_name">Εισαγωγή ονόματος ομάδας </string>
+    <string name="selected_icon">Επιλέξτε εικονίδιο</string>
+    <string name="upload_icon">Φορτώστε εικονίδιο </string>
+
+    <string name="enter_share_nuber">Πληκτρολογήστε τον αριθμό τηλεφώνου που θέλετε να μοιραστείτε</string>
+    <string name="find_new_version">Βρέθηκε νέα έκδοση, αναβαθμίστε</string>
+    <string name="upgrade">Αναβάθμιση</string>
+    <string name="enter_device_name">Πληκτρολογήστε νέο όνομα</string>
+    <string name="recevice_equipment">Έχετε λάβει ένα κοινόχρηστο μήνυμα πρόσκλησης συσκευής</string>
+    <string name="my_devices">Η συσκευή μου</string>
+    <string name="delete">Διαγράφη</string>
+    <string name="firmware_upgrade">Αναβάθμιση firmware</string>
+
+    <string name="register_users">Εγγραφή</string>
+    <string name="login_btn">Κουμπί Εισόδου</string>
+    <string name="reset_password">Επαναφορά κωδικού πρόσβασης</string>
+    <string name="send_notification_msg">Αποστολή msg </string>
+    <string name="set_timer_time">Ενιαίο χρονόμετρο</string>
+    <string name="set_repeat_time">Επανάληψη χρονομέτρου</string>
+    <string name="set_delay_time">Αντίστροφη μέτρηση </string>
+    <string name="setting_in">Επιβεβαίωση</string>
+    <string name="minutes">Λεπτά αργότερα</string>
+    <string name="cut">Διακοπή</string>
+    <string name="manager_group">Διαχείριση ομάδων</string>
+    <!--<string name="exit_coolkit">Έξοδος COOLKIT -></string>-->
+
+    <!--<string name="app_name">COOLKIT -></string>-->
+    <string name="app_name">EWeLink</string>
+    <string name="reciver_invite">Ο χρήστης %1$s θέλει να μοιραστεί%2$s μαζί σας, συμφωνείτε;</string>
+    <string name="new_home_kit">eWeLink %1$s apk ενημέρωση</string>
+    <string name="versionString">Έκδοση: %1$s , ελέγξτε για νέα έκδοση</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Ρυθμίσεις</string>
+    <string name="select_wifi">Παρακαλώ επιλέξτε Wi-Fi</string>
+    <string name="input_phone">Εισάγετε τον αριθμό τηλεφώνου</string>
+    <string name="input_email">Εισάγετε ηλεκτρονική διεύθυνση</string>
+    <string name="name_or_pwd_is_empty">Το όνομα χρήστη ή ο κωδικός πρόσβασης είναι κενός</string>
+    <string name="account_notvalid">Μη έγκυρος λογαριασμός</string>
+    <string name="input_account">Εισάγετε το λογαριασμό σας</string>
+    <string name="phone_notvalid">Μη έγκυρος αριθμός τηλεφώνου</string>
+
+    <string name="not_intent_word">Δεν υπάρχει διαθέσιμο Wi-Fi</string>
+    <string name="select_date">Επιλέξτε τουλάχιστον μία ημέρα</string>
+    <string name="title_update">Αναβάθμιση Firmware , παρακαλώ περιμένετε</string>
+    <string name="lineoff_device">Συσκευή χωρίς σύνδεση</string>
+    <string name="deviceupdate">Αναβάθμιση Firmware, παρακαλούμε να μην λειτουργεί επανειλημμένα</string>
+    <string name="timers">Χρονοδιακόπτης</string>
+    <string name="everydays">Κάθε μέρα</string>
+    <string name="workdate">Καθημερινές</string>
+    <string name="weekdate">Σαββατοκύριακο</string>
+    <string name="weeks">Εβδομάδα</string>
+    <string name="ones">Δευ</string>
+    <string name="twos">Τρι</string>
+    <string name="threes">Τετ</string>
+    <string name="fours">Πεμ</string>
+    <string name="fives">Παρ</string>
+    <string name="sixs">Σαβ</string>
+    <string name="timeday">Κυρ</string>
+    <string name="add_timers_success">Προστέθηκε με επιτυχία</string>
+    <string name="update_timers_ok">Ενημερώθηκε με επιτυχία</string>
+    <string name="update_timers_delay_ok">Ενημερώθηκε με επιτυχία</string>
+    <string name="delete_timers_ok">Διαγράφηκε με επιτυχία</string>
+
+    <string name="onces">Μια φορά</string>
+    <string name="describ_feebback">Αφήστε τα σχόλιά σας εδώ</string>
+    <string name="feedback_success">Υποβλήθηκε με επιτυχία</string>
+    <string name="usernot_exsit">Δεν υπάρχει χρήστης, παρακαλώ εγγραφείτε</string>
+    <string name="feedback_fail">υποβολή απέτυχε</string>
+    <string name="dataerr">Σφάλμα δεδομένων, παρακαλούμε προσθέσετε ξανά</string>
+    <string name="dev_offline">Συσκευή χωρίς σύνδεση </string>
+    <string name="outtimer">Αίτημα χρονικού ορίου</string>
+    <string name="choice_part">Επιλέξτε μια περιοχή</string>
+    <string name="version">Δοκιμή</string>
+    <string name="about_coolkit_weixin">Ακλουθώντας τον επίσημο λογαριασμό WeChat, μπορείτε να ελέγχετε όλες τις συσκευές σας μέσω πρόσβασης στο λογαριασμό eWeLink. Απλά σαρώστε τον κωδικό QR παραπάνω.</string>
+
+    <string name="error_sms_code">Λάθος κωδικός επαλήθευσης, δοκιμάστε ξανά</string>
+    <string name="reset_error">Επαναφορά σφάλματος</string>
+    <string name="reset_fail">Επαναφορά απέτυχε</string>
+    <string name="dont_reset_agin">Αυτός ο λογαριασμός υπάρχει ήδη. Σας παρακαλώ μην εγγραφείτε ξανά</string>
+    <string name="countrycode_smscode_error">Λάθος κωδικός χώρας ή κωδικός επαλήθευσης</string>
+
+    <string name="send_msg_limit">Υπέρβαση του μέγιστου αριθμού αιτημάτων επαλήθευσης</string>
+    <string name="send_msg_fail_check">Απέτυχε η αποστολή SMS, παρακαλούμε ελέγξετε την κατάσταση δικτύου</string>
+    <string name="send_msg_fail">Απέτυχε η αποστολή SMS</string>
+
+    <string name="send_email_fail_check">Αποτυχία αποστολής e-mail, παρακαλούμε να ελέγξετε την κατάσταση του δικτύου</string>
+    <string name="send_email_fail">Αποτυχία αποστολής e-mail</string>
+
+    <string name="send_email_success">Μήνυμα ηλεκτρονικού ταχυδρομείου εστάλη με επιτυχία, ελέγξτε</string>
+    <string name="send_sms_success">Μήνυμα στάλθηκε  με επιτυχία, ελέγξτε</string>
+    <string name="confirm">Επιβεβαίωση</string>
+    <string name="confirm_en_ok">Εντάξει</string>
+    <string name="add_confirm">Εντάξει</string>
+    <string name="puls_select"> Επιλέξτε κανάλι</string>
+
+    <string name="edit_dialog">Επεξεργασία χρονοδιακόπτη</string>
+    <!-- <string name="del_dialog">Διαγραφή χρονοδιακόπτη -></string>-->
+    <string name="connectto_nopwd">Δεν έχει εισαχθεί κωδικός πρόσβασης, είστε σίγουροι ότι το Wi-Fi δεν έχει κωδικό πρόσβασης;</string>
+    <string name="infoweek">Εβδομάδα</string>
+    <string name="equesdate">Λάθος ρύθμιση ώρας , δεν μπορείτε να ρυθμίσετε το χρονόμετρο για την τρέχουσα ώρα</string>
+    <string name="SSID_no_chinese">Το SSID δεν μπορεί να περιέχει κινέζικους χαρακτήρες</string>
+    <string name="pwd_no_chinese">Ο κωδικός πρόσβασης δεν μπορεί να περιέχει κινέζικους χαρακτήρες</string>
+    <string name="Wifi_Name">Πρόσβαση συσκευής Wi-Fi:</string>
+    <string name="Wifi_PassWord">Κωδικός Wi-Fi:</string>
+    <string name="wifi_password_none">Ο κωδικός πρόσβασης είναι κενός</string>
+    <string name="change_name">Αλλαγή ονόματος συσκευής</string>
+    <string name="only_owner">Μόνο ο ιδιοκτήτης μπορεί να δει </string>
+    <string name="productinfo">Πληροφορίες συσκευής</string>
+    <string name="notgrade">Τελευταίο</string>
+    <string name="firmware">Έκδοση Firmware:</string>
+    <string name="canupgrade">Κάντε κλικ για αναβάθμιση</string>
+    <string name="infoupgrade">Το Firmware μπορεί να αναβαθμιστεί, παρακαλούμε πηγαίνετε στις ρύθμισης συσκευής για την ενημέρωση του firmware</string>
+    <string name="deviceoffline">Συσκευή εκτός σύνδεσης  </string>
+    <string name="et_search">Αναζήτηση</string>
+
+    <string name="name_repeat">Διπλότυπο Όνομα</string>
+
+    <string name="power_on">Ενεργό</string>
+    <string name="power_off">Ανενεργό</string>
+    <string name="info_updateerr">Η συσκευή είναι εκτός σύνδεσης, δεν μπορείτε να αναβαθμίσετε τώρα</string>
+    <string name="confirm_new_password">Επιβεβαίωση Κωδικού</string>
+    <string name="change_password_out">Άλλαξε κωδικό</string>
+    <string name="virtual_fengshan">Ανεμιστήρας</string>
+    <string name="virtual_chazhuo">Πρίζα</string>
+    <string name="line_real_device">Παρακαλώ συνδεθείτε σε μια πραγματική συσκευή</string>
+    <string name="hour">Ώρα</string>
+    <string name="check_wifi">Παρακαλώ ελέγξτε το δίκτυό σας</string>
+    <string name="group_add">Προσθήκη ομάδας</string>
+    <string name="group_del">Κατάργηση ομάδας</string>
+    <string name="try_again_later">Παρακαλώ δοκιμάστε ξανά αργότερα</string>
+
+
+    <string name="send_config_over_time">Προσθήκη συσκευής εκτός χρονικού ορίου , δοκιμάστε ξανά</string>
+    <string name="begintime">Ώρα έναρξης</string>
+    <string name="intervaltime">Διάστημα</string>
+    <string name="keeptime">Διάρκεια</string>
+
+    <string name="keep_not">Η Διάρκεια δεν μπορεί να είναι μηδέν</string>
+    <string name="interval_not">Το χρονικό διάστημα δεν μπορεί να είναι μηδέν</string>
+    <string name="keep_smaller_interval">Η Διάρκεια πρέπει μικρότερη από το διάστημα</string>
+    <string name="switch_open">Ενεργό</string>
+    <string name="switch_close">Ανενεργό</string>
+    <string name="start_action">Εκκίνηση</string>
+    <string name="end_action">Τέλος</string>
+    <string name="data_exception">Εξαίρεση δεδομένων, δοκιμάστε ξανά αργότερα</string>
+    <string name="switchcountry">Επέλεξε τη χώρα σου</string>
+    <string name="password">Κωδικός πρόσβασης</string>
+    <string name="language_actionbar_text">Αλλαγή γλώσσας </string>
+    <string name="current_version">Ρεύμα</string>
+    <string name="change_nickname">Αλλαγή Ψευδώνυμου</string>
+    <string name="nickname">Εισάγετε νέο ψευδώνυμο</string>
+    <string name="on_change_language">Εναλλαγή</string>
+    <string name="go_on">Συνέχεια</string>
+    <string name="add_device">Προσθέστε συσκευή</string>
+    <string name="retry">Προσπαθήστε ξανά</string>
+    <string name="retry_space">Προσπαθήστε ξανά</string>
+    <string name="device_list">Οι συσκευές μου</string>
+    <string name="change_language">Άλλαξε γλώσσα</string>
+    <string name="user_pwd">Κωδικός πρόσβασης</string>
+    <string name="search_failed">Η αναζήτηση απέτυχε, παρακαλώ προσπαθήστε ξανά</string>
+    <string name="sure_quit_add">Επιβεβαιώστε,θέλετε να εγκαταλείψετε την αντιστοίχιση;</string>
+
+    <string name="over">Τέλος</string>
+    <string name="connected_device_wait">Σύνδεση της συσκευής, παρακαλώ περιμένετε ...</string>
+    <string name="regist_device_wait">Εγγραφή, παρακαλώ περιμένετε ...</string>
+    <string name="device_has_been_register">Έχετε ήδη προσθέσει τη συσκευή!</string>//todo
+    <string name="delete_failed">Έλεγχο</string>
+    <string name="groupName_notRepeat">Διπλότυπο όνομα ομάδας</string>
+    <string name="groupName_not">Το όνομα της ομάδας δεν μπορεί να είναι κενό</string>
+    <string name="add_success">Προστέθηκε με επιτυχία!</string>
+    <string name="operat_success">Επιτυχώς</string>
+    <string name="switch_power">power:</string>
+    <string name="operating">Λειτουργικό</string>
+    <string name="device_belong_other">Η συσκευή ανήκει σε άλλο χρήστη!</string>
+    <string name="back_device_list">Πίσω στη λίστα</string>
+    <string name="device_setting">Ρυθμίσεις</string>
+    <string name="connect_device_fail">Αποτυχία σύνδεσης με τη συσκευή. Παρακαλώ προσπάθησε ξανά</string>
+    <string name="notfound_deviceversion">Δεν βρέθηκε νέο firmware </string>
+    <string name="only_own_operate">Λειτουργία μόνο για τον κάτοχο</string>
+    <string name="alert_feedback">Ανατροφοδότηση</string>
+    <string name="delete_device">Διαγραφή συσκευής</string>
+    <string name="open">Ανοιχτό</string>
+    <string name="close">Κλειστό</string>
+    <string name="vibration_switch">Διακόπτης δόνησης </string>
+    <string name="please_close">Κλείστε</string>
+    <string name="no_sensor">Αποτυχία ανάγνωσης δεδομένων αισθητήρα. Ελέγξτε τη σύνδεση</string>
+    <string name="no_permission_try_system">Χρειάζεστε άδεια. Μπορείτε να δοκιμάσετε να ζητήσετε ρύθμιση του συστήματος</string>
+    <string name="need_extra_permission">Χρειάζεστε επιπλέον άδεια . θέλετε ζητήσετε;</string>
+    <string name="need_permission_coarse">Παραχωρήστε στο δίκτυο EweLink άδεια για την τοποθεσία ή διαφορετικά δεν θα μπορείτε να προσθέσετε συσκευή!</string>
+
+
+    <!--温湿度翻译-->
+    <string name="uread">Αδιάβαστο </string>
+    <string name="hum_detail">Η τιμή υγρασίας πρέπει να είναι μεταξύ 0-100</string>
+    <string name="first_big_than_second">Η τιμή του πρώτου κενού δεν μπορεί να είναι μικρότερο από το δεύτερο κενό</string>
+    <string name="please_enter_condition">Παρακαλώ εισάγετε  </string>
+    <string name="hum_bigger_than">Υψηλότερη από</string>
+    <string name="hum_smaller_than">Χαμηλότερη από</string>
+    <string name="temp_bigger_than">Υψηλότερη από</string>
+    <string name="temp_smaller_than">Χαμηλότερη από</string>
+    <string name="temp_setting">Θερμοκρασία</string>
+    <string name="hum_setting">Υγρασία</string>
+    <!---->
+
+    <string name="change_nickname_success">Άλλαξε επιτυχώς</string>
+    <string name="operat_fail_retry">Η λειτουργία απέτυχε, παρακαλώ δοκιμάστε αργότερα!</string>
+    <string name="auto_model">Αυτόματο</string>
+    <string name="manual_model">Χειροκίνητο</string>
+    <string name="auto_model_unable_control">Αδυναμία έλεγχου διακόπτη στην αυτόματη λειτουργία</string>
+    <string name="enter_account">Παρακαλώ εισάγετε λογαριασμό</string>
+    <string name="power_stay">Αναμονή</string>
+    <string name="no_address">Δεν συμπληρώσατε επαφή ,  συνεχεία;</string>
+    <string name="long_press_button">Πατήστε και κρατήστε πατημένο το κουμπί αντιστοίχισης μέχρι το LED να αναβοσβήνει γρήγορα</string>
+    <string name="choice_describe">Επιλέξτε μέθοδο ζευγαρώματος.</string>
+    <string name="first_part">1η μέθοδος ζευγαρώματος: Το LED αναβοσβήνει 1 φορά και επαναλαμβάνετε.</string>
+    <string name="second_part">2η μέθοδος ζευγαρώματος: Το  LED αναβοσβήνει 3 φορές και  κατ \'επανάληψη.</string>
+    <string name="other_case">Σε άλλες περιπτώσεις,</string>
+    <string name="choice_state">Επιλέξτε πολιτεία</string>
+    <string name="not_find">Δεν βρέθηκαν συσκευές</string>
+    <string name="add_new_scene">Προσθήκη scene</string>
+    <string name="scene_name">Όνομα scene</string>
+    <string name="scene_setting">Ρυθμίσεις scene</string>
+    <string name="scene_list_is_null">Λίστα συσκευών scene είναι άδεια</string>
+    <string name="please_enter_scene_name">Παρακαλώ εισάγετε το όνομα του scene</string>
+    <string name="updae_scene_fail">Αποτυχία τροποποίησης scene</string>
+    <string name="save_scene_fail">Αποτυχία αποθήκευσης scene</string>
+    <string name="execute">Εκτέλεση</string>
+    <string name="request_time_out">Αίτημα χρονικού ορίου</string>
+    <string name="delete_scene">Διαγραφή scene</string>
+    <string name="delete_scene_fail">Διαγραφή scene απέτυχε</string>
+    <string name="scene_limit">Μόνο 20 scene επιτρέπονται</string>
+    <string name="channel1">Κανάλι 1:</string>
+    <string name="channel2">Κανάλι 2:</string>
+    <string name="channel3">Κανάλι 3:</string>
+    <string name="channel4">Κανάλι 4:</string>
+    <string name="keep">Διατήρηση</string>
+    <string name="delete_scene_success">Διαγράφη scene επιτυχής</string>
+    <string name="channel">Έξοδος</string>
+    <string name="channel_name">Όνομα καναλιού</string>
+    <string name="production">Εισαγωγή προϊόντων</string>
+    <string name="weichatQR">Εγγραφή λογαριασμού WeChat  </string>
+    <string name="channel_name_not_be_empty">Το όνομα του καναλιού δεν μπορεί να είναι κενό</string>
+    <string name="latest_version">Τελευταία:</string>
+
+    <string name="wait_for_confirm">Αναμονή για επιβεβαίωση</string>
+    <string name="Scene_log_detail">Λεπτομέρειες</string>
+
+    <string name="efan_model">Μοντέλο</string>
+    <string name="efan_normal">κανονικό</string>
+    <string name="efan_natural">Φυσικό</string>
+    <string name="efan_sleep">Αδράνεια</string>
+    <string name="open_efan_first">Παρακαλούμε ενεργοποιήστε τον ανεμιστήρα</string>
+    <string name="efan_speed">Ταχύτητα</string>
+    <string name="efan_shake">Ταλάντευση</string>
+
+    <string name="success">Επιτυχής</string>
+    <string name="failed">Απέτυχε</string>
+    <string name="history">Ιστορικό</string>
+    <string name="one_key_clean">Καθάρισε</string>
+
+    <string name="slide_right_operat_device">Σύρετε προς τα δεξιά για να χειριστείτε επιλεγμένες συσκευές</string>
+    <string name="slide_right_group_device">Σύρετε προς τα δεξιά  για να κάνετε ομαδοποίηση</string>
+    <string name="click_scene_group">Προσθήκη scene εδώ</string>
+
+    <string name="i_know">Το κατάλαβα</string>
+    <string name="click_set_channel_name">Πατήστε για να ονομάσετε κάθε κανάλι</string>
+    <string name="device_offline_check_net">Συσκευή εκτός σύνδεσης, ελέγξτε το δίκτυο</string>
+    <string name="sure_delete_scene">Είστε βέβαιοι θέλετε αφαιρέσετε το scene;</string>
+    <string name="open_fan">Άνοιγμα ανεμιστήρα</string>
+    <string name="close_fan">Κλείσιμο ανεμιστήρα</string>
+    <string name="resetting">Επαναφορά ...</string>
+    <string name="open_switch_first">Παρακαλούμε ενεργοποιήστε το διακόπτη</string>
+    <string name="start">Εκκίνηση</string>
+    <string name="end">Τέλος</string>
+    <string name="current_power">Τρέχουσα ισχύς:</string>
+    <string name="total_power">Σύνολο</string>
+    <string name="kwh">kW.h</string>
+    <string name="day_power">Καθημερινή κατανάλωση ηλεκτρικής ενέργειας</string>
+    <string name="jan">Ιαν</string>
+    <string name="feb">Φεβ </string>
+    <string name="mar">Μαρ</string>
+    <string name="apr">Απρ </string>
+    <string name="may">Μια</string>
+    <string name="june">Ιουν </string>
+    <string name="july">Ιουλ </string>
+    <string name="aug">Αυγ </string>
+    <string name="sept">Σεπ </string>
+    <string name="oct">Οκτ </string>
+    <string name="nov">Νοε </string>
+    <string name="dec">Δεκ </string>
+    <string name="current_month_power">Σύνολο</string>
+    <string name="current_power_title">Τρέχουσα ισχύς</string>
+    <string name="history_power">Ιστορικό ηλεκτρικής ενέργειας</string>
+
+    <string name="title_activity_main">Κύρια δραστηριότητα</string>
+    <string name="county_locale">Χώρα/τοπικό</string>
+
+    <string name="app_version">v0.3.4.3</string>
+    <string name="tvApSsidTitle">SSID:</string>
+    <string name="tvPasswordTitle">Κωδικός πρόσβασης:</string>
+    <string name="switchIsSsidHiddenTitle">Κρυφό  SSID  </string>
+    <string name="spinnerTaskResultCountTitle">Αρίθμηση αποτελεσμάτων</string>
+    <string name="btnConfirmTitle">Επιβεβαίωση</string>
+    <string name="title_activity_mask_actvity">Δραστηριότητα Mask </string>
+    <string name="title_activity_main22">Κύρια 22 Δραστηριότητα</string>
+    <string name="title_activity_show_adding_device_type_actvity">Εμφάνιση δραστηριότητας προσθήκης τύπου συσκευής</string>
+    <string name="found_gen_one">Βρέθηκε συσκευή πρώτης γενιάς  \n%1$s</string>
+    <string name="found_gen_two">Βρέθηκε συσκευή δεύτερης γενιάς</string>
+    <string name="device_registing">Εγγραφή ...</string>
+    <string name="first_requesting">Πρώτο αίτημα ...</string>
+    <string name="second_requesting">Δεύτερο αίτημα...</string>
+    <string name="device_regist_done">Ολοκλήρωση εγγραφής</string>
+    <string name="device_add_finish">Ολοκλήρωση</string>
+    <string name="change_net">Αλλαγή Wi-Fi</string>
+    <string name="pls_enable_wifi">Παρακαλούμε ενεργοποιήστε το Wi-Fi</string>
+    <string name="delete_group_ok">Διαγραφή ομάδας επιτυχής</string>
+    <string name="delete_group_fails">Η διαγραφή της ομάδας απέτυχε</string>
+    <string name="update_success">Επιτυχής ενημέρωση ομάδας</string>
+    <string name="title_activity_debug_settings">Ρυθμίσεις</string>
+
+    <string name="confirm_to_state_pair">Συσκευή σε κατάσταση ζευγαρώματος Επιβεβαίωση</string>
+    <string name="longpress_to_state_pair">Πατήστε και κρατήστε πατημένο το κουμπί αντιστοίχισης για 5 δευτερόλεπτα μέχρι η συσκευή μπει σε κατάσταση αντιστοίχισης</string>
+    <string name="other_pair_instruction_led">Για να τεθεί σε κατάσταση αντιστοίχισης το Sonoff , ενεργοποιήστε και απενεργοποιήστε 3 φορές, το χρονικό διάστημα μεταξύ ενεργοποίησης και απενεργοποίησης θα πρέπει να είναι 2 δευτερόλεπτα, η ένδειξη LED θα αναβοσβήνει γρήγορα.</string>
+    <string name="other_pair_instruction">Οδηγίες Σύζευξης</string>
+    <string name="choose_wifi">Επιλέξτε ένα Wi-Fi</string>
+    <string name="pairing">Σύζευξη ...</string>
+    <string name="pair_failure">Σύζευξη απέτυχε</string>
+    <string name="pair_failure_reason_title_cannot_found_device">Δεν είναι δυνατή η εύρεση της συσκευής, ελέγξτε την ακόλουθη διαμόρφωση</string>
+    <string name="pair_failure_reason_title_error_in_process">Σφάλμα διαδικασίας επικοινωνίας, παρακαλούμε να λειτουργούν σύμφωνα με τις οδηγίες</string>
+    <string name="pair_failure_reason_check_assistant">Παρακαλώ ελέγξτε το Mobile Security και Antivirus , βεβαιωθείτε ότι η eWeLink έχει πρόσβαση σε Wi-Fi και τοποθεσία.</string>
+    <string name="pair_failure_reason_check_device_pair_state">Η συσκευή σας δεν είναι σε λειτουργία αντιστοίχησης, τίθεται σε λειτουργία αντιστοίχισης τώρα.</string>
+    <string name="pair_failure_reason_cannot_connect_manual_setting">Απέτυχε η αυτόματη σύνδεση στο Wi-Fi της συσκευής, παρακαλούμε να συνδεθείτε με το χέρι. Βήματα: τηλέφωνο Ρυθμίσεις-> Wi-Fi, συνδεθείτε με το Wi-Fi "ITEAD - ******" με κωδικό \"12345678 \".</string>
+    <string name="pair_failure_reason_timeout_first_request">1η χρονική υπέρβαση στην επικοινωνία, παρακαλώ προσπαθήστε ξανά</string>
+    <string name="pair_failure_reason_timeout_second_request">2η χρονική υπέρβαση στην επικοινωνία, παρακαλώ προσπαθήστε ξανά</string>
+    <string name="pair_failure_reason_check_wifi_pwd">Επιβεβαιώστε ότι έχετε εισάγει το σωστό κωδικό πρόσβασης Wi-Fi</string>
+    <string name="pair_failure_reason_check_net_enable">Απέτυχε, επιβεβαιώστε ότι το κινητό σας δίκτυο λειτουργεί κανονικά, και δοκιμάστε ξανά αργότερα</string>
+    <string name="goto_system_setting">Στη συνέχεια, επιστρέψτε στο eWeLink. ρύθμιση συστήματος Wi-Fi</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">Γενικά</string>
+
+    <string name="pref_title_social_recommendations">Ενεργοποιήστε τις κοινωνικές συστάσεις</string>
+<string name="pref_description_social_recommendations">Recommendations for people to contactΣυστάσεις για επικοινωνία
+based on your message history
+</string>
+
+    <string name="pref_title_display_name">Εμφανιζόμενο όνομα</string>
+    <string name="pref_default_display_name">Τζον Σμιθ</string>
+
+    <string name="pref_title_add_friends_to_messages">Προσθέστε φίλους σε μηνύματα</string>
+
+    <string name="pref_title_system_sync_settings">Ρυθμίσεις συγχρονισμού συστήματος</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Ειδοποιήσεις</string>
+
+    <string name="pref_title_new_message_notifications">Νέες ειδοποιήσεις μηνυμάτων</string>
+
+    <string name="pref_title_ringtone">Ήχος κλήσης</string>
+    <string name="pref_ringtone_silent">Σιωπηλό</string>
+
+    <string name="pref_title_vibrate">Δόνηση</string>
+    <string name="open_led">Παρακαλώ ενεργοποιήστε το φως</string>
+    <string name="add_new_smart_scene">Προσθέστε νέο scene</string>
+    <string name="where_it_meet">Όταν συναντά:</string>
+    <string name="device_excute">Εκτέλεση:</string>
+    <string name="when_temp">≥ θερμοκρασία</string>
+    <string name="tme_end_show">℃</string>
+    <string name="when_temp_less">≤ θερμοκρασία</string>
+    <string name="when_hum_more">υγρασία ≥</string>
+    <string name="when_hum_less">υγρασία ≤</string>
+    <string name="hum_end_show">%</string>
+    <string name="no_add_trgiger">Χωρίς εντολή ενεργοποίησης</string>
+    <string name="no_excute_result">Χωρίς αποτελέσματα εντολών</string>
+    <string name="tem_hum_temperature">Θερμοκρασία</string>
+    <string name="tem_hum_humdity">Υγρασία</string>
+    <string name="select_switch_operation">Επιλέξτε τη λειτουργία του διακόπτη</string>
+    <string name="enter_params">Παρακαλώ παραμέτρους εισόδου</string>
+    <string name="select_condition">Επιλέξτε κατάσταση</string>
+    <string name="smart_scene_time">Χρόνος:</string>
+    <string name="smart_scene">Smart scene</string>
+    <string name="two_temp_cant_be_equals">Η τιμή της θερμοκρασίας δεν μπορεί να είναι ίση</string>
+    <string name="two_hum_cant_be_equals">Η τιμή της υγρασίας δεν μπορεί να είναι ίση</string>
+
+    <string name="add_success2">Προστέθηκε με επιτυχία</string>
+    <string name="add_success_but_not_name">Προστέθηκε με επιτυχία. Ονομασία απέτυχε. Χρήση προεπιλεγμένου Ονόματος%1$s</string>
+    <string name="confirm_quit_name">Κλείσιμο απ την ονομασία συσκευής;</string>
+    <string name="device_name_default">Η συσκευή μου %1$s</string>
+    <string name="scene_device_list">Λίστα συσκευών</string>
+    <string name="tem_detail">Η τιμή της θερμοκρασίας πρέπει να είναι μεταξύ -999 ~ 999</string>
+    <string name="first_smaller_second">Η τιμή του πρώτου κενού πρέπει να είναι μικρότερη από το δεύτερο κενό</string>
+    <string name="third_smaller_fourth">Η τιμή του τρίτου κενού πρέπει να είναι μικρότερη από το τέταρτο κενό</string>
+
+    <string name="device_dispatching">Σύνδεση διακομιστή …</string>
+    <string name="wifi_name">Όνομα Wi-Fi</string>
+    <string name="wifi_pwd">Κωδικός Wi-Fi </string>
+    <string name="click_me_to_select">Κάντε κλικ εδώ για να επιλέξετε συσκευή</string>
+    <string name="current_scene_no_device">Δεν υπάρχουν συσκευές στο τρέχων scene</string>
+
+
+    <string name="has_not_change_to_device_host">(Δεν είναι συνδεδεμένο με τη συσκευή υποδοχής \'s ακόμη)</string>
+    <string name="choose_device">Επιλέξτε συσκευή</string>
+    <string name="no_choice_device">Προαιρετική συσκευή</string>
+    <string name="cardview_device_off_line">Εκτός σύνδεσης</string>
+    <string name="new_no_device_alert">Δεν υπάρχουν συσκευές αυτήν τη στιγμή, πατήστε το κουμπί για προσθήκη</string>
+    <string name="splash_timer">Χρονόμετρο</string>
+    <string name="splash_timer_text">Ενιαίο κανάλι πρίζας / διακόπτη υποστήριξη κυκλικού χρονομέτρου! Ο κυκλικός χρονοδιακόπτης μπορεί να εκτελεστεί αυτόματα κάθε προκαθορισμένο χρόνο (π.χ. 1 ώρα) και να συνεχίσει για μικρότερο προκαθορισμένο χρόνο (για παράδειγμα 20 λεπτά). Υποστηριζόμενη έκδοση firmware 1.5.0 και νεότερη</string>
+    <string name="share_splash_text">Θέλετε την οικογένεια και τους φίλους σας να ελέγχουν τις συσκευές σας; Απλά μοιραστείτε τις συσκευές σας στους λογαριασμούς τους!</string>
+    <string name="splash_share_device">Διαμοιρασμός συσκευής</string>
+    <string name="goto_ewelink">Εισάγετε eWeLink</string>
+    <string name="back">Πίσω</string>
+    <string name="everything_connect">Internet of Everything</string>
+
+    <string name="delay_timers">Χρονόμετρο αντίστροφης μέτρησης</string>
+    <string name="weekday">Ημέρα:</string>
+    <string name="new_timer_repeat">Επανάληψη:</string>
+    <string name="action_one">Μια φορά</string>
+    <string name="action_repeat">Επανάληψη</string>
+    <string name="new_timer_action">Εναλλαγή:</string>
+    <string name="new_timer_channel">Κανάλι:</string>
+    <string name="new_timer_data">Ημερομηνία</string>
+    <string name="new_timer_time">Ώρα</string>
+    <string name="new_timer_minute">Λεπτά</string>
+    <string name="new_timer_after">Μετά</string>
+    <string name="refresh_power">Ανανέωση</string>
+    <string name="delay">Αντίστροφη μέτρηση</string>
+    <string name="thisyear">Αυτή την χρονιά</string>
+    <string name="nextyear">Του χρόνου</string>
+    <string name="timer_start">Εκκίνηση</string>
+    <string name="coldwarm">Λειτουργία</string>
+    <string name="brightness">Φωτεινότητα</string>
+    <string name="delay_timer_cant_edit">Δεν είναι δυνατή η επεξεργασία. Δοκιμάστε ξανά μετά τη διαγραφή ή την απενεργοποίηση των υφιστάμενων χρονομέτρων.</string>
+    <string name="no_custome_timer">Δεν χρονόμετρα σήμερα. Πατήστε κουμπί παρακάτω για να προσθέσετε το τώρα!</string>
+    <string name="no_delay_timer">Δεν υπάρχουν χρονόμετρα αντίστροφης μέτρησης. Πατήστε το κουμπί παρακάτω για να προσθέσετε τώρα!</string>
+    <string name="only_timer_number">Επιτρέπονται έως 20 χρονόμετρα(περιλαμβάνει αντίστροφη μέτρηση και κυκλικό χρονόμετρο)</string>
+    <string name="only_timer_active_number"> Επιτρέπονται έως 8 ενεργοποιημένοι χρονοδιακόπτες(περιλαμβάνει αντίστροφη μέτρηση και κυκλικό χρονόμετρο)</string>
+    <string name="device_offline_cant_operat">Συσκευή εκτός σύνδεσης, δεν μπορεί να λειτουργήσει τώρα</string>
+    <string name="add_delay_timers_success">προστέθηκε με επιτυχία</string>
+    <string name="create_delay">Δημιουργία χρονομέτρου αντίστροφης μέτρησης ...</string>
+    <string name="delete_delayt_ok">Διαγράφηκε με επιτυχία</string>
+    <string name="delete_delay_dialog">Διαγραφή χρονομέτρου αντίστροφης μέτρησης ...</string>
+
+
+    <string name="copy_text_and_open_wechat">Αντιγραφή WeChat λογαριασμού και ακολουθήστε</string>
+    <string name="has_not_installed_wechat">Δεν έχετε εγκαταστήσει WeChat ακόμα</string>
+    <string name="wechat_subscription_can_also_control">(Συσκευές ελέγχου WeChat)</string>
+
+    <string name="all_device">Όλες οι συσκευές</string>
+    <string name="my_share">Συσκευές που μοιράζομαι</string>
+    <string name="share_to_me">Συσκευές που μοιράζονται άλλοι</string>
+    <string name="device_ungroup">Συσκευές που δεν έχουν ομάδα</string>
+    <string name="device_remove_from_group">Αφαίρεση από αυτήν την ομάδα;</string>
+    <string name="current_group_device">Λίστα συσκευών</string>
+    <string name="move_from_other_group">Προσθήκη από άλλη ομάδα</string>
+    <string name="scan_for_instructions">Σάρωση Εγχειρίδιου Χρήσης</string>
+    <string name="group_nums_limit">Μεγ. υποστήριξη. 20 ομάδες</string>
+    <string name="tip_group_empty_add">Δεν υπάρχουν ομάδες στιγμή, πατήστε το κουμπί για να δημιουργήσετε τώρα!</string>
+
+    <string name="duration_every">Κάθε</string>
+    <string name="duration_hours">Ώρες</string>
+    <string name="duration_excute_once">Λεπτά εκτέλεσης</string>
+    <string name="duration_later_execute">Λεπτά αργότερα εκτέλεσης</string>
+    <string name="duration_start_time">Ώρα έναρξης</string>
+    <string name="duration_cancel">Ματαίωση</string>
+    <string name="duration_ok">Ολοκληρωμένο</string>
+    <string name="duration_delete">Διαγράφη</string>
+    <string name="duration_start">Ενεργοποίηση</string>
+    <string name="duration_create_looper_success">Προστέθηκε με επιτυχία</string>
+    <string name="duration_update_looper_success">Αλλαγή επιτυχής</string>
+    <string name="duration_2less1">Ο 2ος χρόνος θα πρέπει να είναι μικρότερος από τον 1ο</string>
+    <string name="duration_1not0">Ο χρόνος δεν μπορεί να είναι 0</string>
+    <string name="duration_timer8">Δεν είναι δυνατή η δημιουργία, υποστηρίζει έως 8 ενεργοποιημένους χρονομετρητές (περιλαμβάνει χρονόμετρα αντίστροφης μέτρησης / κυκλικό)</string>
+    <string name="duration_timer20">Δεν είναι δυνατή η δημιουργία, υποστηρίζει έως 20 χρονοδιακόπτες (περιλαμβάνει χρονόμετρα αντίστροφης μέτρησης / κυκλικό)</string>
+    <string name="duration_create_fail">Αποτυχία δημιουργίας κυκλικού χρονομέτρου, δοκιμάστε ξανά</string>
+    <string name="duration_deleting">Διαγραφή ...</string>
+    <string name="duration_delete_success">Διαγράφηκε με επιτυχία</string>
+    <string name="duration_creating">Δημιουργία ...</string>
+    <string name="duration_updating">Πρόοδος...</string>
+    <string name="share_failed">Ο διαμοιρασμός απέτυχε. Ο χρήστης που θέλετε να μοιραστείτε δεν είναι συνδεδεμένος. Ζητήστε από τον χρήστη να συνδεθεί πρώτα στο eWeLink</string>
+    <string name="device_not_share_click_to_share">Κάντε κλικ στο παρακάτω εικονίδιο για διαμοιρασμό</string>
+    <string name="list_already_has_account">Ο λογαριασμός είναι ήδη στη λίστα σας</string>
+    <string name="sure_delete">Διαγράφη?</string>
+    <string name="settinginfo_power_state">Ενεργοποίηση κατάστασης</string>
+    <string name="duration_2not0">Ο χρόνος δεν μπορεί να είναι 0</string>
+    <string name="new_device_setting">Ρυθμίσεις συσκευής</string>
+    <string name="duration_update_failed">Αποτυχία τροποποίησης κυκλικού χρονοδιακόπτη</string>
+    <string name="duration_delete_failed">Αποτυχία κατάργησης κυκλικού χρονοδιακόπτη </string>
+    <string name="duration_timer">Κυκλικός χρονοδιακόπτης</string>
+    <string name="ota_new_version">Νέα έκδοση:</string>
+    <string name="scene">scene</string>
+    <string name="group">Ομάδα</string>
+    <string name="exit_logout">Αποσύνδεση</string>
+    <string name="only_own_can_operation">Μόνο ο κάτοχος μπορεί να αλλάξει τα χρονόμετρα.</string>
+    <string name="fan_on">Ενεργό</string>
+    <string name="fan_off">Ανενεργό</string>
+
+    <string name="new_user_center_group">%1$s&#160;Ομάδα</string>
+    <string name="new_user_center_scene">%1$s&#160; Scene</string>
+    <string name="wait_user_response">Αναμονή απάντησης...</string>
+    <string name="device_list_no_net">Δίκτυο μη διαθέσιμο</string>
+    <string name="air_quality">Ποιότητα αέρα</string>
+    <string name="sensor_temp">Θερμοκρασία</string>
+    <string name="temp_state_cold">Δροσερό </string>
+    <string name="temp_state_comfortable">Άνετος</string>
+    <string name="temp_state_hot">Ζεστό</string>
+    <string name="air_quality_good">Καλός</string>
+    <string name="air_quality_moderate">Μέτριος</string>
+    <string name="air_quality_bad">Ανθυγιεινός</string>
+    <string name="sensor_humidity">Υγρασία.</string>
+    <string name="sensor_hum_dry">Ξηρή</string>
+    <string name="sensor_hum_normal">Κανονική</string>
+    <string name="sensor_hum_wet">Βρεγμένη</string>
+    <string name="sensor_noise">Θόρυβος</string>
+    <string name="sensor_noise_quiet">Ησυχία</string>
+    <string name="sensor_noise_normal">Κανονικό</string>
+    <string name="sensor_noise_noisy">Θορυβώδες</string>
+    <string name="sensor_light">Φως</string>
+    <string name="sensor_light_bright">Φωτεινό</string>
+    <string name="sensor_light_normal">Κανονικό </string>
+    <string name="sensor_light_dusky">Σκοτεινό</string>
+    <string name="account_has_register">Ο λογαριασμός έχει καταχωρηθεί!</string>
+    <string name="no_net_feedback_failed">Αποτυχία υποβολής σχολίων, ελέγξτε το δίκτυο.</string>
+    <string name="io_exception_feedback_failed">Αποτυχία υποβολής σχολίων, σφάλμα ανάγνωσης / εγγραφής αρχείων συστήματος.</string>
+    <string name="humidity_level">Επίπεδο υγρασίας</string>
+    <string name="humidity_water_info">Νερό</string>
+    <string name="humidity_on_off">ενεργό / ανενεργό</string>
+    <string name="water_level_normal">Κανονικό</string>
+    <string name="water_level_shortage">Ανεπαρκή</string>
+    <string name="not_connect_wait">Σύνδεση, παρακαλώ περιμένετε</string>
+    <string name="auto">Αυτόματο</string>
+    <string name="high">HD</string>
+    <string name="standard">SD</string>
+    <string name="video_not_download">Το βίντεο δεν έχει ακόμα μεταφορτωθεί</string>
+    <string name="take_photo_success">Η λήψη ολοκληρώθηκε, εισάγετε το άλμπουμ για προβολή:</string>
+    <string name="live">Ζήστε |</string>
+    <string name="detection_move">Εντοπισμός κίνησης</string>
+    <string name="confirm_en_cancel">Ματαίωση</string>
+    <string name="isrecording">Εγγραφή βίντεο</string>
+    <string name="ota_upgrade_alert_info">Η αναβάθμιση του Firmware ενδέχεται να προκαλέσει αλλαγή της κατάστασης της συσκευής, Να συνεχίσει;</string>
+    <string name="recording_video">Εγγραφή βίντεο , έξοδος;</string>
+    <string name="recording_audio">Έξοδος απ την ομιλία;</string>
+    <string name="recording_video_not_max">Εγγραφή βίντεο, Δεν επιτρέπετε να μεταβείτε σε πλήρη οθόνη</string>
+    <string name="recording_audio_not_max">Στην ομιλία, δεν επιτρέπετε να μεταβείτε σε πλήρη οθόνη</string>
+    <string name="quwen">Απωθητικό</string>
+    <string name="jiashi">Υγραίνω</string>
+    <string name="fulizi">Anion</string>
+    <string name="humidostat">Υγρασία</string>
+    <string name="thermostat">Θερμοκρασία</string>
+    <string name="humidity_not_empty">Το εύρος υγρασίας δεν μπορεί να είναι κενό!</string>
+    <string name="humidity_range">Εύρος Υγρασία: 0 ~ 100</string>
+    <string name="second_value_smaller_first">Η 2η τιμή πρέπει μικρότερη από την 1η.</string>
+    <string name="humidity_setting">Ρύθμιση υγρασίας</string>
+    <string name="temperature_setting">Ρύθμιση θερμοκρασίας</string>
+    <string name="temperature_not_empty">Το εύρος θερμοκρασίας δεν μπορεί να είναι κενό!</string>
+    <string name="temperature_range">Εύρος θερμοκρασίας: 0 ~ 100</string>
+    <string name="ifan_start">Εκκίνηση</string>
+    <string name="more">＞</string>
+    <string name="less">＜</string>
+    <string name="close_humdity">% Απενεργοποίηση υγραντήρα</string>
+    <string name="open_humidity">% Ενεργοποίηση υγραντήρα</string>
+    <string name="open_ifan">℃ Ενεργοποίηση ανεμιστήρα</string>
+    <string name="close_ifan">℃ Απενεργοποίηση ανεμιστήρα</string>
+
+    <string name="apk_downloading">Λήψη</string>
+    <string name="device_not_belong_this_brand">Η συσκευή δεν ανήκει σε αύτη τη μάρκα!</string>
+    <string name="device_info_not_be_empty">Όνομα συσκευής, ταυτότητα και apkey δεν πρέπει να είναι κενό!</string>
+    <string name="device_info_format">Μη έγκυρη μορφή ID της συσκευής!</string>
+    <string name="add_device_failed">Προσθήκη συσκευής απέτυχε!</string>
+    <string name="device_not_exist">Η συσκευή δεν υπάρχει!</string>
+    <string name="add_subdevice_failed">Η προσθήκη υποτίτλων απέτυχε!</string>
+    <string name="find_brand_failed">Εύρεση μάρκας απέτυχε!</string>
+    <string name="find_mode_failed">Αναζήτηση πληροφοριών μοντέλου απέτυχε!</string>
+    <string name="multiple_power_on">Ενεργό</string>
+    <string name="multiple_power_off">Ανενεργό</string>
+    <string name="log">Καταγραφή</string>
+    <string name="please_choose_device">Επιλέξτε μια συσκευή.</string>
+    <string name="add_condition">Προσθήκη Κατάστασης</string>
+    <string name="add_execute_device">Προσθήκη Εκτέλεσης συσκευής</string>
+    <string name="please_operater_under_current_device">Παρακαλούμε, επιλέξτε τις λειτουργίες της τρέχουσας συσκευής!</string>
+    <string name="smart_execute_device">Εκτέλεση Συσκευών</string>
+    <string name="click_execute">Κλικ για εκτέλεση</string>
+    <string name="select_trigger_condition">Επιλέξτε την κατάσταση ενεργοποίησης</string>
+    <string name="temp_bigger">≥ Θερμοκρασία</string>
+    <string name="temp_smaller">≤ Θερμοκρασία</string>
+    <string name="humi_bigger">Υγρασία ≥</string>
+    <string name="humi_smaller">Υγρασία ≤</string>
+    <string name="add_scene">Προσθήκη scene</string>
+    <string name="tem_upper_smaller_lower">To ανώτατο όριο θερμοκρασίας θα πρέπει να είναι πάνω από το κατώτατο όριο</string>
+    <string name="tem_upper_not_equal_lower">Το ανώτερο όριο θερμοκρασίας δεν πρέπει να είναι ίσο με το κατώτερο όριο</string>
+    <string name="hum_upper_not_equal_lower">To ανώτατο όριο υγρασίας θα πρέπει να είναι πάνω από το κατώτατο όριο</string>
+    <string name="hum_upper_smaller_lower">To ανώτατο όριο υγρασίας δεν θα πρέπει να είναι ίσο με το χαμηλότερο όριο</string>
+    <string name="executing">Εκτέλεση</string>
+    <string name="trigger_condition_device">Εντολή συσκευής </string>
+    <string name="edit_scene">Επεξεργασία scene</string>
+    <string name="please_input_number">Εισάγετε μια τιμή</string>
+    <string name="number_upper">Η τιμή υπερβαίνει το ανώτατο όριο</string>
+    <string name="sensor_tem_range">Εύρος θερμοκρασίας: 0-50</string>
+    <string name="sensor_hum_range">Εύρος Υγρασία: 20-90</string>
+    <string name="sensor_light_not_equal">Οι μέγιστες και οι ελάχιστες τιμές φωτός δεν μπορούν να είναι ίσες</string>
+    <string name="sensor_air_not_equal">Οι μέγιστες και οι ελάχιστες τιμές της ποιότητας του αέρα δεν μπορούν να είναι ίσες</string>
+    <string name="sensor_noisy_not_equal">Οι τιμές μέγιστου και ελάχιστου θορύβου δεν μπορούν να είναι ίσες</string>
+    <string name="repeat_condition">Επαναλαμβανόμενη κατάσταση!</string>
+    <string name="tem_hum_dht11_tem_range">Εύρος θερμοκρασίας: 0-50</string>
+    <string name="tem_hum_2301_tem_range">Εύρος θερμοκρασίας: -40-80</string>
+    <string name="tem_hum_b20_tem_range">Εύρος θερμοκρασίας: -55 έως 125</string>
+    <string name="tem_hum_dht11_hum_range">Εύρος Υγρασίας: 20-90</string>
+    <string name="tem_hum_2301_hum_range">Εύρος υγρασίας: 0-100</string>
+
+    <string name="dialog_share_permit_timer">Δικαιώματα χρονοδιακόπτη</string>
+
+    <string name="no_userful_device">Δεν υπάρχουν διαθέσιμες συσκευές</string>
+    <string name="duration_cycle">Κύκλος:</string>
+    <string name="duration_delay">Καθυστέρηση</string>
+    <string name="duration_delay_do">Λεπτά εκτέλεσης:</string>
+    <string name="duration_cycle_do">Λεπτά εκτέλεσης:</string>
+    <string name="delay_start_again">Ξεκινήστε ξανά</string>
+    <string name="delay_timer_executing_alert">(Μετά:%1$sd %2$shr %3$smin Running)</string>
+    <string name="delay_timer_stop_alert">(Μετά:%1$sd %2$shr %3$smin ολοκληρώθηκε)</string>
+    <string name="light_bigger_more">Το ανώτατο όριο φωτός θα πρέπει να είναι μεγαλύτερο από το κατώτατο όριο</string>
+    <string name="air_bigger_more">Το ανώτατο όριο ποιότητας αέρα πρέπει να είναι μεγαλύτερο από το κατώτατο όριο</string>
+    <string name="noise_bigger_more">Το ανώτατο όριο θορύβου πρέπει να είναι μεγαλύτερο από το κατώτατο όριο</string>
+    <string name="udp_control_alert">Δεν είναι δυνατή η χρήση αυτής της λειτουργίας σε δίκτυο LAN.</string>
+    <string name="lan_control">Έλεγχος από LAN</string>
+    <string name="isopen_timer">Ενεργοποίηση του χρονοδιακόπτη;</string>
+    <string name="copy_success">Αντιγραφή επιτυχής</string>
+
+    <string name="share_permit_timer">Δικαιώματα χρονοδιακόπτη:</string>
+    <string name="share_permit_timer_enable">Ενεργοποίηση/απενεργοποίηση</string>
+    <string name="share_device_request_failure">%1$s Η κοινή χρήση συσκευής απέτυχε</string>
+    <string name="have_no_permission_timer">Δεν έχετε την άδεια. Παρακαλώ ρωτήστε τον ιδιοκτήτη της συσκευής για άδεια.</string>
+    <string name="word_timer">Χρονόμετρο </string>
+    <string name="word_timer_delay">Χρονόμετρο αντίστροφης μέτρησης</string>
+    <string name="share_not_share_user">Ο δέκτης έχει αφαιρέσει τη συσκευή</string>
+    <string name="share_not_in_3_minute">Η κοινή χρήση στον ίδιο χρήστη σε 3 λεπτά δεν θα επιτρέπεται.</string>
+    <string name="share_time_out_3_minute">Κοινή χρήση εκτός χρονικού ορίου</string>
+
+    <string name="dialog_share_permit_add">Προσθήκη</string>
+    <string name="dialog_share_permit_edit">Τροποποίηση</string>
+    <string name="dialog_share_permit_remove">Διαγράφη</string>
+    <string name="dialog_share_permit_enable">Ενεργοποίηση</string>
+
+
+    <!--2.3.2-->
+    <string name="facebook_app_id">1787091648274959</string> <!--1787091648274959--> <!--1176810229081143-->
+    <string name="fb_login_protocol_scheme">fb1176810229081143</string>
+
+
+
+    <!--nest-->
+    <string name="nest_current_tempc">Τρέχουσα Θερμοκρασία. ℃</string>
+    <string name="nest_current_tempf">Τρέχουσα Θερμοκρασία. ℉</string>
+    <string name="nest_target_tempc">Επιθυμητή θερμοκρασία. ℃</string>
+    <string name="nest_target_tempf">Επιθυμητή θερμοκρασία. ℉</string>
+    <string name="nest_humidity">Υγρασία</string>
+    <string name="nest_whether_has_person">Είναι κανείς στο σπίτι?</string>
+    <string name="nest_has_person">Ναι</string>
+    <string name="nest_has_no_person">Όχι</string>
+    <string name="select_nest_device">Επιλογή συσκευής Nest</string>
+    <string name="pair_nest_device">Συσκευή Nest</string>
+    <string name="nest_show_has_person">Είμαι σπίτι</string>
+    <string name="nest_show_has_no_person">Είμαι μακριά</string>
+    <string name="add_nest_failed_400">Απέτυχε η προσθήκη, σφάλμα</string>
+    <string name="add_nest_failed_401">Απέτυχε η προσθήκη, επαλήθευση απέτυχε</string>
+    <string name="add_nest_failed_403">Απέτυχε η προσθήκη, επιτρέπεται η πρόσβαση</string>
+    <string name="add_nest_failed_409">Απέτυχε η προσθήκη, αυτή η συσκευή έχει ήδη προστεθεί</string>
+    <string name="add_nest_failed_500">Απέτυχε η προσθήκη, εσωτερικό σφάλμα διακομιστή</string>
+    <string name="nest_tempec_limit">Εύρος θερμοκρασίας ℃: -50 ~ 150</string>
+    <string name="nest_tempef_limit">Εύρος θερμοκρασίας ℉: -122 ~ 302</string>
+    <string name="nest_humidy_limit">Εύρος Υγρασίας: 0 ~ 100</string>
+    <string name="user_alreayexist">Ο χρήστης υπάρχει ήδη</string>
+    <string name="login_failed_lack_params">Η σύνδεση απέτυχε, η απαιτούμενη παράμετρος λείπει</string>
+    <string name="login_failed_server_error">Σύνδεση απέτυχε, σφάλμα διακομιστή</string>
+    <string name="device_upgrade_failed">Η αναβάθμιση του firmware συσκευής απέτυχε</string>
+    <string name="nest_show_current_temp">Τρέχουσα \ θερμοκρασία.</string>
+    <string name="nest_show_target_temp">Επιθυμητή \ θερμοκρασία.</string>
+    <string name="has_no_nest_to_add">Δεν μπορούν να προστεθούν συσκευές Nest</string>
+
+    <string name="record_least_time">Τουλάχιστον 10s για να παίξει, να σταματήσει αργότερα</string>
+
+    <string name="p2p_connect_fail">Η σύνδεση p2p απέτυχε</string>
+    <string name="storage_space_not_enough">Δεν υπάρχει αρκετός χώρος αποθήκευσης</string>
+    <string name="camera_refresh">Ανανέωση</string>
+    <string name="device_upgrade_success_version">Το firmware της συσκευής αναβαθμίζεται επιτυχώς στην έκδοση %1$s</string>
+
+    <string name="not_userful_qrcode">Μη έγκυρος κωδικός QR</string>
+    <string name="qr_scan_alert">Παρακαλώ σαρώσετε τον κωδικό QR</string>
+    <string name="qr_scan">Σάρωση</string>
+    <string name="single_device_choose">Συσκευή με ένα κανάλι</string>
+    <string name="want_know_more">Μάθε περισσότερα</string>
+    <string name="app_name2">EWeLink</string>
+    <string name="please_input_phone_number">Αριθμός κάρτας</string>
+
+    <string name="not_wifi_confirm_play_video">Είστε βέβαιοι θέλετε να χρησιμοποιήσετε δεδομένα κινητής τηλεφωνίας για να παίξει το βίντεο συναγερμού;</string>
+    <string name="empty_url">Βίντεο url είναι άδειο</string>
+    <string name="take_video_success">Εγγραφή επιτυχής, εισάγετε το άλμπουμ φωτογραφιών για να παρακολουθήσετε</string>
+    <string name="take_video_success2">Ηχογράφηση επιτυχής, παρακαλώ εισάγετε άλμπουμ φωτογραφιών για προβολή</string>
+    <string name="gsm_phone_number">Αριθμός κάρτας</string>
+    <string name="gsm_recharge">Ανανέωση</string>
+    <string name="gsm_package">Σχέδιο δεδομένων:</string>
+    <string name="gsm_total">Σύνολο δεδομένων:</string>
+    <string name="gsm_used">Χρήση δεδομένων:</string>
+    <string name="gsm_has">Διαθέσιμα στοιχεία:</string>
+    <string name="switch_operat_history">Λειτουργία εγγραφής</string>
+    <string name="single_switch_history">Λειτουργία εγγραφής</string>
+    <string name="qr_shaoyishao">Σάρωση κωδικού QR </string>
+    <string name="device">Συσκευή</string>
+    <string name="add_wexin_public_charge">Please follow "coolkitcn" to top up in WeChat</string>
+    <string name="switch_notify">Ειδοποιήσεις λειτουργίας</string>
+    <string name="switch_history">Ενέργεια</string>
+    <string name="switch_time">Ώρα</string>
+    <string name="switch_trigger_type">Εντολή από</string>
+    <string name="device_state_changed">Η κατάσταση της συσκευής άλλαξε</string>
+    <string name="umeng_notification_switch_state_on">ενεργό</string>
+    <string name="umeng_notification_switch_state_off">ανενεργό</string>
+
+    <string name="business_cooperation">Επιχειρηματική Συνεργασία</string>
+    <string name="rgb5_bottom_white">Άσπρο</string>
+    <string name="rgb5_bottom_color">Χρώμα</string>
+    <string name="rgb5_bottom_situation">scene</string>
+    <string name="rgb5_light">Υπόλοιπο</string>
+    <string name="rgb5_read">Ανάγνωση</string>
+    <string name="rgb5_party">Party</string>
+    <string name="rgb5_play">Casual</string>
+    <string name="pair_gsm_device">Συσκευή GSM</string>
+    <string name="rgb5_dark">Σκοτάδι</string>
+    <string name="rgb5_bright">Φωτεινό</string>
+    <string name="rgb5_cold">Κρύο</string>
+    <string name="rgb5_warm">Ζεστό</string>
+    <string name="open_rgb5">Ενεργοποιήστε πρώτα τον λαμπτήρα LED</string>
+
+    <string-array name="pref_example_list_titles">
+        <item>Πάντα</item>
+        <item>Όταν είναι δυνατόν</item>
+        <item>Ποτέ</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Δεδομένα &amp; Συγχρονισμός</string>
+
+    <string name="pref_title_sync_frequency">Συχνότητα συγχρονισμού</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 λεπτά</item>
+        <item>30 λεπτά</item>
+        <item>1 ώρα</item>
+        <item>3 ώρες</item>
+        <item>6 ώρες</item>
+        <item>Ποτέ</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string-array name="country_code1">
+        <item>Ηνωμένες Πολιτείες +1</item>
+        <item>Ταϊβάν +886</item>
+        <item>Κίνα +86</item>
+        <item>Αμπχαζία +7840</item>
+        <item>Αφγανιστάν +93</item>
+        <item>Αλβανία +355</item>
+        <item>Αλγερία +213</item>
+        <item>Αμερικανική Σαμόα +1684</item>
+        <item>Ανδόρα +376</item>
+        <item>Αγκόλα +244</item>
+        <item>Ανγκουίλα +1264</item>
+        <item>Αντίγκουα και Μπαρμπούντα +1268</item>
+        <item>Αργεντινή +54</item>
+        <item>Αρμενία +374</item>
+        <item>Αρούμπα +297</item>
+        <item>Αναλήψεως +247</item>
+        <item>Αυστραλία +61</item>
+        <item>Αυστραλιανό Εξωτερικές Εδάφη +672</item>
+        <item>Αυστρία +43</item>
+        <item>Αζερμπαϊτζάν +994</item>
+        <item>Μπαχάμες +1242</item>
+        <item>Μπαχρέιν +973</item>
+        <item>Μπανγκλαντές +880</item>
+        <item>Μπαρμπάντος +1246</item>
+        <item>Μπαρμπούντα +1268</item>
+        <item>Λευκορωσία +375</item>
+        <item>Βέλγιο +32</item>
+        <item>Μπελίζ +501</item>
+        <item>Μπενίν +229</item>
+        <item>Βερμούδες +1441</item>
+        <item>Μπουτάν +975</item>
+        <item>Βολιβία +591</item>
+        <item>Μπονέρ +5997</item>
+        <item>Βοσνία και Ερζεγοβίνη +387</item>
+        <item>Μποτσουάνα +267</item>
+        <item>Βραζιλία +55</item>
+        <item>Βρετανικά Εδάφη Ινδικού Ωκεανού +246</item>
+        <item>Βρετανικές Παρθένοι Νήσοι +1284</item>
+        <item>Μπρουνέι Νταρουσαλάμ +673</item>
+        <item>Βουλγαρία +359</item>
+        <item>Μπουρκίνα Φάσο +226</item>
+        <item>Βιρμανία +95</item>
+        <item>Μπουρούντι +257</item>
+        <item>Καμπότζη +855</item>
+        <item>Καμερούν +237</item>
+        <item>Καναδάς +1</item>
+        <item>Πράσινο Ακρωτήριο +238</item>
+        <item>Καραϊβικής Ολλανδία +5993</item>
+        <item>Νησιά Καϊμάν +1345</item>
+        <item>Κεντροαφρικανική Δημοκρατία +236</item>
+        <item>Τσαντ +235</item>
+        <item>Νησί Chatham(Νέα Ζηλανδία) +64</item>
+        <item>Χιλή +56</item>
+        <item>Χριστούγεννα Νησί +61</item>
+        <item>Νησιά Κόκος (Κίλινγκ) +61</item>
+        <item>Κολομβία +57</item>
+        <item>Κομόρες +269</item>
+        <item>Κονγκό (Μπραζαβίλ) +242</item>
+        <item>Κονγκό, Λαϊκή Δημοκρατία του(Ζαΐρ) +243</item>
+        <item>Νήσοι Κουκ +682</item>
+        <item>Κόστα Ρίκα +506</item>
+        <item>Κροατία  +385</item>
+        <item>Κούβα +53</item>
+        <item>Κούβα (Γκουαντάναμο) +5399</item>
+        <item>Κουρασάο +5999</item>
+        <item>Κύπρος +357</item>
+        <item>Δημοκρατία της Τσεχίας +420</item>
+        <item>Δανία +45</item>
+        <item>Ντιέγκο Γκαρσία +246</item>
+        <item>Τζιμπουτί +253</item>
+        <item>Ντομίνικα +1767</item>
+        <item>Δομινικανή Δημοκρατία +1809</item>
+        <item>Ανατολικό Τιμόρ +670</item>
+        <item>Νησί του Πάσχα +56</item>
+        <item>Ισημερινός +593</item>
+        <item>Αίγυπτος +20</item>
+        <item>Ελ Σαλβαδόρ +503</item>
+        <item>Ισημερινή Γουινέα +240</item>
+        <item>Ερυθραία +291</item>
+        <item>Εσθονία +372</item>
+        <item>Αιθιοπία +251</item>
+        <item>Νησιά Φώκλαντ (Μαλβίνες) +500</item>
+        <item>Νησιά Φερόε +298</item>
+        <item>Φίτζι +679</item>
+        <item>Φινλανδία +358</item>
+        <item>Γαλλία +33</item>
+        <item>Γαλλικές Αντίλλες +596</item>
+        <item>Γαλλική Γουιάνα +594</item>
+        <item>Γαλλική Πολυνησία +689</item>
+        <item>Γκαμπόν +241</item>
+        <item>Γκάμπια +220</item>
+        <item>Γεωργία +995</item>
+        <item>Γερμανία +49</item>
+        <item>Γκάνα +233</item>
+        <item>Γιβραλτάρ +350</item>
+        <item>Ελλάδα +30</item>
+        <item>Γροιλανδία +299</item>
+        <item>Γρενάδα +1473</item>
+        <item>Γουαδελούπη +590</item>
+        <item>Γκουάμ +1671</item>
+        <item>Γουατεμάλα +502</item>
+        <item>Γκέρνσεϊ +44</item>
+        <item>Γουινέα +224</item>
+        <item>Γουινέα-Μπισάου +245</item>
+        <item>Γουιάνα +592</item>
+        <item>Αϊτή +509</item>
+        <item>Αγία Έδρα (Πόλη του Βατικανού) +39066</item>
+        <item>Ονδούρα +504</item>
+        <item>Χονγκ Κονγκ +852</item>
+        <item>Ουγγαρία +36</item>
+        <item>Ισλανδία +354</item>
+        <item>Ινδία +91</item>
+        <item>Ινδονησία +62</item>
+        <item>Inmarsat SNAC +870</item>
+        <item>Διεθνείς δωρεάν κλήσεις Υπηρεσία +800</item>
+        <item>Ιράν +98</item>
+        <item>Ιράκ +964</item>
+        <item>Ιρλανδία +353</item>
+        <item>Νήσος του Μαν +44</item>
+        <item>Ισραήλ +972</item>
+        <item>Ιταλία +39</item>
+        <item>Τζαμάικα +1876</item>
+        <item>Ιαπωνία +81</item>
+        <item>Jersey +44</item>
+        <item>Jordan +962</item>
+        <item>Καζακστάν +76</item>
+        <item>Κένυα +254</item>
+        <item>Κιριμπάτι +686</item>
+        <item>Κουβέιτ +965</item>
+        <item>Κιργιστάν +996</item>
+        <item>Λάος +856</item>
+        <item>Λετονία +371</item>
+        <item>Λίβανος +961</item>
+        <item>Λεσόθο +266</item>
+        <item>Λιβερία +231</item>
+        <item>Λιβύη +218</item>
+        <item>Λιχτενστάιν +423</item>
+        <item>Λιθουανία +370</item>
+        <item>Λουξεμβούργο +352</item>
+        <item>Μακάο +853</item>
+        <item>Μακεδονία +389</item>
+        <item>Μαδαγασκάρη +261</item>
+        <item>Μαλάουι +265</item>
+        <item>Μαλαισία +60</item>
+        <item>Μαλδίβες +960</item>
+        <item>Μάλι +223</item>
+        <item>Μάλτα +356</item>
+        <item>Νησιά Μάρσαλ +692</item>
+        <item>Μαρτινίκα +596</item>
+        <item>Μαυριτανία +222</item>
+        <item>Μαυρίκιος +230</item>
+        <item>Μαγιότ +262</item>
+        <item>Μεξικό +52</item>
+        <item>Μικρονησία, Ομόσπονδες Πολιτείες της +691</item>
+        <item>Midway Νήσος +1808</item>
+        <item>Μολδαβία +373</item>
+        <item>Μονακό +377</item>
+        <item>Μογγολία +976</item>
+        <item>Μαυροβούνιο +382</item>
+        <item>Μοντσεράτ +1664</item>
+        <item>Μαρόκο +212</item>
+        <item>Μοζαμβίκη +258</item>
+        <item>Ναμίμπια +264</item>
+        <item>Ναουρού +674</item>
+        <item>Νεπάλ +977</item>
+        <item>Ολλανδία +31</item>
+        <item>Νέβις +1869</item>
+        <item>Νέα Καληδονία +687</item>
+        <item>Νέα Ζηλανδία +64</item>
+        <item>Νικαράγουα +505</item>
+        <item>Νίγηρας +227</item>
+        <item>Νιγηρία +234</item>
+        <item>Νιούε +683</item>
+        <item>Νησί Νόρφολκ +672</item>
+        <item>Βόρεια Κορέα +850</item>
+        <item>Νησιά Βόρειες Μαριάννες +1670</item>
+        <item>Νορβηγία +47</item>
+        <item>Ομάν +968</item>
+        <item>Πακιστάν +92</item>
+        <item>Παλάου +680</item>
+        <item>Παλαιστινιακά Εδάφη +970</item>
+        <item>Παναμάς +507</item>
+        <item>Παπούα Νέα Γουινέα +675</item>
+        <item>Παραγουάη +595</item>
+        <item>Περού +51</item>
+        <item>Φιλιππίνες +63</item>
+        <item>Πολωνία +48</item>
+        <item>Πορτογαλία +351</item>
+        <item>Πουέρτο Ρίκο +1787</item>
+        <item>Κατάρ +974</item>
+        <item>Ρουμανία +40</item>
+        <item>Ρωσία +7</item>
+        <item>Ρουάντα +250</item>
+        <item>Ρεϋνιόν +262</item>
+        <item>Σάμπα +5994</item>
+        <item>Άγιος Βαρθολομαίος +590</item>
+        <item>Αγία Ελένη και Τριστάν ντα Κούνια +290</item>
+        <item>Άγιος Χριστόφορος και Νέβις +1869</item>
+        <item>Αγία Λουκία +1758</item>
+        <item>Άγιος Μαρτίνος (Γαλλικό) +590</item>
+        <item>Άγιος Πέτρος και Μικελόν +508</item>
+        <item>Άγιος Βικέντιος και Γρεναδίνες +1784</item>
+        <item>Σαμόα +685</item>
+        <item>Σαν Μαρίνο +378</item>
+        <item>Σαουδική Αραβία +966</item>
+        <item>Σενεγάλη +221</item>
+        <item>Σερβία +381</item>
+        <item>Σεϋχέλλες +248</item>
+        <item>Σιέρα Λεόνε +232</item>
+        <item>Σιγκαπούρη +65</item>
+        <item>Άγιος Ευστάθιος +5993</item>
+        <item>Άγιος Μαρτίνος (ολλανδικό) +1721</item>
+        <item>Σλοβακία +421</item>
+        <item>Σλοβενία +386</item>
+        <item>Νήσοι Σολομώντος +677</item>
+        <item>Σομαλία +252</item>
+        <item>Νότια Αφρική +27</item>
+        <item>Νότια Γεωργία και Νότια Νησιά Σάντουιτς +500</item>
+        <item>Νότια Κορέα +82</item>
+        <item>Νότια Οσετία +99534</item>
+        <item>Νότιο Σουδάν +211</item>
+        <item>Ισπανία +34</item>
+        <item>Σρι Λάνκα +94</item>
+        <item>Σουδάν +249</item>
+        <item>Σουρινάμ +597</item>
+        <item>Σβάλμπαρντ και Γιαν Μαγιέν +47</item>
+        <item>Σουαζιλάνδη +268</item>
+        <item>Σουηδία +46</item>
+        <item>Ελβετία +41</item>
+        <item>Συρία +963</item>
+        <item>Σάο Τομέ και Πρίνσιπε +239</item>
+        <item>Τατζικιστάν +992</item>
+        <item>Τανζανία +255</item>
+        <item>Ταϊλάνδη +66</item>
+        <item>Τόγκο +228</item>
+        <item>Τοκελάου +690</item>
+        <item>Τόνγκα +676</item>
+        <item>Τρινιντάντ και Τομπάγκο +1868</item>
+        <item>Τυνησία +216</item>
+        <item>Τουρκία +90</item>
+        <item>Τουρκμενιστάν +993</item>
+        <item>Τερκς και Κάικος +1649</item>
+        <item>Τουβαλού +688</item>
+        <item>Ουγκάντα +256</item>
+        <item>Ουκρανία +380</item>
+        <item>Ηνωμένα Αραβικά Εμιράτα +971</item>
+        <item>Ηνωμένο Βασίλειο +44</item>
+        <item>Ουρουγουάη +598</item>
+        <item>Ουζμπεκιστάν +998</item>
+        <item>Βανουάτου +678</item>
+        <item>Πόλη του Βατικανού (Αγία Έδρα) +39066</item>
+        <item>Βενεζουέλα +58</item>
+        <item>Βιετνάμ +84</item>
+        <item>Παρθένοι Νήσοι, Βρετανικές +1284</item>
+        <item>Παρθένοι Νήσοι, ΗΠΑ +1340</item>
+        <item>Wake Island +1808</item>
+        <item>Ουόλις και Φουτούνα +681</item>
+        <item>Υεμένη +967</item>
+        <item>Ζάμπια +260</item>
+        <item>Ζανζιβάρη +255</item>
+        <item>Ζιμπάμπουε +263</item>
+        <item>Άλαντ Νησιά +358</item>
+    </string-array>
+
+
+
+    <string name="language_choice_simple_chinese">简体中文</string>
+    <string name="language_choice_english">English</string>
+    <string name="language_choice_old_chinese">繁體中文</string>
+    <string name="language_choice_russia">Русский</string>
+    <string name="language_choice_danmark">Dansk</string>
+    <string name="language_choice_italian">Italiano</string>
+    <string name="language_choice_polan">polskim</string>
+    <string name="language_choice_frech">Français</string>
+    <string name="language_choice_spanish">Español</string>
+    <string name="language_choice_genman">Deutsch</string>
+    <string name="language_choice_portugal">português</string>
+    <string name="language_choice_greece">ελληνικά</string>
+    <string name="language_choice_czech">český</string>
+    <string name="language_choice_bulgaria">български</string>
+    <string name="language_choice_turkey">Türkiye</string>
+    <string name="language_choice_slovank">slovenského jazyk</string>
+
+    <string name="aromatherapy_light_switch">light</string>
+    <string name="aromatherapy_state_small">Small</string>
+    <string name="aromatherapy_state_big">Big</string>
+    <string name="install_googleplay_first">Please install Google Play</string>
+    <string name="app_downloading">Downloading</string>
+    <string name="night_light">Night Light</string>
+    <string name="water_level">Water Level</string>
+    <string name="opent_light_switch_first">Please turn on the switch first</string>
+    <string name="add_remote_control">Add RF Remote</string>
+    <string name="button_name">Button</string>
+    <string name="wifi_rf_edit">Edit</string>
+    <string name="rf_single_button">1-button</string>
+    <string name="rf_double_button">2-button</string>
+    <string name="rf_three_button">3-button</string>
+    <string name="rf_four_button">4-button</string>
+    <string name="rf_curtain">Curtain</string>
+    <string name="rf_alarm">Alarm</string>
+    <string name="rf_open">Open</string>
+    <string name="rf_stop">Close</string>
+    <string name="rf_close">Stop</string>
+    <string name="rf_remote_max_size">Supports up to 4 RF Remotes</string>
+    <string name="remote_control_name_not_empty">The RF Remote name cannot be empty</string>
+    <string name="rf_channel_name_not_empty">Button name can not be empty</string>
+    <string name="rf_has_item_alert">Press and hold the button to enter into learning mode</string>
+    <string name="alarm_history">Alarm History</string>
+    <string name="my_curtains">My Curtain</string>
+    <string name="my_remote_control">My RF Remote</string>
+    <string name="rfbridge_edit">Edit Name</string>
+    <string name="rfbridge_channel1_name">Button 1 Name:</string>
+    <string name="rfbridge_channel2_name">Button 2 Name:</string>
+    <string name="rfbridge_channel3_name">Button 3 Name:</string>
+    <string name="rfbridge_channel4_name">Button 4 Name:</string>
+    <string name="rfbridge_button_no_study">The button has not been learned yet</string>
+    <string name="delete_this_remote_control">Delete this RF Remote?</string>
+    <string name="alarm_push">Received an alarm</string>
+    <string name="alarm_time_push_at">Alarm happened at</string>
+    <string name="has_already_cancel_share">Share canceled.</string>
+    <string name="nest_cancel_auth">Nest authority canceled</string>
+    <string name="aromatherapy_colorful_light">Color Light</string>
+    <string name="top_than_close">Higher Than This, OFF</string>
+    <string name="lower_than_open">Lower Than This, ON</string>
+    <string name="near_alarm">Recent Alarms</string>
+    <string name="ewelinktest">易微联测试</string>
+    <string name="rfbridge_remote_control_name">RF Remote Name:</string>
+    <string name="long_press_to_study_button">RF gateway is in learning mode, please press the RF Remote button or let the alarm go off in 1 min.</string>
+    <string name="enter_verifycode">Please enter verification code.</string>
+    <string name="has_send_verifycode_please_get">Verification code sent, please check.</string>
+    <string name="click_to_get_verifycode">Please click to send verification code.</string>
+    <string name="beijing_temp_big_more">The first value must be larger than the second.</string>
+    <string name="beijing_temp_big_range">Temp. Range: 6~35</string>
+    <string name="beijing_temp_small_range">Temp. Range: 5~34</string>
+    <string name="beijing_temp_small_less">The second value must be smaller than the first.</string>
+    <string name="has_already_send_to_you">Verification code has been sent to your phone or mailbox, please check and enter</string>
+</resources>
