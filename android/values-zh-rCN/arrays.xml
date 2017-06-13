@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="taskResultCount">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </integer-array>
+
+    <string-array name="temperature_humidity_params">
+        <item>@string/tem_hum_temperature</item>
+        <item>@string/tem_hum_humdity</item>
+    </string-array>
+
+    <string-array name="temperature">
+        <item>@string/tem_hum_temperature</item>
+    </string-array>
+
+    <string-array name="sensor_params">
+        <item>@string/tem_hum_temperature</item>
+        <item>@string/tem_hum_humdity</item>
+        <item>@string/sensor_light</item>
+        <item>@string/air_quality</item>
+        <item>@string/sensor_noise</item>
+    </string-array>
+
+    <string-array name="sensor_light">
+        <item>@string/sensor_light_dusky</item>
+        <item>@string/sensor_light_normal</item>
+        <item>@string/sensor_light_bright</item>
+    </string-array>
+
+    <string-array name="sensor_noisy">
+        <item>@string/sensor_noise_quiet</item>
+        <item>@string/sensor_noise_normal</item>
+        <item>@string/sensor_noise_noisy</item>
+    </string-array>
+
+
+    <string-array name="sensor_air">
+        <item>@string/air_quality_good</item>
+        <item>@string/air_quality_moderate</item>
+        <item>@string/air_quality_bad</item>
+    </string-array>
+
+    <string-array name="more_and_less">
+        <item>≥</item>
+        <item>≤</item>
+    </string-array>
+
+    <!--NestInfo-->
+    <string-array name="nest_hum_temp_person">
+        <item>@string/nest_current_tempc</item> //当前温度℃
+        <item>@string/nest_current_tempf</item>  //当前温度℉
+        <item>@string/nest_target_tempc</item> //目标温度℃
+        <item>@string/nest_target_tempf</item>
+        <item>@string/nest_humidity</item>
+        <item>@string/nest_whether_has_person</item>
+    </string-array>
+
+    <string-array name="nest_more_less_equal">
+        <item>≥</item>
+        <item>≤</item>
+    </string-array>
+
+    <string-array name="has_person">
+        <item>@string/nest_has_person</item>
+        <item>@string/nest_has_no_person</item>
+    </string-array>
+</resources>

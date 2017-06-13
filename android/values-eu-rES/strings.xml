@@ -1,0 +1,1364 @@
+<?xml version="1.0" encoding="utf-8"?>  <!--西班牙语 Español-->
+<resources>
+    <string name="upgrade_immediately">Actualizar inmediatamente</string>
+    <string name="about_kuzhai">Alrededor %1$s</string>
+    <string name="info_updates">La versión actual es la última versión</string>
+    <string name="err_internet">Error de red, por favor asegúrese que el dispositivo está en modo configuración</string>
+    <string name="not_found_device">No se han encontrado dispositivos, asegúrese que el dispositivo está en modo configuración</string>
+    <string name="not_device">No existe el dispositivo</string>
+    <string name="air_cleaner">Filtro de aire</string>
+    <string name="best">Mejor</string>
+    <string name="fine">Bien</string>
+    <string name="middle">Medio</string>
+    <string name="bad">Mal</string>
+    <string name="inferior">Inferior</string>
+    <string name="shutdown">Desconectar</string>
+    <string name="wind_speed">Velocidad del viento</string>
+    <string name="fireplace_power_on">Encender</string>
+    <string name="fireplace_power_off">Apagar</string>
+
+    <string name="air">Aire:</string>
+    <string name="temperature">Temperatura</string>
+    <string name="c">Centígrados</string>
+    <string name="humidity">Humedad:</string>
+    <string name="not_internet_current">Bno hay red disponible</string>
+
+
+    <string name="device_not_online">Dispositivo no conectado</string>
+
+    <string name="operation_failure">Operación fallida</string>
+    <string name="online">(Conectado)</string>
+    <string name="offline">(Desconectado)</string>
+    <string name="device_offline">Dispositivo desconectado, imposible tener el control ahora</string>
+    <string name="device_manufacturers">Fabricante:</string>
+    <string name="device_type">Modelo:</string>
+    <string name="share_owner_device">Sólo el propietario puede compartir el dispositivo</string>
+    <string name="device_upgraded_to">El dispositivo debe ser actualizado</string>
+
+
+    <string name="info_wait_upgrade">No se le permite operar durante la actualización, el proceso continuará, por favor espere</string>
+    <string name="info_sure_delete">¿Seguro que quieres eliminar este dispositivo?</string>
+    <string name="del_group">¿Seguro que quieres eliminar este grupo?</string>
+    <string name="ota_failed_upgrade">Ha fallado la actualización del dispositivo%1$s ota</string>
+    <string name="ota_success_upgrade">Actualización completada correctamente en el Dispositivo%1$s ota</string>
+    <string name="ota_finish_upgrade">Actualización completada en el dispositivo%1$s ota</string>
+
+    <string name="firmware_upgradeing">El dispositivo%1$s está actualizando ...</string>
+    <string name="background_updateing">El dispositivo%1$s se está actualizando en segundo plano ...</string>
+    <string name="sms_mustbenoempty">El código de verificación no puede estar vacío</string>
+
+    <string name="tips">Recordatorio</string>
+    <string name="info_relogin">El inicio de sesión ha caducado. Inicie la sesión de nuevo.</string>
+
+    <string name="ok">Ok</string>
+    <string name="Save">Guardar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="test_wechat">Prueba nuestro chat</string>
+    <string name="group_exits">El agrupamiento ya existe</string>
+    <string name="delete_group">Todos los dispositivos del grupo eliminado seguirán existiendo. ¿Está seguro que desea eliminar el grupo?</string>
+    <string name="change_device">Cambiar Nombre de Dispositivo</string>
+
+    <string name="info_not_change">Sólo el propietario tiene autoridad para cambiar el nombre del dispositivo</string>
+    <string name="change_name_success">Cambio satisfactorio</string>
+    <string name="change_name_failed">Cambiar nombre fallido</string>
+    <string name="waiting">Esperando...</string>
+    <string name="divece_name">Nombre del dispositivo:</string>
+    <string name="device_name_not">El nombre del dispositivo no puede estar vacío</string>
+    <string name="timer">Sincronización</string>
+    <string name="once">Una vez</string>
+    <string name="everyday">Cada día</string>
+    <string name="day">Día</string>
+    <string name="days">Días laborables</string>
+    <string name="weekends">Fin de semana</string>
+    <string name="week">Semana</string>
+    <string name="add_timer_success">Añadido satisfactoriamente</string>
+    <string name="delete_timer_success">Eliminado correctamente</string>
+    <string name="date">día</string>
+
+    <string name="add_timer_failed">Error al agregar temporizador</string>
+    <string name="delete_timer_failed">Error al eliminar el temporizador</string>
+    <string name="timer_set_err">Tiempo atrasado</string>
+    <string name="only_number">Sólo 8 temporizadores permitidos.</string>
+
+
+    <string name="repassword">Restablecer la contraseña</string>
+    <string name="commit">Enviar</string>
+    <string name="user_register">Registro</string>
+    <string name="password_not">La contraseña no puede estar vacía</string>
+    <string name="enter_phone_numbers">Número de teléfono or correo electrónico</string>
+    <string name="registering">Registro ...</string>
+    <string name="resend">Reenvío</string>
+    <string name="change_user_info">Cambiar información de usuario</string>
+    <string name="enter_name">Introduce un nuevo pseudónimo</string>
+    <string name="name_not">El pseudónimo no puede estar vacío</string>
+    <string name="modify_name_success">Modificar correctamente</string>
+    <string name="modify_name_failed">Modificación de pseudónimo fallido</string>
+    <string name="change_password">Contraseña anterior</string>
+    <string name="email_number">Número de correo electrónico</string>
+    <string name="email_code">Código de correo electrónico</string>
+    <string name="sms_number">Telphone number</string>
+    <string name="sms_code">Enviar código</string>
+
+    <string name="old_paswd_not">La contraseña antigua no puede estar vacía</string>
+    <string name="new_paswd_not">La nueva contraseña no puede estar vacía</string>
+    <string name="secondary_not">Confirmar contraseña no puede estar vacía</string>
+    <string name="two_passwords_notsam">La nueva contraseña no coincide</string>
+    <string name="info_old_paswd">La contraseña debe contener al menos 8 caracteres</string>
+    <string name="info_fomat_paswd">Al menos 8 carácteres</string>
+    <string name="info_check_internet">No hay red, compruebe el estado de la red</string>
+
+    <string name="info_fomat_email">Por favor rellene un E-mail válido</string>
+
+    <string name="info_again_enter">Contraseña antigua errónea, por favor, vuelva a teclearlo</string>
+    <string name="change_password_failed">No se pudo modificar la contraseña:</string>
+    <string name="change_susess">Cambiado correctamente</string>
+    <string name="user">Usuario</string>
+    <string name="user_online">Usuario no conectado</string>
+    <string name="user_exist">No existe el usuario</string>
+    <string name="share_success">Exitoso</string>
+    <string name="user_denied">Rechazado</string>
+    <string name="user_sharex">Ya compartido</string>
+    <string name="share_outtime">Tiempo de espera de la cuenta</string>
+    <string name="wait_requset">Confirmando</string>
+    <string name="share_device">Compartir dispositivo</string>
+    <string name="repeat_time">Repetir el tiempo</string>
+
+    <string name="select_user">Seleccione un usuario</string>
+    <string name="enter_phone_number">Número de teléfono equivocado</string>
+    <string name="not_share_own">No se le permite compartir con usted mismo</string>
+    <string name="has_share">Ya compartido</string>
+    <string name="err_cmdorfomat">Comando o formato incorrecto</string>
+    <string name="err_server">Error interno del servidor</string>
+    <string name="not_even">El número de respuesta no es un número par:</string>
+    <string name="only_english">Sólo se permite inglés</string>
+    <string name="err_length">Longitud de más de 512 caracteres</string>
+    <string name="enter_not_null">La entrada no puede estar vacía</string>
+    <string name="device_info_title">Información del dispositivo</string>
+    <string name="del_dialog">Eliminación del temporizador ...</string>
+
+    <string name="err_fomat">Formato erróneo:</string>
+    <string name="logining">Logándose</string>
+    <string name="committime">Creación de temporizador ...</string>
+    <string name="login_failed">Inicio de sesión fallido, Error en el número de cuenta o contraseña</string>
+    <string name="login_failed_normal">Inicio de sesion fallido</string>
+    <string name="shook_on">Modo de agitar la cabeza: activado</string>
+    <string name="shook_off">Modo de agitar la cabeza: desactivado</string>
+    <string name="device_one">Dispositivo 1</string>
+    <string name="device_two">Dispositivo 2</string>
+    <string name="device_three">Dispositivo 3</string>
+    <string name="device_four">Dispositivo 4</string>
+    <string name="register_success">Registrado correctamente</string>
+
+    <string name="switch_net_error">Error al cambiar de red, agréguelo de nuevo</string>
+    <string name="connect_failed">Asegúrese de que el dispositivo esté en el estado de vinculación</string>
+    <string name="add_failed">No se pudo agregar</string>
+    <string name="repeat_password_success">Contraseña restablecida correctamente</string>
+    <string name="register_failed">Error al registrarse</string>
+    <string name="downloading">Descargando</string>
+    <string name="download_failed">Error de descarga, haga clic para descargar de nuevo</string>
+    <string name="downloaded">Descarga completa</string>
+    <string name="download_install">Descarga completa, haga clic para instalar</string>
+    <string name="download_complete">Descarga completa(</string>
+    <string name="not_internet">No hay red disponible</string>
+
+    <string name="add_group">Nuevo grupo</string>
+    <string name="add_device_group">Nuevo grupo de dispositivos</string>
+    <string name="edit_group">Editar grupo</string>
+
+    <string name="timer_set">Temporizador</string>
+
+    <string name="info_kuzhai">EWeLink es una APP gratuita para casas inteligentes. \ N \ nEWeLink puede controlar todos los electrodomésticos inteligentes de ITEAD y de los socios cooperadores. Remotamente puede activar / desactivar dispositivos conectados, establecer horarios de sincronización, compartir dispositivos, gestionar grupos y escenarios / escenarios inteligentes. Con EWeLink, puede ajustar el color y el brillo de múltiples LED RGB, puede controlar la temperatura y la humedad de Sonoff TH, incluso puede controlar la calidad del aire. \ N \ nMás dispositivos están en desarrollo, por favor permanezca atento.</string>
+    <string name="my_device">Mi dispositivo</string>
+
+    <string name="add_new_timer">Nuevo temporizador</string>
+    <string name="repeat">Repetir</string>
+    <string name="one">Uno</string>
+    <string name="two">Dos</string>
+    <string name="three">Tres</string>
+    <string name="four">Cuatro</string>
+    <string name="five">Cinco</string>
+    <string name="six">Seis</string>
+    <string name="seven">Siete</string>
+
+    <string name="complete">Guardar</string>
+    <string name="add_new_group">Añadir nuevo grupo</string>
+
+    <string name="info_newtime">No hay temporizador actualmente, por favor, presiona el ícono de abajo para añadir un nuevo temporizador</string>
+    <string name="run_cmd">Editar temporizador</string>
+
+    <string name="switch_on">ENCENDIDO</string>
+    <string name="off_switch">APAGADO</string>
+    <string name="time_set">Configuracion de hora</string>
+    <string name="single_timer">Hora única</string>
+    <string name="modify_nickname">Modificar pseudónimo</string>
+    <string name="undo_share">Dejar de compartir</string>
+    <string name="hex_display">Pantalla hex</string>
+    <string name="enter_cmd">Ingrese el comando</string>
+    <string name="assiic_directive">Comando asistido</string>
+    <string name="hex_directive">Dieciséisaba instrucción</string>
+    <string name="clear_result">Limpiar resultado</string>
+    <string name="share">Compartir</string>
+    <string name="display_send">Visualizar envío</string>
+    <string name="send_verification_code">Enviar</string>
+    <string name="register">Registro</string>
+    <string name="personal_infomation">Información personal</string>
+
+    <string name="message_center">Centro de mensajes</string>
+    <string name="intelligent_scene">Escena eWeLink</string>
+    <string name="feedback">Feedback</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="info_reset_password">Contraseña olvidada</string>
+    <string name="return_op">Volver a la lista</string>
+    <string name="return_space">Volver a la lista</string>
+
+    <string name="discovered_device">Dispositivos encontrados</string>
+    <string name="select_add_device">Seleccione un dispositivo para agregar</string>
+    <string name="next">Siguiente</string>
+    <string name="config_discover_device">Configurar Dispositivos encontrados</string>
+    <string name="remember_wifi_password">Recordar la contraseña WiFi</string>
+    <string name="name_device">Nombre este dispositivo</string>
+    <string name="my_smart_socketone">Mi dispositivo</string>
+    <string name="one_gear">primera marcha</string>
+    <string name="two_gear">segunda marcha</string>
+    <string name="third_gear">tercera marcha</string>
+
+    <string name="stall_mode">modo de parada</string>
+    <string name="temperature_mode">modo de temperatura</string>
+    <string name="current_temperature">temperatura actual</string>
+    <string name="loading">cargando...</string>
+    <string name="old_password">Contraseña anterior</string>
+    <string name="new_password">Nueva contraseña</string>
+    <string name="enter_new_passwod">Introduzca nueva contraseña</string>
+    <string name="again_new_password">Introduzca nueva contraseña</string>
+    <string name="set_group_nameicon">Nombre del grupo y el icono de conjunto</string>
+    <string name="enter_group_name">Nombre del grupo de entrada</string>
+    <string name="selected_icon">seleccione el icono</string>
+    <string name="upload_icon">icono de subida</string>
+
+    <string name="enter_share_nuber">Introduzca el número de teléfono que desea compartir</string>
+    <string name="find_new_version">Se ha encontrado una nueva versión, actualícela por favor</string>
+    <string name="upgrade">Actualizar</string>
+    <string name="enter_device_name">Introduzca un nuevo nombre</string>
+    <string name="recevice_equipment">Ha recibido un mensaje de invitación de un dispositivo compartido</string>
+    <string name="my_devices">Mi dispositivo</string>
+    <string name="delete">Borrar</string>
+    <string name="firmware_upgrade">Actualización de Fireware</string>
+
+    <string name="register_users">registro</string>
+    <string name="login_btn">Botón de inicio de sesión</string>
+    <string name="reset_password">Restablecer la contraseña</string>
+    <string name="send_notification_msg">Enviar mensaje de notificación</string>
+    <string name="set_timer_time">Horario Unico</string>
+    <string name="set_repeat_time">Repetir Horario</string>
+    <string name="set_delay_time">Retrasar Horario</string>
+    <string name="setting_in">Establecer en</string>
+    <string name="minutes">Minutos después</string>
+    <string name="cut">Cortar</string>
+    <string name="manager_group">Administrar Grupo</string>
+    <!--<string name="exit_coolkit">Salir de CoolKit</string>-->
+
+    <!--<string name="app_name">CoolKit</string>-->
+    <string name="app_name">EWeLink</string>
+    <string name="reciver_invite">El usuario%1$s desea compartir el dispositivo%2$s con usted. ¿Está de acuerdo?</string>
+    <string name="new_home_kit">Actualización de eWeLink%1$s apk</string>
+    <string name="versionString">Versión:%1$s, compruebe si hay una nueva versión</string>
+
+    <string name="hello_world">¡Hola Mundo!</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="select_wifi">Elige un eWeLink</string>
+    <string name="input_phone">Introduzca número de teléfono</string>
+    <string name="input_email">Introduce el número de correo electrónico</string>
+    <string name="name_or_pwd_is_empty">El nombre de usuario o la contraseña están vacíos</string>
+    <string name="account_notvalid">No es una cuenta válida</string>
+    <string name="input_account">Por favor introduzca su cuenta</string>
+    <string name="phone_notvalid">No es un número de teléfono válido.</string>
+
+    <string name="not_intent_word">No hay WiFi disponible</string>
+    <string name="select_date">Elija por lo menos un día</string>
+    <string name="title_update">Actualización de Fireware, por favor espere</string>
+    <string name="lineoff_device">Dispositivo desconectado</string>
+    <string name="deviceupdate">Actualización de fireware</string>
+    <string name="timers">Temporizador</string>
+    <string name="everydays">Cada día</string>
+    <string name="workdate">Días de la semana</string>
+    <string name="weekdate">fin de semana</string>
+    <string name="weeks">semana</string>
+    <string name="ones">Lun.</string>
+    <string name="twos">Mar.</string>
+    <string name="threes">Mie.</string>
+    <string name="fours">Jue.</string>
+    <string name="fives">Vie.</string>
+    <string name="sixs">Sab.</string>
+    <string name="timeday">Dom.</string>
+    <string name="add_timers_success">Añadido con éxito</string>
+    <string name="update_timers_ok">Actualizado correctamente</string>
+    <string name="update_timers_delay_ok">Actualizado correctamente</string>
+    <string name="delete_timers_ok">Eliminado correctamente</string>
+
+    <string name="onces">Una vez</string>
+    <string name="describ_feebback">Descripción de la entrada</string>
+    <string name="feedback_success">Enviado correctamente</string>
+    <string name="usernot_exsit">El usuario no existe, por favor regístrese</string>
+    <string name="feedback_fail">Error en la presentación</string>
+    <string name="dataerr">Error de datos, por favor agregue de nuevo</string>
+    <string name="dev_offline">Dispositivo desconectado</string>
+    <string name="outtimer">Solicitud fuera de hora</string>
+    <string name="choice_part">Seleccione una región</string>
+    <string name="version">Prueba</string>
+    <string name="about_coolkit_weixin">Si ha añadido el dispositivo con éxito, siempre y cuando siga nuestro WeChat oficial, puede controlar directamente todos sus dispositivos a través del acceso a WeChat. Simplemente escanee el código QR arriba para seguir nuestra cuenta de Wechat.</string>
+
+    <string name="error_sms_code">Código de verificación incorrecto, inténtalo de nuevo.</string>
+    <string name="reset_error">Error de restablecimiento</string>
+    <string name="reset_fail">Reinicio fallido</string>
+    <string name="dont_reset_agin">La cuenta ya existe, Por favor, no vuelva a registrarse</string>
+    <string name="countrycode_smscode_error">Código de país o código de verificación incorrecto</string>
+
+    <string name="send_msg_limit">Solicite el código de verificación frecuentemente</string>
+    <string name="send_msg_fail_check">No se pudo enviar SMS, compruebe el estado de la red</string>
+    <string name="send_msg_fail">Error al enviar SMS</string>
+
+    <string name="send_email_fail_check">Error al enviar correo electrónico, por favor, compruebe el estado de la red</string>
+    <string name="send_email_fail">Error al enviar correo electrónico</string>
+
+    <string name="send_email_success">E-mail enviado correctamente, por favor, compruebe</string>
+    <string name="send_sms_success">Mensaje enviado correctamente, por favor, compruebe</string>
+    <string name="confirm">Confirmar</string>
+    <string name="confirm_en_ok">OK</string>
+    <string name="add_confirm">OK</string>
+    <string name="puls_select"> Selección del canal de salida</string>
+
+    <string name="edit_dialog">Temporizador de edición</string>
+    <!-- <string name="del_dialog">Eliminación del temporizador</string>-->
+    <string name="connectto_nopwd">No has introducido ninguna contraseña, ¿estás seguro de que la WiFi no tiene contraseña? Si esá seguro, haga clic para continuar</string>
+    <string name="infoweek">Semana</string>
+    <string name="equesdate">Error de ajuste de tiempo, no puede ajustar el temporizador para la hora actual</string>
+    <string name="SSID_no_chinese">El SSID no puede contener caracteres Chinos</string>
+    <string name="pwd_no_chinese">La contraseña no puede contener caracteres Chinos</string>
+    <string name="Wifi_Name">Acceso a dispositivos WiFi:</string>
+    <string name="Wifi_PassWord">Contraseña de wifi:</string>
+    <string name="wifi_password_none">La contraseña está vacía</string>
+    <string name="change_name">Cambiar el nombre del dispositivo</string>
+    <string name="only_owner">Solo el propietario puede ver</string>
+    <string name="productinfo">Información del dispositivo</string>
+    <string name="notgrade">Último</string>
+    <string name="firmware">Versión de firmware:</string>
+    <string name="canupgrade">Haga clic para actualizar</string>
+    <string name="infoupgrade">La versión del firmware se puede actualizar, vaya a la página del dispositivo para actualizar el firmware</string>
+    <string name="deviceoffline">Dispositivo desconectado</string>
+    <string name="et_search">Buscar</string>
+
+    <string name="name_repeat">Nombre duplicado</string>
+
+    <string name="power_on">ENCENDIDO</string>
+    <string name="power_off">APAGADO</string>
+    <string name="info_updateerr">Tu dispositivo no se puede actualizar en línea</string>
+    <string name="confirm_new_password">Confirmar contraseña</string>
+    <string name="change_password_out">Cambia la contraseña</string>
+    <string name="virtual_fengshan">Ventilador eléctrico</string>
+    <string name="virtual_chazhuo">Enchufe</string>
+    <string name="line_real_device">Conecte el dispositivo real</string>
+    <string name="hour">hora</string>
+    <string name="check_wifi">Por favor compruebe su red</string>
+    <string name="group_add">Añadir grupo</string>
+    <string name="group_del">Eliminar la agrupación de dispositivos</string>
+    <string name="try_again_later">Por favor, inténtelo de nuevo más tarde</string>
+
+
+    <string name="send_config_over_time">Añadir tiempo de espera del dispositivo, inténtalo de nuevo</string>
+    <string name="begintime">Comienza la hora</string>
+    <string name="intervaltime">Intervalo</string>
+    <string name="keeptime">Ultima vez</string>
+
+    <string name="keep_not">La duración no puede ser cero</string>
+    <string name="interval_not">El tiempo de intervalo no puede ser cero</string>
+    <string name="keep_smaller_interval">El tiempo de mantenimiento debe ser menor que el tiempo de intervalo</string>
+    <string name="switch_open">Encendido</string>
+    <string name="switch_close">Apagado</string>
+    <string name="start_action">Comienzo</string>
+    <string name="end_action">Fin</string>
+    <string name="data_exception">Excepción de datos, vuelve a intentarlo más tarde.</string>
+    <string name="switchcountry">Elige tu país</string>
+    <string name="password">Contraseña</string>
+    <string name="language_actionbar_text">Cambiar idioma</string>
+    <string name="current_version">Corriente</string>
+    <string name="change_nickname">Cambiar pseudónimo</string>
+    <string name="nickname">Introduzca nuevo pseudónimo</string>
+    <string name="on_change_language">Cambiando</string>
+    <string name="go_on">Continuar</string>
+    <string name="add_device">Añadir dispositivo</string>
+    <string name="retry">Inténtalo de nuevo</string>
+    <string name="retry_space">Inténtalo de nuevo</string>
+    <string name="device_list">Mis dispositivos</string>
+    <string name="change_language">Cambiar idioma</string>
+    <string name="user_pwd">Contraseña</string>
+    <string name="search_failed">Se produjo un error en la búsqueda. Inténtelo de nuevo</string>
+    <string name="sure_quit_add">Confirmar para salir del emparejamiento?</string>
+
+    <string name="over">Fin</string>
+    <string name="connected_device_wait">Conectando el dispositivo, espere ...</string>
+    <string name="regist_device_wait">Registrando, por favor espere ...</string>
+    <string name="device_has_been_register">Ya ha registrado el dispositivo</string>//todo
+    CHECK
+    <string name="delete_failed">Se ha producido un error al eliminar el dispositivo. Vuelve a intentarlo más tarde.</string>
+    <string name="groupName_notRepeat">El nombre del grupo no puede ser el mismo.</string>
+    <string name="groupName_not">El nombre del grupo no puede estar vacío</string>
+    <string name="add_success">¡Agregado correctamente!</string>
+    <string name="operat_success">Correctamente</string>
+    <string name="switch_power">Energía:</string>
+    <string name="operating">Funcionando</string>
+    <string name="device_belong_other">El dispositivo pertenece a otro usuario</string>
+    <string name="back_device_list">Volver a la lista</string>
+    <string name="device_setting">Ajuste</string>
+    <string name="connect_device_fail">Error al conectar el dispositivo. Inténtelo de nuevo.</string>
+    <string name="notfound_deviceversion">No se encuentra el firmware del dispositivo</string>
+    <string name="only_own_operate">Sólo el propietario puede manejar</string>
+    <string name="alert_feedback">Feedback</string>
+    <string name="delete_device">Eliminar dispositivo</string>
+    <string name="open">Abierto</string>
+    <string name="close">Cerrado</string>
+    <string name="vibration_switch">Cambiar la de vibración</string>
+    <string name="please_close">Por favor cierre</string>
+    <string name="no_sensor">Error al leer los datos del sensor, verifique la conexión</string>
+    <string name="no_permission_try_system">Pérdida de permisos, puede intentar acceder a la configuración del sistema</string>
+    <string name="need_extra_permission">¿Necesita un permiso adicional, deberá solicitarlo?</string>
+    <string name="need_permission_coarse">¡Conceda permiso a la red o ubicación de EweLink, o no podrá emparejar el dispositivo!</string>
+
+
+    <!--温湿度翻译-->
+    <string name="uread">No leído</string>
+    <string name="hum_detail">El valor de humedad debe estar entre 0-100</string>
+    <string name="first_big_than_second">El valor de la primera pieza en blanco no puede ser menor que el segundo espacio en blanco</string>
+    <string name="please_enter_condition">Introduzca la condición</string>
+    <string name="hum_bigger_than">Más alto que</string>
+    <string name="hum_smaller_than">Más bajo que</string>
+    <string name="temp_bigger_than">Más alto que</string>
+    <string name="temp_smaller_than">Más bajo que</string>
+    <string name="temp_setting">Temperatura</string>
+    <string name="hum_setting">Humedad</string>
+    <!---->
+
+    <string name="change_nickname_success">Cambiado correctamente</string>
+    <string name="operat_fail_retry">La operación falló, ¡inténtalo más tarde!</string>
+    <string name="auto_model">Auto</string>
+    <string name="manual_model">Manual</string>
+    <string name="auto_model_unable_control">No se puede controlar el interruptor en modo automático</string>
+    <string name="enter_account">Introduzca la cuenta</string>
+    <string name="power_stay">PERMANECER</string>
+    <string name="no_address">¿No has completado el contacto, continúamos?</string>
+    <string name="long_press_button">Mantenga presionado el botón de emparejamiento hasta que el LED parpadee</string>
+    <string name="choice_describe">Seleccione el método de emparejamiento correspondiente.</string>
+    <string name="first_part">Primer método de emparejamiento El LED del dispositivo parpadea 1 vez y repite.</string>
+    <string name="second_part">Segundo método de emparejamiento El LED del dispositivo parpadea 3 veces y se enciende repetidamente.</string>
+    <string name="other_case">En otros casos</string>
+    <string name="choice_state">Por favor seleccione el estado</string>
+    <string name="not_find">No se encontraron dispositivos</string>
+    <string name="add_new_scene">Añadir escenario</string>
+    <string name="scene_name">Nombre del escenario</string>
+    <string name="scene_setting">Configuración del Escenario</string>
+    <string name="scene_list_is_null">La lista de dispositivos del escena está vacía</string>
+    <string name="please_enter_scene_name">Introduzca el nombre del escenario</string>
+    <string name="updae_scene_fail">Error al modificar el escenario</string>
+    <string name="save_scene_fail">Error al guardar el escenario</string>
+    <string name="execute">Ejecutar</string>
+    <string name="request_time_out">Solicitud de hora fuera</string>
+    <string name="delete_scene">Eliminar escenario</string>
+    <string name="delete_scene_fail">No se pudo eliminar la escenario</string>
+    <string name="scene_limit">Número de escenario no más de 20</string>
+    <string name="channel1">Canal 1:</string>
+    <string name="channel2">Canal 2:</string>
+    <string name="channel3">Canal 3:</string>
+    <string name="channel4">Canal 4:</string>
+    <string name="keep">guardar</string>
+    <string name="delete_scene_success">Escenario correctamente eliminado</string>
+    <string name="channel">Salida</string>
+    <string name="channel_name">Nombre del Canal</string>
+    <string name="production">Introducción del producto</string>
+    <string name="weichatQR">Cuenta de suscripción a WeChat</string>
+    <string name="channel_name_not_be_empty">El nombre del canal no puede estar vacío</string>
+    <string name="latest_version">Último:</string>
+
+    <string name="wait_for_confirm">Esperando confirmación</string>
+    <string name="Scene_log_detail">Detalles</string>
+
+    <string name="efan_model">Modelo</string>
+    <string name="efan_normal">normal</string>
+    <string name="efan_natural">natural</string>
+    <string name="efan_sleep">dormir</string>
+    <string name="open_efan_first">Por favor enciende el ventilador</string>
+    <string name="efan_speed">Velocidad</string>
+    <string name="efan_shake">Oscilar</string>
+
+    <string name="success">Exitoso</string>
+    <string name="failed">Ha fallado</string>
+    <string name="history">Registro histórico</string>
+    <string name="one_key_clean">Limpiar</string>
+
+    <string name="slide_right_operat_device">Deslice hacia la derecha para operar con los dispositivos seleccionados</string>
+    <string name="slide_right_group_device">Desliza hacia la derecha para agrupar</string>
+    <string name="click_scene_group">Añadir escenarios aquí</string>
+
+    <string name="i_know">Lo tengo</string>
+    <string name="click_set_channel_name">Toca para nombrar cada canal</string>
+    <string name="device_offline_check_net">Dispositivo sin conexión, compruebe la red</string>
+    <string name="sure_delete_scene">¿Seguro que quieres eliminar el escenario?</string>
+    <string name="open_fan">Ventilador abierto</string>
+    <string name="close_fan">Cerrar ventilador</string>
+    <string name="resetting">Restableciendo…</string>
+    <string name="open_switch_first">Por favor, encienda el interruptor</string>
+    <string name="start">Comienzo</string>
+    <string name="end">Fin</string>
+    <string name="current_power">Potencia actual:</string>
+    <string name="total_power">Total</string>
+    <string name="kwh">KWh</string>
+    <string name="day_power">Consumo diario de electricidad</string>
+    <string name="jan">Ene.</string>
+    <string name="feb">Feb.</string>
+    <string name="mar">Mar.</string>
+    <string name="apr">Abr.</string>
+    <string name="may">May.</string>
+    <string name="june">Junio.</string>
+    <string name="july">Julio.</string>
+    <string name="aug">Ago.</string>
+    <string name="sept">Sept.</string>
+    <string name="oct">Oct.</string>
+    <string name="nov">Nov.</string>
+    <string name="dec">Dic.</string>
+    <string name="current_month_power">Total</string>
+    <string name="current_power_title">Potencia actual</string>
+    <string name="history_power">Historial de la electricidad</string>
+
+    <string name="youqiao_statistics">Estadística</string>
+    <string name="youqiao_alarm">Alarma</string>
+    <string name="youqiao_download">Descargar</string>
+    <string name="youqiao_fee_rate">Tasa de Electricidad</string>
+    <string name="youqiao_fee_rate_per_unit">KWh</string>
+    <string name="youqiao_energy_now">Potencia en tiempo real</string>
+    <string name="youqiao_threshold">Límite</string>
+    <string name="youqiao_electric">Corriente</string>
+    <string name="youqiao_voltage">Voltaje</string>
+    <string name="youqiao_alarm_thresold">Configuración de Thresold de alarma</string>
+    <string name="youqiao_reset">Reiniciar</string>
+    <string name="youqiao_fee">Carga eléctrica</string>
+    <string name="youqiao_fee_total">Total:</string>
+    <string name="youqiao_not_null_input_thresold">Introduzca%1$s</string>
+    <string name="youqiao_history_download_success">Descargado en el directorio: \n%1$s</string>
+    <string name="youqiao_history_download_failure">Error en la descarga, compruebe que la tarjeta de almacenamiento esté correcta</string>
+    <string name="youqiao_has_no_100_day_data">No tiene datos de historial, intente más tarde por favor.</string>
+
+    <string-array name="phone_managers">
+        <item>com.qihoo.appstore+360 Asistente Móvil</item>
+        <item>com.tencent.qqpimsecure+QQ Butler Móvil</item>
+        <item>com.qihoo360.mobilesafe+360 Guardias Móviles</item>
+        <item>com.ijinshan.mguard+Kingsoft Guardias Móviles</item>
+        <item>com.lbe.security+LBE Guardia Privado</item>
+    </string-array>
+
+
+    <string-array name="country_code1">
+        <item>Estados Unidos +1</item>
+        <item>Taiwan  +886</item>
+        <item>China   +86</item>
+        <item>Abjasia +7840</item>
+        <item>Afghanistan +93</item>
+        <item>Albania +355</item>
+        <item>Algeria +213</item>
+        <item>Samoa Americana +1684</item>
+        <item>Andorra +376</item>
+        <item>Angola +244</item>
+        <item>Anguilla +1264</item>
+        <item>Antigua y Barbuda +1268</item>
+        <item>Argentina +54</item>
+        <item>Armenia +374</item>
+        <item>Aruba +297</item>
+        <item>Ascensión +247</item>
+        <item>Australia +61</item>
+        <item>Territorios Externos de Australian +672</item>
+        <item>Austria +43</item>
+        <item>Azerbaiyán +994</item>
+        <item>Bahamas +1242</item>
+        <item>Bahrein +973</item>
+        <item>Bangladesh +880</item>
+        <item>Barbados +1246</item>
+        <item>Barbuda +1268</item>
+        <item>Bielorusia +375</item>
+        <item>Bélgica +32</item>
+        <item>Belice  +501</item>
+        <item>Benin   +229</item>
+        <item>Bermudas +1441</item>
+        <item>Bhután  +975</item>
+        <item>Bolivia +591</item>
+        <item>Bonaire +5997</item>
+        <item>Bosnia y Herzegovina  +387</item>
+        <item>Botsuana +267</item>
+        <item>Brasil  +55</item>
+        <item>Territorios Británicos del Océano Índico  +246</item>
+        <item>Islas Vírgenes Británicas  +1284</item>
+        <item>Brunei Darussalam   +673</item>
+        <item>Bulgaria    +359</item>
+        <item>Burkina Faso    +226</item>
+        <item>Birmania   +95</item>
+        <item>Burundi +257</item>
+        <item>Camboya    +855</item>
+        <item>Camerún    +237</item>
+        <item>Canada  +1</item>
+        <item>Cavo Verde  +238</item>
+        <item>Países Bajos del Caribe   +5993</item>
+        <item>Islas Caimán  +1345</item>
+        <item>República Centroafricana + 236</item>
+        <item>Chad    +235</item>
+        <item>Islas Chatham  (Nueva Zelanda) +64</item>
+        <item>Chile   +56</item>
+        <item>Isla de Navidad +61</item>
+        <item>Islas Cocos (Keeling) +61</item>
+        <item>Colombia    +57</item>
+        <item>Comoras +269</item>
+        <item>Congo (Brazzaville) +242</item>
+        <item>Congo, República Democrática de (Zaire)   +243</item>
+        <item>Islas Cook    +682</item>
+        <item>Costa Rica  +506</item>
+        <item>Croacia +385</item>
+        <item>Cuba    +53</item>
+        <item>Cuba (Bahía Guantanamo)   +5399</item>
+        <item>Curaçao +5999</item>
+        <item>Chipre  +357</item>
+        <item>República Checa  +420</item>
+        <item>Dinamarca +45</item>
+        <item>Diego Garcia    +246</item>
+        <item>Djibouti    +253</item>
+        <item>Dominica    +1767</item>
+        <item>República Dominicana  +1809</item>
+        <item>Timor Oriental  +670</item>
+        <item>Isla de Pascua   +56</item>
+        <item>Ecuador +593</item>
+        <item>Egipto   +20</item>
+        <item>El Salvador +503</item>
+        <item>Guinea Ecuatorial   +240</item>
+        <item>Eritrea +291</item>
+        <item>Estonia +372</item>
+        <item>Etiopía    +251</item>
+        <item>Islas Malvinas (Malvinas) +500</item>
+        <item>Islas Feroe   +298</item>
+        <item>Fiji    +679</item>
+        <item>Finlandia +358</item>
+        <item>Francia  +33</item>
+        <item>Antilles Francesas +596</item>
+        <item>Guayana Francesa   +594</item>
+        <item>Polinesia Francesa    +689</item>
+        <item>Gabón   +241</item>
+        <item>Gambia  +220</item>
+        <item>Georgia +995</item>
+        <item>Alemania +49</item>
+        <item>Ghana   +233</item>
+        <item>Gibraltar   +350</item>
+        <item>Grecia  +30</item>
+        <item>Groenlandia   +299</item>
+        <item>Granada +1473</item>
+        <item>Guadalupe  +590</item>
+        <item>Guam    +1671</item>
+        <item>Guatemala   +502</item>
+        <item>Guernsey    +44</item>
+        <item>Guinea  +224</item>
+        <item>Guinea-Bissau   +245</item>
+        <item>Guyana  +592</item>
+        <item>Haiti   +509</item>
+        <item>Santa Sede (Estado de Ciudad de Vaticano)   +39066</item>
+        <item>Honduras    +504</item>
+        <item>Hong Kong   +852</item>
+        <item>Hungría +36</item>
+        <item>Islandia +354</item>
+        <item>India   +91</item>
+        <item>Indonesia   +62</item>
+        <item>Inmarsat SNAC   +870</item>
+        <item>Servicio Internacional Gratuito +800</item>
+        <item>Irán    +98</item>
+        <item>Iraq    +964</item>
+        <item>Irlanda +353</item>
+        <item>Isla of Man +44</item>
+        <item>Israel  +972</item>
+        <item>Italia   +39</item>
+        <item>Jamaica +1876</item>
+        <item>Japón   +81</item>
+        <item>Jersey  +44</item>
+        <item>Jordania  +962</item>
+        <item>Kazajstán  +76</item>
+        <item>Kenia   +254</item>
+        <item>Kiribati    +686</item>
+        <item>Kuwait  +965</item>
+        <item>Kirguistán  +996</item>
+        <item>Laos    +856</item>
+        <item>Letonia  +371</item>
+        <item>Líbano +961</item>
+        <item>Lesoto +266</item>
+        <item>Liberia +231</item>
+        <item>Libia   +218</item>
+        <item>Liechtenstein   +423</item>
+        <item>Lituania   +370</item>
+        <item>Luxemburgo  +352</item>
+        <item>Macau   +853</item>
+        <item>Macedonia   +389</item>
+        <item>Madagascar  +261</item>
+        <item>Malawi  +265</item>
+        <item>Malasia    +60</item>
+        <item>Maldivas    +960</item>
+        <item>Mali    +223</item>
+        <item>Malta   +356</item>
+        <item>Islas Marshall    +692</item>
+        <item>Martinica  +596</item>
+        <item>Mauritania  +222</item>
+        <item>Mauricio   +230</item>
+        <item>Mayotte +262</item>
+        <item>México  +52</item>
+        <item>Micronesia, Estados Federados de +691</item>
+        <item>Islas Midway   +1808</item>
+        <item>Moldavia +373</item>
+        <item>Mónaco  +377</item>
+        <item>Mongolia    +976</item>
+        <item>Montenegro  +382</item>
+        <item>Montserrat  +1664</item>
+        <item>Marruecos +212</item>
+        <item>Mozambique  +258</item>
+        <item>Namibia +264</item>
+        <item>Nauru   +674</item>
+        <item>Nepal   +977</item>
+        <item>Países Bajos +31</item>
+        <item>Nevis   +1869</item>
+        <item>Nueva Caledonia   +687</item>
+        <item>Nueva Zelanda +64</item>
+        <item>Nicaragua   +505</item>
+        <item>Niger   +227</item>
+        <item>Nigeria +234</item>
+        <item>Niue    +683</item>
+        <item>Isla Norfolk  +672</item>
+        <item>Corea del Norte +850</item>
+        <item>Islas Marianas del Norte    +1670</item>
+        <item>Noruega  +47</item>
+        <item>Omán    +968</item>
+        <item>Pakistán    +92</item>
+        <item>Palau   +680</item>
+        <item>Territorios Palestinos +970</item>
+        <item>Panamá  +507</item>
+        <item>Papua Nueva Guinea    +675</item>
+        <item>Paraguay    +595</item>
+        <item>Perú    +51</item>
+        <item>Filipinas +63</item>
+        <item>Polonia  +48</item>
+        <item>Portugal    +351</item>
+        <item>Puerto Rico +1787</item>
+        <item>Qatar   +974</item>
+        <item>Rumania +40</item>
+        <item>Rusia  +7</item>
+        <item>Ruanda  +250</item>
+        <item>Reunión +262</item>
+        <item>Saba    +5994</item>
+        <item>San Bartolomé    +590</item>
+        <item>Santa Elena y Tristán da Cunha +290</item>
+        <item>San Cristobal Y Nieves   +1869</item>
+        <item>Santa Lucia +1758</item>
+        <item>San Martín (Francés)   +590</item>
+        <item>San Pedro y Miquelón   +508</item>
+        <item>San Vicente y las Granadinas    +1784</item>
+        <item>Samoa   +685</item>
+        <item>San Marino  +378</item>
+        <item>Arabia Saudí    +966</item>
+        <item>Senegal +221</item>
+        <item>Serbia  +381</item>
+        <item>Seychelles  +248</item>
+        <item>Sierra Leona    +232</item>
+        <item>Singapur   +65</item>
+        <item>Sint Eustatius  +5993</item>
+        <item>Sint Maarten (Alemania)    +1721</item>
+        <item>Eslovaquia    +421</item>
+        <item>Eslovenia    +386</item>
+        <item>Islas Salomón +677</item>
+        <item>Somalia +252</item>
+        <item>Sudáfrica    +27</item>
+        <item>Georgia del Sur y las Islas Sandwich del Sur    +500</item>
+        <item>Corea del Sur +82</item>
+        <item>Osetia del Sur   +99534</item>
+        <item>Sudán del Sur +211</item>
+        <item>España   +34</item>
+        <item>Sri Lanka   +94</item>
+        <item>Sudán   +249</item>
+        <item>Surinam    +597</item>
+        <item>Svalbard y Jan Mayen  +47</item>
+        <item>Suazilandia +268</item>
+        <item>Suecia +46</item>
+        <item>Suiza +41</item>
+        <item>Siria +963</item>
+        <item>Santo Tomé y Príncipe +239</item>
+        <item>Tayikistán +992</item>
+        <item>Tanzania +255</item>
+        <item>Tailandia +66</item>
+        <item>Togo +228</item>
+        <item>Tokelau +690</item>
+        <item>Tonga +676</item>
+        <item>Trinidad y Tobago +1868</item>
+        <item>Túnez +216</item>
+        <item>Turquía +90</item>
+        <item>Turkmenistán +993</item>
+        <item>Islas Turcas y Caicos +1649</item>
+        <item>Tuvalu +688</item>
+        <item>Uganda +256</item>
+        <item>Ucrania +380</item>
+        <item>Emiratos Árabes Unidos +971</item>
+        <item>Reino Unido +44</item>
+        <item>Uruguay +598</item>
+        <item>Uzbekistán +998</item>
+        <item>Vanuatu +678</item>
+        <item>Ciudad del Vaticano (Santa Sede) +39066</item>
+        <item>Venezuela +58</item>
+        <item>Vietnam +84</item>
+        <item>Islas Vírgenes Británicas +1284</item>
+        <item>Islas Vírgenes, EE.UU. +1340</item>
+        <item>Isla Wake +1808</item>
+        <item>Wallis y Futuna +681</item>
+        <item>Yemen +967</item>
+        <item>Zambia +260</item>
+        <item>Zanzíbar +255</item>
+        <item>Zimbabue +263</item>
+        <item>Islas Åland +358</item>
+    </string-array>
+    <string name="title_activity_main">ActividadPrincipal</string>
+    <string name="county_locale">país/localidad</string>
+
+    <string name="app_version">v0.3.4.3</string>
+    <string name="tvApSsidTitle">SSID: </string>
+    <string name="tvPasswordTitle">Contraseña</string>
+    <string name="switchIsSsidHiddenTitle">La SSID está Oculta</string>
+    <string name="spinnerTaskResultCountTitle">Recuento de resultado de tareas</string>
+    <string name="btnConfirmTitle">Confirmar</string>
+    <string name="title_activity_mask_actvity">Máscara</string>
+    <string name="title_activity_main22">Actividad22principal</string>
+    <string name="title_activity_show_adding_device_type_actvity">Mostrar el tipo de actividad del dispositivo añadido</string>
+    <string name="found_gen_one">dispositivo de primera generación encontrado \n%1$s</string>
+    <string name="found_gen_two">encontró dispositivo de segunda generación</string>
+    <string name="device_registing">registrando</string>
+    <string name="first_requesting">primera solicitud</string>
+    <string name="second_requesting">segundo requisito...</string>
+    <string name="device_regist_done">registro completo</string>
+    <string name="device_add_finish">Completar añadir</string>
+    <string name="change_net">Haga clic para cambiar Wifi</string>
+    <string name="pls_enable_wifi">por favor, habilite wlan</string>
+    <string name="delete_group_ok">eliminar el éxito del grupo</string>
+    <string name="delete_group_fails">error de grupo de eliminación</string>
+    <string name="update_success">actualizado con éxito el grupo</string>
+    <string name="title_activity_debug_settings">Ajustes</string>
+
+    <string name="confirm_to_state_pair">Confirmar el dispositivo en el estado de emparejamiento</string>
+    <string name="longpress_to_state_pair">Mantenga presionado el botón de coincidencia durante unos 5 segundos para mantener el dispositivo en el estado de emparejamiento.</string>
+    <string name="other_pair_instruction_led">Si su dispositivo está atenuando el LED, por favor, enciéndalo y apáguelo 3 veces, el intervalo de tiempo entre encender y apagar debe ser de 2 segundos, el indicador LED parpadeará para entrar en el estado de sincronización.</string>
+    <string name="other_pair_instruction">Otros métodos de emparejamiento</string>
+    <string name="choose_wifi">Elija un dispositivo Wi-Fi para el dispositivo</string>
+    <string name="pairing">Emparejamiento...</string>
+    <string name="pair_failure">Por fallo</string>
+    <string name="pair_failure_reason_title_cannot_found_device">No se puede encontrar el dispositivo, compruebe la configuración siguiente</string>
+    <string name="pair_failure_reason_title_error_in_process">Error en el proceso de comunicación, siga las instrucciones</string>
+    <string name="pair_failure_reason_check_assistant">Compruebe la configuración del permiso de software Mobile Security y Antivirus, asegúrese de que eWeLink puede acceder a WiFi y ubicación.</string>
+    <string name="pair_failure_reason_check_device_pair_state">Su dispositivo no está en el modo de emparejamiento, entre en el modo de emparejamiento ahora.</string>
+    <string name="pair_failure_reason_cannot_connect_manual_setting">Error al cambiar al dispositivo WiFi, conéctelo manualmente. Pasos: ir al sistema Configuración WiFi, conectar con el WiFi - "ITEAD - ******" con contraseña \ "12345678 \".</string>
+    <string name="pair_failure_reason_timeout_first_request">Este es el primer tiempo de espera de la comunicación. Vuelva a intentarlo</string>
+    <string name="pair_failure_reason_timeout_second_request">Este es el segundo tiempo de espera de la comunicación. Vuelva a intentarlo.</string>
+    <string name="pair_failure_reason_check_wifi_pwd">Asegúrese de haber introducido la contraseña WiFi correcta</string>
+    <string name="pair_failure_reason_check_net_enable">Error, asegúrate de que funciona tu red móvil, agrega de nuevo</string>
+    <string name="goto_system_setting">Luego regrese a eWeLink. Configuración del sistema WiFi</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_social_recommendations">Habilitar recomendaciones sociales</string>
+<string name="pref_description_social_recommendations">Recomendaciones para que las personas contacten
+Basado en el historial de mensajes
+    </string>
+
+    <string name="pref_title_display_name">Nombre a mostrar</string>
+    <string name="pref_default_display_name">John Smith</string>
+
+    <string name="pref_title_add_friends_to_messages">Añadir amigos a los mensajes</string>
+    <string-array name="pref_example_list_titles">
+        <item>Siempre</item>
+        <item>Cuando sea posible</item>
+        <item>Nunca</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Fecha &amp; sync</string>
+
+    <string name="pref_title_sync_frequency">Frecuencia de sincronización</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutos</item>
+        <item>30 minutos</item>
+        <item>1 hora</item>
+        <item>3 horas</item>
+        <item>6 horas</item>
+        <item>Nunca</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string name="pref_title_system_sync_settings">Configuración de sincronización del sistema</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notificaciones</string>
+
+    <string name="pref_title_new_message_notifications">Nuevo mensaje de notificación</string>
+
+    <string name="pref_title_ringtone">Tono</string>
+    <string name="pref_ringtone_silent">Silencio</string>
+
+    <string name="pref_title_vibrate">Vibrar</string>
+    <string name="open_led">Por favor, encender la luz primero</string>
+    <string name="add_new_smart_scene">Añadir nuevo escenario</string>
+    <string name="where_it_meet">Cuando se reúna:</string>
+    <string name="device_excute">Ejecutar:</string>
+    <string name="when_temp">Temperatura ≥</string>
+    <string name="tme_end_show">℃</string>
+    <string name="when_temp_less">Temperatura ≤</string>
+    <string name="when_hum_more">Humedad ≥</string>
+    <string name="when_hum_less">Humedad ≤</string>
+    <string name="hum_end_show">%</string>
+    <string name="no_add_trgiger">Ninguna condición de disparo</string>
+    <string name="no_excute_result">Ningún resultado desencadenante</string>
+    <string name="tem_hum_temperature">Temperatura</string>
+    <string name="tem_hum_humdity">Humedad</string>
+    <string name="select_switch_operation">Seleccione la operación del interruptor</string>
+    <string name="enter_params">Por favor introduzca los parámetros</string>
+    <string name="select_condition">Por favor seleccione la condición</string>
+    <string name="smart_scene_time">Hora:</string>
+
+    <string name="smart_scene">Escenario inteligente</string>
+    <string name="two_temp_cant_be_equals">La temperatura no puede ser igual</string>
+    <string name="two_hum_cant_be_equals">La humedad no puede ser igual</string>
+
+    <string name="add_success2">Añadido correctamente</string>
+    <string name="add_success_but_not_name">Añadido correctamente, el Nombre que falla, usará el nombre predeterminado  %1$s</string>
+    <string name="confirm_quit_name">¿Salir para nombrar el dispositivo?</string>
+    <string name="device_name_default">MisDispositivos%1$s</string>
+    <string name="scene_device_list">Lista de  Dispositivos</string>
+    <string name="tem_detail">Los valores de temperatura deben estar entre  -999~999</string>
+    <string name="first_smaller_second">El valor del primer espacio en blanco debe ser menor que el segundo espacio en blanco</string>
+    <string name="third_smaller_fourth">El valor del tercer espacio en blanco debe ser menor que el cuarto espacio en blanco</string>
+
+
+    <string name="device_dispatching">Enviar servidor de despacho ...</string>
+    <string name="wifi_name">Nombre de WiFi</string>
+    <string name="wifi_pwd">Contraseña de WiFi</string>
+    <string name="click_me_to_select">Haz clic para seleccionar el dispositivo</string>
+    <string name="current_scene_no_device">No hay dispositivos en el escenario actual</string>
+
+
+    <string name="has_not_change_to_device_host">(No ha conectado el dispositivo\'s de acogida)</string>
+    <string name="choose_device">Seleccione el dispositivo</string>
+    <string name="no_choice_device">Sin dispositivo opcional</string>
+    <string name="cardview_device_off_line">desconectado</string>
+    <string name="cardview_device_on_line">en línea</string>
+    <string name="new_no_device_alert">No hay dispositivos actualmente, pulse debajo del botón para agregar</string>
+    <string name="splash_timer">Temporizador</string>
+    <string name="splash_timer_text">Temporizador de bucle de soporte de zócalo / conmutador de canal único ahora! El temporizador de bucle se puede auto-ejecutar una vez preestablecido (supopngamos 1 hora), y continuar durante un tiempo preestablecido más corto (digamos 20 minutos). Firmware soportado versión 1.5.0 y superior.</string>
+    <string name="share_splash_text">¿Quieres que tu familia y amigos controlen tus dispositivos? ¡Solo permite que registren una cuenta y compartan sus dispositivos!</string>
+    <string name="splash_share_device">Compartir dispositivo</string>
+    <string name="goto_ewelink">Introducir eWeLink</string>
+    <string name="back">Atrás</string>
+    <string name="everything_connect">Internet para Todo</string>
+
+    <string name="delay_timers">Contador de cuenta atrás</string>
+    <string name="weekday">Día:</string>
+    <string name="new_timer_repeat">Repetir:</string>
+    <string name="action_one">Una vez</string>
+    <string name="action_repeat">Repetir</string>
+    <string name="new_timer_action">Volver:</string>
+    <string name="new_timer_channel">Canal:</string>
+    <string name="new_timer_data">Fecha</string>
+    <string name="new_timer_time">Hora</string>
+    <string name="new_timer_minute">Minuto</string>
+    <string name="new_timer_after">Después</string>
+    <string name="refresh_power">Refrescar</string>
+    <string name="delay">Cuenta atrás</string>
+    <string name="thisyear">Este año</string>
+    <string name="nextyear">El próximo año</string>
+    <string name="timer_start">Comienzo</string>
+    <string name="coldwarm">Modo</string>
+    <string name="brightness">Brillo</string>
+    <string name="delay_timer_cant_edit">No se puede editar. Vuelva a intentarlo después de eliminar o deshabilitar temporizadores existentes.</string>
+    <string name="no_custome_timer">No hay temporizadores actualmente. Presiona el botón abajo para agregar ahora!</string>
+    <string name="no_delay_timer">No hay temporizadores de cuenta atrás actualmente. Presiona el botón abajo para agregar ahora!</string>
+    <string name="only_timer_number">El número total de temporizadores (incluyendo temporizador de cuenta atrás y temporizador de bucle) no debe exceder de 20</string>
+    <string name="only_timer_active_number">El número total de temporizadores habilitados (incluyendo temporizador de cuenta atrás y temporizador de bucle) no debe exceder de 8</string>
+    <string name="device_offline_cant_operat">Dispositivo desconectado, incapaz de operar ahora</string>
+    <string name="add_delay_timers_success">Añadido correctamente</string>
+    <string name="create_delay">Creación de temporizador de cuenta atrás ...</string>
+    <string name="delete_delayt_ok">Eliminado correctamente</string>
+    <string name="delete_delay_dialog">Eliminación del temporizador de cuenta atrás ...</string>
+
+
+    <string name="copy_text_and_open_wechat">Copia la cuenta de WeChat y sigue</string>
+    <string name="has_not_installed_wechat">Todavía no has instalado WeChat.</string>
+    <string name="wechat_subscription_can_also_control">(Dispositivos de control en WeChat)</string>
+
+    <string name="all_device">Todos los dispositivos</string>
+    <string name="my_share">Dispositivos que he compartido</string>
+    <string name="share_to_me">Dispositivos compartidos por otros</string>
+    <string name="device_ungroup">Los dispositivos no tienen un grupo</string>
+    <string name="device_remove_from_group">¿Deseas eliminarlo de este grupo?</string>
+    <string name="current_group_device">Lista de dispositivos</string>
+    <string name="move_from_other_group">Añadir de otro grupo</string>
+    <string name="scan_for_instructions">Escanear Manual de Usuario</string>
+    <string name="group_nums_limit">Soporte max. 20 grupos</string>
+    <string name="tip_group_empty_add">No hay grupos en la actualidad, pulse en el botón para crear ahora!</string>
+
+    <string name="duration_every">cada</string>
+    <string name="duration_hours">horas</string>
+    <string name="duration_excute_once">minutos de ejecución</string>
+    <string name="duration_later_execute">minutos más tarde ejecutar</string>
+    <string name="duration_start_time">hora de inicio</string>
+    <string name="duration_cancel">Cancelar</string>
+    <string name="duration_ok">Completar</string>
+    <string name="duration_delete">Borrar</string>
+    <string name="duration_start">Habilitar</string>
+    <string name="duration_create_looper_success">Agregado correctamente</string>
+    <string name="duration_update_looper_success">Cambiado correctamente</string>
+    <string name="duration_2less1">La segunda vez debe ser menor que la primera vez</string>
+    <string name="duration_1not0">El tiempo no puede ser 0</string>
+    <string name="duration_timer8">No se puede crear, sólo admiten temporizadores habilitados para max.8 (incluyen temporizadores de cuenta atrás / bucle)</string>
+    <string name="duration_timer20">No se puede crear, sólo admiten temporizadores de max.20 (contadores de cuenta atrás / bucle)</string>
+    <string name="duration_create_fail">Error al crear temporizador de bucle. Inténtalo de nuevo.</string>
+    <string name="duration_deleting">Eliminando ...</string>
+    <string name="duration_delete_success">Eliminado correctamente</string>
+    <string name="duration_creating">Creando ...</string>
+    <string name="duration_updating">Procediendo…</string>
+    <string name="share_failed">Error en la cuenta. El usuario que desea compartir no está en línea. Por favor, pídale al usuario que inicie sesión en eWeLink primero.</string>
+    <string name="device_not_share_click_to_share">Haz clic abajo para compartirlo</string>
+    <string name="list_already_has_account">La cuenta ya está en tu lista</string>
+    <string name="sure_delete">¿Borrar?</string>
+    <string name="settinginfo_power_state">Estado del conmutador de encendido</string>
+    <string name="duration_2not0">El tiempo no puede ser 0</string>
+    <string name="new_device_setting">Configuración del dispositivo</string>
+    <string name="duration_update_failed">Error al modificar el temporizador de bucle</string>
+    <string name="duration_delete_failed">No se pudo eliminar el temporizador de bucle</string>
+    <string name="duration_timer">Temporizador de bucle</string>
+    <string name="ota_new_version">Nueva versión:</string>
+    <string name="scene">Escenario </string>
+    <string name="group">Grupo</string>
+    <string name="exit_logout">Cerrar sesión</string>
+    <string name="only_own_can_operation">Sólo el propietario puede cambiar los temporizadores.</string>
+    <string name="fan_on">ENCENDIDO</string>
+    <string name="fan_off">APAGADO</string>
+
+    <string name="new_user_center_group">%1$s Grupo</string>
+    <string name="new_user_center_scene">%1$s Escenario</string>
+    <string name="wait_user_response">Esperando una respuesta...</string>
+    <string name="device_list_no_net">Red no disponible</string>
+    <string name="air_quality">Calidad del aire</string>
+    <string name="sensor_temp">Temperatura.</string>
+    <string name="temp_state_cold">Frío</string>
+    <string name="temp_state_comfortable">Cómodo</string>
+    <string name="temp_state_hot">Caliente</string>
+    <string name="air_quality_good">Bueno</string>
+    <string name="air_quality_moderate">Moderar</string>
+    <string name="air_quality_bad">Insalubre</string>
+    <string name="sensor_humidity">Humedad</string>
+    <string name="sensor_hum_dry">Seco</string>
+    <string name="sensor_hum_normal">Normal</string>
+    <string name="sensor_hum_wet">Mojado</string>
+    <string name="sensor_noise">Ruidoso</string>
+    <string name="sensor_noise_quiet">Tranquilo</string>
+    <string name="sensor_noise_normal">Normal</string>
+    <string name="sensor_noise_noisy">Ruidoso</string>
+    <string name="sensor_light">Luz</string>
+    <string name="sensor_light_bright">Brillo</string>
+    <string name="sensor_light_normal">Normal</string>
+    <string name="sensor_light_dusky">Oscuro</string>
+    <string name="account_has_register">¡La cuenta ha sido registrada!</string>
+    <string name="no_net_feedback_failed">No se pudo enviar comentarios, compruebe la red.</string>
+    <string name="io_exception_feedback_failed">Error al enviar comentarios, error de lectura / escritura del archivo del sistema.</string>
+    <string name="humidity_level">Nivel de Humedad</string>
+    <string name="humidity_water_info">Agua</string>
+    <string name="humidity_on_off">ENCENDIDO/APAGADO</string>
+    <string name="water_level_normal">normal</string>
+    <string name="water_level_shortage">escasez</string>
+    <string name="not_connect_wait">Conectando, espere por favor</string>
+    <string name="auto">Auto</string>
+    <string name="high">HD</string>
+    <string name="standard">SD</string>
+    <string name="video_not_download">Vídeo no descargado todavía</string>
+    <string name="take_photo_success">Captura completada, introduzca la carpeta de administración de archivos para ver el video</string>
+    <string name="live">En directo</string>
+    <string name="detection_move">Detectar movimiento</string>
+    <string name="confirm_en_cancel">Cancelar</string>
+    <string name="isrecording">Grabación de vídeo</string>
+    <string name="ota_upgrade_alert_info">La actualización del firmware puede provocar cambios en el estado del dispositivo, ¿continuar?</string>
+    <string name="recording_video">Grabación de vídeo, ¿Salir?</string>
+    <string name="recording_audio">Hablando ¿salir?</string>
+    <string name="recording_video_not_max">Grabar video, no permitir el cambio</string>
+    <string name="recording_audio_not_max">Al hablar, no permitir el cambio</string>
+    <string name="quwen">Repelente</string>
+    <string name="jiashi">Humedecer</string>
+    <string name="fulizi">Anión</string>
+    <string name="humidostat">Humedad</string>
+    <string name="thermostat">Temperatura</string>
+    <string name="humidity_not_empty">El rango de humedad no puede estar vacío!</string>
+    <string name="humidity_range">Rango de humedad: 0 ~ 100</string>
+    <string name="second_value_smaller_first">El segundo valor debe ser menor que el primero.</string>
+    <string name="humidity_setting">Ajuste de Humedad</string>
+    <string name="temperature_setting">Ajustes de Temperatura</string>
+    <string name="temperature_not_empty">¡El rango de temperatura no puede estar vacío!</string>
+    <string name="temperature_range">Rango de temperatura: 0 ~ 100</string>
+    <string name="ifan_start">Comienzo</string>
+    <string name="more">＞</string>
+    <string name="less">＜</string>
+    <string name="close_humdity">% Desactivar Humidificador</string>
+    <string name="open_humidity">% Activar Humidificador</string>
+    <string name="open_ifan">ºC Encender Ventilador</string>
+    <string name="close_ifan">ºC Apagar Ventilador</string>
+
+    <string name="apk_downloading">Descargando</string>
+    <string name="device_not_belong_this_brand">El Dispositivo no pertenece a esta marca!</string>
+    <string name="device_info_not_be_empty">El nombre del dispositivo, id y apikey no deben estar vacíos</string>
+    <string name="device_info_format">Formato de id de dispositivo no válido</string>
+    <string name="add_device_failed">¡Error al agregar dispositivo!</string>
+    <string name="device_not_exist">¡El dispositivo no existe!</string>
+    <string name="add_subdevice_failed">¡El subdispositivo de subida ha fallado!</string>
+    <string name="find_brand_failed">Encontrar marca fallada</string>
+    <string name="find_mode_failed">encontrar modelo Información falllida</string>
+    <string name="multiple_power_on">ENCENDIDO </string>
+    <string name="multiple_power_off">APAGADO</string>
+    <string name="log">Iniciar sesión</string>
+    <string name="please_choose_device">Seleccione un dispositivo.</string>
+    <string name="add_condition">Agregar Condición</string>
+    <string name="add_execute_device">Agregar dispositivo de ejecución</string>
+    <string name="please_operater_under_current_device">¡Por favor, seleccione el que funciona bajo el dispositivo actual!</string>
+    <string name="smart_execute_device">Ejecutar dispositivos</string>
+    <string name="click_execute">Haga clic para ejecutar</string>
+    <string name="select_trigger_condition">Seleccione la condición de disparo</string>
+    <string name="temp_bigger">Temperatura ≥</string>
+    <string name="temp_smaller">Temperatura ≤</string>
+    <string name="humi_bigger">Humedad ≥</string>
+    <string name="humi_smaller">Humedad ≤</string>
+    <string name="add_scene">Añadir escena</string>
+    <string name="tem_upper_smaller_lower">El límite de la Temperatura Superior debe ser superior al límite inferior</string>
+    <string name="tem_upper_not_equal_lower">El límite de la Temperatura Superior no debe ser igual al límite inferior</string>
+    <string name="hum_upper_not_equal_lower">El límite de Humedad superior debe ser superior al límite inferior</string>
+    <string name="hum_upper_smaller_lower">El límite de la Humedad superior no debe ser igual al límite inferior</string>
+    <string name="executing">Ejecutando</string>
+    <string name="trigger_condition_device">Dispositivo de disparo</string>
+    <string name="edit_scene">Editar escenario</string>
+    <string name="please_input_number">Introduzca un valor</string>
+    <string name="number_upper">El valor excede el límite superior</string>
+    <string name="sensor_tem_range">Rango de temperatura: 0-50</string>
+    <string name="sensor_hum_range">Rango de humedad: 20-90</string>
+    <string name="sensor_light_not_equal">Los valores máximo y mínimo de la luz no pueden ser iguales</string>
+    <string name="sensor_air_not_equal">Los valores máximo y mínimo de la calidad del aire no pueden ser iguales</string>
+    <string name="sensor_noisy_not_equal">Los valores máximo y mínimo del ruido no pueden ser iguales</string>
+    <string name="repeat_condition">¡Condición repetida!</string>
+    <string name="tem_hum_dht11_tem_range">Rango de temperatura: 0-50</string>
+    <string name="tem_hum_2301_tem_range">Rango de temperatura: -40-80</string>
+    <string name="tem_hum_b20_tem_range">Rango de temperaturas: -55-125</string>
+    <string name="tem_hum_dht11_hum_range">Rango de humedad: 20-90</string>
+    <string name="tem_hum_2301_hum_range">Rango de humedad: 0-100</string>
+
+    <string name="dialog_share_permit_timer">Permisos de Temporizador</string>
+
+    <string name="no_userful_device">Dispositivo no disponible</string>
+    <string name="duration_cycle">Ciclo:</string>
+    <string name="duration_delay">Retardo</string>
+    <string name="duration_delay_do">minutos funcionando:</string>
+    <string name="duration_cycle_do">minutos funcionando:</string>
+    <string name="delay_start_again">Comenzar de nuevo</string>
+    <string name="delay_timer_executing_alert">(Deespués: %1$sd %2$shr %3$smin Ejecutando)</string>
+    <string name="delay_timer_stop_alert">(Después: %1$sd %2$shr %3$smin completado)</string>
+    <string name="light_bigger_more">El límite superior de la luz debe ser mayor que su límite inferior</string>
+    <string name="air_bigger_more">El límite superior de la calidad del aire debe ser mayor que su límite inferior</string>
+    <string name="noise_bigger_more">El límite superior de ruido debe ser mayor que su límite inferior</string>
+    <string name="udp_control_alert">No se puede utilizar esta función en LAN.</string>
+    <string name="lan_control">Control por LAN</string>
+    <string name="isopen_timer">¿Habilitar el temporizador?</string>
+
+    <string name="copy_success">Copiado correctamente</string>
+
+    <string name="share_permit_timer">Permiso del temporizador:</string>
+    <string name="share_permit_timer_enable">Habilitar/Deshabilitar</string>
+    <string name="share_device_request_failure">%1$s Error al compartir dispositivo</string>
+    <string name="have_no_permission_timer">Todavía no tiene permiso, Por favor, pida permiso al propietario del dispositivo.</string>
+    <string name="word_timer">Temporizador</string>
+    <string name="word_timer_delay">Temporizador de retardo</string>
+    <string name="share_not_share_user">El receptor ha eliminado el dispositivo</string>
+    <string name="share_not_in_3_minute">No se permite compartir al mismo usuario en 3 minutos.</string>
+    <string name="share_time_out_3_minute">Se ha agotado el tiempo de espera</string>
+
+    <string name="dialog_share_permit_add">Añadir</string>
+    <string name="dialog_share_permit_edit">Modificar</string>
+    <string name="dialog_share_permit_remove">Borrar</string>
+    <string name="dialog_share_permit_enable">Habilitar</string>
+
+    <string name="facebook_app_id">1787091648274959</string>
+    <string name="fb_login_protocol_scheme">fb1176810229081143</string>
+
+
+
+    <!--nest-->
+    <string name="nest_current_tempc">Temperatura actual ºC</string>
+    <string name="nest_current_tempf">Temp. Actual ºF</string>
+    <string name="nest_target_tempc">Temp. Objetivo ºc</string>
+    <string name="nest_target_tempf">Temp. Objetivo ºf</string>
+    <string name="nest_humidity">Humedad</string>
+    <string name="nest_whether_has_person">¿Alguien en casa?</string>
+    <string name="nest_has_person">Sí</string>
+    <string name="nest_has_no_person">No</string>
+    <string name="select_nest_device">Seleccionar Siguiente Dispotivo</string>
+    <string name="pair_nest_device">Siguiente Dispositivo</string>
+    <string name="nest_show_has_person">Estoy en casa</string>
+    <string name="nest_show_has_no_person">Estoy fuera</string>
+    <string name="add_nest_failed_400">Fallo al agregar, error</string>
+    <string name="add_nest_failed_401">Fallo al agregar, verificar error</string>
+    <string name="add_nest_failed_403">Fallo al agregar, permiso denegado</string>
+    <string name="add_nest_failed_409">Fallo al agregar, este dispositivo ya se ha agregado</string>
+    <string name="add_nest_failed_500">Fallo al agregar, error interno del servidor</string>
+    <string name="nest_tempec_limit">Temperatura ℃ rango: -50 ~ 150</string>
+    <string name="nest_tempef_limit">Temperatura ℉ rango: -122 ~ 302</string>
+    <string name="nest_humidy_limit">Rango de humedad: 0 ~ 100</string>
+    <string name="user_alreayexist">El usuario ya existe</string>
+    <string name="login_failed_lack_params">Se ha producido un error de inicio de sesión.</string>
+    <string name="login_failed_server_error">Error de inicio de sesión, error de servidor</string>
+    <string name="device_upgrade_failed">Error de actualización del firmware del dispositivo</string>
+    <string name="nest_show_current_temp">Actual \ nTemp.</string>
+    <string name="nest_show_target_temp">Objetivo\ nTemp.</string>
+    <string name="has_no_nest_to_add">No se pueden agregar dispositivos Nest</string>
+
+    <string name="record_least_time">Por lo menos 10 segundos para comenzar, parar más tarde</string>
+
+    <string name="p2p_connect_fail">Fallo de conexión p2p</string>
+    <string name="storage_space_not_enough">el espacio de almacenamiento no es suficiente</string>
+    <string name="camera_refresh">Refrescar</string>
+    <string name="device_upgrade_success_version">El firmware del dispositivo se actualiza correctamente a la versión%1$s</string>
+
+    <string name="not_userful_qrcode">Código QR no válido</string>
+    <string name="qr_scan_alert">Por favor, escanee el código QR</string>
+    <string name="qr_scan">Explorando</string>
+    <string name="single_device_choose">Dispositivo de un solo canal</string>
+    <string name="want_know_more">Aprende más</string>
+    <string name="app_name2">EWeLink</string>
+    <string name="please_input_phone_number">Número de tarjeta</string>
+
+    <string name="not_wifi_confirm_play_video">La conexión WIFI no está disponible actualmente. Determinar a reproducir el video de alarma?</string>
+    <string name="empty_url">la url del video está vacío</string>
+    <string name="take_video_success">Video correctamente, introduzca el álbum de fotos para verlo</string>
+    <string name="take_video_success2">Video correctamente, introduzca el álbum de fotos para verlo</string>
+    <string name="gsm_phone_number">Número de tarjeta</string>
+    <string name="gsm_recharge">Completar</string>
+    <string name="gsm_package">Plan de datos:</string>
+    <string name="gsm_total">Datos Totales:</string>
+    <string name="gsm_used">Uso de datos:</string>
+    <string name="gsm_has">Datos disponibles:</string>
+    <string name="switch_operat_history">Registro de operación</string>
+    <string name="single_switch_history">Registro de operación</string>
+    <string name="qr_shaoyishao">Escanear código QR</string>
+    <string name="device">Dispositivo</string>
+    <string name="add_wexin_public_charge">Encima de WeChat, siga "coolkitcn"</string>
+    <string name="switch_notify">Notificaciones de operación</string>
+    <string name="switch_history">Acción</string>
+    <string name="switch_time">Hora</string>
+    <string name="switch_trigger_type">Desencadenante</string>
+    <string name="device_state_changed">Estado del dispositivo modificado</string>
+    <string name="umeng_notification_switch_state_on">ENCENDIDO</string>
+    <string name="umeng_notification_switch_state_off">APAGADO</string>
+    <string name="business_cooperation">Cooperación empresarial</string>
+
+    <!--language-->
+    <string name="language_choice_simple_chinese">简体中文</string>
+    <string name="language_choice_english">English</string>
+    <string name="language_choice_old_chinese">繁體中文</string>
+    <string name="language_choice_russia">Русский</string>
+    <string name="language_choice_danmark">Dansk</string>
+    <string name="language_choice_italian">Italiano</string>
+    <string name="language_choice_polan">polskim</string>
+    <string name="language_choice_frech">Français</string>
+    <string name="language_choice_spanish">Español</string>
+    <string name="language_choice_genman">Deutsch</string>
+    <string name="language_choice_portugal">português</string>
+    <string name="language_choice_greece">ελληνικά</string>
+    <string name="language_choice_czech">český</string>
+    <string name="language_choice_bulgaria">български</string>
+    <string name="language_choice_turkey">Türkiye</string>
+    <string name="language_choice_slovank">slovenského jazyk</string>
+
+
+    <string name="rgb5_bottom_white">White</string>
+    <string name="rgb5_bottom_color">Color</string>
+    <string name="rgb5_bottom_situation">Scene</string>
+    <string name="rgb5_light">Rest</string>
+    <string name="rgb5_read">Reading</string>
+    <string name="rgb5_party">Party</string>
+    <string name="rgb5_play">Casual</string>
+    <string name="pair_gsm_device">GSM device</string>
+    <string name="rgb5_dark">Dark</string>
+    <string name="rgb5_bright">Bright</string>
+    <string name="rgb5_cold">Cold</string>
+    <string name="rgb5_warm">Warm</string>
+    <string name="open_rgb5">please turn on the LED Bulb first</string>
+    <string name="aromatherapy_light_switch">light</string>
+    <string name="aromatherapy_state_small">Small</string>
+    <string name="aromatherapy_state_big">Big</string>
+    <string name="install_googleplay_first">Please install Google Play</string>
+    <string name="app_downloading">Downloading</string>
+    <string name="night_light">Night Light</string>
+    <string name="water_level">Water Level</string>
+    <string name="opent_light_switch_first">Please turn on the switch first</string>
+    <string name="add_remote_control">Add RF Remote</string>
+    <string name="button_name">Button</string>
+    <string name="wifi_rf_edit">Edit</string>
+    <string name="rf_single_button">1-button</string>
+    <string name="rf_double_button">2-button</string>
+    <string name="rf_three_button">3-button</string>
+    <string name="rf_four_button">4-button</string>
+    <string name="rf_curtain">Curtain</string>
+    <string name="rf_alarm">Alarm</string>
+    <string name="rf_open">Open</string>
+    <string name="rf_stop">Close</string>
+    <string name="rf_close">Stop</string>
+    <string name="rf_remote_max_size">Supports up to 4 RF Remotes</string>
+    <string name="remote_control_name_not_empty">The RF Remote name cannot be empty</string>
+    <string name="rf_channel_name_not_empty">Button name can not be empty</string>
+    <string name="rf_has_item_alert">Press and hold the button to enter into learning mode</string>
+    <string name="alarm_history">Alarm History</string>
+    <string name="my_curtains">My Curtain</string>
+    <string name="my_remote_control">My RF Remote</string>
+    <string name="rfbridge_edit">Edit Name</string>
+    <string name="rfbridge_channel1_name">Button 1 Name:</string>
+    <string name="rfbridge_channel2_name">Button 2 Name:</string>
+    <string name="rfbridge_channel3_name">Button 3 Name:</string>
+    <string name="rfbridge_channel4_name">Button 4 Name:</string>
+    <string name="rfbridge_button_no_study">The button has not been learned yet</string>
+    <string name="delete_this_remote_control">Delete this RF Remote?</string>
+    <string name="alarm_push">Received an alarm</string>
+    <string name="alarm_time_push_at">Alarm happened at</string>
+    <string name="has_already_cancel_share">Share canceled.</string>
+    <string name="nest_cancel_auth">Nest authority canceled</string>
+    <string name="aromatherapy_colorful_light">Color Light</string>
+    <string name="top_than_close">Higher Than This, OFF</string>
+    <string name="lower_than_open">Lower Than This, ON</string>
+    <string name="near_alarm">Recent Alarms</string>
+    <string name="ewelinktest">易微联测试</string>
+    <string name="rfbridge_remote_control_name">RF Remote Name:</string>
+    <string name="long_press_to_study_button">RF gateway is in learning mode, please press the RF Remote button or let the alarm go off in 1 min.</string>
+    <string name="enter_verifycode">Please enter verification code.</string>
+    <string name="has_send_verifycode_please_get">Verification code sent, please check.</string>
+    <string name="click_to_get_verifycode">Please click to send verification code.</string>
+    <string name="beijing_temp_big_more">The first value must be larger than the second.</string>
+    <string name="beijing_temp_big_range">Temp. Range: 6~35</string>
+    <string name="beijing_temp_small_range">Temp. Range: 5~34</string>
+    <string name="beijing_temp_small_less">The second value must be smaller than the first.</string>
+    <string name="has_already_send_to_you">Verification code has been sent to your phone or mailbox, please check and enter</string>
+
+</resources>

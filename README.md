@@ -111,6 +111,15 @@ We created this project to support translation for eWelink
 	values-ru-rRU:俄语
 	values-zh-rCN:简体中文
 	values-zh-rTW:繁体中文
+	values-bg-rBG:保加利亚语
+	values-tr-rTR:土耳其语
+	values-sk-rSK:斯洛伐克语
+	values-fr-rFR:法语
+	values-eu-rES:西班牙语
+	values-el-rGR:希腊语
+	values-de-rDE:德语
+	
+	
 
 ## 翻译规则：
     例如:
@@ -153,6 +162,13 @@ We created this project to support translation for eWelink
 	values-ru-rRU: Russian
 	values-zh-rCN: Simplified Chinese
 	values-zh-rTW: Traditional Chinese
+	values-bg-rBG: Bulgarian
+	values-tr-rTR: Turkish
+	values-sk-rSK: Slovakian
+	values-fr-rFR: French
+	values-eu-rES: Spanish
+	values-el-rGR: Greek
+	values-de-rDE: German
 
 ## Translation rules：
     For example:

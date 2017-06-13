@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?> <!--丹麦语  Dansk-->
 <resources>
     <string name="upgrade_immediately">opgradere straks</string>
     　　
@@ -86,7 +86,7 @@
     <string name="commit">Indsende</string>
     <string name="user_register">Registrering</string>
     <string name="password_not">Kodeord kan ikke være tomt</string>
-    <string name="enter_phone_numbers">Telefonnummer/E-mail</string>
+    <string name="enter_phone_numbers">Telefonnummer or E-mail</string>
     <string name="registering">Registrering ...</string>
     <string name="resend">Gensend</string>
     <string name="change_user_info">Ændre dine kundeoplysninger</string>
@@ -374,8 +374,6 @@
     <string name="data_exception">Data undtagelse, prøv igen senere</string>
     <string name="switchcountry">Vælg dit land</string>
     <string name="password">Kodeord</string>
-    <string name="language_choice_simple_chinese">简体中文</string>
-    <string name="language_choice_english">English</string>
     <string name="language_actionbar_text">Skift sprog</string>
     <string name="current_version">Nuværrende version</string>
     <string name="change_nickname">Skift kaldenavn</string>
@@ -798,9 +796,8 @@
     <string name="enter_params">Venligst indgangs parametre</string>
     <string name="select_condition">Vælg tilstand</string>
     <string name="smart_scene_time">Tid:</string>
-    <string name="language_choice_russia">Русский</string>
     <string name="smart_scene">Intelligent scene</string>
-    <string name="language_choice_danmark">Dansk</string>
+
 
 
     <string name="enter_account">Indtast konto</string>
@@ -1076,8 +1073,6 @@
 
 
 
-    <string name="language_choice_old_chinese">繁體中文</string>
-
     <string name="need_permission_coarse">Venligst give EweLink netværk tilladelse for placering, ellers kan du ikke parre enhed!</string>
 
 
@@ -1125,8 +1120,6 @@
     <string name="lan_control">Control by LAN</string>
     <string name="isopen_timer">Enable the timer?</string>
 
-    <string name="language_choice_italian">Italiano</string>
-    <string name="language_choice_polan">polskim</string>
 
 
     <string name="share_permit_timer">Timer permission:</string>
@@ -1421,8 +1414,7 @@
     <string name="device_state_changed">Device status changed</string>
     <string name="umeng_notification_switch_state_on">ON</string>
     <string name="umeng_notification_switch_state_off">OFF</string>
-
-	<string name="business_cooperation">Business Cooperation</string>
+    <string name="business_cooperation">Business Cooperation</string>
     <string name="rgb5_bottom_white">White</string>
     <string name="rgb5_bottom_color">Color</string>
     <string name="rgb5_bottom_situation">Scene</string>
@@ -1436,4 +1428,79 @@
     <string name="rgb5_cold">Cold</string>
     <string name="rgb5_warm">Warm</string>
     <string name="open_rgb5">please turn on the LED Bulb first</string>
+
+
+    <!--language-->
+    <string name="language_choice_simple_chinese">简体中文</string>
+    <string name="language_choice_english">English</string>
+    <string name="language_choice_old_chinese">繁體中文</string>
+    <string name="language_choice_russia">Русский</string>
+    <string name="language_choice_danmark">Dansk</string>
+    <string name="language_choice_italian">Italiano</string>
+    <string name="language_choice_polan">polskim</string>
+    <string name="language_choice_frech">Français</string>
+    <string name="language_choice_spanish">Español</string>
+    <string name="language_choice_genman">Deutsch</string>
+    <string name="language_choice_portugal">português</string>
+    <string name="language_choice_greece">ελληνικά</string>
+    <string name="language_choice_czech">český</string>
+    <string name="language_choice_bulgaria">български</string>
+    <string name="language_choice_turkey">Türkiye</string>
+    <string name="language_choice_slovank">slovenského jazyk</string>
+
+    <string name="facebook_app_id">1787091648274959</string>
+    <string name="aromatherapy_light_switch">light</string>
+    <string name="aromatherapy_state_small">Small</string>
+    <string name="aromatherapy_state_big">Big</string>
+    <string name="install_googleplay_first">Please install Google Play</string>
+    <string name="app_downloading">Downloading</string>
+    <string name="night_light">Night Light</string>
+    <string name="water_level">Water Level</string>
+    <string name="opent_light_switch_first">Please turn on the switch first</string>
+    <string name="add_remote_control">Add RF Remote</string>
+    <string name="button_name">Button</string>
+    <string name="wifi_rf_edit">Edit</string>
+    <string name="rf_single_button">1-button</string>
+    <string name="rf_double_button">2-button</string>
+    <string name="rf_three_button">3-button</string>
+    <string name="rf_four_button">4-button</string>
+    <string name="rf_curtain">Curtain</string>
+    <string name="rf_alarm">Alarm</string>
+    <string name="rf_open">Open</string>
+    <string name="rf_stop">Close</string>
+    <string name="rf_close">Stop</string>
+    <string name="rf_remote_max_size">Supports up to 4 RF Remotes</string>
+    <string name="remote_control_name_not_empty">The RF Remote name cannot be empty</string>
+    <string name="rf_channel_name_not_empty">Button name can not be empty</string>
+    <string name="rf_has_item_alert">Press and hold the button to enter into learning mode</string>
+    <string name="alarm_history">Alarm History</string>
+    <string name="my_curtains">My Curtain</string>
+    <string name="my_remote_control">My RF Remote</string>
+    <string name="rfbridge_edit">Edit Name</string>
+    <string name="rfbridge_channel1_name">Button 1 Name:</string>
+    <string name="rfbridge_channel2_name">Button 2 Name:</string>
+    <string name="rfbridge_channel3_name">Button 3 Name:</string>
+    <string name="rfbridge_channel4_name">Button 4 Name:</string>
+    <string name="rfbridge_button_no_study">The button has not been learned yet</string>
+    <string name="delete_this_remote_control">Delete this RF Remote?</string>
+    <string name="alarm_push">Received an alarm</string>
+    <string name="alarm_time_push_at">Alarm happened at</string>
+    <string name="has_already_cancel_share">Share canceled.</string>
+    <string name="nest_cancel_auth">Nest authority canceled</string>
+    <string name="aromatherapy_colorful_light">Color Light</string>
+    <string name="top_than_close">Higher Than This, OFF</string>
+    <string name="lower_than_open">Lower Than This, ON</string>
+    <string name="near_alarm">Recent Alarms</string>
+    <string name="ewelinktest">易微联测试</string>
+    <string name="rfbridge_remote_control_name">RF Remote Name:</string>
+    <string name="long_press_to_study_button">RF gateway is in learning mode, please press the RF Remote button or let the alarm go off in 1 min.</string>
+    <string name="enter_verifycode">Please enter verification code.</string>
+    <string name="has_send_verifycode_please_get">Verification code sent, please check.</string>
+    <string name="click_to_get_verifycode">Please click to send verification code.</string>
+    <string name="beijing_temp_big_more">The first value must be larger than the second.</string>
+    <string name="beijing_temp_big_range">Temp. Range: 6~35</string>
+    <string name="beijing_temp_small_range">Temp. Range: 5~34</string>
+    <string name="beijing_temp_small_less">The second value must be smaller than the first.</string>
+    <string name="has_already_send_to_you">Verification code has been sent to your phone or mailbox, please check and enter</string>
+
 </resources>
