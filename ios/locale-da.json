@@ -425,7 +425,6 @@
   "CUSTOM": "brugerdefinerede",
   "SELECT_AREA": "Landekode",
   "PHONE_NUMBER": "e-mail adresse",
-  "Account": "e-mail",
   "EMAIL_ADDRESS": "Email adresse",
   "RESET_PASSWORD": "Nulstille kodeord",
   "NO_ACCOUNT_REGISTER": "Register",
@@ -718,16 +717,6 @@
 
 
   "NO_TIMER": "No timers timers yet, tap on below button to add now! ",
-  "NO_TIMER_DELAY": "No countdown yet, tap on below button to add now!",
+  "NO_TIMER_DELAY": "No countdown yet, tap on below button to add now!"
 
-  "Simple_Chinese": "简体中文",
-  "Traditional_Chinese": "繁體中文",
-  "English": "English",
-  "Russian": "Русский язык",
-  "Danish": "Dansk",
-  "Polish": "Polski",
-  "Italian": "Italiano",
-  "Spaish": "Reino de España",
-  "French": "le français",
-  "German": "Deutsch"
 }

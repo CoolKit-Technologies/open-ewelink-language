@@ -497,7 +497,7 @@
   "CUSTOM": "текущий",
   "SELECT_AREA": "Код страны",
   "PHONE_NUMBER": "Номер телефона",
-  "Account": "Номер телефона, email",
+  "Account": " номер телефона или email",
   "EMAIL_ADDRESS": "Email адрес",
   "RESET_PASSWORD": "Сбросить пароль",
   "NO_ACCOUNT_REGISTER": "Регистрация",
@@ -717,16 +717,6 @@
   "RGB_Leisure": "Casual",
 
   "NO_TIMER": "No timers timers yet, tap on below button to add now! ",
-  "NO_TIMER_DELAY": "No countdown yet, tap on below button to add now!",
+  "NO_TIMER_DELAY": "No countdown yet, tap on below button to add now!"
 
-  "Simple_Chinese": "简体中文",
-  "Traditional_Chinese": "繁體中文",
-  "English": "English",
-  "Russian": "Русский язык",
-  "Danish": "Dansk",
-  "Polish": "Polski",
-  "Italian": "Italiano",
-  "Spaish": "Reino de España",
-  "French": "le français",
-  "German": "Deutsch"
 }

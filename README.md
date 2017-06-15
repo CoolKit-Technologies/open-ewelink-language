@@ -17,6 +17,10 @@ We created this project to support translation for eWelink
 	locale-fr.json : 法语翻译
 	locale-de.json : 德语翻译
 	locale-es.json : 西班牙语翻译
+	ios/locale-bg.json : 保加利亚语
+	ios/locale-el.json : 希腊语
+	ios/locale-sk.json : 斯洛伐克语
+	ios/locale-tr.json : 土耳其语
 
 ## 翻译规则：
 	国家码翻译：对国家名称的国际化，使用JSON格式来描述一个国家，如果需要新增国家，请新增一个JSON格式
@@ -66,7 +70,10 @@ We created this project to support translation for eWelink
   locale-fr.json : French translator
   locale-de.json : German translator
   locale-es.json : Spanish translator
-
+  locale-bg.json : Bulgarian translator
+  locale-el.json : Greek translator
+  locale-sk.json : Slovakia translator
+  locale-tr.json : Turkic translator
 
 ## Translation rules：
 
