@@ -1,5 +1,94 @@
 <resources> <!--英语  English-->
 
+
+
+	<!--不需要修改的部分start-->
+	<string name="ewelinktest">易微联测试</string>
+	<string name="title_activity_main">MainActivity</string>
+    <string name="app_version">v0.3.4.3</string>
+    <string name="tvApSsidTitle">SSID: </string>
+    <string name="tvPasswordTitle">Password: </string>
+    <string name="switchIsSsidHiddenTitle">SSID hidden</string>
+    <string name="spinnerTaskResultCountTitle">Task result count</string>
+    <string name="btnConfirmTitle">Confirm</string>
+    <string name="title_activity_mask_actvity">MaskActvity</string>
+    <string name="title_activity_main22">Main22Activity</string>
+    <string name="title_activity_show_adding_device_type_actvity">ShowAddingDeviceTypeActvity</string>
+	<string name="pref_header_general">General</string>
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">John Smith</string>
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+    <string name="pref_header_notifications">Notifications</string>
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+    <string name="pref_title_vibrate">Vibrate</string>
+	
+	<string name="facebook_app_id">1787091648274959</string>
+    <string name="fb_login_protocol_scheme">fb1176810229081143</string>
+	
+	<!--language-->
+    <string name="language_choice_simple_chinese">简体中文</string>
+    <string name="language_choice_english">English</string>
+    <string name="language_choice_old_chinese">繁體中文</string>
+    <string name="language_choice_russia">Русский</string>
+    <string name="language_choice_danmark">Dansk</string>
+    <string name="language_choice_italian">Italiano</string>
+    <string name="language_choice_polan">polskim</string>
+    <string name="language_choice_frech">Français</string>
+    <string name="language_choice_spanish">Español</string>
+    <string name="language_choice_genman">Deutsch</string>
+    <string name="language_choice_portugal">português</string>
+    <string name="language_choice_greece">ελληνικά</string>
+    <string name="language_choice_czech">český</string>
+    <string name="language_choice_bulgaria">български</string>
+    <string name="language_choice_turkey">Türkiye</string>
+    <string name="language_choice_slovank">slovenského jazyk</string>
+    <string name="language_choice_slovenia">Slovenija Elijah jezik</string>
+	<!--不需要修改的部分end-->
+
+
+	
+	
+	
+	
+	
+	
+	
+	
     <string name="upgrade_immediately">upgrade immediately</string>
     <string name="about_kuzhai">About %1$s</string>
     <string name="info_updates">Current version is the latest</string>
@@ -16,16 +105,12 @@
     <string name="wind_speed">Wind speed</string>
     <string name="fireplace_power_on">power on</string>
     <string name="fireplace_power_off">power off</string>
-
     <string name="air">Air:</string>
     <string name="temperature">Temperature：</string>
     <string name="c">Centigrade</string>
     <string name="humidity">Humidity：</string>
     <string name="not_internet_current">No available network</string>
-
-
     <string name="device_not_online">Device offline</string>
-
     <string name="operation_failure">Operation failed</string>
     <string name="online">(Online)</string>
     <string name="offline">(Offline)</string>
@@ -34,22 +119,17 @@
     <string name="device_type">Model:</string>
     <string name="share_owner_device">Only owner can share the device</string>
     <string name="device_upgraded_to">Device to be upgraded to</string>
-
-
     <string name="info_wait_upgrade">You are not allowed to operate during upgradation, the process may continue for a while, please wait</string>
     <string name="info_sure_delete">Are you sure to remove this device?</string>
     <string name="del_group">Are you sure to remove this group? </string>
     <string name="ota_failed_upgrade">Device %1$s ota Upgrade failed</string>
     <string name="ota_success_upgrade">Device %1$s ota Upgrade successfully</string>
     <string name="ota_finish_upgrade">Device %1$s ota Upgradation complete</string>
-
     <string name="firmware_upgradeing">Device %1$s is upgrading...</string>
     <string name="background_updateing">Device %1$s is upgrading in background...</string>
     <string name="sms_mustbenoempty">Verification code can not be empty</string>
-
     <string name="tips">Reminder</string>
     <string name="info_relogin">Login expired, please log in again.</string>
-
     <string name="ok">OK</string>
     <string name="Save">Save</string>
     <string name="cancel">Cancel</string>
@@ -57,7 +137,6 @@
     <string name="group_exits">The group already exists</string>
     <string name="delete_group">Devices of the deleted group will exist. Are you sure to delete the group?</string>
     <string name="change_device">Change Device Name</string>
-
     <string name="info_not_change">Only owner has authority to change device name</string>
     <string name="change_name_success">Changed successfully</string>
     <string name="change_name_failed">Change name failed</string>
@@ -74,13 +153,10 @@
     <string name="add_timer_success">Added successfully</string>
     <string name="delete_timer_success">Deleted successfully</string>
     <string name="date">day</string>
-
     <string name="add_timer_failed">Failed to add timer</string>
     <string name="delete_timer_failed">Failed to delete timer</string>
     <string name="timer_set_err">Time overdue</string>
     <string name="only_number">Only 8 timers allowed.</string>
-
-
     <string name="repassword">Reset password</string>
     <string name="commit">Submit</string>
     <string name="user_register">Registration</string>
@@ -98,7 +174,6 @@
     <string name="email_code">Email verification code</string>
     <string name="sms_number">Telephone number</string>
     <string name="sms_code">Send Code</string>
-
     <string name="old_paswd_not">Old password can not be empty</string>
     <string name="new_paswd_not">New password can not be empty</string>
     <string name="secondary_not">Confirm password can not be empty</string>
@@ -106,9 +181,7 @@
     <string name="info_old_paswd">Password must contain at least 8 characters</string>
     <string name="info_fomat_paswd">At least 8 characters</string>
     <string name="info_check_internet">No network, please check network status</string>
-
     <string name="info_fomat_email">Please fill in a valid Email address</string>
-
     <string name="info_again_enter">Wrong old password, please re-enter</string>
     <string name="change_password_failed">Failed to modify password:</string>
     <string name="change_susess">Changed successfully</string>
@@ -122,7 +195,6 @@
     <string name="wait_requset">Confirming</string>
     <string name="share_device">Share Device</string>
     <string name="repeat_time">Repeat timing</string>
-
     <string name="select_user">Select a user</string>
     <string name="enter_phone_number">Wrong phone number</string>
     <string name="not_share_own">Share to yourself is not allowed</string>
@@ -134,11 +206,10 @@
     <string name="err_length">Length can not exceed 512 characters</string>
     <string name="enter_not_null">Input can not be empty</string>
     <string name="device_info_title">Device info</string>
-    <string name="del_dialog">Deleting Timer...</string>
-
+    <string name="del_dialog">Deleting Schedule...</string>
     <string name="err_fomat">Wrong Format:</string>
     <string name="logining">Logging</string>
-    <string name="committime">Creating timer...</string>
+    <string name="committime">Creating Schedule...</string>
     <string name="login_failed">Login failed,wrong account number or password</string>
     <string name="login_failed_normal">Login failed</string>
     <string name="shook_on">Oscillation: open</string>
@@ -148,7 +219,6 @@
     <string name="device_three">Device 3</string>
     <string name="device_four">Device 4</string>
     <string name="register_success">Registered Successfully</string>
-
     <string name="switch_net_error">Switch network error, please add again</string>
     <string name="connect_failed">Make sure the device is in pairing status</string>
     <string name="add_failed">Failed to add</string>
@@ -160,16 +230,12 @@
     <string name="download_install">Download completed, click to install</string>
     <string name="download_complete">Download completed(</string>
     <string name="not_internet">No available network</string>
-
     <string name="add_group">New Group</string>
     <string name="add_device_group">New Device Group</string>
     <string name="edit_group">Edit Group</string>
-
     <string name="timer_set">Timer</string>
-
     <string name="info_kuzhai">EWeLink is a free smart home APP. \n\nEWeLink can control all smart home products from ITEAD and cooperated partners. It supports remotely turn on/off connected electrical devices, set timing schedules, share devices, manage group and scene. With eWeLink, you can adjust color and brightness for multiple RGB LED, monitor real-time temperature and humidity from Sonoff TH, monitor home environment data, and much more. \n\nMore devices are under development, please stay tuned.</string>
     <string name="my_device">My device</string>
-
     <string name="add_new_timer">New Timer</string>
     <string name="repeat">Repeat</string>
     <string name="one">One </string>
@@ -179,13 +245,10 @@
     <string name="five">Five </string>
     <string name="six">Six </string>
     <string name="seven">Seven </string>
-
     <string name="complete">Save</string>
     <string name="add_new_group">Add new group</string>
-
     <string name="info_newtime">No timer currently, please tap below icon to add new timer</string>
     <string name="run_cmd">Edit Timer</string>
-
     <string name="switch_on">ON</string>
     <string name="off_switch">OFF</string>
     <string name="time_set">Time setting</string>
@@ -202,7 +265,6 @@
     <string name="send_verification_code">Send</string>
     <string name="register">Register</string>
     <string name="personal_infomation">Personal information</string>
-
     <string name="message_center">Message center</string>
     <string name="intelligent_scene">eWeLink scene</string>
     <string name="feedback">Feedback</string>
@@ -210,7 +272,6 @@
     <string name="info_reset_password">Forget Password</string>
     <string name="return_op">Back</string>
     <string name="return_space">Return</string>
-
     <string name="discovered_device">Found Devices</string>
     <string name="select_add_device">Select a device to add</string>
     <string name="next">Next</string>
@@ -221,7 +282,6 @@
     <string name="one_gear">Speed Level 1</string>
     <string name="two_gear">Speed Level 2</string>
     <string name="third_gear">Speed Level 3</string>
-
     <string name="stall_mode">Mode</string>
     <string name="temperature_mode">temp. mode</string>
     <string name="current_temperature">current temp.</string>
@@ -278,7 +338,7 @@
     <string name="title_update">Firmware upgrading, please wait</string>
     <string name="lineoff_device">Device offline</string>
     <string name="deviceupdate">Upgrading fireware, please do not operate repeatedly</string>
-    <string name="timers">Timer</string>
+    <string name="timers">Schedule</string>
     <string name="everydays">Everyday</string>
     <string name="workdate">Weekday</string>
     <string name="weekdate">weekend</string>
@@ -395,7 +455,7 @@
     <string name="sure_quit_add">Confirm to quit pairing?</string>
 
     <string name="over">End</string>
-    <string name="connected_device_wait">Connecting the device, please wait...</string>
+    <string name="connected_device_wait">Connecting to device, please wait...</string>
     <string name="regist_device_wait">Registering, please wait...</string>
     <string name="device_has_been_register">You have already added the device!</string>
     <string name="delete_failed">Delete device failed, please try again later!</string>
@@ -405,7 +465,7 @@
     <string name="operat_success">Successfully</string>
     <string name="switch_power">Power:</string>
     <string name="operating">Operating</string>
-    <string name="device_belong_other">The device belongs to other user!</string>
+    <string name="device_belong_other">We are not sure which account is the device owner. If you have added this device with other account before, please log in the other account to delete the device first. Then re-add it with your current account. Otherwise, please contact the seller.</string>
     <string name="back_device_list">Back to list</string>
     <string name="device_setting">Setting</string>
     <string name="connect_device_fail">Failed to connect to device. Please try again</string>
@@ -544,13 +604,6 @@
     <string name="youqiao_history_download_failure">Download failed, please check the storage card is correct</string>
     <string name="youqiao_has_no_100_day_data">Has no history data,try later please.</string>
 
-    <string-array name="phone_managers">
-        <item>com.qihoo.appstore+360 Mobile Assistant</item>
-        <item>com.tencent.qqpimsecure+QQ Mobile Butler</item>
-        <item>com.qihoo360.mobilesafe+360 Mobile Guards</item>
-        <item>com.ijinshan.mguard+Kingsoft Mobile Guards</item>
-        <item>com.lbe.security+LBE Privacy Guard</item>
-    </string-array>
 
 
     <string-array name="country_code1">
@@ -817,18 +870,8 @@
         <item>Zimbabwe    +263</item>
         <item>Åland Islands   +358</item>
     </string-array>
-    <string name="title_activity_main">MainActivity</string>
+    
     <string name="county_locale">country/local</string>
-
-    <string name="app_version">v0.3.4.3</string>
-    <string name="tvApSsidTitle">SSID: </string>
-    <string name="tvPasswordTitle">Password: </string>
-    <string name="switchIsSsidHiddenTitle">SSID hidden</string>
-    <string name="spinnerTaskResultCountTitle">Task result count</string>
-    <string name="btnConfirmTitle">Confirm</string>
-    <string name="title_activity_mask_actvity">MaskActvity</string>
-    <string name="title_activity_main22">Main22Activity</string>
-    <string name="title_activity_show_adding_device_type_actvity">ShowAddingDeviceTypeActvity</string>
     <string name="found_gen_one">Found first generation device\n%1$s</string>
     <string name="found_gen_two">found second generation device</string>
     <string name="device_registing">registering ...</string>
@@ -843,10 +886,10 @@
     <string name="update_success">updated group successfully</string>
     <string name="title_activity_debug_settings">Settings</string>
 
-    <string name="confirm_to_state_pair">Confirm device in pairing state</string>
+    <string name="confirm_to_state_pair">Pairing your device</string>
     <string name="longpress_to_state_pair">Press and hold the pairing button for 5s to let the device led fast blinks</string>
     <string name="other_pair_instruction_led">To let Sonoff dimming LED enter into pairing state, please turn it on and off for 3 times, the time gap between turn on and off should be 2s, the LED indicator will fast blink.</string>
-    <string name="other_pair_instruction">Pairing Instructions</string>
+    <string name="other_pair_instruction">Other Pairing Methods</string>
     <string name="choose_wifi">Choose a WiFi</string>
     <string name="pairing">Pairing...</string>
     <string name="pair_failure">Pairing Failed</string>
@@ -861,63 +904,7 @@
     <string name="pair_failure_reason_check_net_enable">Failed, please confirm your mobile network works normally, and try again later</string>
     <string name="goto_system_setting">Then return to eWeLink. System WiFi setting</string>
 
-    <!-- Strings related to Settings -->
-
-    <!-- Example General settings -->
-    <string name="pref_header_general">General</string>
-
-    <string name="pref_title_social_recommendations">Enable social recommendations</string>
-    <string name="pref_description_social_recommendations">Recommendations for people to contact
-        based on your message history
-    </string>
-
-    <string name="pref_title_display_name">Display name</string>
-    <string name="pref_default_display_name">John Smith</string>
-
-    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
-    <string-array name="pref_example_list_titles">
-        <item>Always</item>
-        <item>When possible</item>
-        <item>Never</item>
-    </string-array>
-    <string-array name="pref_example_list_values">
-        <item>1</item>
-        <item>0</item>
-        <item>-1</item>
-    </string-array>
-
-    <!-- Example settings for Data & Sync -->
-    <string name="pref_header_data_sync">Data &amp; sync</string>
-
-    <string name="pref_title_sync_frequency">Sync frequency</string>
-    <string-array name="pref_sync_frequency_titles">
-        <item>15 minutes</item>
-        <item>30 minutes</item>
-        <item>1 hour</item>
-        <item>3 hours</item>
-        <item>6 hours</item>
-        <item>Never</item>
-    </string-array>
-    <string-array name="pref_sync_frequency_values">
-        <item>15</item>
-        <item>30</item>
-        <item>60</item>
-        <item>180</item>
-        <item>360</item>
-        <item>-1</item>
-    </string-array>
-
-    <string name="pref_title_system_sync_settings">System sync settings</string>
-
-    <!-- Example settings for Notifications -->
-    <string name="pref_header_notifications">Notifications</string>
-
-    <string name="pref_title_new_message_notifications">New message notifications</string>
-
-    <string name="pref_title_ringtone">Ringtone</string>
-    <string name="pref_ringtone_silent">Silent</string>
-
-    <string name="pref_title_vibrate">Vibrate</string>
+    
     <string name="open_led">please turn on the light first</string>
     <string name="add_new_smart_scene">Add new scene</string>
     <string name="where_it_meet">When it meets:</string>
@@ -961,7 +948,7 @@
     <string name="no_choice_device">No optional device</string>
     <string name="cardview_device_off_line">offline</string>
     <string name="cardview_device_on_line">online</string>
-    <string name="new_no_device_alert">No devices currently, tap on below button to add</string>
+    <string name="new_no_device_alert">There are no devices paired. Tap the \"add device\" button below to begin pairing devices</string>
     <string name="splash_timer">Timer</string>
     <string name="splash_timer_text">Single channel socket/switch support loop timer now! Loop timer can be auto-executed every preset time(say 1hr), and continue for a shorter preset time(say 20min). Supported firmware version 1.5.0 and higher.</string>
     <string name="share_splash_text">Want your family and friends control your devices? Just share your devices to their accounts!</string>
@@ -970,7 +957,7 @@
     <string name="back">Back</string>
     <string name="everything_connect">Internet of Everything</string>
 
-    <string name="delay_timers">Countdown timer</string>
+    <string name="delay_timers">Timer</string>
     <string name="weekday">Day:</string>
     <string name="new_timer_repeat">Repeat:</string>
     <string name="action_one">Once</string>
@@ -982,7 +969,7 @@
     <string name="new_timer_minute">Minute</string>
     <string name="new_timer_after">After</string>
     <string name="refresh_power">Refresh</string>
-    <string name="delay">Countdown</string>
+    <string name="delay">Timer</string>
     <string name="thisyear">This year</string>
     <string name="nextyear">Next year</string>
     <string name="timer_start">Start</string>
@@ -995,9 +982,9 @@
     <string name="only_timer_active_number">Only 8 enabled timers allowed(include countdown and loop timer)</string>
     <string name="device_offline_cant_operat">Device offline, unable to operate now</string>
     <string name="add_delay_timers_success">Added successfully</string>
-    <string name="create_delay">Creating countdown timer...</string>
+    <string name="create_delay">Creating Timer...</string>
     <string name="delete_delayt_ok">Deleted successfully</string>
-    <string name="delete_delay_dialog">Deleting countdown timer...</string>
+    <string name="delete_delay_dialog">Deleting Timer...</string>
 
 
     <string name="copy_text_and_open_wechat">Copy WeChat account and follow</string>
@@ -1167,10 +1154,10 @@
     <string name="dialog_share_permit_timer">Timer Permission</string>
 
     <string name="no_userful_device">No devices available</string>
-    <string name="duration_cycle">Cycle:</string>
-    <string name="duration_delay">Delay</string>
-    <string name="duration_delay_do">minutes run:</string>
-    <string name="duration_cycle_do">minutes run:</string>
+    <string name="duration_cycle">Restart cycle every:</string>
+    <string name="duration_delay">After:</string>
+    <string name="duration_delay_do">minutes, change state to:</string>
+    <string name="duration_cycle_do">minutes, start in state:</string>
     <string name="delay_start_again">Start again</string>
     <string name="delay_timer_executing_alert">(After: %1$sd %2$shr %3$smin Running)</string>
     <string name="delay_timer_stop_alert">(After: %1$sd %2$shr %3$smin completed)</string>
@@ -1196,11 +1183,6 @@
     <string name="dialog_share_permit_edit">Modify</string>
     <string name="dialog_share_permit_remove">Delete</string>
     <string name="dialog_share_permit_enable">Enable</string>
-
-    <string name="facebook_app_id">1787091648274959</string> <!--1787091648274959--> <!--1176810229081143-->
-    <string name="fb_login_protocol_scheme">fb1176810229081143</string>
-
-
 
     <!--nest-->
     <string name="nest_current_tempc">Current Temp.℃</string>
@@ -1257,14 +1239,14 @@
     <string name="gsm_used">Data Usage:</string>
     <string name="gsm_has">Data Available:</string>
     <string name="switch_operat_history">Operation record</string>
-    <string name="single_switch_history">Operation record</string>
+    <string name="single_switch_history">History</string>
     <string name="qr_shaoyishao">Scan QR Code</string>
     <string name="device">Device</string>
     <string name="add_wexin_public_charge">Please follow "coolkitcn" to top up in WeChat </string>
     <string name="switch_notify">Operation notifications</string>
-    <string name="switch_history">Action</string>
+    <string name="switch_history">State</string>
     <string name="switch_time">Time</string>
-    <string name="switch_trigger_type">Trigger By</string>
+    <string name="switch_trigger_type">Source</string>
     <string name="device_state_changed">Device status changed</string>
     <string name="umeng_notification_switch_state_on">ON</string>
     <string name="umeng_notification_switch_state_off">OFF</string>
@@ -1282,25 +1264,6 @@
     <string name="rgb5_cold">Cold</string>
     <string name="rgb5_warm">Warm</string>
     <string name="open_rgb5">please turn on the LED Bulb first</string>
-    <!---->
-
-    <!--language-->
-    <string name="language_choice_simple_chinese">简体中文</string>
-    <string name="language_choice_english">English</string>
-    <string name="language_choice_old_chinese">繁體中文</string>
-    <string name="language_choice_russia">Русский</string>
-    <string name="language_choice_danmark">Dansk</string>
-    <string name="language_choice_italian">Italiano</string>
-    <string name="language_choice_polan">polskim</string>
-    <string name="language_choice_frech">Français</string>
-    <string name="language_choice_spanish">Español</string>
-    <string name="language_choice_genman">Deutsch</string>
-    <string name="language_choice_portugal">português</string>
-    <string name="language_choice_greece">ελληνικά</string>
-    <string name="language_choice_czech">český</string>
-    <string name="language_choice_bulgaria">български</string>
-    <string name="language_choice_turkey">Türkiye</string>
-    <string name="language_choice_slovank">slovenského jazyk</string>
 
 
     <string name="aromatherapy_light_switch">light</string>
@@ -1342,10 +1305,10 @@
     <string name="has_already_cancel_share">Share canceled.</string>
     <string name="nest_cancel_auth">Nest authority canceled</string>
     <string name="aromatherapy_colorful_light">Color Light</string>
-    <string name="top_than_close">Higher Than This, OFF</string>
-    <string name="lower_than_open">Lower Than This, ON</string>
+    <string name="top_than_close">Target temp. upper limit</string>
+    <string name="lower_than_open">Target temp. lower limit</string>
     <string name="near_alarm">Recent Alarms</string>
-    <string name="ewelinktest">易微联测试</string>
+    
     <string name="rfbridge_remote_control_name">RF Remote Name:</string>
     <string name="long_press_to_study_button">RF gateway is in learning mode, please press the RF Remote button or let the alarm go off in 1 min.</string>
     <string name="enter_verifycode">Please enter verification code.</string>
@@ -1356,4 +1319,16 @@
     <string name="beijing_temp_small_range">Temp. Range: 5~34</string>
     <string name="beijing_temp_small_less">The second value must be smaller than the first.</string>
     <string name="has_already_send_to_you">Verification code has been sent to your phone or mailbox, please check and enter</string>
+
+    <string name="login_failed_retry_later">Login failed, please retry later</string>
+    <string name="has_no_useful_remote">No RF Remotes found</string>
+    <string name="alarm_notification">Alarm notifications</string>
+    <string name="no_authority_ops">No permission</string>
+    <string name="no_rfbridge_remote">Click below button to add RF Remote</string>
+    <string name="sure_delete_remote">Delete this RF Remote?</string>
+    <string name="duration_open">On</string>
+    <string name="duration_close">Off</string>
+    <string name="goto_rfbridge_know_more">Enter RF Bridge details, learn more at Alarm History</string>
+    <string name="nest_account_changed">Changing Nest account will delete the added Nest device, continue?</string>
+
 </resources>

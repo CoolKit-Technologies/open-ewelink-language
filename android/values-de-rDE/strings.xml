@@ -134,11 +134,11 @@
     <string name="err_length">Länge mehr als 512 Zeichen</string>
     <string name="enter_not_null">Eingabe kann nicht leer sein</string>
     <string name="device_info_title">Geräteinformationen</string>
-    <string name="del_dialog">Timer löschen ...</string>
+    <string name="del_dialog">Deleting Schedule...</string>
 
     <string name="err_fomat">Falsches Format:</string>
     <string name="logining">Anmeldung</string>
-    <string name="committime">Timer erstellen ...</string>
+    <string name="committime">Creating Schedule...</string>
     <string name="login_failed">Anmeldung fehlgeschlagen, falsche Kontonummer oder Passwort</string>
     <string name="login_failed_normal">Anmeldung fehlgeschlagen</string>
     <string name="shook_on">Kopf schütteln Modus: offen</string>
@@ -278,7 +278,7 @@
     <string name="title_update">Firmware-Aktualisierung bitte warten</string>
     <string name="lineoff_device">Gerät offline</string>
     <string name="deviceupdate">Firmware aktualisieren</string>
-    <string name="timers">Timer</string>
+    <string name="timers">Schedule</string>
     <string name="everydays">Jeden Tag</string>
     <string name="workdate">Wochentags</string>
     <string name="weekdate">Wochenende</string>
@@ -406,7 +406,7 @@
     <string name="operat_success">Erfolgreich</string>
     <string name="switch_power">Leistung:</string>
     <string name="operating">Betriebs</string>
-    <string name="device_belong_other">Gerät gehört zu einem anderen Benutzer</string>
+    <string name="device_belong_other">We are not sure which account is the device owner. If you have added this device with other account before, please log in the other account to delete the device first. Then re-add it with your current account. Otherwise, please contact the seller.</string>
     <string name="back_device_list">Zurück zur Liste</string>
     <string name="device_setting">Einstellung</string>
     <string name="connect_device_fail">Fehler beim Verbinden des Geräts, bitte versuchen Sie es erneut</string>
@@ -960,7 +960,7 @@
 <string name="no_choice_device">Kein optionales Gerät</string>
 <string name="cardview_device_off_line">offline</string>
 <string name="cardview_device_on_line">online</string>
-<string name="new_no_device_alert">Keine Geräte derzeit, tippen Sie auf unten Schaltfläche hinzufügen</string>
+<string name="new_no_device_alert">There are no devices paired. Tap the \"add device\" button below to begin pairing devices</string>
 <string name="splash_timer">Timer</string>
 <string name="splash_timer_text">Einkanal-Steckdose / Schalter-Stützschleifen-Timer jetzt! Loop-Timer kann automatisch jede voreingestellte Zeit (zB 1 Stunde) ausgeführt werden und für eine kürzere voreingestellte Zeit (ca. 20min) weiterfahren. Unterstützte Firmware Version 1.5.0 und höher.</string>
 <string name="share_splash_text">Wollen Sie Ihre Familie und Freunde Ihre Geräte kontrollieren? Lassen Sie sie einfach ein Konto registrieren, dann teilen Sie Ihre Geräte!</string>
@@ -969,7 +969,7 @@
 <string name="back">Zurück</string>
 <string name="everything_connect">Internet der allen Dingen</string>
 
-<string name="delay_timers">Countdown-Timer</string>
+<string name="delay_timers">Timer</string>
 <string name="weekday">Tag:</string>
 <string name="new_timer_repeat">Wiederholen:</string>
 <string name="action_one">Einmal</string>
@@ -981,7 +981,7 @@
 <string name="new_timer_minute">Minute</string>
 <string name="new_timer_after">Nach</string>
 <string name="refresh_power">Erneuern</string>
-<string name="delay">Countdown</string>
+<string name="delay">Timer</string>
 <string name="thisyear">Dieses Jahr</string>
 <string name="nextyear">Nächstes Jahr</string>
 <string name="timer_start">Anfang</string>
@@ -994,9 +994,9 @@
 <string name="only_timer_active_number">Die Gesamtzahl der aktivierten Timer (einschließlich Countdown-Timer und Loop-Timer) sollte nicht mehr als 8 sein</string>
 <string name="device_offline_cant_operat">Gerät offline, nicht in der Lage zu arbeiten jetzt</string>
 <string name="add_delay_timers_success">Erfolgreich hinzugefügt</string>
-<string name="create_delay">Erstellen Countdown-Timer ...</string>
+<string name="create_delay">Creating Timer...</string>
 <string name="delete_delayt_ok">löschen erfolgreich</string>
-<string name="delete_delay_dialog">Löschen Countdown-Timer ...</string>
+<string name="delete_delay_dialog">Deleting Timer...</string>
 
 
 <string name="copy_text_and_open_wechat">Kopieren WeChat Konto und folgen</string>
@@ -1083,7 +1083,7 @@
 <string name="humidity_water_info">Wasser</string>
 <string name="humidity_on_off">EIN/AUS</string>
 <string name="water_level_normal">normal</string>
-<string name="water_level_shortage">Mangel</string>
+<string name="water_level_shortage">Auffüllen</string>
 <string name="not_connect_wait">Verbinden, bitte warten</string>
 <string name="auto">Auto</string>
 <string name="high">HD</string>
@@ -1167,10 +1167,10 @@
 <string name="dialog_share_permit_timer">Timerberechtigung</string>
 
 <string name="no_userful_device">Kein Gerät vorhanden</string>
-<string name="duration_cycle">Zyklus:</string>
-<string name="duration_delay">Verzögern</string>
-<string name="duration_delay_do">Minutenlauf:</string>
-<string name="duration_cycle_do">Minutenlauf:</string>
+<string name="duration_cycle">Restart cycle every:</string>
+<string name="duration_delay">After:</string>
+<string name="duration_delay_do">minutes, change state to:</string>
+<string name="duration_cycle_do">minutes, start in state:</string>
 <string name="delay_start_again">Fang nochmal an</string>
 <string name="delay_timer_executing_alert">(Nach: %1$sd %2$shr %3$smin Laufen)</string>
 <string name="delay_timer_stop_alert">(Nach:%1$sd %2$shr %3$smin abgeschlossen)</string>
@@ -1257,14 +1257,14 @@
         <string name="gsm_used">Datenverbrauch:</string>
         <string name="gsm_has">Daten verfügbar:</string>
         <string name="switch_operat_history">Betriebsaufzeichnung</string>
-        <string name="single_switch_history">Betriebsaufzeichnung</string>
+        <string name="single_switch_history">History</string>
         <string name="qr_shaoyishao">QR-Code scannen</string>
         <string name="device">Gerät</string>
         <string name="add_wexin_public_charge">Nachfüllen auf WeChat, folgen Sie "coolkitcn"</string>
         <string name="switch_notify">Betriebsmeldungen</string>
-        <string name="switch_history">Aktion</string>
+        <string name="switch_history">State</string>
         <string name="switch_time">Zeit</string>
-        <string name="switch_trigger_type">Auslöser durch</string>
+        <string name="switch_trigger_type">Source</string>
         <string name="device_state_changed">Gerätestatus geändert</string>
         <string name="umeng_notification_switch_state_on">EIN</string>
         <string name="umeng_notification_switch_state_off">AUS</string>
@@ -1286,10 +1286,11 @@
     <string name="language_choice_bulgaria">български</string>
     <string name="language_choice_turkey">Türkiye</string>
     <string name="language_choice_slovank">slovenského jazyk</string>
+    <string name="language_choice_slovenia">Slovenija Elijah jezik</string>
 
     <string name="aromatherapy_light_switch">light</string>
-    <string name="aromatherapy_state_small">Small</string>
-    <string name="aromatherapy_state_big">Big</string>
+    <string name="aromatherapy_state_small">Schwach</string>
+    <string name="aromatherapy_state_big">Stark</string>
     <string name="install_googleplay_first">Please install Google Play</string>
     <string name="app_downloading">Downloading</string>
     <string name="night_light">Night Light</string>
@@ -1326,8 +1327,8 @@
     <string name="has_already_cancel_share">Share canceled.</string>
     <string name="nest_cancel_auth">Nest authority canceled</string>
     <string name="aromatherapy_colorful_light">Color Light</string>
-    <string name="top_than_close">Higher Than This, OFF</string>
-    <string name="lower_than_open">Lower Than This, ON</string>
+    <string name="top_than_close">Target temp. upper limit</string>
+    <string name="lower_than_open">Target temp. lower limit</string>
     <string name="near_alarm">Recent Alarms</string>
     <string name="ewelinktest">易微联测试</string>
     <string name="rfbridge_remote_control_name">RF Remote Name:</string>
@@ -1340,4 +1341,14 @@
     <string name="beijing_temp_small_range">Temp. Range: 5~34</string>
     <string name="beijing_temp_small_less">The second value must be smaller than the first.</string>
     <string name="has_already_send_to_you">Verification code has been sent to your phone or mailbox, please check and enter</string>
+    <string name="login_failed_retry_later">Login failed, please retry later</string>
+    <string name="has_no_useful_remote">No RF Remotes found</string>
+    <string name="alarm_notification">Alarm notifications</string>
+    <string name="no_authority_ops">No permission</string>
+    <string name="no_rfbridge_remote">Click below button to add RF Remote</string>
+    <string name="sure_delete_remote">Delete this RF Remote?</string>
+    <string name="duration_open">On</string>
+    <string name="duration_close">Off</string>
+    <string name="goto_rfbridge_know_more">Enter RF Bridge details, learn more at Alarm History</string>
+    <string name="nest_account_changed">Changing Nest account will delete the added Nest device, continue?</string>
 </resources>

@@ -135,11 +135,11 @@
     <string name="err_length">Длина более 512 символов</string>
     <string name="enter_not_null">Не может быть пустым</string>
     <string name="device_info_title">Информация об устройстве</string>
-    <string name="del_dialog">Таймер удаленияr...</string>
+    <string name="del_dialog">Deleting Schedule...</string>
 
     <string name="err_fomat">Неверный формат:</string>
     <string name="logining">Вход</string>
-    <string name="committime">Создание таймера...</string>
+    <string name="committime">Creating Schedule...</string>
     <string name="login_failed">Ошибка входа, неверный логин или пароль</string>
     <string name="login_failed_normal">Ошибка входа</string>
     <string name="shook_on">Режим качания: вкл</string>
@@ -273,7 +273,7 @@
     <string name="title_update">Обновление ПО, подождите</string>
     <string name="lineoff_device">Устройство не в сети</string>
     <string name="deviceupdate">Обновление ПО</string>
-    <string name="timers">Таймер</string>
+    <string name="timers">Schedule</string>
     <string name="everydays">Каждый день</string>
     <string name="workdate">Раб. дни</string>
     <string name="weekdate">Вых. дни</string>
@@ -396,7 +396,7 @@
     <string name="operat_success">Успешно</string>
     <string name="switch_power">Мощность:</string>
     <string name="operating">Выполняется</string>
-    <string name="device_belong_other">Устройство принадлежит другому пользователю</string>
+    <string name="device_belong_other">We are not sure which account is the device owner. If you have added this device with other account before, please log in the other account to delete the device first. Then re-add it with your current account. Otherwise, please contact the seller.</string>
     <string name="back_device_list">Назад к списку</string>
     <string name="device_setting">Настройка</string>
     <string name="connect_device_fail">Ошибка подключения, попробуйте позже</string>
@@ -940,7 +940,7 @@
     <string name="has_not_change_to_device_host">(устройство не доступно)</string>
 
     <string name="cardview_device_off_line">офлайн</string>
-    <string name="new_no_device_alert">Нет устройств, нажмите "добавить"</string>
+    <string name="new_no_device_alert">There are no devices paired. Tap the \"add device\" button below to begin pairing devices</string>
     <string name="splash_timer">Таймер</string>
     <string name="splash_timer_text">Single channel socket/switch support loop timer now! Loop timer can be auto-executed every preset time(say 1hr), and continue for a shorter preset time(say 20min). Supported firmware version 1.5.0 and higher.</string>
     <string name="share_splash_text">Хотите чтобы ваши друзья управляли устройством? Зарегистрируйте аккаунт и дайте им досутп!</string>
@@ -948,7 +948,7 @@
     <string name="goto_ewelink">Войти в eWeLink</string>
     <string name="back">Назад</string>
     <string name="everything_connect">Интернет вещей</string>
-    <string name="delay_timers">Таймер обрат. отсчета</string>
+    <string name="delay_timers">Timer</string>
     <string name="weekday">День:</string>
     <string name="new_timer_repeat">Повтор:</string>
     <string name="action_one">Однократно</string>
@@ -961,7 +961,7 @@
     <string name="new_timer_after">После</string>
 
     <string name="refresh_power">Обновить</string>
-    <string name="delay">Отсчет</string>
+    <string name="delay">Timer</string>
 
     <string name="more">＞</string>
     <string name="less">＜</string>
@@ -999,9 +999,9 @@
     <string name="only_timer_number">Общее количество таймеров (включая таймеры обратного отсчета и цикличные таймеры) не может быть более 20</string>
     <string name="only_timer_active_number">Общее количество действующих таймеров (включая таймеры обратного отсчета и цикличные таймеры) не может быть более 8</string>
     <string name="device_offline_cant_operat">Устройство не в сети. Ошибка подключения</string>
-    <string name="create_delay">Создание таймера обратного отсчета...</string>
+    <string name="create_delay">Creating Timer...</string>
     <string name="delete_delayt_ok">Успешно удалено</string>
-    <string name="delete_delay_dialog">Удаление таймера обратного отсчета...</string>
+    <string name="delete_delay_dialog">Deleting Timer...</string>
     <string name="need_permission_coarse">Разрешите доступ приложению Ewelink чтобы соединить устройства!</string>
 
 
@@ -1177,10 +1177,10 @@
     <string name="tem_hum_dht11_hum_range">Диапазон влажности: 20-90</string>
     <string name="tem_hum_2301_hum_range">Диапазон влажности: 0-100</string>
     <string name="no_userful_device">Нет доступных устройств</string>
-    <string name="duration_cycle">Цикл:</string>
-    <string name="duration_delay">Задержка</string>
-    <string name="duration_delay_do">минут старт:</string>
-    <string name="duration_cycle_do">минут старт:</string>
+    <string name="duration_cycle">Restart cycle every:</string>
+    <string name="duration_delay">After:</string>
+    <string name="duration_delay_do">minutes, change state to:</string>
+    <string name="duration_cycle_do">minutes, start in state:</string>
     <string name="delay_start_again">Начать снова</string>
     <string name="delay_timer_executing_alert">(After: %1$sd %2$shr %3$smin Running)</string>
     <string name="delay_timer_stop_alert">(After: %1$sd %2$shr %3$smin completed)</string>
@@ -1269,14 +1269,14 @@
     <string name="gsm_used">Data Usage:</string>
     <string name="gsm_has">Data Available:</string>
     <string name="switch_operat_history">Operation record</string>
-    <string name="single_switch_history">Operation record</string>
+    <string name="single_switch_history">History</string>
     <string name="qr_shaoyishao">Scan QR Code</string>
     <string name="device">Device</string>
     <string name="add_wexin_public_charge">Top up on WeChat, follow "coolkitcn"</string>
     <string name="switch_notify">Operation notifications</string>
-    <string name="switch_history">Action</string>
+    <string name="switch_history">State</string>
     <string name="switch_time">Time</string>
-    <string name="switch_trigger_type">Trigger By</string>
+    <string name="switch_trigger_type">Source</string>
     <string name="device_state_changed">Device status changed</string>
     <string name="umeng_notification_switch_state_on">ON</string>
     <string name="umeng_notification_switch_state_off">OFF</string>
@@ -1312,6 +1312,8 @@
     <string name="language_choice_bulgaria">български</string>
     <string name="language_choice_turkey">Türkiye</string>
     <string name="language_choice_slovank">slovenského jazyk</string>
+    <string name="language_choice_slovenia">Slovenija Elijah jezik</string>
+
 
     <string name="facebook_app_id">1787091648274959</string>
     <string name="aromatherapy_light_switch">light</string>
@@ -1353,8 +1355,8 @@
     <string name="has_already_cancel_share">Share canceled.</string>
     <string name="nest_cancel_auth">Nest authority canceled</string>
     <string name="aromatherapy_colorful_light">Color Light</string>
-    <string name="top_than_close">Higher Than This, OFF</string>
-    <string name="lower_than_open">Lower Than This, ON</string>
+    <string name="top_than_close">Target temp. upper limit</string>
+    <string name="lower_than_open">Target temp. lower limit</string>
     <string name="near_alarm">Recent Alarms</string>
     <string name="ewelinktest">易微联测试</string>
     <string name="rfbridge_remote_control_name">RF Remote Name:</string>
@@ -1367,5 +1369,16 @@
     <string name="beijing_temp_small_range">Temp. Range: 5~34</string>
     <string name="beijing_temp_small_less">The second value must be smaller than the first.</string>
     <string name="has_already_send_to_you">Verification code has been sent to your phone or mailbox, please check and enter</string>
+    <string name="login_failed_retry_later">Login failed, please retry later</string>
+    <string name="has_no_useful_remote">No RF Remotes found</string>
+    <string name="alarm_notification">Alarm notifications</string>
+    <string name="no_authority_ops">No permission</string>
+    <string name="no_rfbridge_remote">Click below button to add RF Remote</string>
+    <string name="sure_delete_remote">Delete this RF Remote?</string>
+    <string name="duration_open">On</string>
+    <string name="duration_close">Off</string>
+    <string name="goto_rfbridge_know_more">Enter RF Bridge details, learn more at Alarm History</string>
+    <string name="nest_account_changed">Changing Nest account will delete the added Nest device, continue?</string>
+    <string name="cardview_device_on_line">online</string>
 
 </resources>

@@ -135,11 +135,11 @@
     <string name="err_length">Longueur de plus de 512 caractères</string>
     <string name="enter_not_null">L\'entrée ne peut être vide</string>
     <string name="device_info_title">Info appareil</string>
-    <string name="del_dialog">Suppression de la minuterie ...</string>
+    <string name="del_dialog">Deleting Schedule...</string>
 
     <string name="err_fomat">Mauvais format :</string>
     <string name="logining">Enregistrement</string>
-    <string name="committime">Création d\'une minuterie...</string>
+    <string name="committime">Creating Schedule...</string>
     <string name="login_failed">Échec de la connexion, numéro de compte ou mot de passe erroné</string>
     <string name="login_failed_normal">Échec de la connexion</string>
     <string name="shook_on">Mode secouer la tête : ouvert</string>
@@ -279,7 +279,7 @@
     <string name="title_update">Mise à niveau du Fireware, veuillez patienter</string>
     <string name="lineoff_device">Périphérique déconnecté</string>
     <string name="deviceupdate">Mise à niveau du fireware</string>
-    <string name="timers">Minuteur</string>
+    <string name="timers">Schedule</string>
     <string name="everydays">Tous les jours</string>
     <string name="workdate">Jours de semaine</string>
     <string name="weekdate">Week-end</string>
@@ -407,7 +407,7 @@
     <string name="operat_success">Avec succès</string>
     <string name="switch_power">Puissance :</string>
     <string name="operating">en fonction</string>
-    <string name="device_belong_other">Le périphérique appartient à un autre utilisateur</string>
+    <string name="device_belong_other">We are not sure which account is the device owner. If you have added this device with other account before, please log in the other account to delete the device first. Then re-add it with your current account. Otherwise, please contact the seller.</string>
     <string name="back_device_list">Retour à la liste</string>
     <string name="device_setting">Paramètres</string>
     <string name="connect_device_fail">Échec de la connexion au périphérique. Veuillez réessayer.</string>
@@ -959,7 +959,7 @@
     <string name="no_choice_device">Pas d\'appareil en option</string>
     <string name="cardview_device_off_line">hors ligne</string>
     <string name="cardview_device_on_line">en ligne</string>
-    <string name="new_no_device_alert">Aucun périphérique actuellement, appuyez sur le bouton ci-dessous pour en ajouter</string>
+    <string name="new_no_device_alert">There are no devices paired. Tap the \"add device\" button below to begin pairing devices</string>
     <string name="splash_timer">Minuteur</string>
     <string name="splash_timer_text">Le commutateur/la prise à canal unique autorise maintenant les minteurs en boucle !  La minuterie en boucle peut être exécutée automatiquement pour chaque préréglage (par exemple 1 h), et peut le faire pour une durée prédéfinie plus courte (disons 20 min).   A partir de la version 1.5.0 ou ultérieure du firmware.</string>
     <string name="share_splash_text">Vous voulez que votre famille et vos amis puissent contrôler vos appareils ? Demandez-leur d\'enregistrer tout simplement un compte et partagez vos appareils !</string>
@@ -968,7 +968,7 @@
     <string name="back">Retour</string>
     <string name="everything_connect">Internet de Tout</string>
 
-    <string name="delay_timers">Compte à rebours</string>
+    <string name="delay_timers">Timer</string>
     <string name="weekday">Jour :</string>
     <string name="new_timer_repeat">Répéter :</string>
     <string name="action_one">Une fois que</string>
@@ -980,7 +980,7 @@
     <string name="new_timer_minute">Minute</string>
     <string name="new_timer_after">Après</string>
     <string name="refresh_power">Rafraîchir</string>
-    <string name="delay">Compte à rebours</string>
+    <string name="delay">Timer</string>
     <string name="thisyear">Cette année</string>
     <string name="nextyear">L\'an prochain</string>
     <string name="timer_start">Début</string>
@@ -993,9 +993,9 @@
     <string name="only_timer_active_number">Le nombre total de minuteries activées (y compris les comptes à rebours et les minuteries en boucle) ne doit pas dépasser 8</string>
     <string name="device_offline_cant_operat">Périphérique hors ligne, inpossible de le faire fonctionner maintenant</string>
     <string name="add_delay_timers_success">Ajouté avec succès</string>
-    <string name="create_delay">Création d\'un compte à rebours...</string>
+    <string name="create_delay">Creating Timer...</string>
     <string name="delete_delayt_ok">Supprimé avec succès</string>
-    <string name="delete_delay_dialog">Suppression du compte à rebours...</string>
+    <string name="delete_delay_dialog">Deleting Timer...</string>
 
 
     <string name="copy_text_and_open_wechat">Copiez le compte WeChat et continuez</string>
@@ -1166,10 +1166,10 @@
     <string name="dialog_share_permit_timer">Autorisation minuteur</string>
 
     <string name="no_userful_device">Aucun périphérique disponible</string>
-    <string name="duration_cycle">Cycle :</string>
-    <string name="duration_delay">Retard</string>
-    <string name="duration_delay_do">Décompte des minutes </string>
-    <string name="duration_cycle_do">Décompte des minutes </string>
+    <string name="duration_cycle">Restart cycle every:</string>
+    <string name="duration_delay">After:</string>
+    <string name="duration_delay_do">minutes, change state to:</string>
+    <string name="duration_cycle_do">minutes, start in state:</string>
     <string name="delay_start_again">Recommencer</string>
     <string name="delay_timer_executing_alert">(Après : %1$sd %2$shr %3$smin Décompte)</string>
     <string name="delay_timer_stop_alert">(Après : %1$sd %2$shr %3$smin complété)</string>
@@ -1256,14 +1256,14 @@
     <string name="gsm_used">Utilisation de données :</string>
     <string name="gsm_has">Données disponibles :</string>
     <string name="switch_operat_history">Enregistrement de l\'opération</string>
-    <string name="single_switch_history">Enregistrement de l\'opération</string>
+    <string name="single_switch_history">History</string>
     <string name="qr_shaoyishao">Scanner le code QR</string>
     <string name="device">Appareil</string>
     <string name="add_wexin_public_charge">Recharger sur WeChat, continuer "coolkitcn"</string>
     <string name="switch_notify">Notifications d\'opération</string>
-    <string name="switch_history">Action</string>
+    <string name="switch_history">State</string>
     <string name="switch_time">Heure</string>
-    <string name="switch_trigger_type">Déclenché par</string>
+    <string name="switch_trigger_type">Source</string>
     <string name="device_state_changed">État de l\'appareil modifié</string>
     <string name="umeng_notification_switch_state_on">ALLUME</string>
     <string name="umeng_notification_switch_state_off">ETEINT</string>
@@ -1286,6 +1286,7 @@
     <string name="language_choice_bulgaria">български</string>
     <string name="language_choice_turkey">Türkiye</string>
     <string name="language_choice_slovank">slovenského jazyk</string>
+    <string name="language_choice_slovenia">Slovenija Elijah jezik</string>
 
 
     <string name="rgb5_bottom_white">White</string>
@@ -1340,8 +1341,8 @@
     <string name="has_already_cancel_share">Share canceled.</string>
     <string name="nest_cancel_auth">Nest authority canceled</string>
     <string name="aromatherapy_colorful_light">Color Light</string>
-    <string name="top_than_close">Higher Than This, OFF</string>
-    <string name="lower_than_open">Lower Than This, ON</string>
+    <string name="top_than_close">Target temp. upper limit</string>
+    <string name="lower_than_open">Target temp. lower limit</string>
     <string name="near_alarm">Recent Alarms</string>
     <string name="ewelinktest">易微联测试</string>
     <string name="rfbridge_remote_control_name">RF Remote Name:</string>
@@ -1354,4 +1355,14 @@
     <string name="beijing_temp_small_range">Temp. Range: 5~34</string>
     <string name="beijing_temp_small_less">The second value must be smaller than the first.</string>
     <string name="has_already_send_to_you">Verification code has been sent to your phone or mailbox, please check and enter</string>
+    <string name="login_failed_retry_later">Login failed, please retry later</string>
+    <string name="has_no_useful_remote">No RF Remotes found</string>
+    <string name="alarm_notification">Alarm notifications</string>
+    <string name="no_authority_ops">No permission</string>
+    <string name="no_rfbridge_remote">Click below button to add RF Remote</string>
+    <string name="sure_delete_remote">Delete this RF Remote?</string>
+    <string name="duration_open">On</string>
+    <string name="duration_close">Off</string>
+    <string name="goto_rfbridge_know_more">Enter RF Bridge details, learn more at Alarm History</string>
+    <string name="nest_account_changed">Changing Nest account will delete the added Nest device, continue?</string>
 </resources>

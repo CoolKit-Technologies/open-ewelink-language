@@ -135,11 +135,11 @@
     <string name="err_length">Uzunluk 512 karakterden uzun</string>
     <string name="enter_not_null">Giriş boş olamaz</string>
     <string name="device_info_title">Cihaz bilgisi</string>
-    <string name="del_dialog">Zamanlayıcı siliniyor...</string>
+    <string name="del_dialog">Deleting Schedule...</string>
 
     <string name="err_fomat">Yanlış format:</string>
     <string name="logining">Günlüğe kaydet</string>
-    <string name="committime">Zamanlayıcı oluşturma...</string>
+    <string name="committime">Creating Schedule...</string>
     <string name="login_failed">Giriş başarısız,yanlış hesap numarası veya şifre</string>
     <string name="login_failed_normal">Giriş başarısız oldu</string>
     <string name="shook_on">Sallama modu:açık</string>
@@ -279,7 +279,7 @@
     <string name="title_update">Starfon güncelleme,lütfen bekleyin</string>
     <string name="lineoff_device">Cihaz çevrimdışı</string>
     <string name="deviceupdate">Ürün yazılımı yükseltme</string>
-    <string name="timers">Zamanlayıcı</string>
+    <string name="timers">Schedule</string>
     <string name="everydays">Her gün</string>
     <string name="workdate">Hafta içi</string>
     <string name="weekdate">Hafta sonu</string>
@@ -406,7 +406,7 @@
     <string name="operat_success">Başarılı</string>
     <string name="switch_power">Güç:</string>
     <string name="operating">Çalışıyor</string>
-    <string name="device_belong_other">Cihaz başka bir kullanıcıya ait!</string>
+    <string name="device_belong_other">We are not sure which account is the device owner. If you have added this device with other account before, please log in the other account to delete the device first. Then re-add it with your current account. Otherwise, please contact the seller.</string>
     <string name="back_device_list">Listeye geri dön</string>
     <string name="device_setting">Ayar</string>
     <string name="connect_device_fail">Aygıt bağlantısı başarısız oldu,lütfen tekrar deneyin</string>
@@ -961,7 +961,7 @@
     <string name="choose_device">Aygıtı seçin</string>
     <string name="no_choice_device">İsteğe bağlı bir cihaz yok</string>
     <string name="cardview_device_off_line">offline</string>
-    <string name="new_no_device_alert">Şu anda aygıt yok,eklemek için aşağıdaki düğmeye dokunun</string>
+    <string name="new_no_device_alert">There are no devices paired. Tap the \"add device\" button below to begin pairing devices</string>
     <string name="splash_timer">Zamanlayıcı</string>
     <string name="splash_timer_text">Tek kanal soketi/anahtarı destek döngü zamanlayıcı şimdi! Döngü zamanlayıcı,önceden belirlenmiş her zaman (1 saat demek) otomatik olarak yürütülebilir ve daha kısa bir ön ayar süresine (20 dakika demek) devam ettirilebilir. Desteklenen ürün yazılımı sürümü 1.5.0 ve üstü.</string>
     <string name="share_splash_text">Ailenizi ve arkadaşlarınızı cihazlarınızı kontrol etmeyi ister misiniz? Onların bir hesap kaydetmesine,ardından cihazlarınızı paylaşmasına izin verin!</string>
@@ -970,7 +970,7 @@
     <string name="back">Back</string>
     <string name="everything_connect">İnternet herşeyi birbirine bağlar</string>
 
-    <string name="delay_timers">Geri sayım sayacı</string>
+    <string name="delay_timers">Timer</string>
     <string name="weekday">Gün:</string>
     <string name="new_timer_repeat">Tekrarla:</string>
     <string name="action_one">Bir kez</string>
@@ -982,7 +982,7 @@
     <string name="new_timer_minute">Dakika</string>
     <string name="new_timer_after">Sonra</string>
     <string name="refresh_power">Yenile</string>
-    <string name="delay">Geri sayım</string>
+    <string name="delay">Timer</string>
     <string name="thisyear">Bu yıl</string>
     <string name="nextyear">Gelecek yıl</string>
     <string name="timer_start">Başlat</string>
@@ -995,9 +995,9 @@
     <string name="only_timer_active_number">Toplam etkin zamanlayıcı sayısı (geri sayım sayacı ve döngü zamanlayıcı dahil) 8\'den fazla olmamalıdır.</string>
     <string name="device_offline_cant_operat">Cihaz çevrimdışı,şu anda çalışılamıyor</string>
     <string name="add_delay_timers_success">Başarıyla ekleyin</string>
-    <string name="create_delay">Geri sayım sayacı oluşturma ...</string>
+    <string name="create_delay">Creating Timer...</string>
     <string name="delete_delayt_ok">Başarıyla silin</string>
-    <string name="delete_delay_dialog">Geri sayım sayacını siliniyor ...</string>
+    <string name="delete_delay_dialog">Deleting Timer...</string>
 
 
     <string name="copy_text_and_open_wechat">WeChat hesabını kopyala ve takip et</string>
@@ -1167,10 +1167,10 @@
     <string name="dialog_share_permit_timer">Zamanlayıcı İzinleri</string>
 
     <string name="no_userful_device">Cihaz yok</string>
-    <string name="duration_cycle">Çevrim:</string>
-    <string name="duration_delay">Gecikmeli</string>
-    <string name="duration_delay_do">Dakika çalıştırma:</string>
-    <string name="duration_cycle_do">Dakika çalıştırma:</string>
+    <string name="duration_cycle">Restart cycle every:</string>
+    <string name="duration_delay">After:</string>
+    <string name="duration_delay_do">minutes, change state to:</string>
+    <string name="duration_cycle_do">minutes, start in state:</string>
     <string name="delay_start_again">Tekrar başla</string>
     <string name="delay_timer_executing_alert">(Sonra: %1$sd %2$shr %3$smin Çalışıyor)</string>
     <string name="delay_timer_stop_alert">(Sonra:: %1$sd %2$shr %3$smin tamamlandı)</string>
@@ -1257,14 +1257,14 @@
     <string name="gsm_used">Veri Kullanımı:</string>
     <string name="gsm_has">Kullanılabilir Veri:</string>
     <string name="switch_operat_history">İşlem kaydı</string>
-    <string name="single_switch_history">İşlem kaydı</string>
+    <string name="single_switch_history">History</string>
     <string name="qr_shaoyishao">QR Kodunu Tara</string>
     <string name="device">Cihaz</string>
     <string name="add_wexin_public_charge">WeChat\'ta tamamlamak için lütfen "coolkitcn" dosyasını takip edin</string>
     <string name="switch_notify">İşlem bildirimleri</string>
-    <string name="switch_history">Eylem</string>
+    <string name="switch_history">State</string>
     <string name="switch_time">Zaman</string>
-    <string name="switch_trigger_type">Tetikleyici çıkış</string>
+    <string name="switch_trigger_type">Source</string>
     <string name="device_state_changed">Cihazın durumu değişti</string>
     <string name="umeng_notification_switch_state_on">AÇIK</string>
     <string name="umeng_notification_switch_state_off">KAPALI</string>
@@ -1300,6 +1300,8 @@
     <string name="language_choice_bulgaria">български</string>
     <string name="language_choice_turkey">Türkiye</string>
     <string name="language_choice_slovank">slovenského jazyk</string>
+    <string name="language_choice_slovenia">Slovenija Elijah jezik</string>
+
 
     <string name="aromatherapy_light_switch">light</string>
     <string name="aromatherapy_state_small">Small</string>
@@ -1340,8 +1342,8 @@
     <string name="has_already_cancel_share">Share canceled.</string>
     <string name="nest_cancel_auth">Nest authority canceled</string>
     <string name="aromatherapy_colorful_light">Color Light</string>
-    <string name="top_than_close">Higher Than This, OFF</string>
-    <string name="lower_than_open">Lower Than This, ON</string>
+    <string name="top_than_close">Target temp. upper limit</string>
+    <string name="lower_than_open">Target temp. lower limit</string>
     <string name="near_alarm">Recent Alarms</string>
     <string name="ewelinktest">易微联测试</string>
     <string name="rfbridge_remote_control_name">RF Remote Name:</string>
@@ -1354,4 +1356,15 @@
     <string name="beijing_temp_small_range">Temp. Range: 5~34</string>
     <string name="beijing_temp_small_less">The second value must be smaller than the first.</string>
     <string name="has_already_send_to_you">Verification code has been sent to your phone or mailbox, please check and enter</string>
+    <string name="login_failed_retry_later">Login failed, please retry later</string>
+    <string name="has_no_useful_remote">No RF Remotes found</string>
+    <string name="alarm_notification">Alarm notifications</string>
+    <string name="no_authority_ops">No permission</string>
+    <string name="no_rfbridge_remote">Click below button to add RF Remote</string>
+    <string name="sure_delete_remote">Delete this RF Remote?</string>
+    <string name="duration_open">On</string>
+    <string name="duration_close">Off</string>
+    <string name="goto_rfbridge_know_more">Enter RF Bridge details, learn more at Alarm History</string>
+    <string name="nest_account_changed">Changing Nest account will delete the added Nest device, continue?</string>
+    <string name="cardview_device_on_line">online</string>
 </resources>

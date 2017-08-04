@@ -135,11 +135,11 @@
     <string name="err_length">Δεν μπορεί να υπερβαίνει τους 512 χαρακτήρες</string>
     <string name="enter_not_null">Η Είσοδος δεν μπορεί να είναι κενό</string>
     <string name="device_info_title">Πληροφορίες συσκευής</string>
-    <string name="del_dialog">Διαγραφή χρονοδιακόπτη ...</string>
+    <string name="del_dialog">Deleting Schedule...</string>
 
     <string name="err_fomat">Λάθος μορφή:</string>
     <string name="logining">Σύνδεση</string>
-    <string name="committime">Δημιουργία χρονομέτρου ...</string>
+    <string name="committime">Creating Schedule...</string>
     <string name="login_failed">Η σύνδεση απέτυχε,Λάθος κωδικός η λογαριασμός</string>
     <string name="login_failed_normal">Η σύνδεση απέτυχε</string>
     <string name="shook_on">Ανακίνηση: ανοιχτό</string>
@@ -279,7 +279,7 @@
     <string name="title_update">Αναβάθμιση Firmware , παρακαλώ περιμένετε</string>
     <string name="lineoff_device">Συσκευή χωρίς σύνδεση</string>
     <string name="deviceupdate">Αναβάθμιση Firmware, παρακαλούμε να μην λειτουργεί επανειλημμένα</string>
-    <string name="timers">Χρονοδιακόπτης</string>
+    <string name="timers">Schedule</string>
     <string name="everydays">Κάθε μέρα</string>
     <string name="workdate">Καθημερινές</string>
     <string name="weekdate">Σαββατοκύριακο</string>
@@ -406,7 +406,7 @@
     <string name="operat_success">Επιτυχώς</string>
     <string name="switch_power">power:</string>
     <string name="operating">Λειτουργικό</string>
-    <string name="device_belong_other">Η συσκευή ανήκει σε άλλο χρήστη!</string>
+    <string name="device_belong_other">We are not sure which account is the device owner. If you have added this device with other account before, please log in the other account to delete the device first. Then re-add it with your current account. Otherwise, please contact the seller.</string>
     <string name="back_device_list">Πίσω στη λίστα</string>
     <string name="device_setting">Ρυθμίσεις</string>
     <string name="connect_device_fail">Αποτυχία σύνδεσης με τη συσκευή. Παρακαλώ προσπάθησε ξανά</string>
@@ -639,7 +639,7 @@ based on your message history
     <string name="choose_device">Επιλέξτε συσκευή</string>
     <string name="no_choice_device">Προαιρετική συσκευή</string>
     <string name="cardview_device_off_line">Εκτός σύνδεσης</string>
-    <string name="new_no_device_alert">Δεν υπάρχουν συσκευές αυτήν τη στιγμή, πατήστε το κουμπί για προσθήκη</string>
+    <string name="new_no_device_alert">There are no devices paired. Tap the \"add device\" button below to begin pairing devices</string>
     <string name="splash_timer">Χρονόμετρο</string>
     <string name="splash_timer_text">Ενιαίο κανάλι πρίζας / διακόπτη υποστήριξη κυκλικού χρονομέτρου! Ο κυκλικός χρονοδιακόπτης μπορεί να εκτελεστεί αυτόματα κάθε προκαθορισμένο χρόνο (π.χ. 1 ώρα) και να συνεχίσει για μικρότερο προκαθορισμένο χρόνο (για παράδειγμα 20 λεπτά). Υποστηριζόμενη έκδοση firmware 1.5.0 και νεότερη</string>
     <string name="share_splash_text">Θέλετε την οικογένεια και τους φίλους σας να ελέγχουν τις συσκευές σας; Απλά μοιραστείτε τις συσκευές σας στους λογαριασμούς τους!</string>
@@ -648,7 +648,7 @@ based on your message history
     <string name="back">Πίσω</string>
     <string name="everything_connect">Internet of Everything</string>
 
-    <string name="delay_timers">Χρονόμετρο αντίστροφης μέτρησης</string>
+    <string name="delay_timers">Timer</string>
     <string name="weekday">Ημέρα:</string>
     <string name="new_timer_repeat">Επανάληψη:</string>
     <string name="action_one">Μια φορά</string>
@@ -660,7 +660,7 @@ based on your message history
     <string name="new_timer_minute">Λεπτά</string>
     <string name="new_timer_after">Μετά</string>
     <string name="refresh_power">Ανανέωση</string>
-    <string name="delay">Αντίστροφη μέτρηση</string>
+    <string name="delay">Timer</string>
     <string name="thisyear">Αυτή την χρονιά</string>
     <string name="nextyear">Του χρόνου</string>
     <string name="timer_start">Εκκίνηση</string>
@@ -673,9 +673,9 @@ based on your message history
     <string name="only_timer_active_number"> Επιτρέπονται έως 8 ενεργοποιημένοι χρονοδιακόπτες(περιλαμβάνει αντίστροφη μέτρηση και κυκλικό χρονόμετρο)</string>
     <string name="device_offline_cant_operat">Συσκευή εκτός σύνδεσης, δεν μπορεί να λειτουργήσει τώρα</string>
     <string name="add_delay_timers_success">προστέθηκε με επιτυχία</string>
-    <string name="create_delay">Δημιουργία χρονομέτρου αντίστροφης μέτρησης ...</string>
+    <string name="create_delay">Creating Timer...</string>
     <string name="delete_delayt_ok">Διαγράφηκε με επιτυχία</string>
-    <string name="delete_delay_dialog">Διαγραφή χρονομέτρου αντίστροφης μέτρησης ...</string>
+    <string name="delete_delay_dialog">Deleting Timer...</string>
 
 
     <string name="copy_text_and_open_wechat">Αντιγραφή WeChat λογαριασμού και ακολουθήστε</string>
@@ -846,10 +846,10 @@ based on your message history
     <string name="dialog_share_permit_timer">Δικαιώματα χρονοδιακόπτη</string>
 
     <string name="no_userful_device">Δεν υπάρχουν διαθέσιμες συσκευές</string>
-    <string name="duration_cycle">Κύκλος:</string>
-    <string name="duration_delay">Καθυστέρηση</string>
-    <string name="duration_delay_do">Λεπτά εκτέλεσης:</string>
-    <string name="duration_cycle_do">Λεπτά εκτέλεσης:</string>
+    <string name="duration_cycle">Restart cycle every:</string>
+    <string name="duration_delay">After:</string>
+    <string name="duration_delay_do">minutes, change state to:</string>
+    <string name="duration_cycle_do">minutes, start in state:</string>
     <string name="delay_start_again">Ξεκινήστε ξανά</string>
     <string name="delay_timer_executing_alert">(Μετά:%1$sd %2$shr %3$smin Running)</string>
     <string name="delay_timer_stop_alert">(Μετά:%1$sd %2$shr %3$smin ολοκληρώθηκε)</string>
@@ -878,7 +878,7 @@ based on your message history
 
 
     <!--2.3.2-->
-    <string name="facebook_app_id">1787091648274959</string> <!--1787091648274959--> <!--1176810229081143-->
+    <string name="facebook_app_id">1787091648274959</string>
     <string name="fb_login_protocol_scheme">fb1176810229081143</string>
 
 
@@ -938,14 +938,14 @@ based on your message history
     <string name="gsm_used">Χρήση δεδομένων:</string>
     <string name="gsm_has">Διαθέσιμα στοιχεία:</string>
     <string name="switch_operat_history">Λειτουργία εγγραφής</string>
-    <string name="single_switch_history">Λειτουργία εγγραφής</string>
+    <string name="single_switch_history">History</string>
     <string name="qr_shaoyishao">Σάρωση κωδικού QR </string>
     <string name="device">Συσκευή</string>
     <string name="add_wexin_public_charge">Please follow "coolkitcn" to top up in WeChat</string>
     <string name="switch_notify">Ειδοποιήσεις λειτουργίας</string>
-    <string name="switch_history">Ενέργεια</string>
+    <string name="switch_history">State</string>
     <string name="switch_time">Ώρα</string>
-    <string name="switch_trigger_type">Εντολή από</string>
+    <string name="switch_trigger_type">Source</string>
     <string name="device_state_changed">Η κατάσταση της συσκευής άλλαξε</string>
     <string name="umeng_notification_switch_state_on">ενεργό</string>
     <string name="umeng_notification_switch_state_off">ανενεργό</string>
@@ -1280,6 +1280,7 @@ based on your message history
     <string name="language_choice_bulgaria">български</string>
     <string name="language_choice_turkey">Türkiye</string>
     <string name="language_choice_slovank">slovenského jazyk</string>
+    <string name="language_choice_slovenia">Slovenija Elijah jezik</string>
 
     <string name="aromatherapy_light_switch">light</string>
     <string name="aromatherapy_state_small">Small</string>
@@ -1320,8 +1321,8 @@ based on your message history
     <string name="has_already_cancel_share">Share canceled.</string>
     <string name="nest_cancel_auth">Nest authority canceled</string>
     <string name="aromatherapy_colorful_light">Color Light</string>
-    <string name="top_than_close">Higher Than This, OFF</string>
-    <string name="lower_than_open">Lower Than This, ON</string>
+    <string name="top_than_close">Target temp. upper limit</string>
+    <string name="lower_than_open">Target temp. lower limit</string>
     <string name="near_alarm">Recent Alarms</string>
     <string name="ewelinktest">易微联测试</string>
     <string name="rfbridge_remote_control_name">RF Remote Name:</string>
@@ -1334,4 +1335,15 @@ based on your message history
     <string name="beijing_temp_small_range">Temp. Range: 5~34</string>
     <string name="beijing_temp_small_less">The second value must be smaller than the first.</string>
     <string name="has_already_send_to_you">Verification code has been sent to your phone or mailbox, please check and enter</string>
+    <string name="login_failed_retry_later">Login failed, please retry later</string>
+    <string name="has_no_useful_remote">No RF Remotes found</string>
+    <string name="alarm_notification">Alarm notifications</string>
+    <string name="no_rfbridge_remote">Click below button to add RF Remote</string>
+    <string name="sure_delete_remote">Delete this RF Remote?</string>
+    <string name="no_authority_ops">No permission</string>
+    <string name="duration_open">On</string>
+    <string name="duration_close">Off</string>
+    <string name="goto_rfbridge_know_more">Enter RF Bridge details, learn more at Alarm History</string>
+    <string name="nest_account_changed">Changing Nest account will delete the added Nest device, continue?</string>
+    <string name="cardview_device_on_line">online</string>
 </resources>

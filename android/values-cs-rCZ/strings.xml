@@ -1,0 +1,2249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> <!--捷克语-->
+
+
+    <string name="facebook_app_id">1787091648274959</string> <!--1787091648274959--> <!--1176810229081143-->
+    <string name="fb_login_protocol_scheme">fb1176810229081143</string>
+
+
+    <!--language-->
+    <string name="language_choice_simple_chinese">简体中文</string>
+    <string name="language_choice_english">English</string>
+    <string name="language_choice_old_chinese">繁體中文</string>
+    <string name="language_choice_russia">Русский</string>
+    <string name="language_choice_danmark">Dansk</string>
+    <string name="language_choice_italian">Italiano</string>
+    <string name="language_choice_polan">polskim</string>
+    <string name="language_choice_frech">Français</string>
+    <string name="language_choice_spanish">Español</string>
+    <string name="language_choice_genman">Deutsch</string>
+    <string name="language_choice_portugal">português</string>
+    <string name="language_choice_greece">ελληνικά</string>
+    <string name="language_choice_czech">český</string>
+    <string name="language_choice_bulgaria">български</string>
+    <string name="language_choice_turkey">Türkiye</string>
+    <string name="language_choice_slovank">slovenského jazyk</string>
+    <string name="language_choice_slovenia">Slovenija Elijah jezik</string>
+
+
+    <string name="youqiao_statistics">Statistics</string>
+    <string name="youqiao_alarm">Alarm</string>
+    <string name="youqiao_download">Download</string>
+    <string name="youqiao_fee_rate">Electricity Rate</string>
+    <string name="youqiao_fee_rate_per_unit">/kWh</string>
+    <string name="youqiao_energy_now">Real-time Power</string>
+    <string name="youqiao_threshold">Threshold</string>
+    <string name="youqiao_electric">Current</string>
+    <string name="youqiao_voltage">Voltage</string>
+    <string name="youqiao_alarm_thresold">Alarm Thresold Setting</string>
+    <string name="youqiao_reset">Reset</string>
+    <string name="youqiao_fee">Electric Charge</string>
+    <string name="youqiao_fee_total">Total:</string>
+    <string name="youqiao_not_null_input_thresold">Please input %1$s</string>
+    <string name="youqiao_history_download_success">Downloaded to directory:\n%1$s</string>
+    <string name="youqiao_history_download_failure">Download failed, please check the storage card is correct</string>
+    <string name="youqiao_has_no_100_day_data">Has no history data,try later please.</string>
+
+
+    <string-array name="country_code1">
+        <item>United States   +1</item>
+        <item>Taiwan  +886</item>
+        <item>China   +86</item>
+        <item>Abkhazia +7840</item>
+        <item>Afghanistan +93</item>
+        <item>Albania +355</item>
+        <item>Algeria +213</item>
+        <item>American Samoa +1684</item>
+        <item>Andorra +376</item>
+        <item>Angola +244</item>
+        <item>Anguilla +1264</item>
+        <item>Antigua and Barbuda +1268</item>
+        <item>Argentina +54</item>
+        <item>Armenia +374</item>
+        <item>Aruba +297</item>
+        <item>Ascension +247</item>
+        <item>Australia +61</item>
+        <item>Australian External Territories +672</item>
+        <item>Austria +43</item>
+        <item>Azerbaijan +994</item>
+        <item>Bahamas +1242</item>
+        <item>Bahrain +973</item>
+        <item>Bangladesh +880</item>
+        <item>Barbados +1246</item>
+        <item>Barbuda +1268</item>
+        <item>Belarus +375</item>
+        <item>Belgium +32</item>
+        <item>Belize  +501</item>
+        <item>Benin   +229</item>
+        <item>Bermuda +1441</item>
+        <item>Bhutan  +975</item>
+        <item>Bolivia +591</item>
+        <item>Bonaire +5997</item>
+        <item>Bosnia and Herzegovina  +387</item>
+        <item>Botswana +267</item>
+        <item>Brazil  +55</item>
+        <item>British Indian Ocean Territory  +246</item>
+        <item>British Virgin Islands  +1284</item>
+        <item>Brunei Darussalam   +673</item>
+        <item>Bulgaria    +359</item>
+        <item>Burkina Faso    +226</item>
+        <item>Burma   +95</item>
+        <item>Burundi +257</item>
+        <item>Cambodia    +855</item>
+        <item>Cameroon    +237</item>
+        <item>Canada  +1</item>
+        <item>Cape Verde  +238</item>
+        <item>Caribbean Netherlands   +5993</item>
+        <item>Cayman Islands  +1345</item>
+        <item>Central African Republic+236</item>
+        <item>Chad    +235</item>
+        <item>Chatham Island (New Zealand) +64</item>
+        <item>Chile   +56</item>
+        <item>Christmas Island +61</item>
+        <item>Cocos (Keeling) Islands +61</item>
+        <item>Colombia    +57</item>
+        <item>Comoros +269</item>
+        <item>Congo (Brazzaville) +242</item>
+        <item>Congo, The Democratic Republic of the (Zaire)   +243</item>
+        <item>Cook Islands    +682</item>
+        <item>Costa Rica  +506</item>
+        <item>Croatia +385</item>
+        <item>Cuba    +53</item>
+        <item>Cuba (Guantanamo Bay)   +5399</item>
+        <item>Curaçao +5999</item>
+        <item>Cyprus  +357</item>
+        <item>Czech Republic  +420</item>
+        <item>Denmark +45</item>
+        <item>Diego Garcia    +246</item>
+        <item>Djibouti    +253</item>
+        <item>Dominica    +1767</item>
+        <item>Dominican Republic  +1809</item>
+        <item>East Timor  +670</item>
+        <item>Easter Island   +56</item>
+        <item>Ecuador +593</item>
+        <item>Egypt   +20</item>
+        <item>El Salvador +503</item>
+        <item>Equatorial Guinea   +240</item>
+        <item>Eritrea +291</item>
+        <item>Estonia +372</item>
+        <item>Ethiopia    +251</item>
+        <item>Falkland Islands (Malvinas) +500</item>
+        <item>Faroe Islands   +298</item>
+        <item>Fiji    +679</item>
+        <item>Finland +358</item>
+        <item>France  +33</item>
+        <item>French Antilles +596</item>
+        <item>French Guiana   +594</item>
+        <item>French Polynesia    +689</item>
+        <item>Gabon   +241</item>
+        <item>Gambia  +220</item>
+        <item>Georgia +995</item>
+        <item>Germany +49</item>
+        <item>Ghana   +233</item>
+        <item>Gibraltar   +350</item>
+        <item>Greece  +30</item>
+        <item>Greenland   +299</item>
+        <item>Grenada +1473</item>
+        <item>Guadeloupe  +590</item>
+        <item>Guam    +1671</item>
+        <item>Guatemala   +502</item>
+        <item>Guernsey    +44</item>
+        <item>Guinea  +224</item>
+        <item>Guinea-Bissau   +245</item>
+        <item>Guyana  +592</item>
+        <item>Haiti   +509</item>
+        <item>Holy See (Vatican City State)   +39066</item>
+        <item>Honduras    +504</item>
+        <item>Hong Kong   +852</item>
+        <item>Hungary +36</item>
+        <item>Iceland +354</item>
+        <item>India   +91</item>
+        <item>Indonesia   +62</item>
+        <item>Inmarsat SNAC   +870</item>
+        <item>International Freephone Service +800</item>
+        <item>Iran    +98</item>
+        <item>Iraq    +964</item>
+        <item>Ireland +353</item>
+        <item>Isle of Man +44</item>
+        <item>Israel  +972</item>
+        <item>Italy   +39</item>
+        <item>Jamaica +1876</item>
+        <item>Japan   +81</item>
+        <item>Jersey  +44</item>
+        <item>Jordan  +962</item>
+        <item>Kazakhstan  +76</item>
+        <item>Kenya   +254</item>
+        <item>Kiribati    +686</item>
+        <item>Kuwait  +965</item>
+        <item>Kyrgyzstan  +996</item>
+        <item>Laos    +856</item>
+        <item>Latvia  +371</item>
+        <item>Lebanon +961</item>
+        <item>Lesotho +266</item>
+        <item>Liberia +231</item>
+        <item>Libya   +218</item>
+        <item>Liechtenstein   +423</item>
+        <item>Lithuania   +370</item>
+        <item>Luxembourg  +352</item>
+        <item>Macau   +853</item>
+        <item>Macedonia   +389</item>
+        <item>Madagascar  +261</item>
+        <item>Malawi  +265</item>
+        <item>Malaysia    +60</item>
+        <item>Maldives    +960</item>
+        <item>Mali    +223</item>
+        <item>Malta   +356</item>
+        <item>Marshall Islands    +692</item>
+        <item>Martinique  +596</item>
+        <item>Mauritania  +222</item>
+        <item>Mauritius   +230</item>
+        <item>Mayotte +262</item>
+        <item>Mexico  +52</item>
+        <item>Micronesia, Federated States of +691</item>
+        <item>Midway Island   +1808</item>
+        <item>Moldova +373</item>
+        <item>Monaco  +377</item>
+        <item>Mongolia    +976</item>
+        <item>Montenegro  +382</item>
+        <item>Montserrat  +1664</item>
+        <item>Morocco +212</item>
+        <item>Mozambique  +258</item>
+        <item>Namibia +264</item>
+        <item>Nauru   +674</item>
+        <item>Nepal   +977</item>
+        <item>Netherlands +31</item>
+        <item>Nevis   +1869</item>
+        <item>New Caledonia   +687</item>
+        <item>New Zealand +64</item>
+        <item>Nicaragua   +505</item>
+        <item>Niger   +227</item>
+        <item>Nigeria +234</item>
+        <item>Niue    +683</item>
+        <item>Norfolk Island  +672</item>
+        <item>North Korea +850</item>
+        <item>Northern Mariana Islands    +1670</item>
+        <item>Norway  +47</item>
+        <item>Oman    +968</item>
+        <item>Pakistan    +92</item>
+        <item>Palau   +680</item>
+        <item>Palestinian territories +970</item>
+        <item>Panama  +507</item>
+        <item>Papua New Guinea    +675</item>
+        <item>Paraguay    +595</item>
+        <item>Peru    +51</item>
+        <item>Philippines +63</item>
+        <item>Poland  +48</item>
+        <item>Portugal    +351</item>
+        <item>Puerto Rico +1787</item>
+        <item>Qatar   +974</item>
+        <item>Romania +40</item>
+        <item>Russia  +7</item>
+        <item>Rwanda  +250</item>
+        <item>Réunion +262</item>
+        <item>Saba    +5994</item>
+        <item>Saint Barthélemy    +590</item>
+        <item>Saint Helena and Tristan da Cunha +290</item>
+        <item>Saint Kitts and Nevis   +1869</item>
+        <item>Saint Lucia +1758</item>
+        <item>Saint Martin (French)   +590</item>
+        <item>Saint Pierre and Miquelon   +508</item>
+        <item>Saint Vincent and the Grenadines    +1784</item>
+        <item>Samoa   +685</item>
+        <item>San Marino  +378</item>
+        <item>Saudi Arabia    +966</item>
+        <item>Senegal +221</item>
+        <item>Serbia  +381</item>
+        <item>Seychelles  +248</item>
+        <item>Sierra Leone    +232</item>
+        <item>Singapore   +65</item>
+        <item>Sint Eustatius  +5993</item>
+        <item>Sint Maarten (Dutch)    +1721</item>
+        <item>Slovakia    +421</item>
+        <item>Slovenia    +386</item>
+        <item>Solomon Islands +677</item>
+        <item>Somalia +252</item>
+        <item>South Africa    +27</item>
+        <item>South Georgia and the South Sandwich Islands    +500</item>
+        <item>South Korea +82</item>
+        <item>South Ossetia   +99534</item>
+        <item>South Sudan +211</item>
+        <item>Spain   +34</item>
+        <item>Sri Lanka   +94</item>
+        <item>Sudan   +249</item>
+        <item>Suriname    +597</item>
+        <item>Svalbard and Jan Mayen  +47</item>
+        <item>Swaziland   +268</item>
+        <item>Sweden  +46</item>
+        <item>Switzerland +41</item>
+        <item>Syria   +963</item>
+        <item>São Tomé and Príncipe   +239</item>
+        <item>Tajikistan  +992</item>
+        <item>Tanzania    +255</item>
+        <item>Thailand    +66</item>
+        <item>Togo    +228</item>
+        <item>Tokelau +690</item>
+        <item>Tonga   +676</item>
+        <item>Trinidad and Tobago +1868</item>
+        <item>Tunisia +216</item>
+        <item>Turkey  +90</item>
+        <item>Turkmenistan    +993</item>
+        <item>Turks and Caicos Islands    +1649</item>
+        <item>Tuvalu  +688</item>
+        <item>Uganda  +256</item>
+        <item>Ukraine +380</item>
+        <item>United Arab Emirates    +971</item>
+        <item>United Kingdom  +44</item>
+        <item>Uruguay +598</item>
+        <item>Uzbekistan  +998</item>
+        <item>Vanuatu +678</item>
+        <item>Vatican City State (Holy See)   +39066</item>
+        <item>Venezuela   +58</item>
+        <item>Vietnam +84</item>
+        <item>Virgin Islands, British +1284</item>
+        <item>Virgin Islands, US  +1340</item>
+        <item>Wake Island +1808</item>
+        <item>Wallis and Futuna   +681</item>
+        <item>Yemen   +967</item>
+        <item>Zambia  +260</item>
+        <item>Zanzibar    +255</item>
+        <item>Zimbabwe    +263</item>
+        <item>Åland Islands   +358</item>
+    </string-array>
+
+
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+
+    <string name="login_failed_retry_later">Login failed, please retry later</string>
+    <string name="has_no_useful_remote">No RF Remotes found</string>
+    <string name="alarm_notification">Alarm notifications</string>
+    <string name="no_authority_ops">No permission</string>
+    <string name="no_rfbridge_remote">Click below button to add RF Remote</string>
+    <string name="sure_delete_remote">Delete this RF Remote?</string>
+    <string name="duration_open">On</string>
+    <string name="duration_close">Off</string>
+    <string name="goto_rfbridge_know_more">Enter RF Bridge details, learn more at Alarm History</string>
+    <string name="nest_account_changed">Changing Nest account will delete the added Nest device, continue?</string>
+
+
+    <!--================================-->
+
+     
+    <string name="upgrade_immediately">Okamžitě aktualizovat</string>
+        
+    <string name="about_kuzhai">O nás%1$s</string>
+        
+    <string name="info_updates">Aktuální verze je nejnovější</string>
+        
+    <string name="err_internet">Chyba sítě, zkontrolujte, zda je zařízení v režimu konfigurace.</string>
+        
+    <string name="not_found_device">Nebyly nalezeny žádné zařízení. Zkontrolujte, zda je zařízení v režimu konfigurace.</string>
+        
+    <string name="not_device">Zařízení neexistuje</string>
+        
+    <string name="air_cleaner">Čistič vzduchu</string>
+        
+    <string name="best">Nejlepší</string>
+        
+    <string name="fine">Výborný</string>
+        
+    <string name="middle">Střední</string>
+        
+    <string name="bad">Špatný</string>
+        
+    <string name="inferior">Horší</string>
+        
+    <string name="shutdown">Vypnout</string>
+        
+    <string name="wind_speed">Rychlost větru</string>
+        
+    <string name="fireplace_power_on">zapni</string>
+        
+    <string name="fireplace_power_off">vypni</string>
+
+        
+    <string name="air">Vzduch:</string>
+        
+    <string name="temperature">Teplota:</string>
+        
+    <string name="c">Celsia</string>
+        
+    <string name="humidity">Vlhkost:</string>
+        
+    <string name="not_internet_current">Žádná dostupná síť</string>
+
+
+        
+    <string name="device_not_online">Zařízení je offline</string>
+
+        
+    <string name="operation_failure">Operace selhala</string>
+        
+    <string name="online">(Online)</string>
+        
+    <string name="offline">(Offline)</string>
+        
+    <string name="device_offline">Zařízení je offline, nemůžete ho nyní ovládat</string>
+        
+    <string name="device_manufacturers">Výrobce:</string>
+        
+    <string name="device_type">Model:</string>
+        
+    <string name="share_owner_device">Pouze vlastník může sdílet zařízení</string>
+        
+    <string name="device_upgraded_to">Zařízení se bude inovovat na</string>
+
+     
+    <string name="info_wait_upgrade">Během inovace nelze pracovat, proces může chvíli trvat, čekejte prosím</string>
+        
+    <string name="info_sure_delete">Opravdu chcete odstranit toto zařízení?</string>
+        
+    <string name="del_group">Opravdu chcete odstranit tuto skupinu?</string>
+        
+    <string name="ota_failed_upgrade">Zařízení%1$s ota aktulizácia selhala</string>
+        
+    <string name="ota_success_upgrade">Zařízení%1$s ota aktulizácia byla úspěšná</string>
+        
+    <string name="ota_finish_upgrade">Zařízení%1$s ota aktulizácia byla dokončena</string>
+
+        
+    <string name="firmware_upgradeing">Zařízení%1$s se aktualizuje ...</string>
+        
+    <string name="background_updateing">Zařízení%1$s se aktualizuje v pozadí</string>
+        
+    <string name="sms_mustbenoempty">Ověřovací kód nemůže být prázdný</string>
+
+        
+    <string name="tips">Připomínka</string>
+        
+    <string name="info_relogin">Přihlášení vypršelo, přihlaste se znovu.</string>
+
+        
+    <string name="ok">OK</string>
+        
+    <string name="Save">Ulož</string>
+        
+    <string name="cancel">Zrušit</string>
+        
+    <string name="test_wechat">Test Wech</string>
+        
+    <string name="group_exits">Skupina již existuje</string>
+        
+    <string name="delete_group">Všechna zařízení odstraněné skupiny budou stále existovat. Určitě chcete odstranit skupinu?</string>
+        
+    <string name="change_device">Změnit název zařízení</string>
+
+        
+    <string name="info_not_change">Pouze vlastník má oprávnění na změnu názvu zařízení</string>
+        
+    <string name="change_name_success">Changed successfully</string>
+        
+    <string name="change_name_failed">Změna názvu selhala</string>
+        
+    <string name="waiting">Čekejte ...</string>
+        
+    <string name="divece_name">Název zařízení</string>
+        
+    <string name="device_name_not">Název zařízení nemůže být prázdný</string>
+        
+    <string name="timer">Časovač</string>
+        
+    <string name="once">pouze jednou</string>
+        
+    <string name="everyday">Každý den</string>
+        
+    <string name="day">Denně</string>
+        
+    <string name="days">Pracovní dny</string>
+        
+    <string name="weekends">Víkend</string>
+        
+    <string name="week">Týden</string>
+        
+    <string name="add_timer_success">Úspěšně přidáno</string>
+        
+    <string name="delete_timer_success">Úspěšně odstraněny</string>
+        
+    <string name="date">den</string>
+
+        
+    <string name="add_timer_failed">Nepodařilo se přidat časovač</string>
+        
+    <string name="delete_timer_failed">Nelze odstranit časovač</string>
+        
+    <string name="timer_set_err">doba splatnosti</string>
+        
+    <string name="only_number">Povolené je jen 8 časovačů.</string>
+
+
+        
+    <string name="repassword">Obnovit heslo</string>
+        
+    <string name="commit">Potvrdit</string>
+        
+    <string name="user_register">Registrace</string>
+        
+    <string name="password_not">Heslo nemůže být prázdné</string>
+        
+    <string name="enter_phone_numbers">Tel.číslo nebo Email</string>
+        
+    <string name="registering">registo ...</string>
+        
+    <string name="resend">znovu odeslat</string>
+        
+    <string name="change_user_info">Změna uživatele</string>
+        
+    <string name="enter_name">Zadej novou přezdívku</string>
+        
+    <string name="name_not">Přezdívka nemůže být prázdná</string>
+    <string name="modify_name_success">Úspešne upravené</string>
+        
+    <string name="modify_name_failed">Úprava prezývky zlyhala</string>
+        
+    <string name="change_password">Staré heslo</string>
+        
+    <string name="email_number">Emailová adresa</string>
+        
+    <string name="email_code">Emailová ověření</string>
+        
+    <string name="sms_number">Tel.číslo</string>
+        
+    <string name="sms_code">Odeslat kód</string>
+
+        
+    <string name="old_paswd_not">Staré heslo nemůže být prázdné</string>
+        
+    <string name="new_paswd_not">Nové heslo nemže být prázdné</string>
+        
+    <string name="secondary_not">Potvrzení hesla nemůže být prázdné</string>
+        
+    <string name="two_passwords_notsam">Nové heslo se nezhoduje</string>
+        
+    <string name="info_old_paswd">Heslo musí obsahovat alespoň 8 znaků</string>
+        
+    <string name="info_fomat_paswd">Minimálně 8 znaků</string>
+        
+    <string name="info_check_internet">Žádná síť, zkontrolovat stav sítě</string>
+
+        
+    <string name="info_fomat_email">Zadejte platnou e-mailovou adresu</string>
+
+        
+    <string name="info_again_enter">Nesprávné staré heslo, znova zadajte</string>
+        
+    <string name="change_password_failed">Nepodarilo se změnit heslo:</string>
+        
+    <string name="change_susess">Zmeny byly úspěšné</string>
+        
+    <string name="user">Uživatel</string>
+        
+    <string name="user_online">Uživatel offline</string>
+        
+    <string name="user_exist">Uživatel neexistuje</string>
+        
+    <string name="share_success">Úspešne</string>
+        
+    <string name="user_denied">Odmietnuté</string>
+        
+    <string name="user_sharex">Už sdílené</string>
+        
+    <string name="share_outtime">Časový limit sdílení</string>
+        
+    <string name="wait_requset">Potvrdenie</string>
+        
+    <string name="share_device">Zdiejte zařízení</string>
+        
+    <string name="repeat_time">Opakování časování</string>
+
+        
+    <string name="select_user">Vyberte uživatele</string>
+        
+    <string name="enter_phone_number">Nesprávné telefonní číslo</string>
+        
+    <string name="not_share_own">Vlastní sdílení není povoleno</string>
+        
+    <string name="has_share">již sdílený</string>
+        
+    <string name="err_cmdorfomat">Nesprávný příkaz nebo formát</string>
+        
+    <string name="err_server">Chyba Servera</string>
+        
+    <string name="not_even">Číslo odpovědi není správné číslo:</string>
+        
+    <string name="only_english">Povolené pouze v angličtině</string>
+        
+    <string name="err_length">Délka nesmí přesahovat max. 512 znaků</string>
+        
+    <string name="enter_not_null">Vstup nemůžu být prázdný</string>
+        
+    <string name="device_info_title">Informace o zařízení</string>
+        
+    <string name="del_dialog">Odstraňuje sa časovač ...</string>
+
+        
+    <string name="err_fomat">Zlý formát:</string>
+        
+    <string name="logining">Přihlasuje sa</string>
+        
+    <string name="committime">Vytvoří se časovač ...</string>
+        
+    <string name="login_failed">Přihlašte se, zlyhalo, zlý účet nebo heslo</string>
+        
+    <string name="login_failed_normal">Přihlášení zlyhalo</string>
+        
+    <string name="shook_on">Kolísání: otevřeno</string>
+        
+    <string name="shook_off">Kolísání: vypnuto</string>
+        
+    <string name="device_one">Zariadenie 1</string>
+        
+    <string name="device_two">Zariadenie 2</string>
+        
+    <string name="device_three">Zariadenie 3</string>
+        
+    <string name="device_four">Zariadenie 4</string>
+        
+    <string name="register_success">Úspešně registrované</string>
+
+        
+    <string name="switch_net_error">Chyba sítě přepněte ji a zkuste znova</string>
+        
+    <string name="connect_failed">Zkontrolujte, zda je zařízení spárované</string>
+        
+    <string name="add_failed">Nepodarilo sa přidat</string>
+        
+    <string name="repeat_password_success">Heslo bylo úspěšně obnoveno</string>
+        
+    <string name="register_failed">Nepodarilo sa zaregistrovat</string>
+        
+    <string name="downloading">Sťahování</string>
+        
+    <string name="download_failed">Sťahování zlyhalo, klikněte na opětovné převzetí</string>
+        
+    <string name="downloaded">Sťahování bylo dokončeno</string>
+        
+    <string name="download_install">Stiahnuté dokončené, klikněte na tlačítko nainštalovat</string>
+        
+    <string name="download_complete">Stiahnuté dokončené </string>
+        
+    <string name="not_internet">Žádná dostupná síť</string>
+
+        
+    <string name="add_group">Nová skupina</string>
+        
+    <string name="add_device_group">Nová skupina zařízení</string>
+        
+    <string name="edit_group">Upravit skupinu</string>
+
+        
+    <string name="timer_set">Časovač</string>
+
+    <string name="info_kuzhai">EWeLink je bezplatný smart home APP. \n\n EWeLink může řídit všechny inteligentní domácí produkty od společnosti ITEAD a spolupracujících partnerů. Podporuje vzdálené zapínání a vypínání připojených elektrických zařízení, nastavování časových plánů, sdílení zařízení, správu skupin a scény. S funkcí eWeLink můžete nastavit barvu a jas pro více LED diod RGB, sledovat teplotu a vlhkost v reálném čase od společnosti Sonoff TH, sledovat údaje o domácím prostředí a mnoho dalšího. \n\nMějsí zařízení jsou ve vývoji, prosím zůstaňte naladěni.</string>
+        
+    <string name="my_device">Moje zařízení</string>
+
+        
+    <string name="add_new_timer">Nový časovač</string>
+    <string name="repeat">Opakuj</string>
+        
+    <string name="one">Jedna</string>
+        
+    <string name="two">Dva</string>
+        
+    <string name="three">Tri</string>
+        
+    <string name="four">Štyri</string>
+        
+    <string name="five">Pět</string>
+        
+    <string name="six">Šesť</string>
+        
+    <string name="seven">Sedem</string>
+
+    <string name="complete">Uložit</string>
+        
+    <string name="add_new_group">Přidat novou skupinu</string>
+
+        
+    <string name="info_newtime">V současné době není žádný časovač, klikněte na ikonu níže a přidejte nový časovač</string>
+        
+    <string name="run_cmd">Upraviť časovač</string>
+
+        
+    <string name="switch_on">ON</string>
+        
+    <string name="off_switch">OFF</string>
+        
+    <string name="time_set">Nastavení času</string>
+        
+    <string name="single_timer">Jedno časování</string>
+        
+    <string name="modify_nickname">Upraviť prezývku</string>
+        
+    <string name="undo_share">Zastavit sdílení</string>
+        
+    <string name="hex_display">Hex displej</string>
+        
+    <string name="enter_cmd">Zadejte příkaz</string>
+        
+    <string name="assiic_directive">ASCII příkaz</string>
+        
+    <string name="hex_directive">Šestnásť desatinných pokynů</string>
+        
+    <string name="clear_result">Vymaž výsledok</string>
+        
+    <string name="share">Zdieľať</string>
+        
+    <string name="display_send">Zobrazenie odesílání</string>
+        
+    <string name="send_verification_code">Odoslať</string>
+        
+    <string name="register">Registrovat</string>
+        
+    <string name="personal_infomation">Osobní informace</string>
+
+        
+    <string name="message_center">Centrum zprávy</string>
+        
+    <string name="intelligent_scene">Scéna eWeLink</string>
+        
+    <string name="feedback">Spätná väzba</string>
+        
+    <string name="login">Přihlásit se</string>
+        
+    <string name="info_reset_password">Zabudol som heslo</string>
+        
+    <string name="return_op">Naspäť</string>
+        
+    <string name="return_space">Návrat</string>
+
+        
+    <string name="discovered_device">Nájdené zařízení</string>
+        
+    <string name="select_add_device">Vyberte zařízení, které chcete přidat</string>
+        
+    <string name="next">Další</string>
+        
+    <string name="config_discover_device">Najdená konfigurace zařízení</string>
+        
+    <string name="remember_wifi_password">Zapamätať heslo</string>
+        
+    <string name="name_device">Pomenujte toto zařízení</string>
+        
+    <string name="my_smart_socketone">Moje zařízení</string>
+        
+    <string name="one_gear">Úroveň 1</string>
+        
+    <string name="two_gear">Úroveň 2</string>
+        
+    <string name="third_gear">Úroveň 3</string>
+
+    <string name="stall_mode">Režim</string>
+        
+    <string name="temperature_mode">teplota. Režim</string>
+        
+    <string name="current_temperature">aktuální teplota.</string>
+        
+    <string name="loading">načítají se ...</string>
+        
+    <string name="old_password">Staré heslo</string>
+        
+    <string name="new_password">Nové heslo</string>
+        
+    <string name="enter_new_passwod">zadajte nové heslo</string>
+        
+    <string name="again_new_password">zadajte nové heslo</string>
+        
+    <string name="set_group_nameicon">Pomenujte skupinu a nastavte ikonu</string>
+        
+    <string name="enter_group_name">Název vstupnej skupiny</string>
+        
+    <string name="selected_icon">vyberte ikonu</string>
+        
+    <string name="upload_icon">nahrať ikonu</string>
+
+    <string name="enter_share_nuber">Zadejte telefonní číslo, které chcete sdílet</string>
+        
+    <string name="find_new_version">Byla nalezena nová verze, upgradujte prosím</string>
+        
+    <string name="upgrade">Inovace</string>
+        
+    <string name="enter_device_name">Zadejte nové jméno</string>
+        
+    <string name="recevice_equipment">You have received a share device invitation message</string>
+        
+    <string name="my_devices">Moje zařízení</string>
+        
+    <string name="delete">Odstranit</string>
+        
+    <string name="firmware_upgrade">Aktualizace firmwaru</string>
+
+        
+    <string name="register_users">registrovat</string>
+        
+    <string name="login_btn">Tlačítko přihlášení</string>
+        
+    <string name="reset_password">Obnovit heslo</string>
+        
+    <string name="send_notification_msg">Odeslat zprávu o upozornění</string>
+        
+    <string name="set_timer_time">Samostatné časování</string>
+        
+    <string name="set_repeat_time">Opakujte časování</string>
+        
+    <string name="set_delay_time">Odpočítávání časování</string>
+        
+    <string name="setting_in">Spustit</string>
+        
+    <string name="minutes">minut později</string>
+        
+    <string name="cut">Vyjmout</string>
+        
+    <string name="manager_group">Správa skupiny</string>
+
+        
+    <string name="app_name">EWeLink</string>
+        
+    <string name="reciver_invite">Uživatel%1$s chce sdílet s vámi%2$s. Souhlasíte?</string>
+        
+    <string name="new_home_kit">Aktualizace eWeLink%1$s apk</string>
+        
+    <string name="versionString">Verze:%1$s, zkontrolujte novou verzi</string>
+
+        
+    <string name="hello_world">Dobrý den svět!</string>
+        
+    <string name="action_settings">Nastavení</string>
+        
+    <string name="select_wifi">Vyberte WiFi</string>
+        
+    <string name="input_phone">Zadejte telefonní číslo</string>
+        
+    <string name="input_email">Zadejte emailovou adresu</string>
+        
+    <string name="name_or_pwd_is_empty">Uživatelské jméno nebo heslo je prázdné</string>
+        
+    <string name="account_notvalid">Neplatný účet</string>
+        
+    <string name="input_account">Prosím zadejte svůj účet</string>
+        
+    <string name="phone_notvalid">Neplatné telefonní číslo</string>
+
+        
+    <string name="not_intent_word">Momentálně není k dispozici WiFi</string>
+        
+    <string name="select_date">Vyberte alespoň jeden den</string>
+        
+    <string name="title_update">Aktualizace firmwaru, počkejte</string>
+        
+    <string name="lineoff_device">Zařízení je offline</string>
+        
+    <string name="deviceupdate">Aktualizace firmwaru, nepoužívejte opakovaně</string>
+        
+    <string name="timers">Časovač</string>
+        
+    <string name="everydays">Každý den</string>
+        
+    <string name="workdate">Den v týdnu</string>
+        
+    <string name="weekdate">víkend</string>
+        
+    <string name="weeks">týden</string>
+        
+    <string name="ones">Pon.</string>
+        
+    <string name="twos">Ut.</string>
+        
+    <string name="threes">Str.</string>
+        
+    <string name="fours">Čtv.</string>
+        
+    <string name="fives">Pi.</string>
+        
+    <string name="sixs">Sob.</string>
+        
+    <string name="timeday">Ned.</string>
+        
+    <string name="add_timers_success">Přidání bylo úspěšně</string>
+        
+    <string name="update_timers_ok">Úspěšně aktualizovány</string>
+        
+    <string name="update_timers_delay_ok">Úspěšně aktualizovány</string>
+        
+    <string name="delete_timers_ok">Úspěšně aktualizovány</string>
+
+    <string name="onces">Jednou</string>
+        
+    <string name="describ_feebback">Napište svou zpětnou vazbu</string>
+        
+    <string name="feedback_success">Odeslání bylo úspěšně</string>
+        
+    <string name="usernot_exsit">Uživatel neexistuje, zaregistrujte se</string>
+        
+    <string name="feedback_fail">Přidání selhalo</string>
+        
+    <string name="dataerr">Chyba dat, přidejte znovu</string>
+        
+    <string name="dev_offline">Zařízení je offline</string>
+        
+    <string name="outtimer">Požadovaný časový limit</string>
+        
+    <string name="choice_part">Vyberte oblast</string>
+        
+    <string name="version">Test</string>
+        
+    <string name="about_coolkit_weixin">Sledujte náš oficiální účet Wech, můžete ovládat všechny vaše zařízení prostřednictvím přístupu k účtu eWeLink. Jednoduše naskenujte kód QR.</string>
+
+    <string name="error_sms_code">Chybný ověřovací kód, zkuste to znovu</string>
+        
+    <string name="reset_error">Obnovit chybu</string>
+        
+    <string name="reset_fail">Reset selhal</string>
+        
+    <string name="dont_reset_agin">Tento účet již existuje. Prosím, neregistrujte se znovu</string>
+        
+    <string name="countrycode_smscode_error">Nesprávný kód země nebo ověřovací kód</string>
+        
+    <string name="send_msg_limit">Překročil jste maximální počet žádostí o ověření</string>
+        
+    <string name="send_msg_fail_check">Nepodařilo se odeslat SMS, zkontrolujte stav sítě</string>
+        
+    <string name="send_msg_fail">Nepodařilo se odeslat SMS</string>
+        
+    <string name="send_email_fail_check">Nepodařilo se odeslat e-mail, zkontrolujte stav sítě</string>
+        
+    <string name="send_email_fail">Nepodařilo se odeslat e-mail</string>
+        
+    <string name="send_email_success">E-mail byl úspěšně odeslán</string>
+        
+    <string name="send_sms_success">Správa byla úspěšně odeslána</string>
+        
+    <string name="confirm">Potvrďte</string>
+        
+    <string name="confirm_en_ok">OK</string>
+        
+    <string name="add_confirm">OK</string>
+        
+    <string name="puls_select">Vyberte kanál</string>
+        
+    <string name="edit_dialog">Úprava časovače</string>
+        
+    <string name="connectto_nopwd">Žádné zadané heslo, Jste si jisti, že WiFi nemá heslo?</string>
+        
+    <string name="infoweek">Týden</string>
+        
+    <string name="equesdate">Chyba nastavení času, nemůžete nastavit časovač pro aktuální čas</string>
+        
+    <string name="SSID_no_chinese">SSID nemůže obsahovat čínské znaky</string>
+        
+    <string name="pwd_no_chinese">Heslo nemůže obsahovat čínské znaky</string>
+        
+    <string name="Wifi_Name">Přístup WiFi:</string>
+        
+    <string name="Wifi_PassWord">Heslo WiFi:</string>
+        
+    <string name="wifi_password_none">Heslo je prázdné</string>
+        
+    <string name="change_name">Změňte název zařízení</string>
+        
+    <string name="only_owner">Pouze vlastník může vidět</string>
+        
+    <string name="productinfo">Informace o zařízení</string>
+        
+    <string name="notgrade">Nejnovější</string>
+        
+    <string name="firmware">Verze firmwaru:</string>
+        
+    <string name="canupgrade">Kliknutím na tlačítko Upgrade</string>
+        
+    <string name="infoupgrade">Firmware can be upgraded, please go to device setting to update firmware</string>
+        
+    <string name="deviceoffline">Zařízení je offline</string>
+        
+    <string name="et_search">Vyhledávání</string>
+        
+    <string name="name_repeat">Duplikovaný název</string>
+        
+    <string name="power_on">ON</string>
+        
+    <string name="power_off">OFF</string>
+        
+    <string name="info_updateerr">Zařízení je offline, nemůžete ho nyní aktualizovat</string>
+        
+    <string name="confirm_new_password">Potvrď heslo</string>
+        
+    <string name="change_password_out">Změň heslo</string>
+        
+    <string name="virtual_fengshan">Elektrický ventilátor</string>
+        
+    <string name="virtual_chazhuo">Zásuvka</string>
+        
+    <string name="line_real_device">Připojte se k aktuálnímu zařízení</string>
+        
+    <string name="hour">Hodina</string>
+        
+    <string name="check_wifi">Zkontrolujte svou síť</string>
+        
+    <string name="group_add">Přidat skupinu</string>
+        
+    <string name="group_del">Odstranit skupinu</string>
+        
+    <string name="try_again_later">Zkuste později prosím</string>
+        
+    <string name="send_config_over_time">Přidejte časový limit zařízení, zkuste to znovu</string>
+        
+    <string name="begintime">Čas začátku</string>
+        
+    <string name="intervaltime">Interval</string>
+        
+    <string name="keeptime">Délka</string>
+        
+    <string name="keep_not">Trvání nemůže být nulové</string>
+        
+    <string name="interval_not">Interval nemůže být nulový</string>
+        
+    <string name="keep_smaller_interval">Trvání musí být menší než interval</string>
+        
+    <string name="switch_open">On</string>
+        
+    <string name="switch_close">Off</string>
+        
+    <string name="start_action">Start</string>
+        
+    <string name="end_action">Konec</string>
+        
+    <string name="data_exception">Výjimka na údaje, zkuste to znovu později</string>
+        
+    <string name="switchcountry">Vyberte svou zemi</string>
+        
+    <string name="password">Heslo</string>
+        
+    <string name="language_actionbar_text">Přepnout jazyk</string>
+        
+    <string name="current_version">Aktuální</string>
+    <string name="change_nickname">Změnit přezdívku</string>
+        
+    <string name="nickname">Zadejte nový přezdívku</string>
+        
+    <string name="on_change_language">Přepínání</string>
+        
+    <string name="go_on">Pokračovat</string>
+        
+    <string name="add_device">Přidat zařízení</string>
+        
+    <string name="retry">Zkuste to znovu</string>
+        
+    <string name="retry_space">Zkuste to znovu</string>
+        
+    <string name="device_list">Moje zařízení</string>
+        
+    <string name="change_language">Změnit jazyk</string>
+        
+    <string name="user_pwd">Heslo</string>
+        
+    <string name="search_failed">Vyhledávání selhalo. Zkuste to znovu</string>
+        
+    <string name="sure_quit_add">Potvrďte ukončení párování?</string>
+
+    <string name="over">Koniec</string>
+        
+    <string name="connected_device_wait">Připojte se k zařízení čakajte prosím ...</string>
+        
+    <string name="regist_device_wait">Registrujem čakajte prosím ...</string>
+        
+    <string name="device_has_been_register">Pozor již jste přidali zařízení!</string>
+        
+    <string name="delete_failed">Skontrolovat</string>
+        
+    <string name="groupName_notRepeat">Duplicitní název skupiny</string>
+        
+    <string name="groupName_not">Název skupiny nesmí být prázdný</string>
+        
+    <string name="add_success">Pridané úspěšně!</string>
+        
+    <string name="operat_success">Úspešne</string>
+        
+    <string name="switch_power">Výkon:</string>
+        
+    <string name="operating">Prevádka</string>
+        
+    <string name="device_belong_other">Zariadenie patří jinému uživateli!</string>
+        
+    <string name="back_device_list">Návrat na seznam</string>
+        
+    <string name="device_setting">Nastavení</string>
+        
+    <string name="connect_device_fail">Nepodarilo se připojit k zařízení. Prosím zkuste znova</string>
+        
+    <string name="notfound_deviceversion">Nenašiel jsem žádný nový firmware</string>
+        
+    <string name="only_own_operate">Pouze vlastník může pracovat</string>
+        
+    <string name="alert_feedback">Spätná väzba</string>
+        
+    <string name="delete_device">Odstranit zařízení</string>
+        
+    <string name="open">Otevřít</string>
+        
+    <string name="close">Zavřít</string>
+        
+    <string name="vibration_switch">Prepínač vibrácií</string>
+        
+    <string name="please_close">Prosím, zatvorte</string>
+        
+    <string name="no_sensor">Nepodarilo se načítat údaje snímače. Skontrolujte připojení</string>
+        
+    <string name="no_permission_try_system">Potřebujete povolenie. Můžete se pokusit požádat o nastavení systému</string>
+        
+    <string name="need_extra_permission">Potřebujete další povolenie. Požiaď nyní?</string>
+        
+    <string name="need_permission_coarse">Udeľte povolení EweLink na umístění nebo nemůžete přidat zařízení!</string>
+
+
+     
+    <string name="uread">Nepřečtené</string>
+        
+    <string name="hum_detail">Hodnota vlhkosti musí být mezi 0-100</string>
+        
+    <string name="first_big_than_second">Hodnota prvního bloku nemůže být menší než druhá prázdná</string>
+        
+    <string name="please_enter_condition">Zadejte podmínku</string>
+        
+    <string name="hum_bigger_than">Více než</string>
+        
+    <string name="hum_smaller_than">Méně než</string>
+        
+    <string name="temp_bigger_than">Více než</string>
+        
+    <string name="temp_smaller_than">Méně než</string>
+        
+    <string name="temp_setting">Teplota</string>
+        
+    <string name="hum_setting">Vlhkost</string>
+    <!---->
+
+    <string name="change_nickname_success">Změna byla úspěšná</string>
+        
+    <string name="operat_fail_retry">Operace selhala, zkuste později!</string>
+        
+    <string name="auto_model">Auttomaticky</string>
+        
+    <string name="manual_model">manuálně</string>
+        
+    <string name="auto_model_unable_control">Není možné ovládat přepínání v režimu Auto</string>
+        
+    <string name="enter_account">Zadejte účet</string>
+        
+    <string name="power_stay">Udržovat</string>
+        
+    <string name="no_address">Nevyplnili jste kontaktní informace, pokračovat?</string>
+        
+    <string name="long_press_button">Podržte tlačítko párování, dokud LED dioda nebude rychle blikat</string>
+        
+    <string name="choice_describe">Vyberte odpovídající metodu párování.</string>
+        
+    <string name="first_part">První metoda párování: LED dioda zařízení bliká 1 krát opakovaně.</string>
+        
+    <string name="second_part">Druhá metoda párování: LED dioda zařízení třikrát blikne a opakovaně svítí.</string>
+        
+    <string name="other_case">V jiných případech</string>
+        
+    <string name="choice_state">Vyberte stát</string>
+        
+    <string name="not_find">Nebyly nalezeny žádné zařízení</string>
+        
+    <string name="add_new_scene">Přidat scénu</string>
+        
+    <string name="scene_name">Název scény</string>
+        
+    <string name="scene_setting">Nastavení scény</string>
+        
+    <string name="scene_list_is_null">Seznam scén je prázdný</string>
+        
+    <string name="please_enter_scene_name">Zadejte název scény</string>
+        
+    <string name="updae_scene_fail">se nepodařilo upravit scénu</string>
+        
+    <string name="save_scene_fail">Nepodařilo se uložit scénu</string>
+        
+    <string name="execute">Spustit</string>
+        
+    <string name="request_time_out">Požadavek na časový limit</string>
+        
+    <string name="delete_scene">Vymazání scény</string>
+        
+    <string name="delete_scene_fail">Vymazání scény selhala</string>
+        
+    <string name="scene_limit">Pouze 20 scén je povolených</string>
+        
+    <string name="channel1">Kanál 1:</string>
+        
+    <string name="channel2">Kanál 2:</string>
+        
+    <string name="channel3">Kanál 3:</string>
+        
+    <string name="channel4">Kanál 4:</string>
+        
+    <string name="keep">podržet</string>
+        
+    <string name="delete_scene_success">Scéna byla úspěšně odstraněna</string>
+        
+    <string name="channel">Výstup</string>
+        
+    <string name="channel_name">Název kanálu</string>
+        
+    <string name="production">Zavedení výrobku</string>
+        
+    <string name="weichatQR">Účet pro odběr Wech</string>
+        
+    <string name="channel_name_not_be_empty">Název kanálu nemůže být prázdný</string>
+        
+    <string name="latest_version">Nejnovější:</string>
+
+    <string name="wait_for_confirm">Čeká se na potvrzení</string>
+        
+    <string name="Scene_log_detail">Podrobnosti</string>
+
+        
+    <string name="efan_model">Model</string>
+        
+    <string name="efan_normal">normální</string>
+        
+    <string name="efan_natural">přirozený</string>
+        
+    <string name="efan_sleep">spánok</string>
+        
+    <string name="open_efan_first">zapnout ventilátor</string>
+        
+    <string name="efan_speed">rychlost</string>
+        
+    <string name="efan_shake">Chvenie</string>
+
+        
+    <string name="success">Úspešný</string>
+        
+    <string name="failed">Zlyhalo</string>
+        
+    <string name="history">Záznam historie</string>
+        
+    <string name="one_key_clean">Vyčistiť</string>
+
+        
+    <string name="slide_right_operat_device">Přejděte doprava na ovládání vybraných zařízení</string>
+        
+    <string name="slide_right_group_device">Posouvaním doprava seskupit</string>
+        
+    <string name="click_scene_group">Přidat scénu tu</string>
+
+        
+    <string name="i_know">Mám to</string>
+        
+    <string name="click_set_channel_name">Klepnutím zmeníte každý kanál</string>
+        
+    <string name="device_offline_check_net">Zariadenie offline, zkontrolovat síť</string>
+        
+    <string name="sure_delete_scene">Určite chcete odstranění daného scény</string>
+        
+    <string name="open_fan">Otevřete ventilátor</string>
+        
+    <string name="close_fan">Zavřít ventilátor</string>
+        
+    <string name="resetting">Obnovit ...</string>
+        
+    <string name="open_switch_first">Prosím zapněte vypínač</string>
+        
+    <string name="start">Start</string>
+        
+    <string name="end">Koniec</string>
+        
+    <string name="current_power">Aktuální spotreba</string>
+        
+    <string name="total_power">Celkom</string>
+        
+    <string name="kwh">kWh</string>
+        
+    <string name="day_power">Denná spotreba elektrické energie</string>
+        
+    <string name="jan">Jan.</string>
+        
+    <string name="feb">únor</string>
+        
+    <string name="mar">Mar.</string>
+        
+    <string name="apr">apr.</string>
+        
+    <string name="may">Máj</string>
+        
+    <string name="june">Jún</string>
+        
+    <string name="july">Júl</string>
+        
+    <string name="aug">Aug.</string>
+        
+    <string name="sept">Sept.</string>
+        
+    <string name="oct">Okt.</string>
+        
+    <string name="nov">Nov.</string>
+        
+    <string name="dec">dec.</string>
+        
+    <string name="current_month_power">Celkom</string>
+        
+    <string name="current_power_title">Aktuální spotreba</string>
+        
+    <string name="history_power">Záznam o energii</string>
+
+    <string name="title_activity_main">Hlavní aktivita </string>
+        
+    <string name="county_locale">Země / oblast</string>
+
+        
+    <string name="app_version">v0.3.4.3</string>
+        
+    <string name="tvApSsidTitle">SSID:</string>
+        
+    <string name="tvPasswordTitle">Heslo:</string>
+        
+    <string name="switchIsSsidHiddenTitle">SSID je skryté</string>
+        
+    <string name="spinnerTaskResultCountTitle">Počet výsledků</string>
+        
+    <string name="btnConfirmTitle">Potvrďte</string>
+        
+    <string name="title_activity_mask_actvity">MaskActvity</string>
+        
+    <string name="title_activity_main22">Main22Activity</string>
+        
+    <string name="title_activity_show_adding_device_type_actvity">ShowAddingDeviceTypeActvity</string>
+        
+    <string name="found_gen_one">nalezen první generace zařízení\n%1$s</string>
+        
+    <string name="found_gen_two">nalezen druhá generace zařízení</string>
+        
+    <string name="device_registing">registrace ...</string>
+        
+    <string name="first_requesting">první požadavek ...</string>
+        
+    <string name="second_requesting">druhá požadavek ...</string>
+        
+    <string name="device_regist_done">Dokončit registraci</string>
+        
+    <string name="device_add_finish">Dokončit přidání</string>
+        
+    <string name="change_net">Změnit WiFi</string>
+        
+    <string name="pls_enable_wifi">Prosím povolte WiFi</string>
+        
+    <string name="delete_group_ok">Skupina byla úspěšně odstraněna</string>
+        
+    <string name="delete_group_fails">Skupina nebyla odstraněna</string>
+        
+    <string name="update_success">Úspěšně aktualizovaná skupina</string>
+        
+    <string name="title_activity_debug_settings">Nastavení</string>
+
+
+    <string name="confirm_to_state_pair">Potvrzení zařízení ve stavu párování</string>
+        
+    <string name="longpress_to_state_pair">Podržte párové tlačítko po dobu 5 sekund, aby LED začala rychle blikat.</string>
+        
+    <string name="other_pair_instruction_led">Pokud necháte LED na zařízení Sonoff vstoupit do párovacího stavu, zapněte a vypněte třikrát, časový odstup mezi zapnutím a vypnutím by měl být 2s, LED indikátor začne rychle blikat.</string>
+        
+    <string name="other_pair_instruction">Pokyny k párování</string>
+        
+    <string name="choose_wifi">Vyberte WiFi</string>
+        
+    <string name="pairing">Párování ...</string>
+        
+    <string name="pair_failure">Párování selhalo</string>
+        
+    <string name="pair_failure_reason_title_cannot_found_device">Nelze najít zařízení, zkontrolujte následující konfiguraci</string>
+        
+    <string name="pair_failure_reason_title_error_in_process">Chyba komunikačního procesu, prosím, postupujte podle pokynů</string>
+        
+    <string name="pair_failure_reason_check_assistant">Zkontrolujte nastavení oprávnění pro mobilní zabezpečení a antivirový software, ujistěte se, že eWeLink má přístup k WiFi.</string>
+        
+    <string name="pair_failure_reason_check_device_pair_state">Váš přístroj není v režimu párování, nyní vstupte do režimu párování.</string>
+        
+    <string name="pair_failure_reason_cannot_connect_manual_setting">Automatické připojení k zařízení WiFi se nepodařilo, ručně ho připojte. Kroky: nastavení telefonu -> WiFi, připojte se k WiFi "ITEAD - ******" s heslem \ "12345678 \".</string>
+        
+    <string name="pair_failure_reason_timeout_first_request">1. časový limit komunikace, zkuste to znovu</string>
+        
+    <string name="pair_failure_reason_timeout_second_request">2. časový limit komunikace, zkuste to znovu</string>
+        
+    <string name="pair_failure_reason_check_wifi_pwd">Potvrďte, že jste zadali správné heslo WiFi</string>
+        
+    <string name="pair_failure_reason_check_net_enable">Nepodařilo se potvrdit, že mobilní síť funguje normálně a zkuste to znovu později</string>
+        
+    <string name="goto_system_setting">Vraťte do eWeLink. Potřebné nastavení WiFi systému</string>
+
+
+    <!-- Example General settings-->
+        
+    <string name="pref_header_general">Obecně</string>
+
+        
+    <string name="pref_title_social_recommendations">Povolit sociální doporučení</string>
+    <string name="pref_description_social_recommendations">Doporučení pro kontaktování lidí na základě historie vašich zpráv</string>
+
+        
+    <string name="pref_title_display_name">Zobrazit jméno</string>
+        
+    <string name="pref_default_display_name">John Smith</string>
+
+        
+    <string name="pref_title_add_friends_to_messages">Přidejte přátel do zpráv</string>
+
+        <!-- Example settings for Data & Sync -->
+        
+    <string name="pref_header_data_sync">Data &amp; Synchronizace</string>
+
+        
+    <string name="pref_title_sync_frequency">Frekvence synchronizace</string>
+
+        
+    <string name="pref_title_system_sync_settings">Nastavení synchronizace systému</string>
+
+        <!-- Example settings for Notifications-->
+        
+    <string name="pref_header_notifications">Upozornění</string>
+
+        
+    <string name="pref_title_new_message_notifications">Nové upozornění zpráv</string>
+
+        
+    <string name="pref_title_ringtone">Vyzváněcí tón</string>
+        
+    <string name="pref_ringtone_silent">Tichý</string>
+
+        
+    <string name="pref_title_vibrate">Vibrace</string>
+        
+    <string name="open_led">Prosím nejdříve zapněte světlo</string>
+        
+    <string name="add_new_smart_scene">Přidat novou scénu</string>
+        
+    <string name="where_it_meet">Když je stejná:</string>
+        
+    <string name="device_excute">Provést:</string>
+        
+    <string name="when_temp">Teplota ≥</string>
+        
+    <string name="tme_end_show">℃</string>
+        
+    <string name="when_temp_less">Teplota ≤</string>
+        
+    <string name="when_hum_more">Vlhkost ≥</string>
+        
+    <string name="when_hum_less">Vlhkost ≤</string>
+        
+    <string name="hum_end_show">%</string>
+        
+    <string name="no_add_trgiger">Žádná spouštěcí podmínka</string>
+        
+    <string name="no_excute_result">Žádný výsledek spouštění</string>
+        
+    <string name="tem_hum_temperature">Teplota </string>
+        
+    <string name="tem_hum_humdity">Vlhkost</string>
+        
+    <string name="select_switch_operation">Vyberte si funkci spínače</string>
+        
+    <string name="enter_params">Zadejte parametry</string>
+        
+    <string name="select_condition">Vyberte podmínku</string>
+        
+    <string name="smart_scene_time">Čas:</string>
+        
+    <string name="smart_scene">Inteligentní scéna</string>
+        
+    <string name="two_temp_cant_be_equals">Hodnota teploty nemůže být stejná</string>
+        
+    <string name="two_hum_cant_be_equals">Hodnota vlhkosti nemůže být stejná</string>
+
+    <string name="add_success2">Přidáno úspěšně</string>
+        
+    <string name="add_success_but_not_name">Přidáno úspěšně. Název selhal. Použijte výchozí název%1$s</string>
+        
+    <string name="confirm_quit_name">Ukončit, pojmenování zařízení?</string>
+        
+    <string name="device_name_default">Moje zařízení%1$s</string>
+        
+    <string name="scene_device_list">Seznam zařízení</string>
+        
+    <string name="tem_detail">Hodnota teploty musí být mezi -999 ~ 999</string>
+        
+    <string name="first_smaller_second">Hodnota prvního prázdného pole musí být menší než druhá prázdná</string>
+        
+    <string name="third_smaller_fourth">Hodnota třetího políčka musí být menší než čtvrtého políčka</string>
+
+        
+    <string name="device_dispatching">Připojování na server ...</string>
+        
+    <string name="wifi_name">WiFi jméno</string>
+        
+    <string name="wifi_pwd">WiFi heslo</string>
+        
+    <string name="click_me_to_select">Kliknutím na položku vyberte zařízení</string>
+        
+    <string name="current_scene_no_device">V současné scéně nejsou žádné zařízení</string>
+
+
+        
+    <string name="has_not_change_to_device_host">(Zatím není připojen k hostiteli zařízení)</string>
+        
+    <string name="choose_device">Vyberte zařízení</string>
+        
+    <string name="no_choice_device">Žádné volitelné zařízení</string>
+        
+    <string name="cardview_device_off_line">offline</string>
+        
+    <string name="new_no_device_alert">V současnosti nejsou žádné zařízení, klepněte na tlačítko níže, které chcete přidat</string>
+        
+    <string name="splash_timer">Časovač</string>
+        
+    <string name="splash_timer_text">Jeden kanálový soket / přepínač smyčky časovač nyní! Loop timer může být automaticky proveden každý přednastavený čas (např. 1 hod.) A pokračovat po kratší přednastavený čas (řekněme 20min). Podporovaná verze firmwaru 1.5.0 a vyšší.</string>
+        
+    <string name="share_splash_text">Chcete, aby vaše rodina a přátelé ovládali vaše zařízení? Jednoduše sdílejte svá zařízení se svým účtem!</string>
+        
+    <string name="splash_share_device">Sdílejte zařízení</string>
+        
+    <string name="goto_ewelink">Zadejte eWeLink</string>
+        
+    <string name="back">Zpět</string>
+        
+    <string name="everything_connect">Internet všeho</string>
+
+    <string name="delay_timers">Odpočítávací měřič</string>
+        
+    <string name="weekday">Den:</string>
+        
+    <string name="new_timer_repeat">Opakuj:</string>
+        
+    <string name="action_one">Jednou</string>
+        
+    <string name="action_repeat">Opakovat</string>
+        
+    <string name="new_timer_action">Turn:</string>
+        
+    <string name="new_timer_channel">Kanál:</string>
+        
+    <string name="new_timer_data">Datum</string>
+        
+    <string name="new_timer_time">Čas</string>
+        
+    <string name="new_timer_minute">Minuta </string>
+        
+    <string name="new_timer_after">Po</string>
+        
+    <string name="refresh_power">Obnovit</string>
+        
+    <string name="delay">Odpočítávání</string>
+        
+    <string name="thisyear">Letos</string>
+        
+    <string name="nextyear">Další rok</string>
+        
+    <string name="timer_start">Start</string>
+        
+    <string name="coldwarm">Režim</string>
+        
+    <string name="brightness">Jas</string>
+        
+    <string name="delay_timer_cant_edit">Nelze upravit. Po odstranění nebo deaktivování stávajících časovačů opakujte pokus.</string>
+        
+    <string name="no_custome_timer">Momentálně nejsou žádné časovače. Klepnutím na tlačítko níže přidáte teď!</string>
+        
+    <string name="no_delay_timer">V současnosti nejsou k dispozici žádné časovače odpočítávání. Klepnutím na tlačítko níže přidáte!</string>
+        
+    <string name="only_timer_number">Je povolených jen 20 časovačů (včetně odpočítávání a časovače smyčky)</string>
+        
+    <string name="only_timer_active_number">Povolené je jen 8 časovačů (včetně odpočítávání a časového spínače smyčky)</string>
+        
+    <string name="device_offline_cant_operat">Zařízení je offline, nemůžete nyní pracovat</string>
+        
+    <string name="add_delay_timers_success">Přidáno úspěšně</string>
+        
+    <string name="create_delay">Vytvářím časovač odpočítávání ...</string>
+        
+    <string name="delete_delayt_ok">Úspěšně odstraněny</string>
+        
+    <string name="delete_delay_dialog">Odstranění časovače odpočítávání ...</string>
+
+
+    <string name="copy_text_and_open_wechat">S kopírovat účet Wech a pokračovat</string>
+        
+    <string name="has_not_installed_wechat">Ještě jste nemate nainstalovaný Wech</string>
+        
+    <string name="wechat_subscription_can_also_control">(Ovládání zařízení ve Wech)</string>
+
+        
+    <string name="all_device">Všechna zařízení</string>
+        
+    <string name="my_share">Zařízení, které sdílím</string>
+        
+    <string name="share_to_me">Zařízení jsou sdíleny jinými</string>
+        
+    <string name="device_ungroup">Zařízení které nemají skupinu</string>
+        
+    <string name="device_remove_from_group">Chcete ji odstranit z této skupiny?</string>
+        
+    <string name="current_group_device">Seznam zařízení</string>
+        
+    <string name="move_from_other_group">Přidat z jiné skupiny</string>
+        
+    <string name="scan_for_instructions">Skenovat uživatelskou příručku</string>
+        
+    <string name="group_nums_limit">Podpora max. 20 skupin</string>
+        
+    <string name="tip_group_empty_add">Momentálně žádné skupiny, klepněte na tlačítko níže a vytvořte ji teď!</string>
+
+        
+    <string name="duration_every">všechny</string>
+        
+    <string name="duration_hours">hodinu</string>
+        
+    <string name="duration_excute_once">zápis provést</string>
+        
+    <string name="duration_later_execute">zápis provést později</string>
+        
+    <string name="duration_start_time">doba spuštění</string>
+        
+    <string name="duration_cancel">Zrušit</string>
+        
+    <string name="duration_ok">Dokončit</string>
+        
+    <string name="duration_delete">Odstranit</string>
+        
+    <string name="duration_start">Povolit</string>
+        
+    <string name="duration_create_looper_success">Úspěšně přidáno</string>
+        
+    <string name="duration_update_looper_success">Změna úspěšná</string>
+        
+    <string name="duration_2less1">Druhý čas by měl být menšího jako první čas</string>
+        
+    <string name="duration_1not0">Čas nemůže být 0</string>
+        
+    <string name="duration_timer8">Nepodařilo se vytvořit, podporuje pouze max. 8 povolených časovačů (včetně časovačů odpočítávání / cyklů)</string>
+        
+    <string name="duration_timer20">Nepodařilo se vytvořit, podporovány jsou pouze max. 20 časovačů (včetně časovačů odpočítávání / smyčky)</string>
+        
+    <string name="duration_create_fail">Nelze vytvořit časovač smyčky, zkuste to znovu</string>
+        
+    <string name="duration_deleting">Odstraňuje se ...</string>
+        
+    <string name="duration_delete_success">Úspěšně odstraněn</string>
+        
+    <string name="duration_creating">Vytváří se ...</string>
+        
+    <string name="duration_updating">Pokračování ...</string>
+        
+    <string name="share_failed">Sdílení selhalo. Uživatel, se kterým chcete sdílet, není online. Požádejte uživatele, aby se poprvé přihlásil do služby eWeLink.</string>
+        
+    <string name="device_not_share_click_to_share">Kliknutím na ikonu níže ji sdílíte</string>
+        
+    <string name="list_already_has_account">Účet je již v seznamu</string>
+        
+    <string name="sure_delete">odstranit?</string>
+        
+    <string name="settinginfo_power_state">Stav napájení</string>
+        
+    <string name="duration_2not0">Čas nemůže být 0</string>
+        
+    <string name="new_device_setting">Nastavení zařízení</string>
+        
+    <string name="duration_update_failed">se nepodařilo upravit časovač smyčky</string>
+        
+    <string name="duration_delete_failed">Nepodařilo se vymazat časovač smyčky</string>
+        
+    <string name="duration_timer">Časovač smyčky</string>
+        
+    <string name="ota_new_version">Nová verze:</string>
+        
+    <string name="scene">Scéna</string>
+        
+    <string name="group">Skupina</string>
+        
+    <string name="exit_logout">Odhlásit</string>
+        
+    <string name="only_own_can_operation">Pouze vlastník může měnit časovače.</string>
+        
+    <string name="fan_on">ON</string>
+        
+    <string name="fan_off">OFF</string>
+
+
+    <string name="new_user_center_group">Skupina%1$s</string>
+        
+    <string name="new_user_center_scene">Scéna%1$s</string>
+        
+    <string name="wait_user_response">Čeká se na odpověď ...</string>
+        
+    <string name="device_list_no_net">Síť není k dispozici</string>
+        
+    <string name="air_quality">Kvalita vzduchu</string>
+        
+    <string name="sensor_temp">Tepl.</string>
+        
+    <string name="temp_state_cold">Chladný</string>
+        
+    <string name="temp_state_comfortable">Pohodlný</string>
+        
+    <string name="temp_state_hot">Horký</string>
+        
+    <string name="air_quality_good">Dobrý</string>
+        
+    <string name="air_quality_moderate">Mírná</string>
+        
+    <string name="air_quality_bad">Nezdravá</string>
+        
+    <string name="sensor_humidity">Vlhkost</string>
+        
+    <string name="sensor_hum_dry">Suchý</string>
+        
+    <string name="sensor_hum_normal">Normal</string>
+        
+    <string name="sensor_hum_wet">Vlhký</string>
+        
+    <string name="sensor_noise">Hluk</string>
+        
+    <string name="sensor_noise_quiet">Tichý</string>
+        
+    <string name="sensor_noise_normal">Normal</string>
+        
+    <string name="sensor_noise_noisy">Hlasitý</string>
+        
+    <string name="sensor_light">Světlý</string>
+        
+    <string name="sensor_light_bright">Jasný</string>
+        
+    <string name="sensor_light_normal">Normal</string>
+        
+    <string name="sensor_light_dusky">Dusky</string>
+        
+    <string name="account_has_register">Účet byl zaregistrován!</string>
+        
+    <string name="no_net_feedback_failed">Nepodařilo se odeslat zpětnou vazbu, zkontrolujte síť.</string>
+        
+    <string name="io_exception_feedback_failed">Nepodařilo se odeslat zpětnou vazbu, chyba čtení a zápisu souboru.</string>
+        
+    <string name="humidity_level">Úroveň vlhkosti</string>
+        
+    <string name="humidity_water_info">Voda</string>
+        
+    <string name="humidity_on_off">ON / OFF</string>
+        
+    <string name="water_level_normal">normal</string>
+        
+    <string name="water_level_shortage">úbytek</string>
+        
+    <string name="not_connect_wait">Připojuji, čekejte prosim</string>
+        
+    <string name="auto">Automaticky</string>
+        
+    <string name="high">HD</string>
+        
+    <string name="standard">SD</string>
+        
+    <string name="video_not_download">Video se ještě nestáhlo</string>
+        
+    <string name="take_photo_success">Zachycení dokončeno prosím zadejte album na zobrazení:</string>
+        
+    <string name="live">Živé |</string>
+        
+    <string name="detection_move">Zjištěný pohyb</string>
+        
+    <string name="confirm_en_cancel">Zrušit</string>
+        
+    <string name="isrecording">Nahrávání videa</string>
+        
+    <string name="ota_upgrade_alert_info">Aktualizace firmwaru může způsobit změnu stavu zařízení, pokračovat?</string>
+        
+    <string name="recording_video">Konec nahavanie videa teď?</string>
+        
+    <string name="recording_audio">Konec rozhovor teď?</string>
+        
+    <string name="recording_video_not_max">Zaznam video, nelze změnit</string>
+        
+    <string name="recording_audio_not_max">Během hovoru není možné přepínání</string>
+        
+    <string name="quwen">Repelent</string>
+        
+    <string name="jiashi">zvlhčuje</string>
+        
+    <string name="fulizi">Anion</string>
+        
+    <string name="humidostat">Vlhkost</string>
+        
+    <string name="thermostat">Termostat</string>
+        
+    <string name="humidity_not_empty">Rozsah vlhkosti nesmí být prázdný!</string>
+        
+    <string name="humidity_range">Rozsah vlhkosti: 0 ~ 100</string>
+        
+    <string name="second_value_smaller_first">Druhá hodnota by měla být menší než 1. hodnota.</string>
+        
+    <string name="humidity_setting">Nastavení vlhkosti</string>
+        
+    <string name="temperature_setting">Nastavení teploty</string>
+        
+    <string name="temperature_not_empty">Teplotní rozsah nesmí být prázdný!</string>
+        
+    <string name="temperature_range">Teplotní rozsah: 0 ~ 100</string>
+        
+    <string name="ifan_start">Start</string>
+        
+    <string name="more">＞</string>
+        
+    <string name="less">＜</string>
+        
+    <string name="close_humdity">% vypni zvlhčovač</string>
+        
+    <string name="open_humidity">% zapni zvlhčovač</string>
+        
+    <string name="open_ifan">℃ zapni ventilátor</string>
+        
+    <string name="close_ifan">℃ vypni ventilátor</string>
+
+    <string name="apk_downloading">STAŽENÍ</string>
+        
+    <string name="device_not_belong_this_brand">Zařízení nepatří k této značce!</string>
+        
+    <string name="device_info_not_be_empty">ID a apikey nesmí být prázdné!</string>
+        
+    <string name="device_info_format">Neplatný ID formát zařízení!</string>
+        
+    <string name="add_device_failed">Přidání zařízení selhalo!</string>
+        
+    <string name="device_not_exist">Zařízení neexistuje!</string>
+        
+    <string name="add_subdevice_failed">Přidání sub zařízení selhalo!</string>
+        
+    <string name="find_brand_failed">vyhledání značky se nepodařilo!</string>
+        
+    <string name="find_mode_failed">vyhledání modelu se nepodařilo!</string>
+        
+    <string name="multiple_power_on">ON</string>
+        
+    <string name="multiple_power_off">OFF</string>
+        
+    <string name="log">Log</string>
+        
+    <string name="please_choose_device">Prosím vyberte zařízení.</string>
+        
+    <string name="add_condition">Přidat podmínku</string>
+        
+    <string name="add_execute_device">Přidat příkaz zařízení</string>
+        
+    <string name="please_operater_under_current_device">Vyberte si operace pod aktuálním zařízením!</string>
+        
+    <string name="smart_execute_device">Spustit zařízení</string>
+        
+    <string name="click_execute">Klikněte pro spuštění</string>
+        
+    <string name="select_trigger_condition">Vyberte podmínku spuštění</string>
+        
+    <string name="temp_bigger">Teplota ≥</string>
+        
+    <string name="temp_smaller">Teplota ≤</string>
+        
+    <string name="humi_bigger">Vlhkost ≥</string>
+        
+    <string name="humi_smaller">Vlhkost ≤</string>
+        
+    <string name="add_scene">Přidat scénu</string>
+        
+    <string name="tem_upper_smaller_lower">Horní hranice teploty by měla být větší než dolní hranice</string>
+        
+    <string name="tem_upper_not_equal_lower">Horní hranice teploty by se neměla rovnat spodní hranici</string>
+        
+    <string name="hum_upper_not_equal_lower">Horní hranice vlhkosti by měla být větší než dolní hranice</string>
+        
+    <string name="hum_upper_smaller_lower">Horní hranice vlhkosti by neměla rovnat spodní hranici</string>
+        
+    <string name="executing">Provádění</string>
+        
+    <string name="trigger_condition_device">Spouštěcí zařízení</string>
+        
+    <string name="edit_scene">Upravit scénu</string>
+        
+    <string name="please_input_number">Zadejte hodnotu</string>
+        
+    <string name="number_upper">Hodnota přesahuje horní hranici</string>
+        
+    <string name="sensor_tem_range">Rozsah teplot: 0-50</string>
+        
+    <string name="sensor_hum_range">Rozsah vlhkosti: 20-90</string>
+        
+    <string name="sensor_light_not_equal">Maximální a minimální hodnoty světla nemohou být stejné</string>
+        
+    <string name="sensor_air_not_equal">Maximální a minimální hodnoty kvality vzduchu nemohou být stejné</string>
+        
+    <string name="sensor_noisy_not_equal">Maximální a minimální hodnoty hluku nemohou být stejné</string>
+        
+    <string name="repeat_condition">Opakovaná podmínka!</string>
+        
+    <string name="tem_hum_dht11_tem_range">Rozsah teplot: 0-50</string>
+        
+    <string name="tem_hum_2301_tem_range">Rozsah teplot: -40-80</string>
+        
+    <string name="tem_hum_b20_tem_range">Rozsah teplot: -55-125</string>
+        
+    <string name="tem_hum_dht11_hum_range">Rozsah vlhkosti: 20-90</string>
+        
+    <string name="tem_hum_2301_hum_range">Rozsah vlhkosti: 0-100</string>
+
+    <string name="dialog_share_permit_timer">Povolení časovače</string>
+
+        
+    <string name="no_userful_device">Nejsou dostupné zařízení</string>
+        
+    <string name="duration_cycle">Cyklus</string>
+        
+    <string name="duration_delay">Prodleva</string>
+        
+    <string name="duration_delay_do">minutové spuštění:</string>
+        
+    <string name="duration_cycle_do">minutové spuštění:</string>
+        
+    <string name="delay_start_again">Začít znovu</string>
+        
+    <string name="delay_timer_executing_alert">(Po:%1$sd%2$shr%3$smin spustit)</string>
+        
+    <string name="delay_timer_stop_alert">(Po:%1$sd%2$shr%3$smin dokončit)</string>
+        
+    <string name="light_bigger_more">Horní hranice světla by měla být větší než jeho dolní hranice</string>
+        
+    <string name="air_bigger_more">Horní hranice kvality vzduchu by měla být větší než jeho dolní hranice</string>
+        
+    <string name="noise_bigger_more">Horní hranice hluku by měla být větší než jeho dolní hranice</string>
+        
+    <string name="udp_control_alert">Tuto funkci nelze použít v síti LAN.</string>
+        
+    <string name="lan_control">Ovládání prostřednictvím sítě LAN</string>
+        
+    <string name="isopen_timer">Povolit časovač</string>
+        
+    <string name="copy_success">Zkopírováno</string>
+
+    <string name="share_permit_timer">Povolení časovače:</string>
+        
+    <string name="share_permit_timer_enable">Povolit / Zakázat</string>
+        
+    <string name="share_device_request_failure">%1$s nepodařilo se sdílet dané zařízení</string>
+        
+    <string name="have_no_permission_timer">Zatím žádné povolení. Požádejte majitele zařízení o povolení.</string>
+        
+    <string name="word_timer">Časovač</string>
+        
+    <string name="word_timer_delay">Odpočítávací měřič</string>
+        
+    <string name="share_not_share_user">Přijímač odstranil zařízení</string>
+        
+    <string name="share_not_in_3_minute">Sdílení tímtéž uživatel za 3 min není povoleno.</string>
+        
+    <string name="share_time_out_3_minute">Prodleva sdílení</string>
+
+        
+    <string name="dialog_share_permit_add">Přidat</string>
+        
+    <string name="dialog_share_permit_edit">Upravit</string>
+        
+    <string name="dialog_share_permit_remove">Odstranit</string>
+        
+    <string name="dialog_share_permit_enable">Povolit</string>
+
+
+        
+    <string name="nest_current_tempc">Aktuální Tepl. ℃</string>
+        
+    <string name="nest_current_tempf">Aktuální Tepl. ℉</string>
+        
+    <string name="nest_target_tempc">Cílová Tepl. ℃</string>
+        
+    <string name="nest_target_tempf">Cílová Tepl. ℃</string>
+        
+    <string name="nest_humidity">Vlhkost</string>
+        
+    <string name="nest_whether_has_person">Nikdo doma?</string>
+        
+    <string name="nest_has_person">Ano</string>
+        
+    <string name="nest_has_no_person">Ne</string>
+        
+    <string name="select_nest_device">Vyberte hnízdo zařízení</string>
+        
+    <string name="pair_nest_device">Hnízdo zařízení</string>
+        
+    <string name="nest_show_has_person">Jsem doma</string>
+        
+    <string name="nest_show_has_no_person">Jsem pryč</string>
+        
+    <string name="add_nest_failed_400">Nepodařilo se přidat, chyba</string>
+        
+    <string name="add_nest_failed_401">Nepodařilo se přidat, nepodařilo se ověřit</string>
+        
+    <string name="add_nest_failed_403">Nepodařilo se přidat, přístup byl odepřen</string>
+        
+    <string name="add_nest_failed_409">Nepodařilo se přidání, toto zařízení již bylo přidáno</string>
+        
+    <string name="add_nest_failed_500">Nepodařilo se přidat vnitřní chyba serveru</string>
+        
+    <string name="nest_tempec_limit">Teplota ℃ rozsah: -50 ~ 150</string>
+        
+    <string name="nest_tempef_limit">Teplota ℉ rozsah: -122 ~ 302</string>
+        
+    <string name="nest_humidy_limit">Rozsah vlhkosti: 0 ~ 100</string>
+        
+    <string name="user_alreayexist">Uživatel již existuje</string>
+        
+    <string name="login_failed_lack_params">Přihlášení selhalo, chybí požadované údaje</string>
+        
+    <string name="login_failed_server_error">Přihlášení selhalo, chyba serveru</string>
+        
+    <string name="device_upgrade_failed">Aktualizace firmwaru selhala</string>
+        
+    <string name="nest_show_current_temp">Atuálná \nTemp teplota.</string>
+        
+    <string name="nest_show_target_temp">Cílová \nTemp teplota.</string>
+        
+    <string name="has_no_nest_to_add">Nelze přidat žádné zařízení</string>
+
+        
+    <string name="record_least_time">Nejméně 10 sekund na přehrávání, později se zastaví</string>
+
+        
+    <string name="p2p_connect_fail">peer-to-peer připojení selhalo</string>
+        
+    <string name="storage_space_not_enough">nedostatek úložného prostoru</string>
+        
+    <string name="camera_refresh">Obnovit</string>
+        
+    <string name="device_upgrade_success_version">Firmware zařízení byl úspěšně inovován na verzi%1$s</string>
+
+        
+    <string name="not_userful_qrcode">Neplatný QR kód</string>
+        
+    <string name="qr_scan_alert">Prosím naskenujte QR kód</string>
+        
+    <string name="qr_scan">Skenování</string>
+        
+    <string name="single_device_choose">Jednokanálové zařízení</string>
+        
+    <string name="want_know_more">Čti více</string>
+        
+    <string name="app_name2">EWeLink</string>
+        
+    <string name="please_input_phone_number">Číslo karty</string>
+
+    <string name="not_wifi_confirm_play_video">Určitě používáte mobilní údaje na přehrávání s upozorněními?</string>
+        
+    <string name="empty_url">webová adresa videa je prázdná</string>
+        
+    <string name="take_video_success">Záznam byl úspěšný, prosím, zadejte album na sledování</string>
+        
+    <string name="take_video_success2">Záznam byl úspěšný, prosím, zadejte album na sledování</string>
+        
+    <string name="gsm_phone_number">Číslo karty</string>
+        
+    <string name="gsm_recharge">Doplňte</string>
+        
+    <string name="gsm_package">Plán</string>
+        
+    <string name="gsm_total">Údaje celkem:</string>
+        
+    <string name="gsm_used">Využití dat:</string>
+        
+    <string name="gsm_has">Dostupné údaje:</string>
+        
+    <string name="switch_operat_history">Záznam</string>
+        
+    <string name="single_switch_history">Záznam</string>
+        
+    <string name="qr_shaoyishao">Scan QR kód</string>
+        
+    <string name="device">Zařízení</string>
+        
+    <string name="add_wexin_public_charge">Prosím, postupujte podle "coolkitcn", abyste doplnili Wech</string>
+        
+    <string name="switch_notify">Upozornění</string>
+        
+    <string name="switch_history">Akce</string>
+        
+    <string name="switch_time">Čas</string>
+        
+    <string name="switch_trigger_type">Spustit pomocí</string>
+        
+    <string name="device_state_changed">Stav zařízení se změnil</string>
+        
+    <string name="umeng_notification_switch_state_on">Zapni</string>
+        
+    <string name="umeng_notification_switch_state_off">Vypni</string>
+
+        
+    <string name="business_cooperation">Obchodní spolupráce</string>
+        
+    <string name="rgb5_bottom_white">Bílý</string>
+        
+    <string name="rgb5_bottom_color">Barevný</string>
+        
+    <string name="rgb5_bottom_situation">Výstup</string>
+        
+    <string name="rgb5_light">Zbytek</string>
+        
+    <string name="rgb5_read">Číst</string>
+        
+    <string name="rgb5_party">Skupina</string>
+        
+    <string name="rgb5_play">Náhodný</string>
+        
+    <string name="pair_gsm_device">GSM zařízení</string>
+        
+    <string name="rgb5_dark">Tmavý</string>
+        
+    <string name="rgb5_bright">Světlý</string>
+        
+    <string name="rgb5_cold">Studený</string>
+        
+    <string name="rgb5_warm">Teplý</string>
+        
+    <string name="open_rgb5">Prosím nejprve zapněte LED žárovku</string>
+
+
+    <string name="aromatherapy_light_switch">Světlo</string>
+        
+    <string name="aromatherapy_state_small">Málo</string>
+        
+    <string name="aromatherapy_state_big">Veľa</string>
+        
+    <string name="install_googleplay_first">Nainstalujte službu Google Play</string>
+        
+    <string name="app_downloading">Stahování</string>
+        
+    <string name="night_light">Noční světlo</string>
+        
+    <string name="water_level">Vodná hladina</string>
+        
+    <string name="opent_light_switch_first">Nejdříve zapněte vypínač</string>
+        
+    <string name="add_remote_control">Přidejte RF vzdálené ovládání</string>
+        
+    <string name="button_name">Tlačítko</string>
+        
+    <string name="wifi_rf_edit">Editovat</string>
+        
+    <string name="rf_single_button">1tlačítkový</string>
+        
+    <string name="rf_double_button">2-tlačítkový</string>
+        
+    <string name="rf_three_button">3-tlačítková</string>
+        
+    <string name="rf_four_button">4-tlačítkový</string>
+        
+    <string name="rf_curtain">Roleta</string>
+        
+    <string name="rf_alarm">Alarm</string>
+        
+    <string name="rf_open">Otevřít</string>
+        
+    <string name="rf_stop">Zavřít</string>
+        
+    <string name="rf_close">Zastavit</string>
+        
+    <string name="rf_remote_max_size">Podporuje až 4 dálkové ovladače RF</string>
+        
+    <string name="remote_control_name_not_empty">Název vzdáleného RF nesmí být prázdný</string>
+        
+    <string name="rf_channel_name_not_empty">Název tlačítka nemůže být prázdný</string>
+        
+    <string name="rf_has_item_alert">Stisknutím a podržením tlačítka vstoupíte do režimu učení</string>
+        
+    <string name="alarm_history">Historie alarmov</string>
+        
+    <string name="my_curtains">Moja roleta </string>
+        
+    <string name="my_remote_control">Moje RF vzdálené</string>
+        
+    <string name="rfbridge_edit">Upravit název</string>
+        
+    <string name="rfbridge_channel1_name">Tlačítko 1 Název:</string>
+        
+    <string name="rfbridge_channel2_name">Tlačítko 2 Název:</string>
+        
+    <string name="rfbridge_channel3_name">Tlačítko 3 Název:</string>
+        
+    <string name="rfbridge_channel4_name">Tlačítko 4 Název:</string>
+        
+    <string name="rfbridge_button_no_study">Tlačítko nebylo naučené</string>
+        
+    <string name="delete_this_remote_control">Odstraňte toto dálkové ovládání?</string>
+        
+    <string name="alarm_push">Přijmout alarm</string>
+        
+    <string name="alarm_time_push_at">Alarm se stal na</string>
+        
+    <string name="has_already_cancel_share">Zdieľanie zrušené.</string>
+        
+    <string name="nest_cancel_auth">Nest autorita zrušená</string>
+        
+    <string name="aromatherapy_colorful_light">Farba světla</string>
+        
+    <string name="top_than_close">Vyšší než toto, OFF</string>
+        
+    <string name="lower_than_open">Nižší než toto potom, ON</string>
+        
+    <string name="near_alarm">Poslední alarmy</string>
+        
+    <string name="ewelinktest">ewelink</string>
+        
+    <string name="rfbridge_remote_control_name">vzdálený název RF:</string>
+        
+    <string name="long_press_to_study_button">RF brána je v režimu učenia, stiskněte tlačítko dálkového ovladače nebo nechte alarm zhasnout za minutu.</string>
+        
+    <string name="enter_verifycode">Zadejte ověřovací kód</string>
+        
+    <string name="has_send_verifycode_please_get">Kontrolní kód byl odeslán, zkontrolujte ho.</string>
+        
+    <string name="click_to_get_verifycode">Prosím, klikněte na zaslání ověřovacího kódu.</string>
+        
+    <string name="beijing_temp_big_more">Prvá hodnota musí být větší než druhá.</string>
+        
+    <string name="beijing_temp_big_range">Teplotný rozsah: 6 ~ 35</string>
+        
+    <string name="beijing_temp_small_range">Teplotní rozsah: 5 ~ 34</string>
+        
+    <string name="beijing_temp_small_less">Druhá hodnota musí být menší než první</string>
+        
+    <string name="has_already_send_to_you">Kontrolní kód byl odeslán do vašeho telefonu nebo e-mailové schránky, zkontrolujte a vložte ho</string>
+
+
+</resources>

@@ -134,11 +134,11 @@
     <string name="err_length">Dĺžka nesmie presiahnuť max 512 znakov</string>
     <string name="enter_not_null">Vstup nemôže byť prázdny</string>
     <string name="device_info_title">Informácie o zariadení</string>
-    <string name="del_dialog">Odstraňuje sa časovač ...</string>
+    <string name="del_dialog">Deleting Schedule...</string>
 
     <string name="err_fomat">Zlý formát:</string>
     <string name="logining">Prihlasuje sa</string>
-    <string name="committime">Vytvára sačasovač ...</string>
+    <string name="committime">Creating Schedule...</string>
     <string name="login_failed">Prihlásenie zlyhalo, zlý účet, alebo heslo</string>
     <string name="login_failed_normal">Prihlásenie zlyhalo</string>
     <string name="shook_on">Kolísanie: open</string>
@@ -276,7 +276,7 @@
     <string name="title_update">Aktualizácia firmvéru, počkajte</string>
     <string name="lineoff_device">Zariadenie je offline</string>
     <string name="deviceupdate">Aktualizácia firmvéru, nepoužívajte opakovane</string>
-    <string name="timers">Časovač</string>
+    <string name="timers">Schedule</string>
     <string name="everydays">Každý deň</string>
     <string name="workdate">Deň v týždni</string>
     <string name="weekdate">víkend</string>
@@ -404,7 +404,7 @@
     <string name="operat_success">Úspešne</string>
     <string name="switch_power">Power:</string>
     <string name="operating">Prevádzka</string>
-    <string name="device_belong_other">Zariadenie patrí inému používateľovi!</string>
+    <string name="device_belong_other">We are not sure which account is the device owner. If you have added this device with other account before, please log in the other account to delete the device first. Then re-add it with your current account. Otherwise, please contact the seller.</string>
     <string name="back_device_list">Naspäť na zoznam</string>
     <string name="device_setting">Nastavenie</string>
     <string name="connect_device_fail">Nepodarilo sa pripojiť k zariadeniu. Prosím skúste znova</string>
@@ -642,7 +642,7 @@ based on your message history
     <string name="choose_device">Zvoľte zariadenie</string>
     <string name="no_choice_device">Žiadne voliteľné zariadenie</string>
     <string name="cardview_device_off_line">offline</string>
-    <string name="new_no_device_alert">V súčasnosti nie sú žiadne zariadenia, klepnite na tlačidlo nižšie, ktoré chcete pridať</string>
+    <string name="new_no_device_alert">There are no devices paired. Tap the \"add device\" button below to begin pairing devices</string>
     <string name="splash_timer">Časovač</string>
     <string name="splash_timer_text">Jeden kanálový soket / prepínač slučky časovač teraz! Loop timer môže byť automaticky vykonaný každý prednastavený čas (napr. 1 hod.) A pokračovať po kratší prednastavený čas (povedzme 20min). Podporovaná verzia firmvéru 1.5.0 a vyššia.</string>
     <string name="share_splash_text">Chcete, aby vaša rodina a priatelia ovládali vaše zariadenia? Jednoducho zdieľajte svoje zariadenia so svojim účtom!</string>
@@ -651,7 +651,7 @@ based on your message history
     <string name="back">Späť</string>
     <string name="everything_connect">Internet všetkého</string>
 
-    <string name="delay_timers">Časovač odpočítavania</string>
+    <string name="delay_timers">Timer</string>
     <string name="weekday">Deň:</string>
     <string name="new_timer_repeat">Opakujte:</string>
     <string name="action_one">Raz</string>
@@ -663,7 +663,7 @@ based on your message history
     <string name="new_timer_minute">Minúta</string>
     <string name="new_timer_after">Po</string>
     <string name="refresh_power">Obnoviť</string>
-    <string name="delay">Odpočítavanie</string>
+    <string name="delay">Timer</string>
     <string name="thisyear">Tento rok</string>
     <string name="nextyear">Ďalší rok</string>
     <string name="timer_start">Štart</string>
@@ -676,9 +676,9 @@ based on your message history
     <string name="only_timer_active_number">Povolené je len 8  časovačov (vrátane odpočítavania a časového spínača slučky)</string>
     <string name="device_offline_cant_operat">Zariadenie je offline, nemôžete teraz pracovať</string>
     <string name="add_delay_timers_success">Pridané úspešne</string>
-    <string name="create_delay">Vytváram časovač odpočítavania ...</string>
+    <string name="create_delay">Creating Timer...</string>
     <string name="delete_delayt_ok">Úspešne odstránené</string>
-    <string name="delete_delay_dialog">Odstránenie časovača odpočítavania ...</string>
+    <string name="delete_delay_dialog">Deleting Timer...</string>
 
 
     <string name="copy_text_and_open_wechat">S kopírovať účet WeChat a pokračovať</string>
@@ -849,10 +849,10 @@ based on your message history
     <string name="dialog_share_permit_timer">Povolenie časovača</string>
 
     <string name="no_userful_device">Nie sú dostupné žiadne zariadenia</string>
-    <string name="duration_cycle">Cyklus</string>
-    <string name="duration_delay">Oneskorenie</string>
-    <string name="duration_delay_do">minútové spustenie:</string>
-    <string name="duration_cycle_do">minútové spustenie:</string>
+    <string name="duration_cycle">Restart cycle every:</string>
+    <string name="duration_delay">After:</string>
+    <string name="duration_delay_do">minutes, change state to:</string>
+    <string name="duration_cycle_do">minutes, start in state:</string>
     <string name="delay_start_again">Začať znovu</string>
     <string name="delay_timer_executing_alert">(Po: %1$sd %2$shr %3$smin spustiť)</string>
     <string name="delay_timer_stop_alert">(Po: %1$sd %2$shr %3$smin dokončiť)</string>
@@ -940,14 +940,14 @@ based on your message history
     <string name="gsm_used">Využitie dát:</string>
     <string name="gsm_has">Dostupné údaje:</string>
     <string name="switch_operat_history">Záznam</string>
-    <string name="single_switch_history">Záznam</string>
+    <string name="single_switch_history">History</string>
     <string name="qr_shaoyishao">Scan QR kód</string>
     <string name="device">Zariadenie</string>
     <string name="add_wexin_public_charge">Prosím, postupujte podľa "coolkitcn", aby ste doplnili WeChat</string>
     <string name="switch_notify">Upozornenie</string>
-    <string name="switch_history">Akcia</string>
+    <string name="switch_history">State</string>
     <string name="switch_time">Čas</string>
-    <string name="switch_trigger_type">Spustiť pomocou</string>
+    <string name="switch_trigger_type">Source</string>
     <string name="device_state_changed">Stav zariadenia sa zmenil</string>
     <string name="umeng_notification_switch_state_on">Zapni</string>
     <string name="umeng_notification_switch_state_off">Vypni</string>
@@ -1282,6 +1282,8 @@ based on your message history
     <string name="language_choice_bulgaria">български</string>
     <string name="language_choice_turkey">Türkiye</string>
     <string name="language_choice_slovank">slovenského jazyk</string>
+    <string name="language_choice_slovenia">Slovenija Elijah jezik</string>
+
 
     <string name="aromatherapy_light_switch">light</string>
     <string name="aromatherapy_state_small">Small</string>
@@ -1322,8 +1324,8 @@ based on your message history
     <string name="has_already_cancel_share">Share canceled.</string>
     <string name="nest_cancel_auth">Nest authority canceled</string>
     <string name="aromatherapy_colorful_light">Color Light</string>
-    <string name="top_than_close">Higher Than This, OFF</string>
-    <string name="lower_than_open">Lower Than This, ON</string>
+    <string name="top_than_close">Target temp. upper limit</string>
+    <string name="lower_than_open">Target temp. lower limit</string>
     <string name="near_alarm">Recent Alarms</string>
     <string name="ewelinktest">易微联测试</string>
     <string name="rfbridge_remote_control_name">RF Remote Name:</string>
@@ -1336,5 +1338,16 @@ based on your message history
     <string name="beijing_temp_small_range">Temp. Range: 5~34</string>
     <string name="beijing_temp_small_less">The second value must be smaller than the first.</string>
     <string name="has_already_send_to_you">Verification code has been sent to your phone or mailbox, please check and enter</string>
+    <string name="login_failed_retry_later">Login failed, please retry later</string>
+    <string name="has_no_useful_remote">No RF Remotes found</string>
+    <string name="alarm_notification">Alarm notifications</string>
+    <string name="no_authority_ops">No permission</string>
+    <string name="no_rfbridge_remote">Click below button to add RF Remote</string>
+    <string name="sure_delete_remote">Delete this RF Remote?</string>
+    <string name="duration_open">On</string>
+    <string name="duration_close">Off</string>
+    <string name="goto_rfbridge_know_more">Enter RF Bridge details, learn more at Alarm History</string>
+    <string name="nest_account_changed">Changing Nest account will delete the added Nest device, continue?</string>
+    <string name="cardview_device_on_line">online</string>
 
 </resources>

@@ -125,7 +125,9 @@ We created this project to support translation for eWelink
 	values-eu-rES:西班牙语
 	values-el-rGR:希腊语
 	values-de-rDE:德语
-	
+	values-cs-rCZ:捷克语
+	values-sl-rSI:斯洛文尼亚语
+	values-pt-rPT:葡萄牙语
 	
 
 ## 翻译规则：
@@ -176,6 +178,9 @@ We created this project to support translation for eWelink
 	values-eu-rES: Spanish
 	values-el-rGR: Greek
 	values-de-rDE: German
+	values-cs-rCZ: Czech
+	values-sl-rSI: Slovenia
+	values-pt-rPT: Portugal
 
 ## Translation rules：
     For example:
