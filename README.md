@@ -61,25 +61,25 @@ We created this project to support translation for eWelink
 # IOS Translation Notes
 
 ## Translation File:
-  country-all.js :  country code translation
-  locale-da.json :  Danish translation
-  locale-en.json :  English translation
-  locale-it.json :  Italian translation
-  locale-pl.json :  Portuguese translation
-  locale-ru.json :  Russian translation
-  locale-zh.json :  Simplified Chinese translation
-  locale-zh_HK.json : Traditional Chinese (HK) translation
-  locale-zh_TW.json : Traditional Chinese (Taiwan) translation
-  locale-fr.json : French translator
-  locale-de.json : German translator
-  locale-es.json : Spanish translator
-  locale-bg.json : Bulgarian translator
-  locale-el.json : Greek translator
-  locale-sk.json : Slovakia translator
-  locale-tr.json : Turkic translator
-  locale-cs.json ：Czech translator
-  locale-pt_BR.json : Portuguese Brazil translator
-  locale-sl.json : Republika Slovenija translator
+  country-all.js :  country code translation <br/>
+  locale-da.json :  Danish translation <br/>
+  locale-en.json :  English translation <br/>
+  locale-it.json :  Italian translation <br/>
+  locale-pl.json :  Portuguese translation <br/>
+  locale-ru.json :  Russian translation <br/>
+  locale-zh.json :  Simplified Chinese translation <br/>
+  locale-zh_HK.json : Traditional Chinese (HK) translation <br/>
+  locale-zh_TW.json : Traditional Chinese (Taiwan) translation <br/>
+  locale-fr.json : French translator <br/>
+  locale-de.json : German translator <br/>
+  locale-es.json : Spanish translator <br/>
+  locale-bg.json : Bulgarian translator <br/>
+  locale-el.json : Greek translator <br/>
+  locale-sk.json : Slovakia translator <br/>
+  locale-tr.json : Turkic translator <br/>
+  locale-cs.json ：Czech translator <br/>
+  locale-pt_BR.json : Portuguese Brazil translator <br/>
+  locale-sl.json : Republika Slovenija translator <br/>
 
 ## Translation rules：
 
