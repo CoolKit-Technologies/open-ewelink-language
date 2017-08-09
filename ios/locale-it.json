@@ -682,7 +682,6 @@
   "FAIL_TO_RESTART_TIMER": "Failed to enable, please check network connectivity",
   "COPY_Social_SUCCESS": "Copy successfully",
   "COPY_Social_FAIL": "Copy failed",
-  "SELECT_ADD_MODEL_BLINK": "Seleziona la modalità lampeggiamento del LED. (Seleziona il 2° se il dispositivo ha il LED spento)",
   "DEVICE_INFO_NOKE_MORE": "More",
   "Operation_records": "Operation Records",
   "Operation_records_detail": "Operation notifications from hardware and share control users ",
