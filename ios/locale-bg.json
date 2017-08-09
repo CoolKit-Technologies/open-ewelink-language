@@ -683,7 +683,6 @@
   "FAIL_TO_RESTART_TIMER":"Неуспешна разрешаване, моля, проверете мрежовата връзка",
   "COPY_Social_SUCCESS":"Успешно копиране",
   "COPY_Social_FAIL":"Неуспешно копиране",
-  "SELECT_ADD_MODEL_BLINK":"Моля, как да мига осветлението. (Изберете 2, ако устройството позволява затъмняване)",
   "DEVICE_INFO_NOKE_MORE":"Повече",
   "Operation_records":"История",
   "Operation_records_detail":"Уведомления за хардуер и контрол на споделянето",

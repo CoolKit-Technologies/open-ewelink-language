@@ -1400,9 +1400,9 @@ angular.module('iotgo')
         },
         {
             zh_name: '英国',
-            en_name: 'United Kiongdom',
+            en_name: 'United Kingdom',
             ru_name: 'Великобритания',
-            da_name: 'United Kiongdom',
+            da_name: 'United Kingdom',
             prefix: '+44'
         },
         {

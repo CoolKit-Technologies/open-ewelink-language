@@ -681,7 +681,6 @@
   "FAIL_TO_RESTART_TIMER": "Failed to enable, please check network connectivity",
   "COPY_Social_SUCCESS": "Copy successfully",
   "COPY_Social_FAIL": "Copy failed",
-  "SELECT_ADD_MODEL_BLINK": "Please select LED blinking way. (Select the 2nd if your device is dimming LED)",
   "DEVICE_INFO_NOKE_MORE": "More",
   "Operation_records": "Operation Records",
   "Operation_records_detail": "Operation notifications from hardware and share control users ",
