@@ -110,7 +110,7 @@
   "WIFI_PASSWORD": "WiFi 密码",
   "CAN_USE_WIFI_DEVICE": "为设备联网选择一个WIFI",
   "DETERMINE_PAIR": "确认进入配对状态",
-  "SELECT_ADD_MODEL": "长按配对按钮,保持5秒左右,设备进入配对状态",
+  "SELECT_ADD_MODEL": "长按配对按钮,保持5秒左右,设备进入配对状态。",
   "DELAY_TIMING": "延时定时",
   "FAN_MODEL_NORMAL": "正常风",
   "FAN_MODEL_NATURAL": "自然风",
@@ -323,7 +323,6 @@
   "NO_SHARE": "该设备还未被分享，请点击下方按钮分享设备",
   "SHARE_DEVICE": "分享设备",
   "SHARE_DEVICE_REMOVE": "给您。设备将从您的账户删除",
-  "FAIL_TO_SEND_SMS": "发送短信验证码失败，请稍后再试",
   "FAIL_TO_SEND_SMS_CHECK": "请求短信验证码失败，请检查选择的地区，手机号码与网络连接状况",
   "FAIL_TO_SEND_SMS_LIMIT": "发送短信次数超过限制",
   "REQUEST_ERROR_CHECK": "请求格式错误，请检查必填字段",
@@ -682,7 +681,6 @@
   "TIMER_PERMISSIONS_ENABLE_AND_DISABLE": "启用/禁用",
   "FAILED_TO_UPDATE_SHARE_TRY_AGAIN": "修改定时器权限失败，请检查网络并重试",
   "NO_TIMER_PERMISSIONS": "没有权限操作，请联系设备主人配置权限。",
-  "SELECT_ADD_MODEL_BLINK": "请选择灯的闪烁方式。(如果购买的是调光调色吸顶灯，请选择第一个，开关三次，每次通/断时间大于2秒，灯进入呼吸闪烁状态)",
   "DEVICE_INFO_NOKE_MORE": "了解更多",
   "Operation_records": "操作记录",
   "Operation_records_detail": "设备端和分享用户操作通知",
@@ -796,9 +794,29 @@
   "RF_BRIDGE_REMOTE_BUTTON":"按键",
   "RF_BRIDGE_BUTTONNAME_NAME":"名称",
   "RF_BRIDGE_CHANGE_NAME_TITLE":"编辑名称",
-
   "NEST_DEVICE_AUTHORIZATION_FAIL":"nest授权失败，请检查网络并重试!",
-  "RF_BRIDGE_LONGPRESS_TIMEOUT":"请求超时！"
+  "RF_BRIDGE_LONGPRESS_TIMEOUT":"请求超时！",
 
+  "SELECT_ADD_MODEL_BLINK": "如果是球泡灯或灯带，开关三次，每次通电时间大于2秒，指示灯快闪，则设备进入配对状态。",
+  "ADD_DEVICE_TOUCH_SOCKET":"插座",
+  "ADD_DEVICE_TOUCH_PANEL_SWITCH":"面板开关",
+  "ADD_DEVICE_TOUCH_BALL_LINGHT":"球泡灯",
+  "ADD_DEVICE_TOUCH_LIGHT":"灯带",
+  "ADD_DEVICE_TOUCH_aromatherapy":"香薰机",
+  "ADD_DEVICE_WIFI_S20":"S20",
+  "ADD_DEVICE_WIFI_OTHER":"其他",
+
+  "ADD_DEVICE_ONLY_SUPPORT_WIFI":"(只支持2.4G wifi)",
+  "SCENE_EXECUTE_POWER_KEEY":"保持",
+  "SCENE_EXECUTE_NO_SELECT_OPERATION":"请选择执行操作",
+  "SCENE_EXECUTE_EXECUTE_ALL_SELECT_KEEP":"不能所有的通道都是保持",
+  "USER_FAQ_QUESTION":"配对失败...",
+  "USER_FAQ":"常见问题",
+  "USER_ECHO":"Amazon Echo",
+  "USER_GOOGLE_HOME":"Google Home",
+  "User_GOOGLE_NEST":"Google Nest",
+  "ADD_DEVICE_SUGGEST_WIFI":"请确保手机和设备尽量靠近WIFI路由器",
+  "CHECK_FAQ":"查看FAQ",
+  "FAIL_TO_SEND_SMS": "发送短信验证码失败，请稍后再试"
 
 }
