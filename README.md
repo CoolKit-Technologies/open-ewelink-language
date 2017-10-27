@@ -17,10 +17,13 @@ We created this project to support translation for eWelink
 	locale-fr.json : 法语翻译
 	locale-de.json : 德语翻译
 	locale-es.json : 西班牙语翻译
-	ios/locale-bg.json : 保加利亚语
-	ios/locale-el.json : 希腊语
-	ios/locale-sk.json : 斯洛伐克语
-	ios/locale-tr.json : 土耳其语
+	locale-bg.json : 保加利亚语
+	locale-el.json : 希腊语
+	locale-sk.json : 斯洛伐克语
+	locale-tr.json : 土耳其语
+	locale-cs.json ：捷克语
+	locale-pt_BR.json : 葡萄牙文(巴西)
+	locale-sl.json : 斯洛文尼亚语
 
 ## 翻译规则：
 	国家码翻译：对国家名称的国际化，使用JSON格式来描述一个国家，如果需要新增国家，请新增一个JSON格式
@@ -58,22 +61,25 @@ We created this project to support translation for eWelink
 # IOS Translation Notes
 
 ## Translation File:
-  country-all.js :  country code translation
-  locale-da.json :  Danish translation
-  locale-en.json :  English translation
-  locale-it.json :  Italian translation
-  locale-pl.json :  Portuguese translation
-  locale-ru.json :  Russian translation
-  locale-zh.json :  Simplified Chinese translation
-  locale-zh_HK.json : Traditional Chinese (HK) translation
-  locale-zh_TW.json : Traditional Chinese (Taiwan) translation
-  locale-fr.json : French translator
-  locale-de.json : German translator
-  locale-es.json : Spanish translator
-  locale-bg.json : Bulgarian translator
-  locale-el.json : Greek translator
-  locale-sk.json : Slovakia translator
-  locale-tr.json : Turkic translator
+  country-all.js :  country code translation <br/>
+  locale-da.json :  Danish translation <br/>
+  locale-en.json :  English translation <br/>
+  locale-it.json :  Italian translation <br/>
+  locale-pl.json :  Portuguese translation <br/>
+  locale-ru.json :  Russian translation <br/>
+  locale-zh.json :  Simplified Chinese translation <br/>
+  locale-zh_HK.json : Traditional Chinese (HK) translation <br/>
+  locale-zh_TW.json : Traditional Chinese (Taiwan) translation <br/>
+  locale-fr.json : French translator <br/>
+  locale-de.json : German translator <br/>
+  locale-es.json : Spanish translator <br/>
+  locale-bg.json : Bulgarian translator <br/>
+  locale-el.json : Greek translator <br/>
+  locale-sk.json : Slovakia translator <br/>
+  locale-tr.json : Turkic translator <br/>
+  locale-cs.json ：Czech translator <br/>
+  locale-pt_BR.json : Portuguese Brazil translator <br/>
+  locale-sl.json : Republika Slovenija translator <br/>
 
 ## Translation rules：
 
@@ -125,7 +131,9 @@ We created this project to support translation for eWelink
 	values-eu-rES:西班牙语
 	values-el-rGR:希腊语
 	values-de-rDE:德语
-	
+	values-cs-rCZ:捷克语
+	values-sl-rSI:斯洛文尼亚语
+	values-pt-rPT:葡萄牙语
 	
 
 ## 翻译规则：
@@ -176,6 +184,9 @@ We created this project to support translation for eWelink
 	values-eu-rES: Spanish
 	values-el-rGR: Greek
 	values-de-rDE: German
+	values-cs-rCZ: Czech
+	values-sl-rSI: Slovenia
+	values-pt-rPT: Portugal
 
 ## Translation rules：
     For example:

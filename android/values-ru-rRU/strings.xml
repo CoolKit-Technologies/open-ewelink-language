@@ -1,11 +1,10 @@
 <resources> <!--俄语 Русский-->
-
     <string name="upgrade_immediately">обновить сейчас</string>
     <string name="about_kuzhai">О приложении %1$s</string>
-    <string name="info_updates">Текущая версия является последней</string>
-    <string name="err_internet">Ошибка сети. проверьте, что устройство в режиме конфигурации.</string>
-    <string name="not_found_device">Устройства не найдены. Убедитесь, что устройство в режиме конфигурации</string>
-    <string name="not_device">Устройство не существует</string>
+    <string name="info_updates">Текущая версия является последней.</string>
+    <string name="err_internet">Ошибка сети. Проверьте, что устройство в режиме конфигурации.</string>
+    <string name="not_found_device">Устройства не найдены. Убедитесь, что устройство в режиме конфигурации.</string>
+    <string name="not_device">Устройство не существует.</string>
     <string name="air_cleaner">Воздухоочиститель</string>
     <string name="best">Лучшее</string>
     <string name="fine">Хорошее</string>
@@ -16,56 +15,47 @@
     <string name="wind_speed">Скорость ветра</string>
     <string name="fireplace_power_on">питание вкл</string>
     <string name="fireplace_power_off">питание выкл</string>
-
     <string name="air">Воздухr:</string>
-    <string name="temperature">Температура：</string>
-    <string name="c">Стоградусная</string>
-    <string name="humidity">Влажность：</string>
-    <string name="not_internet_current">Нет доступных сетей</string>
-
-
-    <string name="device_not_online">Устройство не в сети</string>
-
+    <string name="temperature">Температура:</string>
+    <string name="c">Цельсия</string>
+    <string name="humidity">Влажность:</string>
+    <string name="not_internet_current">Нет доступных сетей.</string>
+    <string name="device_not_online">Устройство не в сети.</string>
     <string name="operation_failure">Ошибка настройки</string>
     <string name="online">(В сети)</string>
     <string name="offline">(Не в сети)</string>
-    <string name="device_offline">Устройство не в сети, управление невозможно</string>
-    <string name="device_manufacturers">Производительr:</string>
+    <string name="device_offline">Устройство не в сети, управление невозможно.</string>
+    <string name="device_manufacturers">Производитель:</string>
     <string name="device_type">Модель:</string>
-    <string name="share_owner_device">Только владелец может поделиться устройством</string>
-    <string name="device_upgraded_to">Устройство может быть обновлено на</string>
-
-
+    <string name="share_owner_device">Только владелец может поделиться устройством.</string>
+    <string name="device_upgraded_to">Устройство может быть обновлено:</string>
     <string name="info_wait_upgrade">Изменение настроек при обновлении невозможно, пожалуйста, подождите</string>
-    <string name="info_sure_delete">Вы уверены что хотите удалить устройство</string>
+    <string name="info_sure_delete">Вы уверены что хотите удалить устройство?</string>
     <string name="del_group">Вы уверены что хотите удалить группу? </string>
-    <string name="ota_failed_upgrade">Устройство %1$s обновление прервано</string>
-    <string name="ota_success_upgrade">Устройство %1$s обновление успешно</string>
-    <string name="ota_finish_upgrade">Устройство %1$s обновление завершено</string>
-
+    <string name="ota_failed_upgrade">Устройство %1$s, обновление прервано.</string>
+    <string name="ota_success_upgrade">Устройство %1$s, обновление успешно.</string>
+    <string name="ota_finish_upgrade">Устройство %1$s, обновление завершено.</string>
     <string name="firmware_upgradeing">Устройство %1$s обновляется...</string>
     <string name="background_updateing">Устройство %1$s обновляется в фоновом режиме...</string>
-    <string name="sms_mustbenoempty">Код подтверждения не может быть пустым</string>
+    <string name="sms_mustbenoempty">Код подтверждения не может быть пустым.</string>
 
     <string name="tips">Напоминаниеr</string>
-    <string name="info_relogin">Ошибка. Войдите заново</string>
-
+    <string name="info_relogin">Ошибка. Войдите заново.</string>
     <string name="ok">Ok</string>
-    <string name="Save">Сохр</string>
+    <string name="Save">Сохр.</string>
     <string name="cancel">Отмена</string>
-    <string name="test_wechat">Тест wechat</string>
-    <string name="group_exits">Группа уже существует</string>
-    <string name="delete_group">Устройства в группе существуют. Вы уверены что хотите удалить группу?</string>
-    <string name="change_device">Изменить имя устройства</string>
-
-    <string name="info_not_change">Только владелец может менять имя устройства</string>
-    <string name="change_name_success">Успешно изменено</string>
-    <string name="change_name_failed">Ошибка смены имени</string>
+    <string name="test_wechat">Тест WeChat</string>
+    <string name="group_exits">Группа уже существует.</string>
+    <string name="delete_group">В группе существуют устройства, Вы уверены, что хотите удалить группу?</string>
+    <string name="change_device">Изменить имя устройства.</string>
+    <string name="info_not_change">Только владелец может менять имя устройства.</string>
+    <string name="change_name_success">Успешно изменено.</string>
+    <string name="change_name_failed">Ошибка смены имени.</string>
     <string name="waiting">Ожидание...</string>
     <string name="divece_name">Имя устройства:</string>
-    <string name="device_name_not">Имя устройства не может быть пустым</string>
+    <string name="device_name_not">Имя устройства не может быть пустым.</string>
     <string name="timer">Время</string>
-    <string name="once">Однажды</string>
+    <string name="once">Единожды</string>
     <string name="everyday">Каждый день</string>
     <string name="day">День</string>
     <string name="days">Раб. дни</string>
@@ -74,19 +64,16 @@
     <string name="add_timer_success">Добавлено успешно</string>
     <string name="delete_timer_success">Удалено успешно</string>
     <string name="date">День</string>
-
     <string name="add_timer_failed">Ошибка добавления таймера</string>
     <string name="delete_timer_failed">Ошибка удаления таймера</string>
     <string name="timer_set_err">Время просрочено</string>
-    <string name="only_number">Возможно использовать только 8 таймеров</string>
-
-
+    <string name="only_number">Возможно использовать только 8 таймеров.</string>
     <string name="repassword">Сбросить пароль</string>
     <string name="commit">Отправить</string>
     <string name="user_register">Регистрация</string>
-    <string name="password_not">Парол не может быть пустым</string>
-    <string name="enter_phone_numbers">Номер телефона or Email</string>
-    <string name="registering">Регистрацияg...</string>
+    <string name="password_not">Пароль не может быть пустым</string>
+    <string name="enter_phone_numbers">Номер телефона или email аккаунта</string>
+    <string name="registering">Регистрация...</string>
     <string name="resend">Переслать</string>
     <string name="change_user_info">Изменить информацию о пользователе</string>
     <string name="enter_name">Ввести новое имя</string>
@@ -94,64 +81,61 @@
     <string name="modify_name_success">Успешно изменено</string>
     <string name="modify_name_failed">Ошибка изменения имени</string>
     <string name="change_password">Старый пароль</string>
-    <string name="email_number">Email номер</string>
-    <string name="email_code">Email код</string>
+    <string name="email_number">Адрес Email</string>
+    <string name="email_code">код под-ния Email</string>
     <string name="sms_number">Номер телефона</string>
-    <string name="sms_code">Send Code</string>
+    <string name="sms_code">Отправить код</string>
+
+
+
 
     <string name="old_paswd_not">Старый пароль не может быть пустым</string>
     <string name="new_paswd_not">Новый пароль не может быть пустым</string>
-    <string name="secondary_not">Новый пароль не может быть пустым</string>
-    <string name="two_passwords_notsam">Новый пароль не указан</string>
-    <string name="info_old_paswd">Пароль должен содержать как минимум 8 символов</string>
+    <string name="secondary_not">Подтверждение пароля не может быть пустым</string>
+    <string name="two_passwords_notsam">Подтверждение не совпадает с паролем</string>
+    <string name="info_old_paswd">Старый пароль должен содержать как минимум 8 символов</string>
     <string name="info_fomat_paswd">Как минимум 8 символов</string>
-    <string name="info_check_internet">Нет соединения с сетью</string>
-
-    <string name="info_fomat_email">Укажите корректный E-mail </string>
-
+    <string name="info_check_internet">Нет соединения с сетью, проверьте...</string>
+    <string name="info_fomat_email">Укажите корректный E-mail</string>
     <string name="info_again_enter">Неверный старый пароль, введите заново</string>
-    <string name="change_password_failed">Ошибка изменения пароля:</string>
+    <string name="change_password_failed">Не удалось сменить пароль:</string>
     <string name="change_susess">Успешно изменено</string>
     <string name="user">Пользователь</string>
     <string name="user_online">Пользователь не в сети</string>
-    <string name="user_exist">Пользователь не существует</string>
+    <string name="user_exist">Такого аккаунта нет</string>
     <string name="share_success">Успешно</string>
     <string name="user_denied">Отказано</string>
     <string name="user_sharex">Уже поделились</string>
-    <string name="share_outtime">Таймаут</string>
+    <string name="share_outtime">Поделиться время вышло</string>
     <string name="wait_requset">Подтверждение</string>
     <string name="share_device">Поделиться устройством</string>
-
-    <string name="repeat_time">Повторить тайминг</string>
-
-    <string name="select_user">выбрать пользователя</string>
+    <string name="repeat_time">Повторение времени</string>
+    <string name="select_user">Выбрать пользователя</string>
     <string name="enter_phone_number">Неверный номер телефона</string>
     <string name="not_share_own">Поделиться с самим собой нельзя</string>
     <string name="has_share">Уже поделились</string>
-    <string name="err_cmdorfomat">Неверная команда или формат</string>
+    <string name="err_cmdorfomat">Неверная команда или неверный формат</string>
     <string name="err_server">Ошибка сервера</string>
     <string name="not_even">Номер для ответа некорректен:</string>
-    <string name="only_english">Только английский</string>
-    <string name="err_length">Длина более 512 символов</string>
-    <string name="enter_not_null">Не может быть пустым</string>
+    <string name="only_english">Только английский разрешен</string>
+    <string name="err_length">Длина не должна превышать 512 символов</string>
+    <string name="enter_not_null">Поле не может быть пустым</string>
     <string name="device_info_title">Информация об устройстве</string>
-    <string name="del_dialog">Таймер удаленияr...</string>
-
+    <string name="del_dialog">Удаление расписания</string>
     <string name="err_fomat">Неверный формат:</string>
     <string name="logining">Вход</string>
-    <string name="committime">Создание таймера...</string>
+    <string name="committime">Создание Расписания</string>
     <string name="login_failed">Ошибка входа, неверный логин или пароль</string>
     <string name="login_failed_normal">Ошибка входа</string>
     <string name="shook_on">Режим качания: вкл</string>
     <string name="shook_off">Режим качания: отк</string>
     <string name="device_one">Устройство 1</string>
     <string name="device_two">Устройство 2</string>
-    <string name="device_three">Утройство 3</string>
+    <string name="device_three">Устройство 3</string>
     <string name="device_four">Устройство 4</string>
-    <string name="register_success">Успешно зарегистрировано</string>
-
-    <string name="switch_net_error">Сетевая ошибка, повторите добавление еще раз</string>
-    <string name="connect_failed">Убедитесь, что устройство в статусе подключения</string>
+    <string name="register_success">Успешно зарегистрированы</string>
+    <string name="switch_net_error">Сетевая ошибка переключателя, повторите добавление еще раз</string>
+    <string name="connect_failed">Не удалось подключить. Убедитесь, что устройство в состоянии сопряжения</string>
     <string name="add_failed">Ошибка добавления</string>
     <string name="repeat_password_success">Пароль успешно сброшен</string>
     <string name="register_failed">Ошибка регистрации</string>
@@ -161,13 +145,12 @@
     <string name="download_install">Загрузка завершена, нажмите чтобы установить</string>
     <string name="download_complete">Загрузка завершена</string>
     <string name="not_internet">Нет досутпной сети</string>
-
     <string name="add_group">Новая группа</string>
-    <string name="add_device_group">Новая группа</string>
+    <string name="add_device_group">Новая группа устройств</string>
     <string name="edit_group">Редактировать группу</string>
 
-    <string name="timer_set">Таймер</string>
 
+    <string name="timer_set">Таймер</string>
     <string name="repeat">Повторить</string>
     <string name="one">Один </string>
     <string name="two">Два </string>
@@ -176,104 +159,95 @@
     <string name="five">Пять </string>
     <string name="six">Шесть</string>
     <string name="seven">Семь </string>
-
     <string name="complete">Сохранить</string>
     <string name="add_new_group">Добавить новую группу</string>
-
-    <string name="info_newtime">Таймер не задан, нажмите ниже, чтобы задать таймер</string>
+    <string name="info_newtime">Таймер не задан, нажмите ниже на значок, чтобы задать таймер</string>
     <string name="run_cmd">Редактировать таймер</string>
-
     <string name="switch_on">ВКЛ</string>
     <string name="off_switch">ВЫКЛ</string>
     <string name="time_set">Настройки времени</string>
-    <string name="single_timer">Одиночный тайминг</string>
+    <string name="single_timer">Одиночный таймер</string>
     <string name="modify_nickname">Изменить имя</string>
     <string name="undo_share">Остановить разделение</string>
-    <string name="hex_display">16 дисплей</string>
+    <string name="hex_display">hex указание</string>
     <string name="enter_cmd">Введите команду</string>
     <string name="assiic_directive">Assiic команда</string>
-    <string name="hex_directive">16ричная инструкция</string>
+    <string name="hex_directive">16-тиричная инструкция</string>
     <string name="clear_result">Очистить результат</string>
     <string name="share">Поделиться</string>
-    <string name="display_send">Отправка на дисплей</string>
-    <string name="send_verification_code">Переслать</string>
+    <string name="display_send">Указание отправки</string>
+    <string name="send_verification_code">Отправить</string>
     <string name="register">Регистрация</string>
     <string name="personal_infomation">Персональная информация</string>
-
     <string name="message_center">Центр сообщений</string>
     <string name="intelligent_scene">eWeLink вид</string>
-    <string name="feedback">Отзывы</string>
+    <string name="feedback">Обратная связь</string>
     <string name="login">Войти</string>
-    <string name="info_reset_password">Забыть пароль</string>
+    <string name="info_reset_password">Забыли пароль?</string>
     <string name="return_op">Вернуться</string>
     <string name="return_space">Вернуться</string>
-
     <string name="discovered_device">Найденные устройства</string>
     <string name="select_add_device">Выберите устройство для добавления</string>
     <string name="next">Далее</string>
     <string name="config_discover_device">Настроить найденные устройства</string>
     <string name="remember_wifi_password">Запомнить пароль Wifi</string>
     <string name="name_device">Назвать устройство</string>
-    <string name="my_smart_socketone">Мое устройство</string>
-    <string name="one_gear">первая передача</string>
-    <string name="two_gear">вторая передача</string>
-    <string name="third_gear">третья передача</string>
+    <string name="my_smart_socketone">Моё устройство</string>
+    <string name="one_gear">Уровень скорости 1</string>
+    <string name="two_gear">Уровень скорости 2</string>
+    <string name="third_gear">Уровень скорости 3</string>
+
 
     <string name="stall_mode">режим остановка</string>
     <string name="temperature_mode">режим температуры</string>
-    <string name="current_temperature">текущая температура</string>
-    <string name="loading">загрузка...</string>
+    <string name="current_temperature">текущая темп.</string>
+    <string name="loading">Загрузка...</string>
     <string name="old_password">Старый пароль</string>
     <string name="new_password">Новый пароль</string>
-    <string name="enter_new_passwod">введите новый пароль</string>
-    <string name="again_new_password">введите новый пароль</string>
+    <string name="enter_new_passwod">Введите новый пароль</string>
+    <string name="again_new_password">Введите новый пароль</string>
     <string name="set_group_nameicon">Назовите группу и присвойте значок</string>
-    <string name="enter_group_name">Введите имя группы</string>
-    <string name="selected_icon">выберите значок</string>
-    <string name="upload_icon">загрузить значок</string>
-
-    <string name="enter_share_nuber">Введите номер телефона, которым вы хотите поделиться</string>
-    <string name="find_new_version">Найдена новая версия, обновить?</string>
+    <string name="enter_group_name">Введите название группы</string>
+    <string name="selected_icon">Выберите значок</string>
+    <string name="upload_icon">Загрузить значок</string>
+    <string name="enter_share_nuber">Введите номер телефона, с которым вы хотите поделиться</string>
+    <string name="find_new_version">Найдена новая версия Еwelink, обновить до последней версии чтобы пользовать нормально</string>
     <string name="upgrade">Обновить</string>
-    <string name="enter_device_name">Ввести новое имя</string>
-    <string name="recevice_equipment">Вы получили уведомление о том, что с вами поделились устройством</string>
-    <string name="my_devices">Мое устройство</string>
+    <string name="enter_device_name">Ввести новое название</string>
+    <string name="recevice_equipment">Уведомление. С вами поделились устройством.</string>
+    <string name="my_devices">Моё устройство</string>
     <string name="delete">Удалить</string>
     <string name="firmware_upgrade">Обновить ПО</string>
-
     <string name="register_users">Регистрация</string>
     <string name="login_btn">Кнопка входа</string>
     <string name="reset_password">Сбросить пароль</string>
-    <string name="send_notification_msg">Отправ. сообщ. уведомл.</string>
-    <string name="set_timer_time">Детальный тайминг</string>
+    <string name="send_notification_msg">Отправ. уведомление</string>
+    <string name="set_timer_time">Одиночный таймер</string>
     <string name="setting_in">Установить в</string>
     <string name="minutes">Мин. позже</string>
-    <string name="cut">Вырезатьt</string>
+    <string name="cut">Вырезать</string>
     <string name="manager_group">Управление группой</string>
-    <!--<string name="exit_coolkit">Выйти из CoolKit</string>-->
 
-    <!--<string name="app_name">CoolKit</string>-->
-    <string name="app_name">EWeLink</string>
+
+    <string name="app_name">eWeLink</string>
     <string name="reciver_invite">Пользовтель %1$s хочет поделиться устройством %2$s с вами. Вы согласны?</string>
-    <string name="new_home_kit">eWeLink %1$s apk обновить</string>
-    <string name="versionString">Версия：%1$s, проверить на наличие новой версии</string>
-
-    <string name="hello_world">Привет, планета!</string>
+    <string name="new_home_kit">eWeLink %1$s apk обновление</string>
+    <string name="versionString">Текущая версия:%1$s, нажмите для проверки наличия обновлений</string>
+    <string name="hello_world">Здравствуй, мир!</string>
     <string name="action_settings">Настройки</string>
-    <string name="select_wifi">Выбрать eWeLink </string>
+    <string name="select_wifi">Выбрать wifi сеть </string>
     <string name="input_phone">Ввести номер телефона</string>
-    <string name="input_email">Ввести email</string>
-    <string name="name_or_pwd_is_empty">Имя пользователя или пароль пустые</string>
-    <string name="account_notvalid">Не действующий аккаунтt</string>
+    <string name="input_email">Ввести адрес-email</string>
+    <string name="name_or_pwd_is_empty">Имя пользователя или пароль оставили пустым</string>
+    <string name="account_notvalid">Такого аккаунта нет</string>
     <string name="input_account">Введите ваш аккаунт</string>
     <string name="phone_notvalid">Некорректный номер телефона</string>
-
     <string name="not_intent_word">Нет доступных WiFi сетей</string>
     <string name="select_date">Выберите хотя бы 1 день</string>
     <string name="title_update">Обновление ПО, подождите</string>
     <string name="lineoff_device">Устройство не в сети</string>
-    <string name="deviceupdate">Обновление ПО</string>
-    <string name="timers">Таймер</string>
+    <string name="deviceupdate">Обновление ПО, не сделать повторно</string>
+    <string name="timers">Расписание</string>
     <string name="everydays">Каждый день</string>
     <string name="workdate">Раб. дни</string>
     <string name="weekdate">Вых. дни</string>
@@ -288,82 +262,79 @@
     <string name="add_timers_success">Успешно добавлено</string>
     <string name="update_timers_ok">Успешно обновлено</string>
     <string name="update_timers_delay_ok">Успешно обновлено</string>
-    <string name="delete_timers_ok">Успешно удаленоy</string>
+    <string name="delete_timers_ok">Успешно удалено</string>
+
 
     <string name="onces">Однократно</string>
     <string name="describ_feebback">Ввести описание</string>
     <string name="feedback_success">Успешная отправка</string>
-    <string name="usernot_exsit">Пользователь не существует, зарегистрируйтесь</string>
+    <string name="usernot_exsit">Такого аккаунта нет, зарегистрируйтесь</string>
     <string name="feedback_fail">Ошибка отправки</string>
-    <string name="dataerr">Ошибка данных, попробуйте еще раз</string>
+    <string name="dataerr">Ошибка данных, повторите ещё раз</string>
     <string name="dev_offline">Устройство не в сети</string>
     <string name="outtimer">Таймаут запроса</string>
     <string name="choice_part">Выбрать регион</string>
     <string name="version">Тест</string>
-    <string name="info_kuzhai">EWeLink is a free smart home APP. \n\nEWeLink can control all smart home products from ITEAD and cooperated partners. It supports remotely turn on/off connected devices, set timing schedules, share devices, manage group and scene/smart scene. With EWeLink, you can adjust color and brightness for multiple RGB LED, you can monitor temperature and humidity for Sonoff TH, you can even monitor the air quality. \n\nMore devices are under development, please stay tuned.</string>
 
+
+    <string name="info_kuzhai">eWeLink является бесплатным приложением для умного дома.
+        \n\nС помощью EWeLink, пользователи могут управлять всеми устройствами умного дома, от компании ITEAD и других партнёров. Приложение имеет такие функции:--- дистанционно управлять подключенными устройствами, создавать расписание, таймера, делиться устройствами с другими, создавать группы, сценарий и гибкие сценарии. С помощью EWeLink, Вы можете регулировать цвет и яркость RGB LED ламп, контролировать температуру и влажность при пользовании устройств Sonoff TH10/16, контролировать качество воздуха.
+        \n\nМы будем выпускать для Вас больше устройств, пожалуйста, оставайтесь с нами.</string>
     <string name="error_sms_code">Неверный код подтверждения</string>
     <string name="reset_error">Ошибка сброса</string>
     <string name="reset_fail">Ошибка сброса</string>
     <string name="dont_reset_agin">Аккаунт уже существует, регистрация невозможна</string>
     <string name="countrycode_smscode_error">Неверный код страны или код подтверждения</string>
-
-    <string name="send_msg_limit">Превышена частота запроса кода подтверждения</string>
+    <string name="send_msg_limit">Превышено макс. кол-во запросов получения кода подтверждения</string>
     <string name="send_msg_fail_check">Ошибка отправки SMS, проверьте статус сети</string>
     <string name="send_msg_fail">Ошибка отправки SMS</string>
-
     <string name="send_email_fail_check">Ошибка отправки Email, проверьте статус сети</string>
     <string name="send_email_fail">Ошибка отправки Email</string>
-
-    <string name="send_email_success">Email успешно отправлен, проверьте</string>
-    <string name="send_sms_success">Успешная отправка сообщения, проверьте</string>
-    <string name="confirm">Успешно</string>
-    <string name="confirm_en_ok">OK</string>
+    <string name="send_email_success">Email успешно отправлен, проверьте почту.</string>
+    <string name="send_sms_success">Успешная отправка сообщения, проверьте входяшие смс.</string>
+    <string name="confirm">Подтвердить</string>
+    <string name="confirm_en_ok">Да</string>
     <string name="add_confirm">Да</string>
-    <string name="puls_select"> Выйти из выбора каналов</string>
+    <string name="puls_select"> Выбрать канал</string>
+    <string name="edit_dialog">Редактор таймера</string>
 
-    <string name="edit_dialog">Правка таймера</string>
-    <!-- <string name="del_dialog">Удаление таймера</string>-->
-    <string name="connectto_nopwd">Пароль не введен, вы уверены что у Wifi сети нет пароля? Нажмите "подтвердить" для продолжения</string>
+    <string name="connectto_nopwd">Пароль не введен, вы уверены что у Wifi сети нет пароля?</string>
     <string name="infoweek">Неделя</string>
-    <string name="equesdate">Ошибка таймера. Нельзя установить таймер на текущее время</string>
-    <string name="SSID_no_chinese">SSID не может включать китайкие символы</string>
+    <string name="equesdate">Ошибка таймера. Нельзя создать таймер на текущее время</string>
+    <string name="SSID_no_chinese">SSID не может включать китайские символы</string>
     <string name="pwd_no_chinese">Пароль не может включать китайские символы</string>
     <string name="Wifi_Name">Доступ к устройству WiFi:</string>
     <string name="Wifi_PassWord">WiFi пароль:</string>
     <string name="wifi_password_none">Пароль пусто</string>
-    <string name="change_name">Изменить имя устройства</string>
-    <string name="only_owner">Только владелец может смотреть</string>
+    <string name="change_name">Изменить название устройства</string>
+    <string name="only_owner">Только владелец может смотреть это.</string>
     <string name="productinfo">Информация об устройстве</string>
     <string name="firmware">Версия ПО:</string>
     <string name="canupgrade">Нажмите для обновления</string>
-    <string name="infoupgrade">Возможно обновить ПО. Перейдите в соответствующий пункт для обновления</string>
+    <string name="infoupgrade">Можно обновить ПО. Перейдите в настройки устройства для обновления.</string>
     <string name="deviceoffline">Устройство не в сети</string>
     <string name="et_search">Поиск</string>
-
-    <string name="name_repeat">Имя дублируется</string>
-
-    <string name="info_updateerr">Устройство не может быть обновлено online</string>
+    <string name="name_repeat">Название дублируется</string>
+    <string name="info_updateerr">Устройство не в сети, теперь вы не можете его обновить</string>
     <string name="confirm_new_password">Подтвердить пароль</string>
     <string name="change_password_out">Изменить пароль</string>
     <string name="virtual_fengshan">Электрический вентилятор</string>
     <string name="virtual_chazhuo">Розетка</string>
     <string name="line_real_device">Подключите реальное устройство</string>
     <string name="hour">час</string>
-    <string name="check_wifi">проверьте сеть</string>
-    <string name="group_add">Группировка новых устройств</string>
-    <string name="group_del">Удалить группировку устройств</string>
-    <string name="try_again_later">попробуйте позже</string>
+    <string name="check_wifi">Проверьте Wi-Fi сеть</string>
+    <string name="group_add">Добавить группу</string>
+    <string name="group_del">Удалить группу</string>
+    <string name="try_again_later">Попробуйте позже</string>
 
 
     <string name="send_config_over_time">Таймаут добавления, попробуйте позже</string>
     <string name="begintime">Время начала</string>
     <string name="intervaltime">Интервал</string>
-    <string name="keeptime">Время ожидания</string>
-
-    <string name="keep_not">Длительность на может быть нулевой</string>
+    <string name="keeptime">раб. время</string>
+    <string name="keep_not">Длительность раб. времени не может быть нулевой</string>
     <string name="interval_not">Интервал не может быть ноль</string>
-    <string name="keep_smaller_interval">Время ожидания не может быть меньше интервала</string>
+    <string name="keep_smaller_interval">Раб. время не может быть меньше интервала</string>
     <string name="switch_open">Вкл</string>
     <string name="switch_close">Выкл</string>
     <string name="start_action">Начать</string>
@@ -371,47 +342,45 @@
     <string name="data_exception">Ошибка данных, попробуйте позже</string>
     <string name="switchcountry">выберите вашу страну</string>
     <string name="password">Пароль</string>
-    <string name="language_actionbar_text">Переключить язык</string>
+    <string name="language_actionbar_text">Переключение языка</string>
     <string name="current_version">Текущий</string>
     <string name="change_nickname">Изменить имя</string>
     <string name="nickname">Ввести новое имя</string>
     <string name="on_change_language">Переключение</string>
     <string name="go_on">Продолжить</string>
     <string name="add_device">Добавить устройство</string>
-    <string name="retry">Попробовать еще</string>
-    <string name="retry_space">Попробовать еще</string>
+    <string name="retry">Попробуйте поже</string>
+    <string name="retry_space">Попробуйте поже</string>
     <string name="device_list">Мои устройства</string>
     <string name="change_language">Изменить язык</string>
     <string name="user_pwd">Пароль</string>
     <string name="search_failed">Ошибка поиска, попробуйте позже</string>
     <string name="sure_quit_add">Выйти?</string>
-
-    <string name="over">End</string>
+    <string name="over">Закончится</string>
     <string name="connected_device_wait">Подключение к устройству, подождите...</string>
     <string name="regist_device_wait">Регистрация, пожалуйста, подождите...</string>
-    <string name="device_has_been_register">Вы уже зарегистрировали устройство</string>
+    <string name="device_has_been_register">Вы уже добавили это устройство</string>
     <string name="delete_failed">Ошибка удаления, попробуйте позже!</string>
-    <string name="groupName_notRepeat">Имя группы не может быть таким же </string>
+    <string name="groupName_notRepeat">Название группы не может быть таким же </string>
     <string name="groupName_not">Имя группы не может быть пустым</string>
     <string name="operat_success">Успешно</string>
     <string name="switch_power">Мощность:</string>
-    <string name="operating">Выполняется</string>
-    <string name="device_belong_other">Устройство принадлежит другому пользователю</string>
+    <string name="operating">Операция</string>
+    <string name="device_belong_other">Мы не знаем какой аккаунт является главным аккаунтом для этого устройства. Если вы уже добавили это устройство ранее, сначала удалите это устройство из того аккаунта, а затем добавьте в текущий. Иначе же, свяжитесь с продавцом устройства.</string>
     <string name="back_device_list">Назад к списку</string>
     <string name="device_setting">Настройка</string>
     <string name="connect_device_fail">Ошибка подключения, попробуйте позже</string>
     <string name="notfound_deviceversion">ПО устройства не найдено</string>
-    <string name="only_own_operate">Только владелец устройства может выполнить команду</string>
-    <string name="alert_feedback">Отзыв</string>
+    <string name="only_own_operate">Только владелец устройства может это сделать</string>
+    <string name="alert_feedback">Обратная связь</string>
     <string name="delete_device">Удалить устройство</string>
     <string name="open">Открыть</string>
     <string name="close">Закрыть</string>
-    <string name="vibration_switch">Включить вибрацию</string>
+    <string name="vibration_switch">Вибрация</string>
     <string name="please_close">Закрыть</string>
-    <string name="no_sensor">Ошибка подключения к сенсору</string>
+    <string name="no_sensor">Ошибка получения данных датчика, проверьте подключение</string>
     <string name="no_permission_try_system">Ошибка прав доступа, проверьте настройки</string>
     <string name="need_extra_permission">Требуются дополнительные права, запросить?</string>
-
 
     <!--温湿度翻译-->
     <string name="uread">Не прочитано</string>
@@ -426,73 +395,69 @@
     <string name="hum_setting">Влажность</string>
     <!---->
 
+
     <string name="change_nickname_success">Успешно изменено</string>
-    <string name="operat_fail_retry">операция прервана, попробуйте позже!</string>
+    <string name="operat_fail_retry">Операция прервана, попробуйте позже!</string>
     <string name="auto_model">Авто</string>
     <string name="manual_model">Вручную</string>
     <string name="auto_model_unable_control">Невозможно контролировать устройтство в автоматическом режиме</string>
     <string name="enter_account">Введите аккаунт</string>
-    <string name="no_address">Вы не заполнили информацию контакте, продолжить?</string>
-    <string name="long_press_button">Нажмите кнопку подключения пока лампочка не будет мигать</string>
+    <string name="no_address">Вы не заполнили информацию о контакте, продолжить?</string>
+    <string name="long_press_button">Нажмите и удерживайте кнопку подключения, пока лампочка не начнёт быстро мигать.</string>
     <string name="choice_describe">Выберите метод подключения</string>
-    <string name="first_part">1 метод подключения - индикатор на устройстве периодически однократно мигает.</string>
-    <string name="second_part">2 метод подключения - индикатор периодически коротко мигает 3 раза.</string>
+    <string name="first_part">1 метод подключения - индикатор устройства мигает 1 раз и горит.</string>
+    <string name="second_part">2 метод подключения - индикатор мигает 3 раза и горит.</string>
     <string name="other_case">В других случаях</string>
     <string name="choice_state">Выберите состояние</string>
     <string name="not_find">Устройства не найдены</string>
     <string name="add_new_scene">Добавить сценарий</string>
     <string name="scene_name">Имя сценария</string>
-    <string name="scene_setting">Настр. Сцен</string>
+    <string name="scene_setting">Настр. сценария</string>
     <string name="scene_list_is_null">Список сценариев пуст</string>
     <string name="please_enter_scene_name">Введите имя сценария</string>
     <string name="updae_scene_fail">Ошибка изменения сценария</string>
     <string name="save_scene_fail">Ошибка сохранения сценария</string>
-    <string name="execute">Run</string>
+    <string name="execute">Выполнить</string>
     <string name="request_time_out">Таймаут запроса</string>
     <string name="delete_scene">Удалить сценарий</string>
-    <string name="delete_scene_fail">Удаление сценария прервано</string>
+    <string name="delete_scene_fail">Ошибка удаления сценария</string>
     <string name="scene_limit">Имя сценария не более 20 символов</string>
     <string name="channel1">Канал 1:</string>
     <string name="channel2">Канал 2:</string>
-    <string name="channel3">Каналl 3:</string>
+    <string name="channel3">Канал 3:</string>
     <string name="channel4">Канал 4:</string>
     <string name="keep">Держать</string>
     <string name="delete_scene_success">Сценарий успешно удален</string>
     <string name="channel">Канал</string>
     <string name="channel_name">Имя канала</string>
-    <string name="production">Предисловие</string>
-    <string name="weichatQR">WeChat аккаунт</string>
+    <string name="production">Сведения о продукте</string>
+    <string name="weichatQR">Аккаунт группы WeChat  </string>
     <string name="channel_name_not_be_empty">Имя канала не может быть пустым</string>
-    <string name="latest_version">Последнее:</string>
-
+    <string name="latest_version">Последняя:</string>
     <string name="wait_for_confirm">Ожидание подтверждения</string>
     <string name="Scene_log_detail">Детали</string>
-
     <string name="efan_model">Модель</string>
-    <string name="efan_normal">Норм</string>
+    <string name="efan_normal">Норм.</string>
     <string name="efan_natural">Натурал</string>
     <string name="efan_sleep">Спящ.</string>
     <string name="open_efan_first">Включите вентилятор</string>
     <string name="efan_speed">Скорость</string>
     <string name="efan_shake">Колебание</string>
-
     <string name="success">Успешно</string>
     <string name="failed">Ошибка</string>
     <string name="history">История записи</string>
-
-    <string name="slide_right_operat_device">Проведите по экрану вправо для управления</string>
+    <string name="slide_right_operat_device">Проведите по экрану вправо для управления добавляемыми устройствами</string>
     <string name="slide_right_group_device">Проведите вправо для группировки</string>
     <string name="click_scene_group">Добавить сценарий</string>
-
     <string name="i_know">Принято</string>
-    <string name="click_set_channel_name">Tap to name each channel</string>
+    <string name="click_set_channel_name">Нажмите для названия каждого канала</string>
     <string name="device_offline_check_net">Устройство не в сети, проверьте сеть</string>
     <string name="sure_delete_scene">Вы уверены, что хотите удалить сценарий?</string>
     <string name="open_fan">Открыть вентилятор</string>
     <string name="close_fan">Закрыть вентилятор</string>
     <string name="resetting">Сброс...</string>
     <string name="open_switch_first">Включите выключатель</string>
-    <string name="start">Старт</string>
+    <string name="start">Начать</string>
     <string name="end">Закончить</string>
     <string name="current_power">Текущая мощность:</string>
     <string name="total_power">Всего</string>
@@ -515,13 +480,6 @@
     <string name="history_power">История энергопорт.</string>
 
 
-    <string-array name="phone_managers">
-        <item>com.qihoo.appstore+360 Мобильный помощник</item>
-        <item>com.tencent.qqpimsecure+QQ Мобильн. приложение</item>
-        <item>com.qihoo360.mobilesafe+360 программа защиты</item>
-        <item>com.ijinshan.mguard+Kingsoft Mobile Guards</item>
-        <item>com.lbe.security+LBE Privacy Guard</item>
-    </string-array>
 
 
     <string-array name="country_code1">
@@ -566,7 +524,7 @@
         <item>Бруней   +673</item>
         <item>Болгария    +359</item>
         <item>Буркина Фасо    +226</item>
-        <item>Бурма   +95</item>
+        <item>Myanmar   +95</item>
         <item>Бурунди +257</item>
         <item>Камбоджа    +855</item>
         <item>Камерун    +237</item>
@@ -787,40 +745,34 @@
         <item>Зимбабве    +263</item>
         <item>Аланские о-ва   +358</item>
     </string-array>
+
+
     <string name="title_activity_main">Основные действия</string>
     <string name="county_locale">страна/локально</string>
-
     <string name="app_version">v0.3.4.3</string>
     <string name="tvApSsidTitle">SSID: </string>
     <string name="tvPasswordTitle">Пароль: </string>
-    <string name="switchIsSsidHiddenTitle">SSID не показываетсяn</string>
+    <string name="switchIsSsidHiddenTitle">SSID не показывается</string>
     <string name="spinnerTaskResultCountTitle">Подсчет результата</string>
     <string name="btnConfirmTitle">Подтвердить</string>
     <string name="title_activity_mask_actvity">Осн. Активности</string>
     <string name="title_activity_main22">Осн.22Активности</string>
-    <string name="title_activity_show_adding_device_type_actvity">ПоказатьТипактивностиУстройства
-    </string>
-    <string name="found_gen_one">найдено устр. 1 поколения\n%1$s</string>
-    <string name="found_gen_two">найдено устр. 2 поколения</string>
-    <string name="change_net">нажмите чтобы изменить wifi</string>
-    <string name="pls_enable_wifi">включите wlan</string>
-    <string name="delete_group_ok">удалить группу - успешно</string>
-    <string name="delete_group_fails">ошибка удаления группы</string>
-    <string name="update_success">обновить группу - успешно</string>
+    <string name="title_activity_show_adding_device_type_actvity">Показать тип активности устройства</string>
+    <string name="found_gen_one">найдено устройство 1 поколения\n%1$s</string>
+    <string name="found_gen_two">найдено устройство 2 поколения</string>
+    <string name="change_net">Измените wifi</string>
+    <string name="pls_enable_wifi">Включите wlan</string>
+    <string name="delete_group_ok">Группа успешно удалена</string>
+    <string name="delete_group_fails">Ошибка удаления группы</string>
+    <string name="update_success">Вы успешно обновили группу </string>
     <string name="title_activity_debug_settings">Настройки</string>
 
-    <!-- Strings related to Settings -->
 
-    <!-- Example General settings -->
     <string name="pref_header_general">Общие</string>
-
     <string name="pref_title_social_recommendations">Разрешить социальные рекомендации</string>
-    <string name="pref_description_social_recommendations">Рекомендации от людей к контакту форируются исходя из истории сообщений
-    </string>
-
+    <string name="pref_description_social_recommendations">Рекомендации от людей к контакту формируются исходя из истории сообщений</string>
     <string name="pref_title_display_name">Показать имя</string>
     <string name="pref_default_display_name">Иван Петров</string>
-
     <string name="pref_title_add_friends_to_messages">Добавить друзей в сообщения</string>
     <string-array name="pref_example_list_titles">
         <item>Всегда</item>
@@ -832,10 +784,7 @@
         <item>0</item>
         <item>-1</item>
     </string-array>
-
-    <!-- Example settings for Data & Sync -->
     <string name="pref_header_data_sync">Дата &amp; синх</string>
-
     <string name="pref_title_sync_frequency">Частота синх-ции</string>
     <string-array name="pref_sync_frequency_titles">
         <item>15 минут</item>
@@ -853,27 +802,22 @@
         <item>360</item>
         <item>-1</item>
     </string-array>
-
     <string name="pref_title_system_sync_settings">Настройки синх-ции системы</string>
-
-    <!-- Example settings for Notifications -->
     <string name="pref_header_notifications">Уведомления</string>
-
     <string name="pref_title_new_message_notifications">Новые сообщения-уведомления</string>
-
-    <string name="pref_title_ringtone">Рингтон</string>
+    <string name="pref_title_ringtone">Звук сигнала</string>
     <string name="pref_ringtone_silent">Без звука</string>
-
     <string name="pref_title_vibrate">Вибрация</string>
-    <string name="open_led">сначала включите свет</string>
 
+
+    <string name="open_led">сначала включите свет</string>
     <string name="add_new_timer">Новый таймер</string>
-    <string name="set_repeat_time">Повторить таймер</string>
+    <string name="set_repeat_time">Таймер обратного отсчета </string>
     <string name="set_delay_time">Задержка таймера</string>
     <string name="smart_scene">Умный сценарий</string>
     <string name="add_new_smart_scene">Добавить новый сценарий</string>
-    <string name="where_it_meet">Значение:</string>
-    <string name="device_excute">Выполнить:</string>
+    <string name="where_it_meet">Когда совпадает с значением:</string>
+    <string name="device_excute">Запуск:</string>
     <string name="when_temp">Температура ≥</string>
     <string name="tme_end_show">℃</string>
     <string name="when_temp_less">Температура ≤</string>
@@ -882,149 +826,133 @@
     <string name="hum_end_show">%</string>
     <string name="tem_hum_temperature">Температура</string>
     <string name="tem_hum_humdity">Влажность</string>
-    <string name="select_switch_operation">Выберите Вкл операцию</string>
+    <string name="select_switch_operation">Выберите операцию Выкл</string>
     <string name="enter_params">Введите параметры</string>
     <string name="select_condition">Выберите условия</string>
     <string name="smart_scene_time">Время:</string>
 
 
-
-
-    <string name="device_add_finish">завершить добавить</string>
-    <string name="first_requesting">первый запрос...</string>
-    <string name="second_requesting">второй запрос...</string>
+    <string name="device_add_finish">Завершить</string>
+    <string name="first_requesting">Первый запрос...</string>
+    <string name="second_requesting">Второй запрос...</string>
     <string name="device_dispatching">Отправка на сервер...</string>
     <string name="device_registing">Регистрация устройства ...</string>
     <string name="device_regist_done">Регистрация завершена</string>
-    <string name="longpress_to_state_pair">Нажмите и удерживайте кнопку на устройстве в течение 5 сек для вкл режима подключения</string>
+    <string name="longpress_to_state_pair">Нажмите и удерживайте кнопку на устройстве, пока зеленый светодиодный индикатор не начнет быстро мигать.</string>
     <string name="other_pair_instruction">Другие инструкции по подключению</string>
-    <string name="other_pair_instruction_led">Если индикатор на устройстве коротко мигает, включите-выключите устройство 3 раза подряд,  интервал между включением-выключением должен быть 2 сек, индикатор должен моргать, если устройство в режиме подключения.</string>
+    <string name="other_pair_instruction_led">Для подключения Sonoff dimming LED лампы, включите и выключите устройство 3 раза подряд. Интервал между включением-выключением должен быть 2 сек, затем светодиодный индикатор будет быстро мигать.</string>
     <string name="choose_wifi">Выберите Wifi сеть для устройства</string>
     <string name="pairing">Подключение...</string>
-
-
-
     <string name="pair_failure">Ошибка подключения</string>
-    <string name="pair_failure_reason_title_cannot_found_device">Ошибка поиска устройства, проверьте настройки</string>
+    <string name="pair_failure_reason_title_cannot_found_device">Ошибка поиска устройства, проверьте данные настройки</string>
     <string name="pair_failure_reason_title_error_in_process">Ошибка связи, для подключения следуйте инструкциям ниже</string>
-    <string name="pair_failure_reason_check_assistant">Проверьте настройки антивирусов и файерволлов, чтобы убедиться, что приложение ewelink может подключиться к сети интернет</string>
-    <string name="pair_failure_reason_check_device_pair_state">Устройство не в режиме подключения, переведите устройство в режим подключения</string>
-    <string name="pair_failure_reason_cannot_connect_manual_setting">"Ошибка подключения по Wifi? подключите устройство в ручном режиме. Шаги: зайдите в настройки Wifi, подключитесь к сети WiFi -"ITEAD-******" с паролем \"12345678\". Потом перейдите в eWeLink."</string>
-    <string name="pair_failure_reason_timeout_first_request">Первый таймаут подключения, попробуйте еще раз</string>
-    <string name="pair_failure_reason_timeout_second_request">Второй таймаут подключения, попробуйте еще раз</string>
+    <string name="pair_failure_reason_check_assistant">Проверьте настройки антивирусов и файерволлов, чтобы убедиться, что приложение Еwelink может подключиться к сети интернет</string>
+    <string name="pair_failure_reason_check_device_pair_state">Устройство не в состоянии сопряжения, переведите устройство в состояние сопряжения</string>
+    <string name="pair_failure_reason_cannot_connect_manual_setting">"Ошибка подключения по Wifi, подключите устройство в ручном режиме. Шаги: 1. зайдите в настройки Wifi 2. подключитесь к сети WiFi -"ITEAD-******" с паролем \"12345678\". </string>
+    <string name="pair_failure_reason_timeout_first_request">Первый таймаут подключения, попробуйте ещё раз</string>
+    <string name="pair_failure_reason_timeout_second_request">Второй таймаут подключения, попробуйте ещё раз</string>
     <string name="pair_failure_reason_check_wifi_pwd">Убедитесь, что вы ввели корректный пароль WiFi</string>
-    <string name="pair_failure_reason_check_net_enable">Ошибка, убедитесь, что ваша WiFi сеть работает корректно и попробуйте еще раз</string>
-    <string name="goto_system_setting"> Системные настройки WiFi</string>
+    <string name="pair_failure_reason_check_net_enable">Ошибка. Убедитесь, что ваша сотовая связь работает корректно и попробуйте еще раз</string>
+    <string name="goto_system_setting"> Вернуться в eWeLink. Системные настройки WiFi.</string>
     <string name="add_success2">Успешно добавлено</string>
-    <string name="add_success_but_not_name">Добавлено успешно, но устройство без имени, будет использовано имя.%1$s</string>
+    <string name="add_success_but_not_name">Добавлено успешно, но устройство без называния, будет использовано имя - %1$s</string>
     <string name="confirm_quit_name">Вы уверены, что не хотите назвать утройство?</string>
-    <string name="device_name_default">Мое&#160;устройство%1$s</string>
-    <string name="my_device">Мое устройство</string>
+    <string name="device_name_default">Моё&#160;устройство %1$s</string>
+    <string name="my_device">Моё устройство</string>
     <string name="two_temp_cant_be_equals">Температура не может быть одинаковой</string>
     <string name="two_hum_cant_be_equals">Влажность не может быть одинаковой</string>
     <string name="scene_device_list">Список устройств</string>
     <string name="tem_detail">Температура должна быть в пределах -999~999</string>
-    <string name="first_smaller_second">Значение первого параметра должно быть меньше чем значение второго параметра</string>
+    <string name="first_smaller_second">Значение первого параметра должно быть меньше значения второго параметра</string>
     <string name="third_smaller_fourth">Значение третьего параметра должно быть меньше значения четвертого параметра</string>
 
 
     <string name="confirm_to_state_pair">Подтвердите, что вы используете режим подключения</string>
-
-    <string name="wifi_name">WiFi Имя</string>
+    <string name="wifi_name">WiFi имя</string>
     <string name="wifi_pwd">WiFi пароль</string>
-
     <string name="click_me_to_select">Нажмите, чтобы выбрать устройство</string>
     <string name="current_scene_no_device">Нет устройств для сценария</string>
-    <string name="no_choice_device">нет факультативного устройства</string>
-    <string name="choose_device">выбрать устройство</string>
-    <string name="has_not_change_to_device_host">(устройство не доступно)</string>
-
-    <string name="cardview_device_off_line">офлайн</string>
-    <string name="new_no_device_alert">Нет устройств, нажмите "добавить"</string>
+    <string name="no_choice_device">Нет устройства для выбора</string>
+    <string name="choose_device">Выбрать устройство</string>
+    <string name="has_not_change_to_device_host">WiFi сеть устройства недоступна</string>
+    <string name="cardview_device_off_line">Не в сети</string>
+    <string name="new_no_device_alert">Нет подключенных устройств. Нажмите «Добавить устройство» для подключения.</string>
     <string name="splash_timer">Таймер</string>
-    <string name="splash_timer_text">Single channel socket/switch support loop timer now! Loop timer can be auto-executed every preset time(say 1hr), and continue for a shorter preset time(say 20min). Supported firmware version 1.5.0 and higher.</string>
-    <string name="share_splash_text">Хотите чтобы ваши друзья управляли устройством? Зарегистрируйте аккаунт и дайте им досутп!</string>
-    <string name="splash_share_device">Дать досутп</string>
-    <string name="goto_ewelink">Войти в eWeLink</string>
+    <string name="splash_timer_text">Теперь одноканальный выключатель поддерживает цикличный таймер! В режиме цикличного таймера, устройство может включаться по каждому часу и продолжит работать по расписанию таймера который вы создадите(например 20 минут). Необходимая версия устройства 1.5.0 или выше.</string>
+    <string name="share_splash_text">Хотите чтобы ваши друзья управляли вашими устройствами? Поделитесь с ними!</string>
+    <string name="splash_share_device">Поделиться устройством</string>
+    <string name="goto_ewelink">Войти в ЕWeLink</string>
     <string name="back">Назад</string>
-    <string name="everything_connect">Интернет вещей</string>
-    <string name="delay_timers">Таймер обрат. отсчета</string>
+    <string name="everything_connect">ЭТО ВАШ УМНЫЙ ДОМ</string>
+    <string name="delay_timers">Таймер</string>
     <string name="weekday">День:</string>
     <string name="new_timer_repeat">Повтор:</string>
     <string name="action_one">Однократно</string>
     <string name="action_repeat">Повтор</string>
-    <string name="new_timer_action">Поворот:</string>
+    <string name="new_timer_action">Движение:</string>
     <string name="new_timer_channel">Канал:</string>
     <string name="new_timer_data">Дата</string>
     <string name="new_timer_time">Время</string>
     <string name="new_timer_minute">Минута</string>
-    <string name="new_timer_after">После</string>
-
+    <string name="new_timer_after">Через</string>
     <string name="refresh_power">Обновить</string>
-    <string name="delay">Отсчет</string>
-
+    <string name="delay">Таймер</string>
     <string name="more">＞</string>
     <string name="less">＜</string>
 
-    <string name="apk_downloading">загрузка</string>
 
-
-    <string name="share_permit_timer">Timer permission:</string>
-    <string name="share_permit_timer_enable">Enable/Disable</string>
-    <string name="share_device_request_failure">%1$s Failed to share device</string>
-    <string name="have_no_permission_timer">No permission yet, Please ask device owner for permission.</string>
-    <string name="word_timer">Timer</string>
-    <string name="word_timer_delay">Delay timer</string>
-    <string name="share_not_share_user">Receiver has removed the device</string>
-    <string name="share_not_in_3_minute">Share to the same user in 3 min is not allowed.</string>
-    <string name="share_time_out_3_minute">Share has timed out</string>
-
-    <string name="dialog_share_permit_timer">Timer Permission</string>
-    <string name="dialog_share_permit_add">Add</string>
-    <string name="dialog_share_permit_edit">Modify</string>
-    <string name="dialog_share_permit_remove">Delete</string>
-    <string name="dialog_share_permit_enable">Enable</string>
-
-
+    <string name="apk_downloading">Загрузка</string>
+    <string name="share_permit_timer">Добавить права</string>
+    <string name="share_permit_timer_enable">Включить/Отключить</string>
+    <string name="share_device_request_failure">%1$s неудалось поделиться устройством</string>
+    <string name="have_no_permission_timer">Не возможно. Получите разрешение из аккаунта владельца этого устройства.</string>
+    <string name="word_timer">Таймер</string>
+    <string name="word_timer_delay">Таймер обратного отсчёта</string>
+    <string name="share_not_share_user">Приёмник уже удалил это устройство</string>
+    <string name="share_not_in_3_minute">Поделиться с одним и тем же пользователем в течение 3 минут нельзя.</string>
+    <string name="share_time_out_3_minute">Тайм-аут поделиться 3 мин</string>
+    <string name="dialog_share_permit_timer">Разрешение таймера</string>
+    <string name="dialog_share_permit_add">Добавить</string>
+    <string name="dialog_share_permit_edit">Изменить</string>
+    <string name="dialog_share_permit_remove">Удалить</string>
+    <string name="dialog_share_permit_enable">Включить</string>
     <string name="thisyear">Текущий год</string>
     <string name="nextyear">Следующий год</string>
-    <string name="timer_start">Старт</string>
-
+    <string name="timer_start">Начинать</string>
     <string name="coldwarm">Режим</string>
     <string name="brightness">Яркость</string>
-    <string name="delay_timer_cant_edit">Ошибка редактирования. Попробуйте еще раз после изменения или удаления текущих таймеров.</string>
-    <string name="no_custome_timer">Нет заданных таймеров. Нажмите кнопку ниже и задайте таймер</string>
-    <string name="no_delay_timer">Нет таймеров обратного отсчета. Нажмите кнопку ниже и задайте таймеры</string>
+    <string name="delay_timer_cant_edit">Ошибка редактора. Попробуйте еще раз после изменения или удаления текущих таймеров.</string>
+    <string name="no_custome_timer">Нет создаваемых заданных таймеров. Нажмите кнопку ниже для создания таймера</string>
+    <string name="no_delay_timer">Нет таймеров обратного отсчёта. Нажмите кнопку ниже для создания</string>
+
 
     <string name="only_timer_number">Общее количество таймеров (включая таймеры обратного отсчета и цикличные таймеры) не может быть более 20</string>
     <string name="only_timer_active_number">Общее количество действующих таймеров (включая таймеры обратного отсчета и цикличные таймеры) не может быть более 8</string>
-    <string name="device_offline_cant_operat">Устройство не в сети. Ошибка подключения</string>
-    <string name="create_delay">Создание таймера обратного отсчета...</string>
+    <string name="device_offline_cant_operat">Устройство не в сети</string>
+    <string name="create_delay">Создание Таймера...</string>
     <string name="delete_delayt_ok">Успешно удалено</string>
-    <string name="delete_delay_dialog">Удаление таймера обратного отсчета...</string>
-    <string name="need_permission_coarse">Разрешите доступ приложению Ewelink чтобы соединить устройства!</string>
-
-
+    <string name="delete_delay_dialog">Удаление Таймера...</string>
+    <string name="need_permission_coarse">Разрешите доступ приложению ЕWeLink чтобы добавить устройства!</string>
     <string name="duration_every">каждый</string>
     <string name="duration_hours">часы</string>
     <string name="duration_excute_once">минутное срабатывание</string>
     <string name="duration_later_execute">срабатывание через минут</string>
-    <string name="duration_start_time">время начала</string>
+    <string name="duration_start_time">ВРЕМЯ НАЧАЛА</string>
     <string name="duration_cancel">Отмена</string>
     <string name="duration_ok">Завершено</string>
     <string name="duration_delete">Удалить</string>
     <string name="duration_start">Включить</string>
     <string name="duration_2less1">Время 2 должно быть меньше времени 1</string>
-    <string name="duration_1not0">Врем не может быть 0</string>
-    <string name="duration_timer8">Ошибка создания, одновременно активных таймеров не более 8 (включая таймеры обратного отсчета и цикличные таймеры)</string>
-    <string name="duration_timer20">Ошибка создания, возможно установить не более 20 таймеров (включая таймеры обратного отсчета и цикличные таймеры)</string>
-    <string name="duration_create_fail">Ошибка создания цикличного таймера</string>
+    <string name="duration_1not0">Время не может быть 0</string>
+    <string name="duration_timer8">Ошибка создания. Одновременно активных таймеров не должно быть более 8 (включая таймеры обратного отсчёта и цикличные таймеры)</string>
+    <string name="duration_timer20">Ошибка создания. Возможно установить не более 20 таймеров (включая таймеры обратного отсчёта и цикличные таймеры)</string>
+    <string name="duration_create_fail">Ошибка создания цикличного таймера, попробуйте поже</string>
     <string name="duration_deleting">Удаление...</string>
     <string name="duration_delete_success">Успешно удалено</string>
     <string name="duration_creating">Создание...</string>
-    <string name="duration_updating">Продолжается...</string>
-    <string name="share_failed">Ошибка делегирования прав. Пользователь, которму делегируются права, не в сети. Сначала войдите в приложение Ewelink на устройстве пользователя.</string>
-    <string name="device_not_share_click_to_share">Нажмите кнопку ниже для делегирования прав</string>
+    <string name="duration_updating">Обновление...</string>
+    <string name="share_failed">Не удалось поделиться. Пользователь, с которым Вы поделились, не в сети. Попросите пользователя сначала войти в систему eWeLink.</string>
+    <string name="device_not_share_click_to_share">Нажмите кнопку ниже для разделения прав</string>
     <string name="list_already_has_account">Аккаунт уже в Вашем списке</string>
     <string name="sure_delete">Удалить?</string>
     <string name="duration_2not0">Время не может быть 0</string>
@@ -1034,26 +962,25 @@
     <string name="duration_timer">Цикличный таймер</string>
     <string name="ota_new_version">Новая версия:</string>
 
+
     <string name="scene">Сценарий</string>
     <string name="group">Группа</string>
     <string name="exit_logout">Выход</string>
-
-    <string name="power_stay">Оставаться</string>
+    <string name="power_stay">Запомнить</string>
     <string name="power_on">ВКЛ</string>
     <string name="power_off">ВЫКЛ</string>
     <string name="settinginfo_power_state">Питание на выключатель</string>
-    <string name="only_own_can_operation">Только владелец устройства может менять таймеры.</string>
+    <string name="only_own_can_operation">Только аккаунт владельцац устройства может менять таймеры.</string>
     <string name="fan_on">ВКЛ</string>
     <string name="fan_off">ВЫКЛ</string>
     <string name="add_success">Успешно добавлено!</string>
     <string name="notgrade">Последняя</string>
-    <string name="copy_text_and_open_wechat">Скопируйте аккаунт Wechat и следуйте инструкции</string>
-    <string name="has_not_installed_wechat">Wechat не установлен</string>
-    <string name="wechat_subscription_can_also_control">Контроль устройств через Wechat</string>
-
+    <string name="copy_text_and_open_wechat">Скопируйте аккаунт WeСhat и следуйте инструкции.</string>
+    <string name="has_not_installed_wechat">WeСhat не установлен</string>
+    <string name="wechat_subscription_can_also_control">Управлять устройствами через  WeСhat</string>
     <string name="all_device">Все устройства</string>
-    <string name="my_share">Устройства, права на которые делегированы</string>
-    <string name="share_to_me">Устройства, права на которые мне делегированы</string>
+    <string name="my_share">Устройства, права на которые даны мной</string>
+    <string name="share_to_me">Устройства, права на которые даны мне</string>
     <string name="device_ungroup">Устройства без группы</string>
     <string name="device_remove_from_group">Удалить из этой группы?</string>
     <string name="current_group_device">Список устройств</string>
@@ -1062,24 +989,22 @@
     <string name="group_nums_limit">Поддерживает макс. 20 групп</string>
     <string name="tip_group_empty_add">Нет текущих групп, нажмите кнопку ниже чтобы создать!</string>
     <string name="add_delay_timers_success">Успешно добавлено</string>
-
     <string name="duration_create_looper_success">Успешно добавлено</string>
     <string name="duration_update_looper_success">Успешно изменено</string>
     <string name="one_key_clean">Очистить</string>
-    <string name="no_add_trgiger">Нет условий срабатывания</string>
-    <string name="no_excute_result">Нет результата срабатывания</string>
-
+    <string name="no_add_trgiger">Нет условия триггера</string>
+    <string name="no_excute_result">Нет результата триггера</string>
     <string name="wait_user_response">Ожидание ответа...</string>
     <string name="device_list_no_net">Сеть не доступна</string>
     <string name="air_quality">Качество воздуха</string>
-    <string name="sensor_temp">Температура.</string>
+    <string name="sensor_temp">Темп.</string>
     <string name="temp_state_cold">Холодно</string>
     <string name="temp_state_comfortable">Комфортно</string>
     <string name="temp_state_hot">Тепло</string>
-    <string name="air_quality_good">Хорошее</string>
-    <string name="air_quality_moderate">Переменное</string>
-    <string name="air_quality_bad">Плохое</string>
-    <string name="sensor_humidity">Влаж.</string>
+    <string name="air_quality_good">Хорошо</string>
+    <string name="air_quality_moderate">Средне</string>
+    <string name="air_quality_bad">Плохо</string>
+    <string name="sensor_humidity">Влажность</string>
     <string name="sensor_hum_dry">Сухо</string>
     <string name="sensor_hum_normal">Нормально</string>
     <string name="sensor_hum_wet">Влажно</string>
@@ -1092,19 +1017,19 @@
     <string name="sensor_light_normal">Нормально</string>
     <string name="sensor_light_dusky">Темно</string>
     <string name="account_has_register">Аккаунт зарегистрирован!</string>
-    <string name="no_net_feedback_failed">Ошибка отправки отзыва, проверьте подключение.</string>
-    <string name="io_exception_feedback_failed">Ошибка отправки отзыва. Проблема чтения/записи файла</string>
+    <string name="no_net_feedback_failed">Ошибка при отправке обратной связи, проверьте подключение.</string>
+    <string name="io_exception_feedback_failed">Ошибка при отправке обратной связи. Проблема чтения/записи файла.</string>
     <string name="humidity_level">Уровень влажности</string>
     <string name="humidity_water_info">Вода</string>
     <string name="humidity_on_off">Вкл/Выкл</string>
-    <string name="water_level_normal">нормально</string>
-    <string name="water_level_shortage">недостаточно</string>
+    <string name="water_level_normal">Нормально</string>
+    <string name="water_level_shortage">Недостаточно</string>
     <string name="not_connect_wait">Подключение, подождите</string>
     <string name="auto">Авто</string>
-    <string name="high">Выоск.</string>
+    <string name="high">Высок.</string>
     <string name="standard">Стандарт.</string>
-    <string name="video_not_download">Видео не заружено</string>
-    <string name="take_photo_success">Снимок завершить,пожалуйста,введите управления файлами папки просмотреть видео</string>
+    <string name="video_not_download">Видео не загружено</string>
+    <string name="take_photo_success">Снимок сделан, пожалуйста, войдите в папку с файлами чтобы просмотреть.</string>
     <string name="live">Живое видео</string>
     <string name="detection_move">Детекция движения</string>
     <string name="confirm_en_cancel">Отмена</string>
@@ -1113,34 +1038,35 @@
     <string name="recording_video">Запись видео, выйти?</string>
     <string name="recording_audio">Голосовая связь ВКЛ, выйти?</string>
     <string name="recording_video_not_max">Идет запись видео, изменения невозможны</string>
-    <string name="recording_audio_not_max">Голосовая связь включена, отмена</string>
-    <string name="quwen">Водонепроницаемый</string>
+    <string name="recording_audio_not_max">Голосовая связь включена, изменения невозможны</string>
+    <string name="quwen">Отпугивание комаров</string>
     <string name="jiashi">Увлажненный</string>
     <string name="fulizi">Анион</string>
-    <string name="humidostat">Влаж</string>
-    <string name="thermostat">Темп</string>
+    <string name="humidostat">Влажность</string>
+    <string name="thermostat">Темп.</string>
     <string name="humidity_not_empty">Уровень влажности не может быть пустым!</string>
     <string name="humidity_range">Уровень влажности:0~100</string>
-    <string name="second_value_smaller_first">"-е значение должно быть меньше чем 1-е</string>
+    <string name="second_value_smaller_first">2-е значение должно быть меньше чем 1-е</string>
     <string name="humidity_setting">Настройка влажности</string>
     <string name="temperature_setting">Настройка температуры</string>
     <string name="temperature_not_empty">Диапазон температуры не может быть пустым!</string>
     <string name="temperature_range">Диапазон температуры:0~100</string>
     <string name="ifan_start">Старт</string>
-    <string name="close_humdity">Увлажнение ВЫКЛ</string>
-    <string name="open_humidity">Увлажнитель ВКЛ</string>
-    <string name="open_ifan">Вентилятор ВКЛ</string>
-    <string name="close_ifan">Вентилятор ВЫКЛ</string>
+    <string name="close_humdity">% Увлажнитель ВЫКЛ.</string>
+    <string name="open_humidity">% Увлажнитель ВКЛ.</string>
+    <string name="open_ifan">Вентилятор ВКЛ.</string>
+    <string name="close_ifan">Вентилятор ВЫКЛ.</string>
+
+
 
     <string name="device_not_belong_this_brand">Устройство не относится к этому бренду!</string>
-    <string name="device_info_not_be_empty">ID устройства, Имя и ключ не могут быть пустыми!</string>
+    <string name="device_info_not_be_empty">ID устройства, имя и ключ, не могут быть пустыми!</string>
     <string name="device_info_format">Неверный формат ID устройства!</string>
     <string name="add_device_failed">Ошибка добавления устройства! </string>
     <string name="device_not_exist">Устройство не существует!</string>
     <string name="add_subdevice_failed">Ошибка добавления подустройства!</string>
     <string name="find_brand_failed">Ошибка поиска бренда!</string>
     <string name="find_mode_failed">Ошибка поиска модели!</string>
-
     <string name="multiple_power_on">ВКЛ</string>
     <string name="multiple_power_off">ВЫКЛ</string>
     <string name="log">История</string>
@@ -1150,11 +1076,11 @@
     <string name="please_operater_under_current_device">Выберите управление для данного устройства!</string>
     <string name="smart_execute_device">Исполнительные устройства</string>
     <string name="click_execute">Нажмите чтобы исполнить</string>
-    <string name="select_trigger_condition">Выберите условие срабатывания</string>
-    <string name="temp_bigger">Температура более</string>
-    <string name="temp_smaller">Температура менее</string>
-    <string name="humi_bigger">Влажность более</string>
-    <string name="humi_smaller">Влажность менее</string>
+    <string name="select_trigger_condition">Выберите условие триггера</string>
+    <string name="temp_bigger">Температура ?</string>
+    <string name="temp_smaller">Температура ?</string>
+    <string name="humi_bigger">Влажность ?</string>
+    <string name="humi_smaller">Влажность ?</string>
     <string name="add_scene">Добавить сценарий</string>
     <string name="tem_upper_smaller_lower">Верхняя граница температуры должна быть более нижней</string>
     <string name="tem_upper_not_equal_lower">Верхняя граница температуры не должна быть равна нижней</string>
@@ -1162,7 +1088,7 @@
     <string name="hum_upper_smaller_lower">Верхняя граница влажности не должна быть равна нижней</string>
     <string name="executing">Исполняется</string>
     <string name="trigger_condition_device">Устройство срабатывания</string>
-    <string name="edit_scene">Редактировать сценарий</string>
+    <string name="edit_scene">Редактор сценария</string>
     <string name="please_input_number">Введите значение</string>
     <string name="number_upper">Значение превышает верхнюю границу</string>
     <string name="sensor_tem_range">Диапазон температуры: 0-50</string>
@@ -1177,123 +1103,124 @@
     <string name="tem_hum_dht11_hum_range">Диапазон влажности: 20-90</string>
     <string name="tem_hum_2301_hum_range">Диапазон влажности: 0-100</string>
     <string name="no_userful_device">Нет доступных устройств</string>
-    <string name="duration_cycle">Цикл:</string>
-    <string name="duration_delay">Задержка</string>
-    <string name="duration_delay_do">минут старт:</string>
-    <string name="duration_cycle_do">минут старт:</string>
+    <string name="duration_cycle">Перезапускать цикл кажды:</string>
+    <string name="duration_delay">После:</string>
+    <string name="duration_delay_do">минут, изменить состояние на:</string>
+    <string name="duration_cycle_do">минут, начать в состоянии:</string>
     <string name="delay_start_again">Начать снова</string>
-    <string name="delay_timer_executing_alert">(After: %1$sd %2$shr %3$smin Running)</string>
-    <string name="delay_timer_stop_alert">(After: %1$sd %2$shr %3$smin completed)</string>
+    <string name="delay_timer_executing_alert">(После: %1$sсек %2$sчас %3$sмин действовать)</string>
+    <string name="delay_timer_stop_alert">(После: %1$sсек %2$sчас %3$sмин завершено)</string>
     <string name="light_bigger_more">Верхний уровень освещенности должен быть больше чем нижний</string>
     <string name="air_bigger_more">Верхний уровень качества воздуха должен быть больше чем нижний</string>
     <string name="noise_bigger_more">Верхний уровень шума должен быть больше чем нижний</string>
     <string name="copy_success">Копирование успешно</string>
     <string name="udp_control_alert">Невозможно использовать данную функцию в LAN</string>
-    <string name="lan_control">Контроль по LAN</string>
+    <string name="lan_control">Управлять по LAN</string>
     <string name="isopen_timer">Включить таймер?</string>
-    <string name="new_user_center_group">%1$s&#160;Группа</string>
-    <string name="new_user_center_scene">%1$s&#160;Сценарий</string>
+    <string name="new_user_center_group">%1$s&#160; Группа</string>
+    <string name="new_user_center_scene">%1$s&#160; Сценарий</string>
 
-    <string name="youqiao_statistics">Statistics</string>
-    <string name="youqiao_alarm">Alarm</string>
-    <string name="youqiao_download">Download</string>
-    <string name="youqiao_fee_rate">Electricity Rate</string>
-    <string name="youqiao_fee_rate_per_unit">/kWh</string>
-    <string name="youqiao_energy_now">Real-time Power</string>
-    <string name="youqiao_threshold">Threshold</string>
-    <string name="youqiao_electric">Current</string>
-    <string name="youqiao_voltage">Voltage</string>
-    <string name="youqiao_alarm_thresold">Alarm Thresold Setting</string>
-    <string name="youqiao_reset">Reset</string>
-    <string name="youqiao_fee">Electric Charge</string>
-    <string name="youqiao_fee_total">Total:</string>
-    <string name="youqiao_not_null_input_thresold">Please input %1$s</string>
-    <string name="youqiao_history_download_success">Downloaded to directory:\n%1$s</string>
-    <string name="youqiao_history_download_failure">Download failed, please check the storage card is correct</string>
-    <string name="youqiao_has_no_100_day_data">Has no history data,try later please.</string>
+
+    <!--youqiao-->
+    <string name="youqiao_statistics">Статистика</string>
+    <string name="youqiao_alarm">Тревога</string>
+    <string name="youqiao_download">Загрузка</string>
+    <string name="youqiao_fee_rate">Уровень электроэнергии</string>
+    <string name="youqiao_fee_rate_per_unit">/КВч</string>
+    <string name="youqiao_energy_now">Энергия в реальном времени</string>
+    <string name="youqiao_threshold">Пороговое значение</string>
+    <string name="youqiao_electric">Текущий</string>
+    <string name="youqiao_voltage">Напряжение</string>
+    <string name="youqiao_alarm_thresold">Настройка порога порогового значения</string>
+    <string name="youqiao_reset">Сброс</string>
+    <string name="youqiao_fee">Электрическая зарядка</string>
+    <string name="youqiao_fee_total">Всего:</string>
+    <string name="youqiao_not_null_input_thresold">Введите предельное значение %1$s</string>
+    <string name="youqiao_history_download_success">Загрузка в каталог:\n%1$s</string>
+    <string name="youqiao_history_download_failure">Ошибка загрузки, проверьте карту памяти</string>
+    <string name="youqiao_has_no_100_day_data">Нет истории данных, попробуйте поже.</string>
 
 
 
     <!--nest-->
-    <string name="nest_current_tempc">Current Temp.℃</string>
-    <string name="nest_current_tempf">Current Temp.℉</string>
-    <string name="nest_target_tempc">Target Temp.℃</string>
-    <string name="nest_target_tempf">Target Temp.℉</string>
-    <string name="nest_humidity">Humidity</string>
-    <string name="nest_whether_has_person">Anybody home?</string>
-    <string name="nest_has_person">Yes</string>
-    <string name="nest_has_no_person">No</string>
-    <string name="select_nest_device">Select Nest Device</string>
-    <string name="pair_nest_device">Nest Device</string>
-    <string name="nest_show_has_person">I’m home</string>
-    <string name="nest_show_has_no_person">I’m away</string>
-    <string name="add_nest_failed_400">Failed to add, error</string>
-    <string name="add_nest_failed_401">Failed to add,verify failed</string>
-    <string name="add_nest_failed_403">Failed to add,permission denied</string>
-    <string name="add_nest_failed_409">Failed to add,this device has already been added</string>
-    <string name="add_nest_failed_500">Failed to add,internal server error</string>
-    <string name="nest_tempec_limit">Temperature ℃ range: -50 ~ 150</string>
-    <string name="nest_tempef_limit">Temperature ℉ range: -122 ~ 302</string>
-    <string name="nest_humidy_limit">Humidity range: 0 ~ 100</string>
-    <string name="user_alreayexist">User already exists</string>
-    <string name="login_failed_lack_params">Login failed, required parameter missing</string>
-    <string name="login_failed_server_error">Login failed, server error</string>
-    <string name="device_upgrade_failed">Device firmware upgrade failed</string>
-    <string name="nest_show_current_temp">Current\nTemp.</string>
-    <string name="nest_show_target_temp">Target\nTemp.</string>
-    <string name="has_no_nest_to_add">No Nest devices can be added</string>
+    <string name="nest_current_tempc">Текущая темп.℃</string>
+    <string name="nest_current_tempf">Текущая температура.℉</string>
+    <string name="nest_target_tempc">Целевая температура.℃</string>
+    <string name="nest_target_tempf">Целевая температура.℉</string>
+    <string name="nest_humidity">Влажность</string>
+    <string name="nest_whether_has_person">Есть кто-нибудь дома?</string>
+    <string name="nest_has_person">Да</string>
+    <string name="nest_has_no_person">Нет</string>
+    <string name="select_nest_device">Выберите Nest устройство</string>
+    <string name="pair_nest_device">Устройство Nest</string>
+    <string name="nest_show_has_person">Я дома</string>
+    <string name="nest_show_has_no_person">Я ушёл</string>
+    <string name="add_nest_failed_400">Ошибка добавления</string>
+    <string name="add_nest_failed_401">Ошибка добавления, проверка не удалась</string>
+    <string name="add_nest_failed_403">Ошибка добавления, доступ запрещен</string>
+    <string name="add_nest_failed_409">Ошибка добавления, это устройство уже добавлено</string>
+    <string name="add_nest_failed_500">Ошибка добавления, внутренняя ошибка сервера</string>
+    <string name="nest_tempec_limit">Температурный диапазон: -50 ~ 150</string>
+    <string name="nest_tempef_limit">Температурный диапазон:  -122 ~ 302</string>
+    <string name="nest_humidy_limit">Диапазон влажности: 0 ~ 100</string>
+    <string name="user_alreayexist">Этот пользователь существует</string>
+    <string name="login_failed_lack_params">Авторизация не удалась, запрашиваемый параметр отсутствует</string>
+    <string name="login_failed_server_error">Авторизация не удалась, ошибка сервера</string>
+    <string name="device_upgrade_failed">Ошибка прошивки устройства</string>
+    <string name="nest_show_current_temp">Текущая\nтемп-ра.</string>
+    <string name="nest_show_target_temp">Целевая\nтемп-ра.</string>
+    <string name="has_no_nest_to_add">Нет Nest устройства для добавления</string>
 
-    <string name="record_least_time">At least 10 seconds to play,stop later</string>
 
-    <string name="p2p_connect_fail">p2p connect fail</string>
-    <string name="storage_space_not_enough">storage space not enough</string>
-    <string name="camera_refresh">Refresh</string>
-    <string name="device_upgrade_success_version">Device firmware successfully upgrade to version %1$s</string>
-
-    <string name="not_userful_qrcode">Invalid QR code</string>
-    <string name="qr_scan_alert">Please scan QR code</string>
-    <string name="qr_scan">Scanning </string>
-    <string name="single_device_choose">Single Channel Device</string>
-    <string name="want_know_more">Learn More</string>
+    <string name="record_least_time">Менее 10 секунд для воспроизведения, остановка позже</string>
+    <string name="p2p_connect_fail">p2p соединение не установлено</string>
+    <string name="storage_space_not_enough">недостаточно места на карте памяти</string>
+    <string name="camera_refresh">Обновить</string>
+    <string name="device_upgrade_success_version">Обновление прошивки устройство до верии %1$s</string>
+    <string name="not_userful_qrcode">Неправильный QR код</string>
+    <string name="qr_scan_alert">Пожалуйста отсканируйте QR код</string>
+    <string name="qr_scan">Сканирование</string>
+    <string name="single_device_choose">Одноканальное устройство</string>
+    <string name="want_know_more">Узнать больше</string>
     <string name="app_name2">EWeLink </string>
-    <string name="please_input_phone_number">Card Number</string>
+    <string name="please_input_phone_number">Пожалуйста, введите номер</string>
+    <string name="not_wifi_confirm_play_video"> WiFi сети нет, вы действительно хотите использовать сотовую связь для воспроизведения видеосигнала?</string>
+    <string name="empty_url"> url видео не установлено</string>
+    <string name="take_video_success">Запись успешна, перейдите к альбому для просмотра.</string>
+    <string name="take_video_success2">Запись успешна, перейдите к альбому для просмотра.</string>
+    <string name="gsm_phone_number">Номер телефона</string>
+    <string name="gsm_recharge">Наверх</string>
+    <string name="gsm_package">Тарифный план:</string>
+    <string name="gsm_total">Всего данных:</string>
+    <string name="gsm_used">Занятные данные:</string>
+    <string name="gsm_has">Доступные данные:</string>
+    <string name="switch_operat_history">Управление записью</string>
+    <string name="single_switch_history">История</string>
+    <string name="qr_shaoyishao">Отсканировать QR код</string>
+    <string name="device">Устройство</string>
+    <string name="add_wexin_public_charge">Найдите и закрепите "coolkitcn", чтобы он был всегда наверху в списке WeChat.</string>
+    <string name="switch_notify">Уведомления</string>
+    <string name="switch_history">Состояние</string>
+    <string name="switch_time">Время</string>
+    <string name="switch_trigger_type">Ресурс</string>
+    <string name="device_state_changed">Статус устройства изменен</string>
+    <string name="umeng_notification_switch_state_on">ВКЛ</string>
+    <string name="umeng_notification_switch_state_off">ВЫКЛ</string>
+    <string name="business_cooperation">Деловое сотрудничество</string>
+    <string name="rgb5_bottom_white">Белый</string>
+    <string name="rgb5_bottom_color">Цвет</string>
+    <string name="rgb5_bottom_situation">Сценарий</string>
+    <string name="rgb5_light">Отдых</string>
+    <string name="rgb5_read">Чтение</string>
+    <string name="rgb5_party">Вечеринка</string>
+    <string name="rgb5_play">Случайный</string>
+    <string name="pair_gsm_device">GSM устройство</string>
+    <string name="rgb5_dark">Тёмный</string>
+    <string name="rgb5_bright">Яркий</string>
+    <string name="rgb5_cold">Холодный</string>
+    <string name="rgb5_warm">Тёплый</string>
+    <string name="open_rgb5">Сначала включите светодиодную лампу</string>
 
-    <string name="not_wifi_confirm_play_video">WIFI connection Not Available currently. Determine to play the alarm video?</string>
-    <string name="empty_url">video url is empty</string>
-    <string name="take_video_success">Video successfully,please enter photo album to watch</string>
-    <string name="take_video_success2">Video successfully,please enter photo album to watch</string>
-    <string name="gsm_phone_number">Card Number</string>
-    <string name="gsm_recharge">Top Up</string>
-    <string name="gsm_package">Data Plan:</string>
-    <string name="gsm_total">Total Data:</string>
-    <string name="gsm_used">Data Usage:</string>
-    <string name="gsm_has">Data Available:</string>
-    <string name="switch_operat_history">Operation record</string>
-    <string name="single_switch_history">Operation record</string>
-    <string name="qr_shaoyishao">Scan QR Code</string>
-    <string name="device">Device</string>
-    <string name="add_wexin_public_charge">Top up on WeChat, follow "coolkitcn"</string>
-    <string name="switch_notify">Operation notifications</string>
-    <string name="switch_history">Action</string>
-    <string name="switch_time">Time</string>
-    <string name="switch_trigger_type">Trigger By</string>
-    <string name="device_state_changed">Device status changed</string>
-    <string name="umeng_notification_switch_state_on">ON</string>
-    <string name="umeng_notification_switch_state_off">OFF</string>
-    <string name="business_cooperation">Business Cooperation</string>
-    <string name="rgb5_bottom_white">White</string>
-    <string name="rgb5_bottom_color">Color</string>
-    <string name="rgb5_bottom_situation">Scene</string>
-    <string name="rgb5_light">Rest</string>
-    <string name="rgb5_read">Reading</string>
-    <string name="rgb5_party">Party</string>
-    <string name="rgb5_play">Casual</string>
-    <string name="pair_gsm_device">GSM device</string>
-    <string name="rgb5_dark">Dark</string>
-    <string name="rgb5_bright">Bright</string>
-    <string name="rgb5_cold">Cold</string>
-    <string name="rgb5_warm">Warm</string>
-    <string name="open_rgb5">please turn on the LED Bulb first</string>
 
     <!--language-->
     <string name="language_choice_simple_chinese">简体中文</string>
@@ -1306,66 +1233,270 @@
     <string name="language_choice_frech">Français</string>
     <string name="language_choice_spanish">Español</string>
     <string name="language_choice_genman">Deutsch</string>
-    <string name="language_choice_portugal">português</string>
+    <string name="language_choice_portugal">Português(Brasil)</string>
     <string name="language_choice_greece">ελληνικά</string>
     <string name="language_choice_czech">český</string>
     <string name="language_choice_bulgaria">български</string>
     <string name="language_choice_turkey">Türkiye</string>
     <string name="language_choice_slovank">slovenského jazyk</string>
+    <string name="language_choice_slovenia">Slovenščina</string>
 
     <string name="facebook_app_id">1787091648274959</string>
-    <string name="aromatherapy_light_switch">light</string>
-    <string name="aromatherapy_state_small">Small</string>
-    <string name="aromatherapy_state_big">Big</string>
-    <string name="install_googleplay_first">Please install Google Play</string>
-    <string name="app_downloading">Downloading</string>
-    <string name="night_light">Night Light</string>
-    <string name="water_level">Water Level</string>
-    <string name="opent_light_switch_first">Please turn on the switch first</string>
-    <string name="add_remote_control">Add RF Remote</string>
-    <string name="button_name">Button</string>
-    <string name="wifi_rf_edit">Edit</string>
-    <string name="rf_single_button">1-button</string>
-    <string name="rf_double_button">2-button</string>
-    <string name="rf_three_button">3-button</string>
-    <string name="rf_four_button">4-button</string>
-    <string name="rf_curtain">Curtain</string>
-    <string name="rf_alarm">Alarm</string>
-    <string name="rf_open">Open</string>
-    <string name="rf_stop">Close</string>
-    <string name="rf_close">Stop</string>
-    <string name="rf_remote_max_size">Supports up to 4 RF Remotes</string>
-    <string name="remote_control_name_not_empty">The RF Remote name cannot be empty</string>
-    <string name="rf_channel_name_not_empty">Button name can not be empty</string>
-    <string name="rf_has_item_alert">Press and hold the button to enter into learning mode</string>
-    <string name="alarm_history">Alarm History</string>
-    <string name="my_curtains">My Curtain</string>
-    <string name="my_remote_control">My RF Remote</string>
-    <string name="rfbridge_edit">Edit Name</string>
-    <string name="rfbridge_channel1_name">Button 1 Name:</string>
-    <string name="rfbridge_channel2_name">Button 2 Name:</string>
-    <string name="rfbridge_channel3_name">Button 3 Name:</string>
-    <string name="rfbridge_channel4_name">Button 4 Name:</string>
-    <string name="rfbridge_button_no_study">The button has not been learned yet</string>
-    <string name="delete_this_remote_control">Delete this RF Remote?</string>
-    <string name="alarm_push">Received an alarm</string>
-    <string name="alarm_time_push_at">Alarm happened at</string>
-    <string name="has_already_cancel_share">Share canceled.</string>
-    <string name="nest_cancel_auth">Nest authority canceled</string>
-    <string name="aromatherapy_colorful_light">Color Light</string>
-    <string name="top_than_close">Higher Than This, OFF</string>
-    <string name="lower_than_open">Lower Than This, ON</string>
-    <string name="near_alarm">Recent Alarms</string>
-    <string name="ewelinktest">易微联测试</string>
-    <string name="rfbridge_remote_control_name">RF Remote Name:</string>
-    <string name="long_press_to_study_button">RF gateway is in learning mode, please press the RF Remote button or let the alarm go off in 1 min.</string>
-    <string name="enter_verifycode">Please enter verification code.</string>
-    <string name="has_send_verifycode_please_get">Verification code sent, please check.</string>
-    <string name="click_to_get_verifycode">Please click to send verification code.</string>
-    <string name="beijing_temp_big_more">The first value must be larger than the second.</string>
-    <string name="beijing_temp_big_range">Temp. Range: 6~35</string>
-    <string name="beijing_temp_small_range">Temp. Range: 5~34</string>
-    <string name="beijing_temp_small_less">The second value must be smaller than the first.</string>
-    <string name="has_already_send_to_you">Verification code has been sent to your phone or mailbox, please check and enter</string>
 
+
+    <string name="aromatherapy_light_switch">свет</string>
+    <string name="aromatherapy_state_small">Малый</string>
+    <string name="aromatherapy_state_big">Большой</string>
+    <string name="install_googleplay_first">Установите Google Play</string>
+    <string name="app_downloading">Загрузка</string>
+    <string name="night_light">Ночной свет</string>
+    <string name="water_level">Уровень воды</string>
+    <string name="opent_light_switch_first">Сначала включите переключатель</string>
+    <string name="add_remote_control">Добавите радиопульт</string>
+    <string name="button_name">Кнопка</string>
+    <string name="wifi_rf_edit">Редактирование</string>
+    <string name="rf_single_button">1-кнопка</string>
+    <string name="rf_double_button">2-кнопка</string>
+    <string name="rf_three_button">3-кнопка</string>
+    <string name="rf_four_button">4-кнопка</string>
+    <string name="rf_curtain">Занавес</string>
+    <string name="rf_alarm">Тревога</string>
+    <string name="rf_open">Открыть</string>
+    <string name="rf_stop">Закрыть</string>
+    <string name="rf_close">Стоп</string>
+
+
+    <string name="rf_remote_max_size">Поддерживает до 4 радиопультов</string>
+    <string name="remote_control_name_not_empty">Название радиопульта не может быть пустым</string>
+    <string name="rf_channel_name_not_empty">Название кнопки не может быть пустым</string>
+    <string name="rf_has_item_alert">Нажмите и удерживайте кнопку чтобы войти в режим обучения</string>
+    <string name="alarm_history">История сигналов тревоги</string>
+    <string name="my_curtains">Мои занавески</string>
+    <string name="my_remote_control">Мой радиопульт</string>
+    <string name="rfbridge_edit">Редактировать название</string>
+    <string name="rfbridge_channel1_name">Название кнопки 1:</string>
+    <string name="rfbridge_channel2_name">Название кнопки 2:</string>
+    <string name="rfbridge_channel3_name">Название кнопки 3:</string>
+    <string name="rfbridge_channel4_name">Название кнопки 4:</string>
+    <string name="rfbridge_button_no_study">Эта кнопка ещё не запрограммирована</string>
+    <string name="delete_this_remote_control">Удалить этот радиопульт?</string>
+    <string name="alarm_push">Получен сигнал тревоги</string>
+    <string name="alarm_time_push_at">Тревога произошла в</string>
+    <string name="has_already_cancel_share">Разделение отменено.</string>
+    <string name="nest_cancel_auth">Авторизация Nest устройства была отменена</string>
+    <string name="aromatherapy_colorful_light">Цвет освещения</string>
+    <string name="top_than_close">Целевая темп. верхний предел</string>
+    <string name="lower_than_open">Целевая темп. нижний предел</string>
+    <string name="near_alarm">Последние сигналы тревоги</string>
+    <string name="ewelinktest">eWelink test</string>
+
+    <string name="rfbridge_remote_control_name">Название радиопульта:</string>
+    <string name="long_press_to_study_button">RF bridge в состоянии обучения, нажмите и удерживайте кнопку радиопульта или пусть тревога работает за минуту.</string>
+    <string name="enter_verifycode">Введите код подтверждения.</string>
+    <string name="has_send_verifycode_please_get">Проверочный код отправлен, пожалуйста, проверьте.</string>
+    <string name="click_to_get_verifycode">Нажмите, чтобы отправить код подтверждения.</string>
+    <string name="beijing_temp_big_more">Первое значение должно быть больше второго.</string>
+    <string name="beijing_temp_big_range">Диапазон темп.: 6~35</string>
+    <string name="beijing_temp_small_range">Диапазон темп.: 5~34</string>
+    <string name="beijing_temp_small_less">Второе значение должно быть меньше первого.</string>
+    <string name="has_already_send_to_you">Код подтверждения отправлен на ваш телефон или почтовый ящик, пожалуйста, проверьте и введите</string>
+    <string name="login_failed_retry_later">Ошибка входа в систему, повторите попытку позже.</string>
+    <string name="has_no_useful_remote">Не найден радиопульт</string>
+    <string name="alarm_notification">Уведомления о тревоге</string>
+    <string name="no_authority_ops">Нет разрешения</string>
+    <string name="no_rfbridge_remote">Нажмите на кнопку ниже, чтобы добавить радиопульт</string>
+    <string name="sure_delete_remote">Удалить этот радиопульт?</string>
+    <string name="duration_open">Вкл</string>
+    <string name="duration_close">Выкл</string>
+    <string name="goto_rfbridge_know_more">Перейдите в детали RF Bridge чтобы узнать больше из истории тревоги</string>
+    <string name="nest_account_changed">Изменение учетной записи Nest удалит добавленные Nest устройства, продолжить?</string>
+    <string name="cardview_device_on_line">Онлайн</string>
+
+
+
+    <!--3.1.0添加的翻译-->
+    <string name="add_schedule">New Schedule</string>
+    <string name="add_timer">New Timer</string>
+    <string name="unknow">Unknown</string>
+    <string name="only_support_24">(Only supports 2.4G WiFi)</string>
+    <string name="faq_device_failed">Pairing failed...</string>
+    <string name="faq_alert">FAQ</string>
+    <string name="enter_faq">Read FAQ</string>
+    <string name="choice_execute_operate">Please select an action in Execute</string>
+    <string name="all_operate_not_be_keep">You can\’t set all channels\’ status as Keep</string>
+    <string name="about_coolkit_weixin">Follow our official WeChat subscription account, you can control all your devices through accessing eWeLink account there. Simply scan the QR code above to follow.</string>
+    <string name="you_can_create_scene">You can create scenes to turn on/off a gang of devices with one tap.</string>
+    <string name="you_can_create_smart_scene">You can create scenes to trigger on/off the devices by the data range from sensors or by the status changes from other device.</string>
+    <string name="let_your_device_operate_automatically">Let your devices operate automatically, you can even get rid of the phone.</string>
+    <string name="sure_device_closer_wifi">Please make sure your phone and the model are closer enough to WiFi router.</string>
+    <string name="detail_alert_device_offline">Device offline</string>
+    <string name="usercenter_app_name">eWeLink</string>
+
+    <string name="cant_operate_frequently">Do not repeat the operation frequently</string>
+    <string name="select_device">Select a device</string>
+    <string name="sure_delete_ezcamera">Confirm switching will delete all the fluorite camera devices under current account.</string>
+    <string name="ez_get_upgrade_info_failed">Failed to obtain version info.</string>
+    <string name="ez_upgrade_success_restart">Upgraded successfully, the device is restarting...</string>
+    <string name="ez_upgrade_progress">Upgrade progress: 0</string>
+    <string name="ez_input_verify_code_alert">Your video has been encrypted, please enter password to watch. Initial password is the verification code on the model\'s tag. If there is no such a tag, please enter ABCDEF(case sensitive).</string>
+    <string name="ez_input_device_verify_code">Please enter device\'s verification code</string>
+    <string name="other_device_setting">Settings</string>
+    <string name="ez_account">Fluorite account</string>
+    <string name="ez_unbind">Unbind</string>
+    <string name="ez_not_bind">Not bound yet</string>
+    <string name="sure_unbind_account">Are you sure to unbind the account?</string>
+    <string name="remoteplay_search_failed">Query failed. Please check if the cloud storage service is expired</string>
+    <string name="color_model">Color mode</string>
+    <string name="has_bound_ewelink">It has been bound with eWeLink account</string>
+    <string name="current_account_has_no_ez">No Fluorite devices under current account</string>
+    <string name="setting">Settings</string>
+    <string name="ez_camera">Fluorite Camera</string>
+    <string name="ez_change_account">Switch user＞</string>
+    <string name="ez_settings_device_serial">Serial number</string>
+    <string name="ez_current_version">Current version</string>
+    <string name="ez_latest_version">Latest version</string>
+    <string name="version_newest">Current version is the latest one</string>
+    <string name="detail_defend_c1_c2_f1">Activity detection reminder</string>
+    <string name="detail_safe_mode">Video/Image encryption</string>
+    <string name="ez_setting">Device Settings</string>
+    <string name="device_have_not_added">The device has not been added or has been deleted</string>
+    <string name="ez_device_name_hint">Device Name</string>
+    <string name="detail_modify_device_name_limit_tip">Please do not exceed %d characters</string>
+    <string name="ez_save">Save</string>
+    <string name="ez_modify_name">Change device name</string>
+    <string name="company_addr_is_empty">Cannot be empty</string>
+    <string name="ez_device_upgrade">Upgrade device</string>
+    <string name="countdown">Message %d seconds left</string>
+    <string name="encrypt_password_open_fail_networkexception">Operation failed, please check network connectivity</string>
+    <string name="encrypt_password_open_fail">Operation failed</string>
+    <string name="detail_safe_btn_tip">If your video is in public mode, others cannot watch it after opening encryption mode. Are you sure to open it?</string>
+    <string name="detail_safe_close_btn_tip">After closing encryption mode, the video and picture security level will be lowered. Are you sure to close it?</string>
+    <string name="input_device_verify_code">Please enter the device verification code</string>
+    <string name="ez_dialog_btn_disable_video_encrypt">Close video encryption</string>
+    <string name="encrypt_password_open_success">Successful</string>
+    <string name="select_all">All</string>
+    <string name="ez_check_all_message">Set as read</string>
+    <string name="ez_no_message">No messages</string>
+    <string name="network_error_retry_prompt">Poor network~</string>
+    <string name="ptz">Pan and tilt (PTZ)</string>
+    <string name="talk">Talk</string>
+    <string name="xlistview_footer_hint_no_more_device">No more devices</string>
+    <string name="xlistview_footer_hint_normal">Pull up to load more ...</string>
+    <string name="xlistview_footer_hint_ready">Release to load more...</string>
+    <string name="xlistview_footer_no_more">No more</string>
+    <string name="xlistview_footer_no_more_msg">No more messages</string>
+    <string name="xlistview_header_hint_loading">Loading, please wait...</string>
+    <string name="xlistview_header_hint_more">Pull down to load more...</string>
+    <string name="xlistview_header_hint_normal">Pull down to refresh</string>
+    <string name="xlistview_header_hint_ready">Release to refresh data</string>
+    <string name="xlistview_header_last_time">Latest update</string>
+    <string name="no_more_alarm_tip">The message can be saved for up to 7 days</string>
+    <string name="today">Today</string>
+    <string name="alarm_type_infrared">Detected human presence</string>
+    <string name="message_come_from_tip">Source：</string>
+    <string name="ez_event_message">Message</string>
+    <string name="edit_txt">Edit</string>
+    <string name="quality_hd">HD</string>
+    <string name="quality_flunet">Fluent</string>
+    <string name="quality_balanced">Balanced</string>
+    <string name="capture">Capture screenshot</string>
+    <string name="record">Record video</string>
+    <string name="remoteplayback_SDCard_disable_use">Memory card undetected</string>
+    <string name="remoteplayback_capture_fail_for_memory">Failed to capture screenshot due to limited storage space</string>
+    <string name="already_saved_to_volume">Saved to album</string>
+    <string name="start_voice_talk">Enabling Talk</string>
+    <string name="realplay_full_talk_start_tip">You can talk now</string>
+    <string name="press_to_talk_release_to_listen">Press and hold to talk \n release to listen</string>
+    <string name="ez_unbind_device">Please close terminal binding on the fluorite client</string>
+    <string name="remoteplayback_over_link">Too many device connections, please stop other connections and retry</string>
+    <string name="remoteplayback_record_fail_for_memory">The video is interrupted, the storage space is full</string>
+    <string name="remoteplayback_record_fail">Failed to record</string>
+    <string name="realplay_fail_connect_device">Playback failed, device connection exception</string>
+    <string name="realplay_set_fail_network">Failed to set, please check network connectivity</string>
+    <string name="realplay_play_talkback_fail_ison">You can only talk to one device at a time, please stop other talks and retry.</string>
+    <string name="realplay_play_talkback_fail_privacy">You cannot talk in privacy mode</string>
+    <string name="realplay_fail_device_not_exist">Device offline</string>
+    <string name="realplay_play_talkback_network_exception">Network abnormal, talk ended</string>
+    <string name="realplay_play_talkback_request_timeout">Request timed out, talk ended</string>
+    <string name="realplay_play_talkback_fail">Failed to enable Talk</string>
+    <string name="realplay_set_vediomode_fail">Failed to switch video quality mode</string>
+    <string name="realplay_play_fail_becauseof_network">Failed to play video, please check network connectivity</string>
+    <string name="added_camera_verycode_fail_title_txt">The verification you entered is incorrect, please re-enter</string>
+    <string name="setting_video_level">Switching video quality...</string>
+    <string name="camera_lens_too_busy">The camera is spinning, please wait...</string>
+    <string name="ptz_control_timeout_cruise_track_failed">The track is cruising, please wait</string>
+    <string name="ptz_mirroring_failed">Talking, you cannot operate PTZ</string>
+    <string name="ptz_is_preseting">The camera is spinning, please wait...</string>
+    <string name="ptz_operation_failed">Operation failed</string>
+    <string name="ptz_operation_too_frequently">Do not repeat the operation frequently</string>
+    <string name="ptz_preset_current_position_failed">You are now in this position</string>
+    <string name="ptz_preset_exceed_maxnum_failed">Can not add more</string>
+    <string name="ptz_preset_invalid_position_failed">The current location has been deleted, please return to refresh</string>
+    <string name="ptz_preset_sound_localization_failed">Listening to identify position, please wait</string>
+    <string name="ptz_privacying_failed">The lens is covered, you cannot operate PTZ</string>
+    <string name="ez_alarm_type_person_alarm">Human presence event</string>
+    <string name="alarm_type_baby_cry">Baby crying alarm occurred</string>
+    <string name="alarm_type_door">Door opening alarm occurred</string>
+    <string name="alarm_type_gas">Flammable gas alarm occurred</string>
+    <string name="alarm_type_motion_detection">Motion detection alarm occurred</string>
+    <string name="alarm_type_person_alarm">Human presence alarm occurred</string>
+    <string name="alarm_type_smoke">Smoke alarm occurred</string>
+    <string name="alarm_type_unknown">Unknown alarm occurred</string>
+    <string name="alarm_type_urgent_button">Emergency alarm occurred</string>
+    <string name="alarm_type_water">Water intrusion alarm occurred</string>
+    <string name="delete_confirm">Delete?</string>
+    <string name="alarm_message_del_success_txt">Deleted successfully</string>
+    <string name="alarm_message_del_fail_txt">Delete failed</string>
+    <string name="alarm_message_del_fail_network_exception">Delete failed, please check network connectivity</string>
+    <string name="alarm_message_check_fail">Failed to mark message</string>
+    <string name="alarm_message_check_fail_network_exception">Failed to mark message, please check network connectivity</string>
+    <string name="get_message_fail_service_exception">Failed to obtain event message</string>
+    <string name="message_video">Message video</string>
+    <string name="ez_event_message_detail">Message details</string>
+    <string name="from">Source</string>
+    <string name="ez_device_offline">Device offline</string>
+    <string name="camera_not_online">Device offline</string>
+    <string name="remoteplayback_capture_fail">Failed to capture screenshot</string>
+    <string name="remoteplayback_connect_device_error">Playback interrupted, please retry</string>
+    <string name="remoteplayback_connect_server_error">Failed to connect server, please retry</string>
+    <string name="remoteplayback_fail">Video playback failed</string>
+    <string name="remoteplayback_norecordfile">There is no query to video</string>
+    <string name="remoteplayback_norecordfile_alarm">There is no query to the alarm video of that time</string>
+    <string name="remoteplayback_searchfile_fail_for_device">Failed to query video</string>
+    <string name="remoteplayback_searchfile_fail_for_network">Failed to query video, please check network connectivity</string>
+    <string name="choice_mode">Select mode</string>
+    <string name="realplay_play_fail">Video playback failed</string>
+    <string name="detail_modify_success">Changed successfully</string>
+    <string name="input_right_ez_device_verify">Please enter correct verification code</string>
+    <string name="realplay_verifycode_error_placehold">The verification code is on the model\'s tag</string>
+    <string name="fan_light_small">Low</string>
+    <string name="fan_light_middle">Medium</string>
+    <string name="fan_light_high">High</string>
+    <string name="fan_light">Light</string>
+    <string name="fan_light_smart">Smart</string>
+    <string name="fan_light_text">Fan</string>
+    <string name="fan_light_switch">Light</string>
+    <string name="month">Month</string>
+    <string name="pop_speed">Speed</string>
+    <string name="only_mode1_can_diy">You can DIY only in ordinary mode</string>
+    <string name="light_belt_undiy">The button has not defined the color</string>
+    <string name="light_belt_diy_failed">DIY failed, please check network connectivity</string>
+
+
+    <string name="open_curtain">Open</string>
+    <string name="close_curtain">Close</string>
+    <string name="pause_curtain">Stop</string>
+    <string name="add_success_wait_second">Added successfully, the device is connecting to WIFI, it may take a few minutes, please wait.</string>
+    <string name="scene_operate_success">Executed successfully</string>
+    <string name="please_choice_execute_condition">Please add a condition</string>
+    <string name="no_userful_alarm_device">No alarms available</string>
+    <string name="no_userful_remote_device">No remote controllers available</string>
+    <string name="unknow_remote_has_deleted">Unknown remote controller (deleted)</string>
+    <string name="unknow_alarm_device">Unknown alarm (deleted) </string>
+    <string name="info_sure_delete_and_in_scene">Are you sure to delete the device? Related scene will be triggered by deleting it at the same time.</string>
+    <string name="no_userful_key">No available buttons</string>
+    <string name="light_belt_mode_2">Mode 2: Gradien</string>
+    <string name="light_belt_mode_3">Mode 3: Jump</string>
+    <string name="light_belt_custome_color">Custom color</string>
+    <string name="light_belt_long_click_diy">(Press and hold DIY to save selected color or color temp)</string>
 </resources>

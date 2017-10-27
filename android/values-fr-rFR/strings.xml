@@ -135,11 +135,11 @@
     <string name="err_length">Longueur de plus de 512 caractères</string>
     <string name="enter_not_null">L\'entrée ne peut être vide</string>
     <string name="device_info_title">Info appareil</string>
-    <string name="del_dialog">Suppression de la minuterie ...</string>
+    <string name="del_dialog">Deleting Schedule...</string>
 
     <string name="err_fomat">Mauvais format :</string>
     <string name="logining">Enregistrement</string>
-    <string name="committime">Création d\'une minuterie...</string>
+    <string name="committime">Creating Schedule...</string>
     <string name="login_failed">Échec de la connexion, numéro de compte ou mot de passe erroné</string>
     <string name="login_failed_normal">Échec de la connexion</string>
     <string name="shook_on">Mode secouer la tête : ouvert</string>
@@ -168,7 +168,7 @@
 
     <string name="timer_set">Minuteur</string>
 
-    <string name="info_kuzhai">EWelink est une application gratuite pour maison intelligente,  \n\nEWeLink peut contrôler tous les produits d\'une maison intelligente à partir de l\'ITEAD et des partenaires associés.  Elle prend en charge, à distance, l\'activation/désactivation des périphériques connectés, met en place des horaires de synchronisation, partage des périphériques, gère le groupe et les scénarios/scénarios intelligents.  Avec eWeLink, vous pouvez ajuster la couleur et la luminosité de plusieurs LED RGB, vous pouvez surveiller la température et le taux d\'humidité du Sonoff TH, vous pouvez même surveiller la qualité de l\'air.  \n\nPlus d\'appareils sont en développement, restez à l\'écoute.</string>
+    <string name="info_kuzhai">eWeLink est une application gratuite pour maison intelligente,  \n\neWeLink peut contrôler tous les produits d\'une maison intelligente à partir de l\'ITEAD et des partenaires associés.  Elle prend en charge, à distance, l\'activation/désactivation des périphériques connectés, met en place des horaires de synchronisation, partage des périphériques, gère le groupe et les scénarios/scénarios intelligents.  Avec eWeLink, vous pouvez ajuster la couleur et la luminosité de plusieurs LED RGB, vous pouvez surveiller la température et le taux d\'humidité du Sonoff TH, vous pouvez même surveiller la qualité de l\'air.  \n\nPlus d\'appareils sont en développement, restez à l\'écoute.</string>
     <string name="my_device">Mon appareil</string>
 
     <string name="add_new_timer">Nouveau Minuteur</string>
@@ -259,9 +259,9 @@
     <!--<string name="exit_coolkit">Quitter CoolKit</string>-->
 
     <!--<string name="app_name">CoolKit</string>-->
-    <string name="app_name">EWeLink</string>
+    <string name="app_name">eWeLink</string>
     <string name="reciver_invite">L\'utilisateur %1$s souhaite partager le périphérique %2$s avec vous.   Acceptez-vous ?</string>
-    <string name="new_home_kit">Mise à jour EWeLink %1$s apk </string>
+    <string name="new_home_kit">"Mise à jour eWeLink %1$s apk "</string>
     <string name="versionString">Version : %1$s, vérifiez la nouvelle version</string>
 
     <string name="hello_world">Bonjour le monde !</string>
@@ -279,7 +279,7 @@
     <string name="title_update">Mise à niveau du Fireware, veuillez patienter</string>
     <string name="lineoff_device">Périphérique déconnecté</string>
     <string name="deviceupdate">Mise à niveau du fireware</string>
-    <string name="timers">Minuteur</string>
+    <string name="timers">Schedule</string>
     <string name="everydays">Tous les jours</string>
     <string name="workdate">Jours de semaine</string>
     <string name="weekdate">Week-end</string>
@@ -382,7 +382,7 @@
     <string name="password">Mot de passe</string>
 
     <string name="language_actionbar_text">Changer la langue</string>
-    <string name="current_version">Actuel</string>
+    <string name="current_version">Version</string>
     <string name="change_nickname">Changer de pseudo</string>
     <string name="nickname">Saisir un nouveau pseudo</string>
     <string name="on_change_language">Changement en cours</string>
@@ -407,7 +407,7 @@
     <string name="operat_success">Avec succès</string>
     <string name="switch_power">Puissance :</string>
     <string name="operating">en fonction</string>
-    <string name="device_belong_other">Le périphérique appartient à un autre utilisateur</string>
+    <string name="device_belong_other">We are not sure which account is the device owner. If you have added this device with other account before, please log in the other account to delete the device first. Then re-add it with your current account. Otherwise, please contact the seller.</string>
     <string name="back_device_list">Retour à la liste</string>
     <string name="device_setting">Paramètres</string>
     <string name="connect_device_fail">Échec de la connexion au périphérique. Veuillez réessayer.</string>
@@ -422,7 +422,7 @@
     <string name="no_sensor">Échec de la lecture des données du capteur.  Veuillez vérifier la connexion</string>
     <string name="no_permission_try_system">Perte de l\'autorisation,  Vous pouvez réessayer dans les réglages système</string>
     <string name="need_extra_permission">Besoin de permission supplémentaire,  Faire la demande ?</string>
-    <string name="need_permission_coarse">Veuillez accorder à EweLink l\'autorisation au réseau ou à l\'emplacement ou vous ne pourrez pas lier l\'appareil !</string>
+    <string name="need_permission_coarse">Veuillez accorder à eWeLink l\'autorisation au réseau ou à l\'emplacement ou vous ne pourrez pas lier l\'appareil !</string>
 
 
     <!--温湿度翻译-->
@@ -597,7 +597,7 @@
         <item>Brunei Darussalam +673</item>
         <item>Bulgarie +359</item>
         <item>Burkina Faso +226</item>
-        <item>Birmanie +95</item>
+        <item>Myanmar +95</item>
         <item>Burundi +257</item>
         <item>Cambodge +855</item>
         <item>Cameroun +237</item>
@@ -846,7 +846,7 @@
     <string name="title_activity_debug_settings">Paramètres</string>
 
     <string name="confirm_to_state_pair">Confirmer que le périphérique est en mode couplage</string>
-    <string name="longpress_to_state_pair">Appuyez longuement pendant environ 5 secondes sur le bouton correspondant pour maintenir l\'appareil en état d\'appariement.</string>
+    <string name="longpress_to_state_pair">Press and hold the pairing button for 5s to enter into pairing mode. Please check led indicator blinking status.\nBulb or LED strip, please turn on and off for 3 times to enter pairing mode, the time interval is 2s.</string>
     <string name="other_pair_instruction_led">Si votre appareil ades graduations LED, veuillez l\'allumer et l\'éteindre 3 fois, l\'intervalle de temps entre la mise en route et l\'extinction devrait être de 2 s, le voyant clignotera pour entrer en mode couplage.</string>
     <string name="other_pair_instruction">Autres instructions et méthodes de couplage</string>
     <string name="choose_wifi">Choisissez un  Wifi pour le périphérique</string>
@@ -959,7 +959,7 @@
     <string name="no_choice_device">Pas d\'appareil en option</string>
     <string name="cardview_device_off_line">hors ligne</string>
     <string name="cardview_device_on_line">en ligne</string>
-    <string name="new_no_device_alert">Aucun périphérique actuellement, appuyez sur le bouton ci-dessous pour en ajouter</string>
+    <string name="new_no_device_alert">There are no devices paired. Tap the \"add device\" button below to begin pairing devices</string>
     <string name="splash_timer">Minuteur</string>
     <string name="splash_timer_text">Le commutateur/la prise à canal unique autorise maintenant les minteurs en boucle !  La minuterie en boucle peut être exécutée automatiquement pour chaque préréglage (par exemple 1 h), et peut le faire pour une durée prédéfinie plus courte (disons 20 min).   A partir de la version 1.5.0 ou ultérieure du firmware.</string>
     <string name="share_splash_text">Vous voulez que votre famille et vos amis puissent contrôler vos appareils ? Demandez-leur d\'enregistrer tout simplement un compte et partagez vos appareils !</string>
@@ -968,7 +968,7 @@
     <string name="back">Retour</string>
     <string name="everything_connect">Internet de Tout</string>
 
-    <string name="delay_timers">Compte à rebours</string>
+    <string name="delay_timers">Timer</string>
     <string name="weekday">Jour :</string>
     <string name="new_timer_repeat">Répéter :</string>
     <string name="action_one">Une fois que</string>
@@ -980,7 +980,7 @@
     <string name="new_timer_minute">Minute</string>
     <string name="new_timer_after">Après</string>
     <string name="refresh_power">Rafraîchir</string>
-    <string name="delay">Compte à rebours</string>
+    <string name="delay">Timer</string>
     <string name="thisyear">Cette année</string>
     <string name="nextyear">L\'an prochain</string>
     <string name="timer_start">Début</string>
@@ -993,9 +993,9 @@
     <string name="only_timer_active_number">Le nombre total de minuteries activées (y compris les comptes à rebours et les minuteries en boucle) ne doit pas dépasser 8</string>
     <string name="device_offline_cant_operat">Périphérique hors ligne, inpossible de le faire fonctionner maintenant</string>
     <string name="add_delay_timers_success">Ajouté avec succès</string>
-    <string name="create_delay">Création d\'un compte à rebours...</string>
+    <string name="create_delay">Creating Timer...</string>
     <string name="delete_delayt_ok">Supprimé avec succès</string>
-    <string name="delete_delay_dialog">Suppression du compte à rebours...</string>
+    <string name="delete_delay_dialog">Deleting Timer...</string>
 
 
     <string name="copy_text_and_open_wechat">Copiez le compte WeChat et continuez</string>
@@ -1166,10 +1166,10 @@
     <string name="dialog_share_permit_timer">Autorisation minuteur</string>
 
     <string name="no_userful_device">Aucun périphérique disponible</string>
-    <string name="duration_cycle">Cycle :</string>
-    <string name="duration_delay">Retard</string>
-    <string name="duration_delay_do">Décompte des minutes </string>
-    <string name="duration_cycle_do">Décompte des minutes </string>
+    <string name="duration_cycle">Restart cycle:</string>
+    <string name="duration_delay">After:</string>
+    <string name="duration_delay_do">minutes, change status to:</string>
+    <string name="duration_cycle_do">minutes, start in status:</string>
     <string name="delay_start_again">Recommencer</string>
     <string name="delay_timer_executing_alert">(Après : %1$sd %2$shr %3$smin Décompte)</string>
     <string name="delay_timer_stop_alert">(Après : %1$sd %2$shr %3$smin complété)</string>
@@ -1242,7 +1242,7 @@
     <string name="qr_scan">Balayage</string>
     <string name="single_device_choose">Appareil monocanal</string>
     <string name="want_know_more">En savoir plus</string>
-    <string name="app_name2">EWeLink</string>
+    <string name="app_name2">eWeLink</string>
     <string name="please_input_phone_number">Numéro de carte</string>
 
     <string name="not_wifi_confirm_play_video">Connexion WIFI non disponible actuellement.  Continuer à jouer la vidéo d\'alarme?</string>
@@ -1255,15 +1255,15 @@
     <string name="gsm_total">Données totales :</string>
     <string name="gsm_used">Utilisation de données :</string>
     <string name="gsm_has">Données disponibles :</string>
-    <string name="switch_operat_history">Enregistrement de l\'opération</string>
-    <string name="single_switch_history">Enregistrement de l\'opération</string>
+    <string name="switch_operat_history">History</string>
+    <string name="single_switch_history">History</string>
     <string name="qr_shaoyishao">Scanner le code QR</string>
     <string name="device">Appareil</string>
     <string name="add_wexin_public_charge">Recharger sur WeChat, continuer "coolkitcn"</string>
     <string name="switch_notify">Notifications d\'opération</string>
-    <string name="switch_history">Action</string>
+    <string name="switch_history">State</string>
     <string name="switch_time">Heure</string>
-    <string name="switch_trigger_type">Déclenché par</string>
+    <string name="switch_trigger_type">Source</string>
     <string name="device_state_changed">État de l\'appareil modifié</string>
     <string name="umeng_notification_switch_state_on">ALLUME</string>
     <string name="umeng_notification_switch_state_off">ETEINT</string>
@@ -1280,12 +1280,13 @@
     <string name="language_choice_frech">Français</string>
     <string name="language_choice_spanish">Español</string>
     <string name="language_choice_genman">Deutsch</string>
-    <string name="language_choice_portugal">português</string>
+    <string name="language_choice_portugal">Português(Brasil)</string>
     <string name="language_choice_greece">ελληνικά</string>
     <string name="language_choice_czech">český</string>
     <string name="language_choice_bulgaria">български</string>
     <string name="language_choice_turkey">Türkiye</string>
     <string name="language_choice_slovank">slovenského jazyk</string>
+    <string name="language_choice_slovenia">Slovenščina</string>
 
 
     <string name="rgb5_bottom_white">White</string>
@@ -1295,7 +1296,7 @@
     <string name="rgb5_read">Reading</string>
     <string name="rgb5_party">Party</string>
     <string name="rgb5_play">Casual</string>
-    <string name="pair_gsm_device">GSM device</string>
+    <string name="pair_gsm_device">GSM Device</string>
     <string name="rgb5_dark">Dark</string>
     <string name="rgb5_bright">Bright</string>
     <string name="rgb5_cold">Cold</string>
@@ -1340,8 +1341,8 @@
     <string name="has_already_cancel_share">Share canceled.</string>
     <string name="nest_cancel_auth">Nest authority canceled</string>
     <string name="aromatherapy_colorful_light">Color Light</string>
-    <string name="top_than_close">Higher Than This, OFF</string>
-    <string name="lower_than_open">Lower Than This, ON</string>
+    <string name="top_than_close">Target temp. upper limit</string>
+    <string name="lower_than_open">Target temp. lower limit</string>
     <string name="near_alarm">Recent Alarms</string>
     <string name="ewelinktest">易微联测试</string>
     <string name="rfbridge_remote_control_name">RF Remote Name:</string>
@@ -1354,4 +1355,197 @@
     <string name="beijing_temp_small_range">Temp. Range: 5~34</string>
     <string name="beijing_temp_small_less">The second value must be smaller than the first.</string>
     <string name="has_already_send_to_you">Verification code has been sent to your phone or mailbox, please check and enter</string>
+    <string name="login_failed_retry_later">Login failed, please retry later</string>
+    <string name="has_no_useful_remote">No RF Remotes found</string>
+    <string name="alarm_notification">Alarm notifications</string>
+    <string name="no_authority_ops">No permission</string>
+    <string name="no_rfbridge_remote">Click below button to add RF Remote</string>
+    <string name="sure_delete_remote">Delete this RF Remote?</string>
+    <string name="duration_open">On</string>
+    <string name="duration_close">Off</string>
+    <string name="goto_rfbridge_know_more">Enter RF Bridge details, learn more at Alarm History</string>
+    <string name="nest_account_changed">Changing Nest account will delete the added Nest device, continue?</string>
+    <string name="add_schedule">New Schedule</string>
+    <string name="add_timer">New Timer</string>
+    <string name="unknow">Unknown</string>
+    <string name="only_support_24">(Only supports 2.4G WiFi)</string>
+    <string name="faq_device_failed">Pairing failed...</string>
+    <string name="faq_alert">FAQ</string>
+    <string name="enter_faq">Read FAQ</string>
+    <string name="choice_execute_operate">Please select an action in Execute</string>
+    <string name="all_operate_not_be_keep">You can\’t set all channels\’ status as Keep</string>
+    <string name="you_can_create_scene">You can create scenes to turn on/off a gang of devices with one tap.</string>
+    <string name="you_can_create_smart_scene">You can create scenes to trigger on/off the devices by the data range from sensors or by the status changes from other device.</string>
+    <string name="let_your_device_operate_automatically">Let your devices operate automatically, you can even get rid of the phone.</string>
+    <string name="sure_device_closer_wifi">Please make sure your phone and the model are closer enough to WiFi router.</string>
+    <string name="detail_alert_device_offline">Device offline</string>
+    <string name="usercenter_app_name">eWeLink</string>
+
+    <string name="cant_operate_frequently">Do not repeat the operation frequently</string>
+    <string name="select_device">Select a device</string>
+    <string name="sure_delete_ezcamera">Confirm switching will delete all the fluorite camera devices under current account.</string>
+    <string name="ez_get_upgrade_info_failed">Failed to obtain version info.</string>
+    <string name="ez_upgrade_success_restart">Upgraded successfully, the device is restarting...</string>
+    <string name="ez_upgrade_progress">Upgrade progress: 0</string>
+    <string name="ez_input_verify_code_alert">Your video has been encrypted, please enter password to watch. Initial password is the verification code on the model\'s tag. If there is no such a tag, please enter ABCDEF(case sensitive).</string>
+    <string name="ez_input_device_verify_code">Please enter device\'s verification code</string>
+    <string name="other_device_setting">Settings</string>
+    <string name="ez_account">Fluorite account</string>
+    <string name="ez_unbind">Unbind</string>
+    <string name="ez_not_bind">Not bound yet</string>
+    <string name="sure_unbind_account">Are you sure to unbind the account?</string>
+    <string name="remoteplay_search_failed">Query failed. Please check if the cloud storage service is expired</string>
+    <string name="color_model">Color mode</string>
+    <string name="has_bound_ewelink">It has been bound with eWeLink account</string>
+    <string name="current_account_has_no_ez">No Fluorite devices under current account</string>
+    <string name="setting">Settings</string>
+    <string name="ez_camera">Fluorite Camera</string>
+    <string name="ez_change_account">Switch user＞</string>
+    <string name="ez_settings_device_serial">Serial number</string>
+    <string name="ez_current_version">Current version</string>
+    <string name="ez_latest_version">Latest version</string>
+    <string name="version_newest">Current version is the latest one</string>
+    <string name="detail_defend_c1_c2_f1">Activity detection reminder</string>
+    <string name="detail_safe_mode">Video/Image encryption</string>
+    <string name="ez_setting">Device Settings</string>
+    <string name="device_have_not_added">The device has not been added or has been deleted</string>
+    <string name="ez_device_name_hint">Device Name</string>
+    <string name="detail_modify_device_name_limit_tip">Please do not exceed %d characters</string>
+    <string name="ez_save">Save</string>
+    <string name="ez_modify_name">Change device name</string>
+    <string name="company_addr_is_empty">Cannot be empty</string>
+    <string name="ez_device_upgrade">Upgrade device</string>
+    <string name="countdown">Message %d seconds left</string>
+    <string name="encrypt_password_open_fail_networkexception">Operation failed, please check network connectivity</string>
+    <string name="encrypt_password_open_fail">Operation failed</string>
+    <string name="detail_safe_btn_tip">If your video is in public mode, others cannot watch it after opening encryption mode. Are you sure to open it?</string>
+    <string name="detail_safe_close_btn_tip">After closing encryption mode, the video and picture security level will be lowered. Are you sure to close it?</string>
+    <string name="input_device_verify_code">Please enter the device verification code</string>
+    <string name="ez_dialog_btn_disable_video_encrypt">Close video encryption</string>
+    <string name="encrypt_password_open_success">Successful</string>
+    <string name="select_all">All</string>
+    <string name="ez_check_all_message">Set as read</string>
+    <string name="ez_no_message">No messages</string>
+    <string name="network_error_retry_prompt">Poor network~</string>
+    <string name="ptz">Pan and tilt (PTZ)</string>
+    <string name="talk">Talk</string>
+    <string name="xlistview_footer_hint_no_more_device">No more devices</string>
+    <string name="xlistview_footer_hint_normal">Pull up to load more ...</string>
+    <string name="xlistview_footer_hint_ready">Release to load more...</string>
+    <string name="xlistview_footer_no_more">No more</string>
+    <string name="xlistview_footer_no_more_msg">No more messages</string>
+    <string name="xlistview_header_hint_loading">Loading, please wait...</string>
+    <string name="xlistview_header_hint_more">Pull down to load more...</string>
+    <string name="xlistview_header_hint_normal">Pull down to refresh</string>
+    <string name="xlistview_header_hint_ready">Release to refresh data</string>
+    <string name="xlistview_header_last_time">Latest update</string>
+    <string name="no_more_alarm_tip">The message can be saved for up to 7 days</string>
+    <string name="today">Today</string>
+    <string name="alarm_type_infrared">Detected human presence</string>
+    <string name="message_come_from_tip">Source：</string>
+    <string name="ez_event_message">Message</string>
+    <string name="edit_txt">Edit</string>
+    <string name="quality_hd">HD</string>
+    <string name="quality_flunet">Fluent</string>
+    <string name="quality_balanced">Balanced</string>
+    <string name="capture">Capture screenshot</string>
+    <string name="record">Record video</string>
+    <string name="remoteplayback_SDCard_disable_use">Memory card undetected</string>
+    <string name="remoteplayback_capture_fail_for_memory">Failed to capture screenshot due to limited storage space</string>
+    <string name="already_saved_to_volume">Saved to album</string>
+    <string name="start_voice_talk">Enabling Talk</string>
+    <string name="realplay_full_talk_start_tip">You can talk now</string>
+    <string name="press_to_talk_release_to_listen">Press and hold to talk \n release to listen</string>
+    <string name="ez_unbind_device">Please close terminal binding on the fluorite client</string>
+    <string name="remoteplayback_over_link">Too many device connections, please stop other connections and retry</string>
+    <string name="remoteplayback_record_fail_for_memory">The video is interrupted, the storage space is full</string>
+    <string name="remoteplayback_record_fail">Failed to record</string>
+    <string name="realplay_fail_connect_device">Playback failed, device connection exception</string>
+    <string name="realplay_set_fail_network">Failed to set, please check network connectivity</string>
+    <string name="realplay_play_talkback_fail_ison">You can only talk to one device at a time, please stop other talks and retry.</string>
+    <string name="realplay_play_talkback_fail_privacy">You cannot talk in privacy mode</string>
+    <string name="realplay_fail_device_not_exist">Device offline</string>
+    <string name="realplay_play_talkback_network_exception">Network abnormal, talk ended</string>
+    <string name="realplay_play_talkback_request_timeout">Request timed out, talk ended</string>
+    <string name="realplay_play_talkback_fail">Failed to enable Talk</string>
+    <string name="realplay_set_vediomode_fail">Failed to switch video quality mode</string>
+    <string name="realplay_play_fail_becauseof_network">Failed to play video, please check network connectivity</string>
+    <string name="added_camera_verycode_fail_title_txt">The verification you entered is incorrect, please re-enter</string>
+    <string name="setting_video_level">Switching video quality...</string>
+    <string name="camera_lens_too_busy">The camera is spinning, please wait...</string>
+    <string name="ptz_control_timeout_cruise_track_failed">The track is cruising, please wait</string>
+    <string name="ptz_mirroring_failed">Talking, you cannot operate PTZ</string>
+    <string name="ptz_is_preseting">The camera is spinning, please wait...</string>
+    <string name="ptz_operation_failed">Operation failed</string>
+    <string name="ptz_operation_too_frequently">Do not repeat the operation frequently</string>
+    <string name="ptz_preset_current_position_failed">You are now in this position</string>
+    <string name="ptz_preset_exceed_maxnum_failed">Can not add more</string>
+    <string name="ptz_preset_invalid_position_failed">The current location has been deleted, please return to refresh</string>
+    <string name="ptz_preset_sound_localization_failed">Listening to identify position, please wait</string>
+    <string name="ptz_privacying_failed">The lens is covered, you cannot operate PTZ</string>
+    <string name="ez_alarm_type_person_alarm">Human presence event</string>
+    <string name="alarm_type_baby_cry">Baby crying alarm occurred</string>
+    <string name="alarm_type_door">Door opening alarm occurred</string>
+    <string name="alarm_type_gas">Flammable gas alarm occurred</string>
+    <string name="alarm_type_motion_detection">Motion detection alarm occurred</string>
+    <string name="alarm_type_person_alarm">Human presence alarm occurred</string>
+    <string name="alarm_type_smoke">Smoke alarm occurred</string>
+    <string name="alarm_type_unknown">Unknown alarm occurred</string>
+    <string name="alarm_type_urgent_button">Emergency alarm occurred</string>
+    <string name="alarm_type_water">Water intrusion alarm occurred</string>
+    <string name="delete_confirm">Delete?</string>
+    <string name="alarm_message_del_success_txt">Deleted successfully</string>
+    <string name="alarm_message_del_fail_txt">Delete failed</string>
+    <string name="alarm_message_del_fail_network_exception">Delete failed, please check network connectivity</string>
+    <string name="alarm_message_check_fail">Failed to mark message</string>
+    <string name="alarm_message_check_fail_network_exception">Failed to mark message, please check network connectivity</string>
+    <string name="get_message_fail_service_exception">Failed to obtain event message</string>
+    <string name="message_video">Message video</string>
+    <string name="ez_event_message_detail">Message details</string>
+    <string name="from">Source</string>
+    <string name="ez_device_offline">Device offline</string>
+    <string name="camera_not_online">Device offline</string>
+    <string name="remoteplayback_capture_fail">Failed to capture screenshot</string>
+    <string name="remoteplayback_connect_device_error">Playback interrupted, please retry</string>
+    <string name="remoteplayback_connect_server_error">Failed to connect server, please retry</string>
+    <string name="remoteplayback_fail">Video playback failed</string>
+    <string name="remoteplayback_norecordfile">There is no query to video</string>
+    <string name="remoteplayback_norecordfile_alarm">There is no query to the alarm video of that time</string>
+    <string name="remoteplayback_searchfile_fail_for_device">Failed to query video</string>
+    <string name="remoteplayback_searchfile_fail_for_network">Failed to query video, please check network connectivity</string>
+    <string name="choice_mode">Select mode</string>
+    <string name="realplay_play_fail">Video playback failed</string>
+    <string name="detail_modify_success">Changed successfully</string>
+    <string name="input_right_ez_device_verify">Please enter correct verification code</string>
+    <string name="realplay_verifycode_error_placehold">The verification code is on the model\'s tag</string>
+    <string name="fan_light_small">Low</string>
+    <string name="fan_light_middle">Medium</string>
+    <string name="fan_light_high">High</string>
+    <string name="fan_light">Light</string>
+    <string name="fan_light_smart">Smart</string>
+    <string name="fan_light_text">Fan</string>
+    <string name="fan_light_switch">Light</string>
+    <string name="month">Month</string>
+    <string name="pop_speed">Speed</string>
+    <string name="only_mode1_can_diy">You can DIY only in ordinary mode</string>
+    <string name="light_belt_undiy">The button has not defined the color</string>
+    <string name="light_belt_diy_failed">DIY failed, please check network connectivity</string>
+
+    <string name="open_curtain">Open</string>
+    <string name="close_curtain">Close</string>
+    <string name="pause_curtain">Stop</string>
+    <string name="add_success_wait_second">Added successfully, the device is connecting to WIFI, it may take a few minutes, please wait.</string>
+    <string name="scene_operate_success">Executed successfully</string>
+    <string name="please_choice_execute_condition">Please add a condition</string>
+    <string name="no_userful_alarm_device">No alarms available</string>
+    <string name="no_userful_remote_device">No remote controllers available</string>
+    <string name="unknow_remote_has_deleted">Unknown remote controller (deleted)</string>
+    <string name="unknow_alarm_device">Unknown alarm (deleted) </string>
+    <string name="info_sure_delete_and_in_scene">Are you sure to delete the device? Related scene will be triggered by deleting it at the same time.</string>
+    <string name="no_userful_key">No available buttons</string>
+    <string name="light_belt_mode_2">Mode 2: Gradien</string>
+    <string name="light_belt_mode_3">Mode 3: Jump</string>
+    <string name="light_belt_custome_color">Custom color</string>
+    <string name="light_belt_long_click_diy">(Press and hold DIY to save selected color or color temp)</string>
+
 </resources>
