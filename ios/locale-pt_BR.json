@@ -825,6 +825,30 @@
   "USER_GOOGLE_HOME":"Google Home",
   "User_GOOGLE_NEST":"Google Nest",
   "ADD_DEVICE_SUGGEST_WIFI":"Please make sure your phone and the model are closer enough to WiFi router",
-  "CHECK_FAQ":"Read FAQ"
+  "CHECK_FAQ":"Read FAQ",
+
+  "DETERMINE_PAIR": "Pair Your Device",
+  "SELECT_ADD_MODEL_BLINK": "Bulb or LED strip, please turn on and off for 3 times to enter pairing mode, the time interval is 2s.",
+  "SELECT_ADD_MODEL": "Press and hold the pairing button for 5s to enter into pairing mode. Please check led indicator blinking status.",
+  "ADD_DEVICE_TOUCH_SOCKET":"Socket",
+  "ADD_DEVICE_TOUCH_PANEL_SWITCH":"Touch Switch",
+  "ADD_DEVICE_TOUCH_BALL_LINGHT":"Bulb",
+  "ADD_DEVICE_TOUCH_LIGHT":"LED Strip",
+  "ADD_DEVICE_TOUCH_aromatherapy":"Aroma diffuser",
+  "ADD_DEVICE_WIFI_S20":"S20",
+  "ADD_DEVICE_WIFI_OTHER":"Others",
+
+  "COLOR_MODEL":"Color Mode",
+  "CUSTOM_COLORS":"Custom color",
+  "CUSTOM_COLORS_TEXT":"(Press and hold DIY to save selected color or color temp)",
+  "Only_The_Owner":"Only the owner can operate",
+  "LIGHT_BELT_COLOR_MODEL_SELECT":"Select Mode",
+  "LIGHT_BELT_COLOR_MODEL_SELECT_2":"Mode 2: Gradiant",
+  "LIGHT_BELT_COLOR_MODEL_SELECT_3":"Mode 3: Jump",
+  "LIGHT_BELT_COLOR_MODEL_SELECT_SHEEP":"Speed",
+
+  "ONLY_COMMON_MODE_DIY":"Only the Normal Mode supports DIY",
+  "COMMON_MODE_CAN_NOT_SET_SPEED":"You cannot set speed in Normal Mode"
+
 
 }
