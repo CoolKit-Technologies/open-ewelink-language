@@ -16,7 +16,7 @@
     <string name="language_choice_frech">Français</string>
     <string name="language_choice_spanish">Español</string>
     <string name="language_choice_genman">Deutsch</string>
-    <string name="language_choice_portugal">português</string>
+    <string name="language_choice_portugal">Português(Brasil)</string>
     <string name="language_choice_greece">ελληνικά</string>
     <string name="language_choice_czech">český</string>
     <string name="language_choice_bulgaria">български</string>
@@ -44,7 +44,7 @@
     <string name="not_found_device">Ni najdena nobena naprava, prepričajte se da je naprava v načinu urejanja.</string>
     <string name="not_device">Naprava ne obstaja</string>
     <string name="air_cleaner">Čiščenje zraka</string>
-    <string name="best">Odlično</string>
+    <string name="best">Najboljše</string>
     <string name="fine">Dobro</string>
     <string name="middle">Srednje</string>
     <string name="bad">Slabo</string>
@@ -74,19 +74,15 @@
 
 
     <string name="info_wait_upgrade">Med nadgradnjo naprava ne bo delovala, postopek lahko traja nekaj časa, prosimo počakajte</string>
-
     <string name="del_group">Ali ste prepričani, da želite oodstraniti skupino? </string>
     <string name="ota_failed_upgrade">Naprava %1$s nadgradnja ni uspela</string>
     <string name="ota_success_upgrade">Naprava %1$s nadgradnja je uspela</string>
     <string name="ota_finish_upgrade">Naprava %1$s nadgradnja je popolna</string>
-
     <string name="firmware_upgradeing">%1$s Poteka nadgradnja naprave...</string>
     <string name="background_updateing">%1$s Nadgradnja poteka v ozadju...</string>
     <string name="sms_mustbenoempty">%1$s Koda za preverjanje ne sme biti prazna</string>
-
     <string name="tips">Opomnik</string>
     <string name="info_relogin">Prijava je potekla, prosimo da se ponovno prijavite.</string>
-
     <string name="ok">V redu</string>
     <string name="Save">Shrani</string>
     <string name="cancel">Prekliči</string>
@@ -94,6 +90,8 @@
     <string name="group_exits">Ta skupina že obstaja</string>
     <string name="delete_group">Naprave v tej grupi že obstajajo. Ali ste prepričani da želite izbrisati grupo?</string>
     <string name="change_device">Spremeni ime naprave</string>
+
+
 
     <string name="info_not_change">Samo potrjen lastnik lahko zamenja ime naprave</string>
     <string name="change_name_success">Uspešno spremenjeno</string>
@@ -160,6 +158,7 @@
     <string name="share_device">Napravo daj v skupno rabo</string>
     <string name="repeat_time">Ponovi čas</string>
 
+
     <string name="select_user">Izberi uporabnika</string>
     <string name="enter_phone_number">Napačna telefonska števika</string>
     <string name="not_share_own">Deljenje sam sebi ni dovoljeno</string>
@@ -204,7 +203,7 @@
 
     <string name="timer_set">Časovnik</string>
 
-    <string name="info_kuzhai">EWeLink je brezplačna za pametni dom aplikacija. EWeLink lahko upravlja in nadzoruje vse pametne domače izdelke podjetja ITEAD in sodelujočih partnerjev. Podpira daljinsko vklop / izklop priključenih električnih naprav, nastavi časovni razpored, naprave za skupno rabo, upravljanje skupine in scene. Z eWeLinkom lahko prilagodite barvo in svetlost več RGB LED svetil, nadzirate temperaturo in vlažnost v realnem času s Sonoff TH napravo, spremljate podatke o domačem okolju in še veliko več. Več naprav se še razvija, prosimo, ostanite povezani z nami.</string>
+    <string name="info_kuzhai">eWeLink je brezplačna za pametni dom aplikacija. eWeLink lahko upravlja in nadzoruje vse pametne domače izdelke podjetja ITEAD in sodelujočih partnerjev. Podpira daljinsko vklop / izklop priključenih električnih naprav, nastavi časovni razpored, naprave za skupno rabo, upravljanje skupine in scene. Z eWeLinkom lahko prilagodite barvo in svetlost več RGB LED svetil, nadzirate temperaturo in vlažnost v realnem času s Sonoff TH napravo, spremljate podatke o domačem okolju in še veliko več. Več naprav se še razvija, prosimo, ostanite povezani z nami.</string>
     <string name="my_device">Moja naprava</string>
 
     <string name="add_new_timer">Novi časovnik</string>
@@ -217,12 +216,11 @@
     <string name="six">Šest </string>
     <string name="seven">Sedem </string>
 
+
     <string name="complete">Shrani</string>
     <string name="add_new_group">Dodaj novo skupino</string>
-
     <string name="info_newtime">Trenutno ni časovnika, kliknite ikono spodaj za dodajanje novega časovnika</string>
     <string name="run_cmd">Uredi časovnik</string>
-
     <string name="switch_on">VKLOP</string>
     <string name="off_switch">IZKLOP</string>
     <string name="time_set">Nastavitev časa</string>
@@ -239,7 +237,6 @@
     <string name="send_verification_code">Pošlji</string>
     <string name="register">Register</string>
     <string name="personal_infomation">Osebne informacije</string>
-
     <string name="message_center">Center za sporočila</string>
     <string name="intelligent_scene">eWeLink scena</string>
     <string name="feedback">Povratne informacije</string>
@@ -247,7 +244,6 @@
     <string name="info_reset_password">Pozabljeno geslo</string>
     <string name="return_op">Nazaj</string>
     <string name="return_space">Vrni nazaj</string>
-
     <string name="discovered_device">Najdene naprave</string>
     <string name="select_add_device">Izberi napravo za dodajanje</string>
     <string name="next">Naprej</string>
@@ -258,7 +254,6 @@
     <string name="one_gear">Nivo hitrosti 1</string>
     <string name="two_gear">Nivo hitrosti 2</string>
     <string name="third_gear">Nivo hitrosti 3</string>
-
     <string name="stall_mode">Način</string>
     <string name="temperature_mode">temp. način</string>
     <string name="current_temperature">Trenutna temp.</string>
@@ -268,10 +263,9 @@
     <string name="enter_new_passwod">vstavi novo geslo</string>
     <string name="again_new_password">ponovno vstavi novo geslo</string>
     <string name="set_group_nameicon">Ime skupine in nastavitev ikone</string>
-    <string name="enter_group_name">Vstvi ime skupine</string>
+    <string name="enter_group_name">Vstavi ime skupine</string>
     <string name="selected_icon">Izberi ikono</string>
     <string name="upload_icon">prenesi ikono</string>
-
     <string name="enter_share_nuber">Vstavi telefonsko številko katero želiš deliti</string>
     <string name="find_new_version">Najdena je novejša verzija, prosim nadgradi</string>
     <string name="upgrade">Nadgradnja</string>
@@ -280,7 +274,6 @@
     <string name="my_devices">Moja naprava</string>
     <string name="delete">Izbriši</string>
     <string name="firmware_upgrade">Nadgradnja firmware</string>
-
     <string name="register_users">registracija</string>
     <string name="login_btn">Gumb za prijavo</string>
     <string name="reset_password">Ponastavi geslo</string>
@@ -292,14 +285,14 @@
     <string name="minutes">Min. kasneje</string>
     <string name="cut">Izreži</string>
     <string name="manager_group">Upravljanje skupine</string>
-    <!--<string name="exit_coolkit">Exit CoolKit</string>-->
 
-    <!--<string name="app_name">CoolKit</string>-->
-    <string name="app_name">EWeLink</string>
+
+
+
+    <string name="app_name">eWeLink</string>
     <string name="reciver_invite">Uporabnik %1$s želi deliti %1$s z vami. Ali sprejmete?</string>
     <string name="new_home_kit">eWeLink %1$s apk nadgradnja</string>
     <string name="versionString">Verzija：%1$s, preveri za novo verzijo</string>
-
     <string name="hello_world">Pozdravljen svet!</string>
     <string name="action_settings">Nastavitve</string>
     <string name="select_wifi">Prosim izberi WiFi</string>
@@ -309,7 +302,6 @@
     <string name="account_notvalid">Neveljaven račun</string>
     <string name="input_account">prosim vnesi tvoj račun</string>
     <string name="phone_notvalid">Napačna telefonska številka</string>
-
     <string name="not_intent_word">WiFi trenutno ni na voljo</string>
     <string name="select_date">Prosimo izberite vsaj en dan</string>
     <string name="title_update">Firmware nadgradnja, prosimo počakajte</string>
@@ -345,18 +337,19 @@
     <string name="about_coolkit_weixin">Sledite našemu naročninskemu računu WeChat, tu lahko nadzorujete vse vaše naprave, tako da dostopate do eWeLink računa. Preprosto preglejte zgornjo QR kodo, ki jo želite uporabiti.</string>
 
     <string name="error_sms_code">Napačna potrditvena koda, prosimo poizkusite ponovno</string>
-    <string name="reset_error">Ponastavi napako</string>
+
+
+
+
+    <string name="reset_error">Resetiraj</string>
     <string name="reset_fail">Ponastavljanje neuspešno</string>
     <string name="dont_reset_agin">Ta račun že obstaja. Prosimo ne registriraj se ponovno.</string>
     <string name="countrycode_smscode_error">Napačna koda države ali koda za preverjanje</string>
-
     <string name="send_msg_limit">Preseženo maksimalno število številk za preverjanje</string>
     <string name="send_msg_fail_check">SMS ni bilo mogoče poslati, prosimo preverite omrežje</string>
     <string name="send_msg_fail">Pošiljanje SMS ni uspelo</string>
-
     <string name="send_email_fail_check">SMS ni bilo mogoče poslati, prosimo preverite omrežje</string>
     <string name="send_email_fail">Pošiljanje SMS ni uspelo</string>
-
     <string name="send_email_success">Uspešno poslan E-mail, prosm preveri</string>
     <string name="send_sms_success">Uspešno poslan SMS, prosm preveri</string>
     <string name="confirm">Potrdi</string>
@@ -364,48 +357,15 @@
     <string name="add_confirm">V redu</string>
     <string name="puls_select"> Iberi kanal</string>
 
+
+
+
+
     <string name="edit_dialog">Uredi časovnik</string>
-    <!-- <string name="del_dialog">Deleting timer</string>-->
-    <string name="connectto_nopwd">Vnesli ste geslo, ali ste prepričani, da WiFi nima gesla?</string>
-    <string name="infoweek">Teden</string>
-    <string name="equesdate">Napaka pri nastavitvi časa, trenutno ne morete nastaviti časovnika</string>
-    <string name="SSID_no_chinese">SSID ne more vsebovati kitajskih znakov</string>
-    <string name="pwd_no_chinese">Geslo ne more vsebovati kitajskih znakov</string>
-    <string name="Wifi_Name">Dostop do WiFi naprave:</string>
-    <string name="Wifi_PassWord">WiFi geslo:</string>
-    <string name="wifi_password_none">Geslo je prazno</string>
-    <string name="change_name">Spremeni ime nprave</string>
-    <string name="only_owner">Ogled je omogočen samo lastniku</string>
-    <string name="productinfo">Informacije o napravi</string>
-    <string name="notgrade">Zadnje</string>
-    <string name="firmware">Firmware verzija:</string>
-    <string name="canupgrade">Klikni za nadgradnjo</string>
-    <string name="infoupgrade">Firmware lahko nadgradite, prosimo, pojdite v nastavitev naprave, da posodobite vdelano programsko opremo</string>
-    <string name="deviceoffline">Naprava je brez povezave</string>
-    <string name="et_search">Išči</string>
-
-    <string name="name_repeat">Podvojeno ime</string>
-
-    <string name="power_on">VKLOP</string>
-    <string name="power_off">IZKLOP</string>
-    <string name="info_updateerr">Naprava je brez povezave, nadgradnja zdaj ni mogoča</string>
-    <string name="confirm_new_password">Potrdi geslo</string>
-    <string name="change_password_out">Zamenjaj geslo</string>
-    <string name="virtual_fengshan">Ventilator</string>
-    <string name="virtual_chazhuo">Vtičnica</string>
-    <string name="line_real_device">Prosimo povežite se z vašo napravo</string>
-    <string name="hour">Ura</string>
-    <string name="check_wifi">Prosimo preverite vaše omrežje</string>
-    <string name="group_add">Dodaj skupino</string>
-    <string name="group_del">Odstrani skupino</string>
-    <string name="try_again_later">Prosimo poizkusite kasneje</string>
-
-
     <string name="send_config_over_time">Nastavite napravo na pavzo, prosimo poizkusite ponovno</string>
     <string name="begintime">Začetni čas</string>
     <string name="intervaltime">Interval</string>
     <string name="keeptime">Trajanje</string>
-
     <string name="keep_not">Trajanje ne more biti nič</string>
     <string name="interval_not">Interval ne more biti nič</string>
     <string name="keep_smaller_interval">Trajanje mora biti krajše od intervala</string>
@@ -413,13 +373,13 @@
     <string name="switch_close">Izklop</string>
     <string name="start_action">Start</string>
     <string name="end_action">Konec</string>
-    <string name="data_exception">Izjema podatkov, prosimo poizkusite kasneje</string>
+    <string name="data_exception">Ni podatkov, prosimo poizkusite kasneje</string>
     <string name="switchcountry">Izberi svojo državo</string>
     <string name="password">Geslo</string>
     <string name="language_actionbar_text">Preklopi na jezik</string>
     <string name="current_version">Trenutna</string>
-    <string name="change_nickname">Spremeni nadimek</string>
-    <string name="nickname">Vstavi nov nadimek</string>
+    <string name="change_nickname">Spremeni uporabiško ime</string>
+    <string name="nickname">Vstavi novo uporabniško ime</string>
     <string name="on_change_language">Preklopi</string>
     <string name="go_on">Nadaljuj</string>
     <string name="add_device">Dodaj napravo</string>
@@ -430,6 +390,8 @@
     <string name="user_pwd">Geslo</string>
     <string name="search_failed">Izskanje neuspešno, prosim poizkusi ponovno</string>
     <string name="sure_quit_add">Ali želiš potrditi, da zapreš seznanjanje?</string>
+
+
 
     <string name="over">Konec</string>
     <string name="connected_device_wait">Povezujem se z napravo, prosim počakajte...</string>
@@ -457,7 +419,10 @@
     <string name="no_sensor">Podatke senzorja ni bilo mogoče prebrati. Prosimo prverite omrežno povezavo.</string>
     <string name="no_permission_try_system">Potrebujete dovoljenje. Lahko poizkusite dovoljenje v nastavitvah sistema</string>
     <string name="need_extra_permission">potrebujete posebno dovoljenje. Zahteva zdaj?</string>
-    <string name="need_permission_coarse">Prosimo, podajte dovoljenje za omrežje ali lokacijo EweLink sicer ne boste mogli dodati naprave!</string>
+    <string name="need_permission_coarse">Prosimo, podajte dovoljenje za omrežje ali lokacijo eWeLink sicer ne boste mogli dodati naprave!</string>
+
+
+
 
 
     <!--温湿度翻译-->
@@ -469,7 +434,7 @@
     <string name="hum_smaller_than">Manjše kot</string>
     <string name="temp_bigger_than">Večje kot</string>
     <string name="temp_smaller_than">Manjše kot</string>
-    <string name="temp_setting">Temperaturea</string>
+    <string name="temp_setting">Temperatura</string>
     <string name="hum_setting">Vlaga</string>
     <!---->
 
@@ -479,7 +444,7 @@
     <string name="manual_model">Ročno</string>
     <string name="auto_model_unable_control">V načinu Auto ni mogoče upravljati stikala</string>
     <string name="enter_account">Prosimo vnesite račun</string>
-    <string name="power_stay">Obdrži</string>
+    <string name="power_stay">OBDRŽI</string>
     <string name="no_address">Niste napolnili kontaktnih informacij, nadaljujem?</string>
     <string name="long_press_button">Pritisni in zadrži gumb za seznanjanje dokler LED lučka ne utripa hitro</string>
     <string name="choice_describe">Izberite ustrezno metodo seznanjanja.</string>
@@ -488,7 +453,7 @@
     <string name="other_case">V drugih primerih</string>
     <string name="choice_state">Prosimo izberite državo</string>
     <string name="not_find">Ni najdenih naprav</string>
-    <string name="add_new_scene">Dodaj način upravljanja</string>
+    <string name="add_new_scene">Dodaj sceno</string>
     <string name="scene_name">Ime načina upravljanja</string>
     <string name="scene_setting">Nastavitev načina upravljanja</string>
     <string name="scene_list_is_null">Seznam naprav v načinu upravljanja je prazen</string>
@@ -497,15 +462,15 @@
     <string name="save_scene_fail">Načina upravljanja ni bilo mogoče shraniti</string>
     <string name="execute">Zaženi</string>
     <string name="request_time_out">Pavza</string>
-    <string name="delete_scene">Izbriši način upravljanja</string>
+    <string name="delete_scene">Izbriši sceno</string>
     <string name="delete_scene_fail">Brisanje načina upravljanja je neuspešno</string>
     <string name="scene_limit">Dovoljenih je samo 20 načinov upravljanja</string>
     <string name="channel1">Kanal 1:</string>
     <string name="channel2">Kanal 2:</string>
     <string name="channel3">Kanal 3:</string>
     <string name="channel4">Kanal 4:</string>
-    <string name="keep">obdrži</string>
-    <string name="delete_scene_success">Način upravljanja je uspešno izbrsan</string>
+    <string name="keep">OBDRŽI</string>
+    <string name="delete_scene_success">Scena je uspešno izbrsan</string>
     <string name="channel">Izhod</string>
     <string name="channel_name">Ime kanala</string>
     <string name="production">Predstavitev izdelka</string>
@@ -513,9 +478,10 @@
     <string name="channel_name_not_be_empty">Ime kanala ne sme biti prazno</string>
     <string name="latest_version">Najnovejše:</string>
 
+
+
     <string name="wait_for_confirm">Čakanje na potrditev</string>
     <string name="Scene_log_detail">Podrobnosti</string>
-
     <string name="efan_model">Model</string>
     <string name="efan_normal">normal</string>
     <string name="efan_natural">naravno</string>
@@ -523,23 +489,24 @@
     <string name="open_efan_first">Vklop ventilatorja</string>
     <string name="efan_speed">Hitrost</string>
     <string name="efan_shake">Osciliranje</string>
-
     <string name="success">Uspešno</string>
     <string name="failed">Neuspešno</string>
     <string name="history">Beleženje zgodovine</string>
     <string name="one_key_clean">Počisti</string>
-
     <string name="slide_right_operat_device">Pomaknite se v desno za upravljanje označenih naprav</string>
     <string name="slide_right_group_device">Pomaknite se v desno skupino</string>
-    <string name="click_scene_group">Dodaj način upravljanja</string>
+    <string name="click_scene_group">Dodaj sceno</string>
+
+
+
 
     <string name="i_know">Razumem</string>
     <string name="click_set_channel_name">Kliknite za poimenovanje vsakega kanala</string>
     <string name="device_offline_check_net">Naprava ni v omrežju, prosimo preverite omrežje</string>
-    <string name="sure_delete_scene">Ali ste prepričani da želite odstraniti način upravljanja?</string>
+    <string name="sure_delete_scene">Ali ste prepričani da želite odstraniti sceno?</string>
     <string name="open_fan">Odpri ventilator</string>
     <string name="close_fan">Zapri ventilator</string>
-    <string name="resetting">Ponastavitev...</string>
+    <string name="resetting">Resetiraj...</string>
     <string name="open_switch_first">Prosimo vklopite stikalo</string>
     <string name="start">Start</string>
     <string name="end">Konec</string>
@@ -550,10 +517,10 @@
     <string name="jan">Jan.</string>
     <string name="feb">Feb.</string>
     <string name="mar">Mar.</string>
-    <string name="apr">April</string>
+    <string name="apr">Apr.</string>
     <string name="may">Maj.</string>
-    <string name="june">Junij.</string>
-    <string name="july">Julij</string>
+    <string name="june">Jun.</string>
+    <string name="july">Jul.</string>
     <string name="aug">Avg.</string>
     <string name="sept">Sept.</string>
     <string name="oct">Okt.</string>
@@ -580,15 +547,6 @@
     <string name="youqiao_history_download_success">Prenos v mapo:\n%1$s</string>
     <string name="youqiao_history_download_failure">Prenos ni uspel, prosimo preverite ali je pomnilniška kartica prava.</string>
     <string name="youqiao_has_no_100_day_data">Zgodovina ni zabeležena, prosimo poizkusite kasneje.</string>
-
-    <string-array name="phone_managers">
-        <item>com.qihoo.appstore+360 Mobile Assistant</item>
-        <item>com.tencent.qqpimsecure+QQ Mobile Butler</item>
-        <item>com.qihoo360.mobilesafe+360 Mobile Guards</item>
-        <item>com.ijinshan.mguard+Kingsoft Mobile Guards</item>
-        <item>com.lbe.security+LBE Privacy Guard</item>
-    </string-array>
-
 
     <string-array name="country_code1">
         <item>United States   +1</item>
@@ -632,7 +590,7 @@
         <item>Brunei Darussalam   +673</item>
         <item>Bulgaria    +359</item>
         <item>Burkina Faso    +226</item>
-        <item>Burma   +95</item>
+        <item>Myanmar   +95</item>
         <item>Burundi +257</item>
         <item>Cambodia    +855</item>
         <item>Cameroon    +237</item>
@@ -857,6 +815,10 @@
     <string name="title_activity_main">Osnovna dejavnost</string>
     <string name="county_locale">država/lokalno</string>
 
+
+
+
+
     <string name="app_version">v0.3.4.3</string>
     <string name="tvApSsidTitle">SSID: </string>
     <string name="tvPasswordTitle">Geslo: </string>
@@ -864,7 +826,7 @@
     <string name="spinnerTaskResultCountTitle">Števec</string>
     <string name="btnConfirmTitle">Potrdi</string>
     <string name="title_activity_mask_actvity">Aktivnost</string>
-    <string name="title_activity_main22">Osnovna22aktivnost</string>
+    <string name="title_activity_main22">Osnovna 22 aktivnost</string>
     <string name="title_activity_show_adding_device_type_actvity">Pokaži vrsto aktivnosti dodane naprave</string>
     <string name="found_gen_one">Najdena naprava prve generacije\n%1$s</string>
     <string name="found_gen_two">Najdena naprava druge generacije</string>
@@ -880,24 +842,23 @@
     <string name="update_success">Skupina je uspešno nadgrajena</string>
     <string name="title_activity_debug_settings">Nastavitve</string>
 
-    <string name="confirm_to_state_pair">Potrdite napravo v fazi seznanjanja</string>
-    <string name="longpress_to_state_pair">Zadržite gumb za seznanjanje za 5s, LED indikator začne utripati hitro</string>
+    <string name="confirm_to_state_pair">Določite napravo za seznanjanje</string>
+    <string name="longpress_to_state_pair">Press and hold the pairing button for 5s to enter into pairing mode. Please check led indicator blinking status.\nBulb or LED strip, please turn on and off for 3 times to enter pairing mode, the time interval is 2s.</string>
     <string name="other_pair_instruction_led">Če želite Sonoff-u za zatemnitev LED vstopiti v stanje seznanjanja, ga vklopite in izklopite trikrat, časovni razmik med vklopom in izklopom naj bo 2 s, LED indikator bo hitro utripal.</string>
     <string name="other_pair_instruction">Navodila za seznanjanje</string>
     <string name="choose_wifi">izberi WiFi</string>
     <string name="pairing">Seznanjanje...</string>
     <string name="pair_failure">Seznanjanje je neuspešno</string>
-    <string name="pair_failure_reason_title_cannot_found_device">Naprava ni najdena, preverite naslednje nastavitve</string>
+    <string name="pair_failure_reason_title_cannot_found_device">Naprava ni najdena, preverite nastavitve</string>
     <string name="pair_failure_reason_title_error_in_process">Napaka v komunikacijskem procesu, prosim sledite navodilu</string>
     <string name="pair_failure_reason_check_assistant">Prosimo, preverite nastavitve dovoljenja za zaščito Mobile Security in protivirusne programske opreme, poskrbite, da eWeLink lahko dostopa do WiFi in lokacije.</string>
-    <string name="pair_failure_reason_check_device_pair_state">Vaša naprava ni v fazi seznanjanja, stopite v fazo seznanjanja zdaj.</string>
-    <string name="pair_failure_reason_cannot_connect_manual_setting">Neuspešna avtomatska povezava z WiFi napravo, prosimo povežite se ročno. Postopek: nastavi telefon na WiFi in se poveži z WiFi ->ITEAD-******" z geslom \"12345678\".</string>
+    <string name="pair_failure_reason_check_device_pair_state">Vaša naprava ni v fazi seznanjanja, prosimo stopite v fazo seznanjanja.</string>
+    <string name="pair_failure_reason_cannot_connect_manual_setting">Neuspešna avtomatska povezava z WiFi napravo, prosimo povežite se ročno. Postopek: nastavi telefon na WiFi in se poveži z WiFi -ITEAD-******" z geslom \"12345678\".</string>
     <string name="pair_failure_reason_timeout_first_request">Čas 1. komunikacije je potekel, prosimo poizkusite ponovno</string>
     <string name="pair_failure_reason_timeout_second_request">Čas 2. komunikacije je potekel, prosimo poizkusite ponovno</string>
     <string name="pair_failure_reason_check_wifi_pwd">Zahtevana ponovna potrditev WiFi gesla</string>
     <string name="pair_failure_reason_check_net_enable">Neuspešno, prosimo preverite važe omrežje in poizkusite ponovno</string>
     <string name="goto_system_setting">Vrnite se na eWeLink. Nastavitve WiFi sistema</string>
-
     <!-- Strings related to Settings -->
 
     <!-- Example General settings -->
@@ -954,8 +915,10 @@
     <string name="pref_ringtone_silent">Tiho</string>
 
     <string name="pref_title_vibrate">Vibriranje</string>
+
+
     <string name="open_led">Prosimo prvo vklopite luč</string>
-    <string name="add_new_smart_scene">Dodaj nov način upravljanja</string>
+    <string name="add_new_smart_scene">Dodaj novo sceno</string>
     <string name="where_it_meet">Od kdaj:</string>
     <string name="device_excute">Izvedi:</string>
     <string name="when_temp">Temperatura ≥</string>
@@ -972,26 +935,24 @@
     <string name="enter_params">Prosimo, vnesite parametre</string>
     <string name="select_condition">Izberite</string>
     <string name="smart_scene_time">čas:</string>
-    <string name="smart_scene">Pametni način upravljanja</string>
+    <string name="smart_scene">Pametna scena</string>
     <string name="two_temp_cant_be_equals">Temperaturna vrednost ne more biti enaka</string>
     <string name="two_hum_cant_be_equals">Vrednost vlage ne more biti enaka</string>
 
+
     <string name="add_success2">Uspešno doddano</string>
-    <string name="add_success_but_not_name">Uspešno dodano. Napačno ime. Uporabi privzeto ime %1$s</string>
+    <string name="add_success_but_not_name">Uspešno dodano vendar brez imena. Uporabi privzeto ime %1$s</string>
     <string name="confirm_quit_name">Zapri ime naprave?</string>
     <string name="device_name_default">Moje naprave%1$s</string>
     <string name="scene_device_list">Seznam naprav</string>
     <string name="tem_detail">Temperaturna vrednost mora biti med -999~999</string>
     <string name="first_smaller_second">Vrednost prvega polja mora biti manjša od drugega polja</string>
     <string name="third_smaller_fourth">Vrednost tretjega polja mora biti manjša od četrtega polja</string>
-
     <string name="device_dispatching">Povezovanje s serverjem...</string>
     <string name="wifi_name">WiFi ime</string>
     <string name="wifi_pwd">WiFi geslo</string>
     <string name="click_me_to_select">Klikni za izbiro naprave</string>
     <string name="current_scene_no_device">Ni naprav v trenutnem načinu upravljanja</string>
-
-
     <string name="has_not_change_to_device_host">(Naprava ni povezana\še vedno gostitelj)</string>
     <string name="choose_device">Izberi napravo</string>
     <string name="no_choice_device">Ni izbrane naprave</string>
@@ -999,24 +960,25 @@
     <string name="cardview_device_on_line">povezano</string>
     <string name="new_no_device_alert">Trenutno ni naprave, klikni gumb za dodajanje naprave</string>
     <string name="splash_timer">Časovnik</string>
-    <string name="splash_timer_text">Enosmerna vtičnica / stikalo podpira časovno zanko! Časovnik zanke se lahko samodejno izvede za vsak prednastavljen čas (recimo 1 ura) in nadaljujte krajši čas prednastavitve (recimo 20 min). Podprta različica vdelane programske opreme 1.5.0 in novejša.</string>
+    <string name="splash_timer_text">Enosmerna vtičnica / stikalo podpira časovno zanko! Časovnik se lahko samodejno izvede za vsak prednastavljen čas (recimo 1 ura) in nadaljuje krajši čas prednastavitve (recimo 20 min). Podprta različica vdelane programske opreme 1.5.0 in novejša.</string>
     <string name="share_splash_text">Želite družini in prijateljem omogočiti nadzor nad vašimi napravami? Samo delite vaše naprave na njihove račune!</string>
     <string name="splash_share_device">Deli napravo</string>
     <string name="goto_ewelink">Vstop eWeLink</string>
     <string name="back">Nazaj</string>
     <string name="everything_connect">Povezava z internetom</string>
 
+
     <string name="delay_timers">Odštevalnik časa</string>
     <string name="weekday">Dan:</string>
     <string name="new_timer_repeat">Ponovi:</string>
     <string name="action_one">Enkrat</string>
     <string name="action_repeat">Ponovi</string>
-    <string name="new_timer_action">Ponastavi:</string>
+    <string name="new_timer_action">Nastavi na:</string>
     <string name="new_timer_channel">Kanal:</string>
     <string name="new_timer_data">Datum</string>
     <string name="new_timer_time">Čas</string>
     <string name="new_timer_minute">Minuta</string>
-    <string name="new_timer_after">Potem</string>
+    <string name="new_timer_after">Nastavi čas:</string>
     <string name="refresh_power">Osveži</string>
     <string name="delay">Števec</string>
     <string name="thisyear">To leto</string>
@@ -1035,11 +997,9 @@
     <string name="delete_delayt_ok">Uspešno izbrisano</string>
     <string name="delete_delay_dialog">Brisanje odštevalnega časovnika...</string>
 
-
     <string name="copy_text_and_open_wechat">Kopirajte WeChat račun in sledite</string>
     <string name="has_not_installed_wechat">WeChat račun ni nameščen</string>
     <string name="wechat_subscription_can_also_control">（Krmiljenje naprave v WeChat načinu）</string>
-
     <string name="all_device">Vse naprave</string>
     <string name="my_share">Deljene krmilne naprave</string>
     <string name="share_to_me">Naprave ki jih delijo drugi z mano</string>
@@ -1051,6 +1011,7 @@
     <string name="group_nums_limit">Podpira max. 20 skupin</string>
     <string name="tip_group_empty_add">Trenutno ni skupin, kliknite spodnji gumb, da jih ustvarite</string>
 
+
     <string name="duration_every">Vedno</string>
     <string name="duration_hours">Ure</string>
     <string name="duration_excute_once">Izveddi minutno</string>
@@ -1059,7 +1020,7 @@
     <string name="duration_cancel">Prekliči</string>
     <string name="duration_ok">Dokončano</string>
     <string name="duration_delete">Izbriši</string>
-    <string name="duration_start">Omogoči</string>
+    <string name="duration_start">Start</string>
     <string name="duration_create_looper_success">Uspešno dodano</string>
     <string name="duration_update_looper_success">Uspešno spremenjeno</string>
     <string name="duration_2less1">2. čas mora biti manjši od 1. časa</string>
@@ -1075,12 +1036,12 @@
     <string name="device_not_share_click_to_share">Kliknite na spodnjo ikono za deljenje</string>
     <string name="list_already_has_account">Račun je že na vašem seznamu</string>
     <string name="sure_delete">Brisanje?</string>
-    <string name="settinginfo_power_state">Vklopi info stanje</string>
+    <string name="settinginfo_power_state">Stanje napajanja</string>
     <string name="duration_2not0">Čas ne more biti 0</string>
     <string name="new_device_setting">Nastavitev naprave</string>
     <string name="duration_update_failed">Časovnika zanke ni bilo mogoče spremeniti</string>
     <string name="duration_delete_failed">Časovnika zanke ni bilo mogoče izbrisati</string>
-    <string name="duration_timer">Časovnik zanke</string>
+    <string name="duration_timer">Časovnik</string>
     <string name="ota_new_version">Nova verzija:</string>
     <string name="scene">Način urejanja</string>
     <string name="group">Skupina</string>
@@ -1088,6 +1049,11 @@
     <string name="only_own_can_operation">Samo lastnik lahko spreminja časovnike.</string>
     <string name="fan_on">vklop</string>
     <string name="fan_off">Izklop</string>
+
+
+
+
+
 
     <string name="new_user_center_group">%1$s&#160;Skupina</string>
     <string name="new_user_center_scene">%1$s&#160;Način urejanja</string>
@@ -1167,6 +1133,17 @@
     <string name="find_mode_failed">Iskanje modela ni uspelo!</string>
     <string name="multiple_power_on">Vklop</string>
     <string name="multiple_power_off">Izkop</string>
+
+
+
+
+
+
+
+
+
+
+
     <string name="log">Log</string>
     <string name="please_choose_device">Prosimo izberite napravo.</string>
     <string name="add_condition">Dodaj stanje</string>
@@ -1178,8 +1155,8 @@
     <string name="temp_bigger">Temperatura ≥</string>
     <string name="temp_smaller">Temperatura ≤</string>
     <string name="humi_bigger">Vlažnost ≥</string>
-    <string name="humi_smaller">Vlažnost</string>
-    <string name="add_scene">Dodaj način upravljanja</string>
+    <string name="humi_smaller">Vlažnost ≤</string>
+    <string name="add_scene">Dodaj sceno</string>
     <string name="tem_upper_smaller_lower">Zgornja meja temperature mora biti večja od spodnje.</string>
     <string name="tem_upper_not_equal_lower">Zgornja meja temperature ne sme biti enaka spodnji.</string>
     <string name="hum_upper_not_equal_lower">Zgornja meja vlažnosti mora biti večja od spodnje.</string>
@@ -1202,6 +1179,8 @@
     <string name="tem_hum_2301_hum_range">Območje vlažnosti: 0-100</string>
     <string name="dialog_share_permit_timer">Dovoljenje za časovnik</string>
 
+
+
     <string name="no_userful_device">Na voljo ni nobene naprave</string>
     <string name="duration_cycle">Cikel:</string>
     <string name="duration_delay">Zakasnitev</string>
@@ -1217,6 +1196,10 @@
     <string name="lan_control">Nadzor z LAN omrežjem</string>
     <string name="isopen_timer">Omogoči časovnik?</string>
     <string name="copy_success">Uspešno kopirano</string>
+
+
+
+
 
     <string name="share_permit_timer">Dovoljenje časovnika:</string>
     <string name="share_permit_timer_enable">Omogočeno/Onemogočenoe</string>
@@ -1234,8 +1217,6 @@
     <string name="dialog_share_permit_enable">Omogoči</string>
 
 
-
-
     <!--nest-->
     <string name="nest_current_tempc">Trenutna temp. ℃</string>
     <string name="nest_current_tempf">Trenutna temp. ℉</string>
@@ -1245,8 +1226,8 @@
     <string name="nest_whether_has_person">Ali je kdo doma?</string>
     <string name="nest_has_person">Da</string>
     <string name="nest_has_no_person">Ne</string>
-    <string name="select_nest_device">Izberi komplet naprave</string>
-    <string name="pair_nest_device">Komplet naprave</string>
+    <string name="select_nest_device">Izberi napravo</string>
+    <string name="pair_nest_device">Druga naprava</string>
     <string name="nest_show_has_person">Sem doma</string>
     <string name="nest_show_has_no_person">Sem odsoten</string>
     <string name="add_nest_failed_400">Dodajanje ni uspelo</string>
@@ -1265,6 +1246,7 @@
     <string name="nest_show_target_temp">Nastavljena\nTemp.</string>
     <string name="has_no_nest_to_add">Nobene kompletne naprave ni mogoče dodati</string>
 
+
     <string name="record_least_time">Ustavitev je možna po 1os delovanja</string>
 
     <string name="p2p_connect_fail">Povezava p2p ni uspela</string>
@@ -1277,7 +1259,7 @@
     <string name="qr_scan">Skeniranje</string>
     <string name="single_device_choose">Enokanalna naprava</string>
     <string name="want_know_more">Več o </string>
-    <string name="app_name2">EWeLink </string>
+    <string name="app_name2">eWeLink</string>
     <string name="please_input_phone_number">Številka kartice</string>
 
     <string name="not_wifi_confirm_play_video">Ali ste prepričani, da uporabite mobilne podatke za predvajanje videoposnetka alarma?</string>
@@ -1290,7 +1272,7 @@
     <string name="gsm_total">Vsi podatki:</string>
     <string name="gsm_used">Uporabljeni podatki:</string>
     <string name="gsm_has">Razpoložljivi podatki:</string>
-    <string name="switch_operat_history">Posneto</string>
+    <string name="switch_operat_history">History</string>
     <string name="single_switch_history">Posneto posamezno</string>
     <string name="qr_shaoyishao">Scan QR kode</string>
     <string name="device">Naprava</string>
@@ -1305,12 +1287,12 @@
     <string name="business_cooperation">Poslovno sodelovanje</string>
     <string name="rgb5_bottom_white">Bela</string>
     <string name="rgb5_bottom_color">Barva</string>
-    <string name="rgb5_bottom_situation">Način upravljanja</string>
+    <string name="rgb5_bottom_situation">Scena</string>
     <string name="rgb5_light">Počitek</string>
     <string name="rgb5_read">Branje</string>
     <string name="rgb5_party">Zabava</string>
     <string name="rgb5_play">Naključno</string>
-    <string name="pair_gsm_device">GSM naprava</string>
+    <string name="pair_gsm_device">Pametni telefon</string>
     <string name="rgb5_dark">Zatemnitev</string>
     <string name="rgb5_bright">Svetlost</string>
     <string name="rgb5_cold">Hladno</string>
@@ -1320,7 +1302,7 @@
 
 
     <string name="aromatherapy_light_switch">Luč</string>
-    <string name="aromatherapy_state_small">Majhno</string>
+    <string name="aromatherapy_state_small">Malo</string>
     <string name="aromatherapy_state_big">Veliko</string>
     <string name="install_googleplay_first">Prosimo uporabite Google Play</string>
     <string name="app_downloading">Prenašanje</string>
@@ -1372,5 +1354,187 @@
     <string name="beijing_temp_small_range">Temp. Območje: 5~34</string>
     <string name="beijing_temp_small_less">Druga vrednost mora biti manjša od prve.</string>
     <string name="has_already_send_to_you">Koda za preverjanje je bila poslana v telefon ali na poštni predal, preverite in jo vnesite</string>
+    <string name="add_schedule">New Schedule</string>
+    <string name="add_timer">New Timer</string>
+    <string name="unknow">Unknown</string>
+    <string name="only_support_24">(Only supports 2.4G WiFi)</string>
+    <string name="faq_device_failed">Pairing failed...</string>
+    <string name="faq_alert">FAQ</string>
+    <string name="enter_faq">Read FAQ</string>
+    <string name="choice_execute_operate">Please select an action in Execute</string>
+    <string name="all_operate_not_be_keep">You can\’t set all channels\’ status as Keep</string>
+    <string name="language_choice_slovenia">Slovenščina</string>
+    <string name="you_can_create_scene">You can create scenes to turn on/off a gang of devices with one tap.</string>
+    <string name="you_can_create_smart_scene">You can create scenes to trigger on/off the devices by the data range from sensors or by the status changes from other device.</string>
+    <string name="let_your_device_operate_automatically">Let your devices operate automatically, you can even get rid of the phone.</string>
+    <string name="sure_device_closer_wifi">Please make sure your phone and the model are closer enough to WiFi router.</string>
+    <string name="detail_alert_device_offline">Device offline</string>
+    <string name="usercenter_app_name">eWeLink</string>
 
+    <string name="cant_operate_frequently">Do not repeat the operation frequently</string>
+    <string name="select_device">Select a device</string>
+    <string name="sure_delete_ezcamera">Confirm switching will delete all the fluorite camera devices under current account.</string>
+    <string name="ez_get_upgrade_info_failed">Failed to obtain version info.</string>
+    <string name="ez_upgrade_success_restart">Upgraded successfully, the device is restarting...</string>
+    <string name="ez_upgrade_progress">Upgrade progress: 0</string>
+    <string name="ez_input_verify_code_alert">Your video has been encrypted, please enter password to watch. Initial password is the verification code on the model\'s tag. If there is no such a tag, please enter ABCDEF(case sensitive).</string>
+    <string name="ez_input_device_verify_code">Please enter device\'s verification code</string>
+    <string name="other_device_setting">Settings</string>
+    <string name="ez_account">Fluorite account</string>
+    <string name="ez_unbind">Unbind</string>
+    <string name="ez_not_bind">Not bound yet</string>
+    <string name="sure_unbind_account">Are you sure to unbind the account?</string>
+    <string name="remoteplay_search_failed">Query failed. Please check if the cloud storage service is expired</string>
+    <string name="color_model">Color mode</string>
+    <string name="has_bound_ewelink">It has been bound with eWeLink account</string>
+    <string name="current_account_has_no_ez">No Fluorite devices under current account</string>
+    <string name="setting">Settings</string>
+    <string name="ez_camera">Fluorite Camera</string>
+    <string name="ez_change_account">Switch user＞</string>
+    <string name="ez_settings_device_serial">Serial number</string>
+    <string name="ez_current_version">Current version</string>
+    <string name="ez_latest_version">Latest version</string>
+    <string name="version_newest">Current version is the latest one</string>
+    <string name="detail_defend_c1_c2_f1">Activity detection reminder</string>
+    <string name="detail_safe_mode">Video/Image encryption</string>
+    <string name="ez_setting">Device Settings</string>
+    <string name="device_have_not_added">The device has not been added or has been deleted</string>
+    <string name="ez_device_name_hint">Device Name</string>
+    <string name="detail_modify_device_name_limit_tip">Please do not exceed %d characters</string>
+    <string name="ez_save">Save</string>
+    <string name="ez_modify_name">Change device name</string>
+    <string name="company_addr_is_empty">Cannot be empty</string>
+    <string name="ez_device_upgrade">Upgrade device</string>
+    <string name="countdown">Message %d seconds left</string>
+    <string name="encrypt_password_open_fail_networkexception">Operation failed, please check network connectivity</string>
+    <string name="encrypt_password_open_fail">Operation failed</string>
+    <string name="detail_safe_btn_tip">If your video is in public mode, others cannot watch it after opening encryption mode. Are you sure to open it?</string>
+    <string name="detail_safe_close_btn_tip">After closing encryption mode, the video and picture security level will be lowered. Are you sure to close it?</string>
+    <string name="input_device_verify_code">Please enter the device verification code</string>
+    <string name="ez_dialog_btn_disable_video_encrypt">Close video encryption</string>
+    <string name="encrypt_password_open_success">Successful</string>
+    <string name="select_all">All</string>
+    <string name="ez_check_all_message">Set as read</string>
+    <string name="ez_no_message">No messages</string>
+    <string name="network_error_retry_prompt">Poor network~</string>
+    <string name="ptz">Pan and tilt (PTZ)</string>
+    <string name="talk">Talk</string>
+    <string name="xlistview_footer_hint_no_more_device">No more devices</string>
+    <string name="xlistview_footer_hint_normal">Pull up to load more ...</string>
+    <string name="xlistview_footer_hint_ready">Release to load more...</string>
+    <string name="xlistview_footer_no_more">No more</string>
+    <string name="xlistview_footer_no_more_msg">No more messages</string>
+    <string name="xlistview_header_hint_loading">Loading, please wait...</string>
+    <string name="xlistview_header_hint_more">Pull down to load more...</string>
+    <string name="xlistview_header_hint_normal">Pull down to refresh</string>
+    <string name="xlistview_header_hint_ready">Release to refresh data</string>
+    <string name="xlistview_header_last_time">Latest update</string>
+    <string name="no_more_alarm_tip">The message can be saved for up to 7 days</string>
+    <string name="today">Today</string>
+    <string name="alarm_type_infrared">Detected human presence</string>
+    <string name="message_come_from_tip">Source：</string>
+    <string name="ez_event_message">Message</string>
+    <string name="edit_txt">Edit</string>
+    <string name="quality_hd">HD</string>
+    <string name="quality_flunet">Fluent</string>
+    <string name="quality_balanced">Balanced</string>
+    <string name="capture">Capture screenshot</string>
+    <string name="record">Record video</string>
+    <string name="remoteplayback_SDCard_disable_use">Memory card undetected</string>
+    <string name="remoteplayback_capture_fail_for_memory">Failed to capture screenshot due to limited storage space</string>
+    <string name="already_saved_to_volume">Saved to album</string>
+    <string name="start_voice_talk">Enabling Talk</string>
+    <string name="realplay_full_talk_start_tip">You can talk now</string>
+    <string name="press_to_talk_release_to_listen">Press and hold to talk \n release to listen</string>
+    <string name="ez_unbind_device">Please close terminal binding on the fluorite client</string>
+    <string name="remoteplayback_over_link">Too many device connections, please stop other connections and retry</string>
+    <string name="remoteplayback_record_fail_for_memory">The video is interrupted, the storage space is full</string>
+    <string name="remoteplayback_record_fail">Failed to record</string>
+    <string name="realplay_fail_connect_device">Playback failed, device connection exception</string>
+    <string name="realplay_set_fail_network">Failed to set, please check network connectivity</string>
+    <string name="realplay_play_talkback_fail_ison">You can only talk to one device at a time, please stop other talks and retry.</string>
+    <string name="realplay_play_talkback_fail_privacy">You cannot talk in privacy mode</string>
+    <string name="realplay_fail_device_not_exist">Device offline</string>
+    <string name="realplay_play_talkback_network_exception">Network abnormal, talk ended</string>
+    <string name="realplay_play_talkback_request_timeout">Request timed out, talk ended</string>
+    <string name="realplay_play_talkback_fail">Failed to enable Talk</string>
+    <string name="realplay_set_vediomode_fail">Failed to switch video quality mode</string>
+    <string name="realplay_play_fail_becauseof_network">Failed to play video, please check network connectivity</string>
+    <string name="added_camera_verycode_fail_title_txt">The verification you entered is incorrect, please re-enter</string>
+    <string name="setting_video_level">Switching video quality...</string>
+    <string name="camera_lens_too_busy">The camera is spinning, please wait...</string>
+    <string name="ptz_control_timeout_cruise_track_failed">The track is cruising, please wait</string>
+    <string name="ptz_mirroring_failed">Talking, you cannot operate PTZ</string>
+    <string name="ptz_is_preseting">The camera is spinning, please wait...</string>
+    <string name="ptz_operation_failed">Operation failed</string>
+    <string name="ptz_operation_too_frequently">Do not repeat the operation frequently</string>
+    <string name="ptz_preset_current_position_failed">You are now in this position</string>
+    <string name="ptz_preset_exceed_maxnum_failed">Can not add more</string>
+    <string name="ptz_preset_invalid_position_failed">The current location has been deleted, please return to refresh</string>
+    <string name="ptz_preset_sound_localization_failed">Listening to identify position, please wait</string>
+    <string name="ptz_privacying_failed">The lens is covered, you cannot operate PTZ</string>
+    <string name="ez_alarm_type_person_alarm">Human presence event</string>
+    <string name="alarm_type_baby_cry">Baby crying alarm occurred</string>
+    <string name="alarm_type_door">Door opening alarm occurred</string>
+    <string name="alarm_type_gas">Flammable gas alarm occurred</string>
+    <string name="alarm_type_motion_detection">Motion detection alarm occurred</string>
+    <string name="alarm_type_person_alarm">Human presence alarm occurred</string>
+    <string name="alarm_type_smoke">Smoke alarm occurred</string>
+    <string name="alarm_type_unknown">Unknown alarm occurred</string>
+    <string name="alarm_type_urgent_button">Emergency alarm occurred</string>
+    <string name="alarm_type_water">Water intrusion alarm occurred</string>
+    <string name="delete_confirm">Delete?</string>
+    <string name="alarm_message_del_success_txt">Deleted successfully</string>
+    <string name="alarm_message_del_fail_txt">Delete failed</string>
+    <string name="alarm_message_del_fail_network_exception">Delete failed, please check network connectivity</string>
+    <string name="alarm_message_check_fail">Failed to mark message</string>
+    <string name="alarm_message_check_fail_network_exception">Failed to mark message, please check network connectivity</string>
+    <string name="get_message_fail_service_exception">Failed to obtain event message</string>
+    <string name="message_video">Message video</string>
+    <string name="ez_event_message_detail">Message details</string>
+    <string name="from">Source</string>
+    <string name="ez_device_offline">Device offline</string>
+    <string name="camera_not_online">Device offline</string>
+    <string name="remoteplayback_capture_fail">Failed to capture screenshot</string>
+    <string name="remoteplayback_connect_device_error">Playback interrupted, please retry</string>
+    <string name="remoteplayback_connect_server_error">Failed to connect server, please retry</string>
+    <string name="remoteplayback_fail">Video playback failed</string>
+    <string name="remoteplayback_norecordfile">There is no query to video</string>
+    <string name="remoteplayback_norecordfile_alarm">There is no query to the alarm video of that time</string>
+    <string name="remoteplayback_searchfile_fail_for_device">Failed to query video</string>
+    <string name="remoteplayback_searchfile_fail_for_network">Failed to query video, please check network connectivity</string>
+    <string name="choice_mode">Select mode</string>
+    <string name="realplay_play_fail">Video playback failed</string>
+    <string name="detail_modify_success">Changed successfully</string>
+    <string name="input_right_ez_device_verify">Please enter correct verification code</string>
+    <string name="realplay_verifycode_error_placehold">The verification code is on the model\'s tag</string>
+    <string name="fan_light_small">Low</string>
+    <string name="fan_light_middle">Medium</string>
+    <string name="fan_light_high">High</string>
+    <string name="fan_light">Light</string>
+    <string name="fan_light_smart">Smart</string>
+    <string name="fan_light_text">Fan</string>
+    <string name="fan_light_switch">Light</string>
+    <string name="month">Month</string>
+    <string name="pop_speed">Speed</string>
+    <string name="only_mode1_can_diy">You can DIY only in ordinary mode</string>
+    <string name="light_belt_undiy">The button has not defined the color</string>
+    <string name="light_belt_diy_failed">DIY failed, please check network connectivity</string>
+
+    <string name="open_curtain">Open</string>
+    <string name="close_curtain">Close</string>
+    <string name="pause_curtain">Stop</string>
+    <string name="add_success_wait_second">Added successfully, the device is connecting to WIFI, it may take a few minutes, please wait.</string>
+    <string name="scene_operate_success">Executed successfully</string>
+    <string name="please_choice_execute_condition">Please add a condition</string>
+    <string name="no_userful_alarm_device">No alarms available</string>
+    <string name="no_userful_remote_device">No remote controllers available</string>
+    <string name="unknow_remote_has_deleted">Unknown remote controller (deleted)</string>
+    <string name="unknow_alarm_device">Unknown alarm (deleted) </string>
+    <string name="info_sure_delete_and_in_scene">Are you sure to delete the device? Related scene will be triggered by deleting it at the same time.</string>
+    <string name="no_userful_key">No available buttons</string>
+    <string name="light_belt_mode_2">Mode 2: Gradien</string>
+    <string name="light_belt_mode_3">Mode 3: Jump</string>
+    <string name="light_belt_custome_color">Custom color</string>
+    <string name="light_belt_long_click_diy">(Press and hold DIY to save selected color or color temp)</string>
 </resources>

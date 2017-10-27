@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>  <!--斯洛伐克语-->
+
     <string name="upgrade_immediately">Okamžite aktualizovať</string>
     <string name="about_kuzhai">O nás %1$s</string>
     <string name="info_updates">Aktuálna verzia je najnovšia</string>
@@ -16,16 +17,12 @@
     <string name="wind_speed">Rýchlosť vetra</string>
     <string name="fireplace_power_on">zapni</string>
     <string name="fireplace_power_off">vypni</string>
-
     <string name="air">Vzduch:</string>
     <string name="temperature">Teplota:</string>
     <string name="c">Celzia</string>
     <string name="humidity">Vlhkosť:</string>
     <string name="not_internet_current">Žiadna dostupná sieť</string>
-
-
     <string name="device_not_online">Zariadenie je offline</string>
-
     <string name="operation_failure">Operácia zlyhala</string>
     <string name="online">(Online)</string>
     <string name="offline">(Offline)</string>
@@ -36,20 +33,19 @@
     <string name="device_upgraded_to">Zariadenie sa bude inovovať na</string>
 
 
+
+
     <string name="info_wait_upgrade">Počas inovácie nemôžete pracovať, proces môže chvíľu trvať, čakajte prosím</string>
     <string name="info_sure_delete">Naozaj chcete odstrániť toto zariadenie?</string>
     <string name="del_group">Naozaj chcete odstrániť túto skupinu?</string>
     <string name="ota_failed_upgrade">Zariadenie %1$s ota aktulizácia zlyhala</string>
     <string name="ota_success_upgrade">Zariadenie %1$s ota aktulizácia bola úspešná</string>
     <string name="ota_finish_upgrade">Zariadenie %1$s ota aktulizácia bola dokončená</string>
-
     <string name="firmware_upgradeing">Zariadenie %1$s sa aktualizuje...</string>
     <string name="background_updateing">Zariadenie %1$s sa aktualizuje v pozadí</string>
     <string name="sms_mustbenoempty">Overovací kód nemôže byť prázdny</string>
-
     <string name="tips">Pripomienka</string>
     <string name="info_relogin">Prihlásenie vypršalo, prihláste sa znova.</string>
-
     <string name="ok">OK</string>
     <string name="Save">Ulož</string>
     <string name="cancel">Zrušiť</string>
@@ -57,7 +53,6 @@
     <string name="group_exits">Skupina už existuje</string>
     <string name="delete_group">Všetky zariadenia odstránenej skupiny budú stále existovať. Určite chcete odstrániť skupinu?</string>
     <string name="change_device">Zmeniť názov zariadenia</string>
-
     <string name="info_not_change">Iba vlastník má oprávnenie na zmenu názvu zariadenia</string>
     <string name="change_name_success">Changed successfully</string>
     <string name="change_name_failed">Zmena názvu zlyhala</string>
@@ -74,13 +69,10 @@
     <string name="add_timer_success">Úspešne pridané </string>
     <string name="delete_timer_success">Úspešne odstránené</string>
     <string name="date">deň</string>
-
     <string name="add_timer_failed">Nepodarilo sa pridať časovač</string>
     <string name="delete_timer_failed">Nepodarilo sa odstrániť časovač</string>
     <string name="timer_set_err">doba splatnosti</string>
     <string name="only_number">Povolené je len 8 časovačov.</string>
-
-
     <string name="repassword">Obnoviť heslo</string>
     <string name="commit">Potvrdiť</string>
     <string name="user_register">Registrácia</string>
@@ -99,6 +91,9 @@
     <string name="sms_number">Tel.číslo</string>
     <string name="sms_code">Odošli kód</string>
 
+
+
+
     <string name="old_paswd_not">Staré heslo nemôže byť prázdne</string>
     <string name="new_paswd_not">Nové heslo nemôže byť prázdne</string>
     <string name="secondary_not">Potvrdenie hesla nemôže byť prázdne</string>
@@ -107,8 +102,8 @@
     <string name="info_fomat_paswd">Minimálne 8 znakov</string>
     <string name="info_check_internet">Žiadna sieť, skontrolujte stav siete</string>
 
-    <string name="info_fomat_email">Zadajte platnú e-mailovú adresu</string>
 
+    <string name="info_fomat_email">Zadajte platnú e-mailovú adresu</string>
     <string name="info_again_enter">Nesprávne staré heslo, znova zadajte</string>
     <string name="change_password_failed">Nepodarilo sa zmeniť heslo:</string>
     <string name="change_susess">Zmeny boli úspešne</string>
@@ -122,7 +117,6 @@
     <string name="wait_requset">Potvrdenie</string>
     <string name="share_device">Zdieľať zariadenie</string>
     <string name="repeat_time">Opakovanie časovania</string>
-
     <string name="select_user">Vyberte používateľa</string>
     <string name="enter_phone_number">Nesprávne telefónne číslo</string>
     <string name="not_share_own">Zdieľanie sám zo sebou nie je povolené</string>
@@ -134,11 +128,12 @@
     <string name="err_length">Dĺžka nesmie presiahnuť max 512 znakov</string>
     <string name="enter_not_null">Vstup nemôže byť prázdny</string>
     <string name="device_info_title">Informácie o zariadení</string>
-    <string name="del_dialog">Deleting Schedule...</string>
+    <string name="del_dialog">Odstránenie plánu...</string>
+
 
     <string name="err_fomat">Zlý formát:</string>
     <string name="logining">Prihlasuje sa</string>
-    <string name="committime">Creating Schedule...</string>
+    <string name="committime">Vytváranie plánu...</string>
     <string name="login_failed">Prihlásenie zlyhalo, zlý účet, alebo heslo</string>
     <string name="login_failed_normal">Prihlásenie zlyhalo</string>
     <string name="shook_on">Kolísanie: open</string>
@@ -148,7 +143,6 @@
     <string name="device_three">Zariadenie 3</string>
     <string name="device_four">Zariadenie 4</string>
     <string name="register_success">Úspešne zaregistrované</string>
-
     <string name="switch_net_error">Chyba siete prepnite ju a skúste znova</string>
     <string name="connect_failed">Skontrolujte, či je zariadenie spárované</string>
     <string name="add_failed">Nepodarilo sa pridať</string>
@@ -161,15 +155,17 @@
     <string name="download_complete">Stiahnuté dokončené (</string>
     <string name="not_internet">Žiadna dostupná sieť</string>
 
+
     <string name="add_group">Nová skupina</string>
     <string name="add_device_group">Nová skupina zariadení</string>
     <string name="edit_group">Upraviť skupinu</string>
-
     <string name="timer_set">Časovač</string>
 
-    <string name="info_kuzhai">EWeLink is a free smart home APP. \n\nEWeLink can control all smart home products from ITEAD and cooperated partners. It supports remotely turn on/off connected electrical devices, set timing schedules, share devices, manage group and scene. With eWeLink, you can adjust color and brightness for multiple RGB LED, monitor real-time temperature and humidity from Sonoff TH, monitor home environment data, and much more. \n\nMore devices are under development, please stay tuned.</string>
-    <string name="my_device">Moje zariadenie</string>
 
+    <string name="info_kuzhai">eWeLink je bezplatný smart home APP.
+        \n\nmôže ovládať všetky inteligentné domáce produkty od spoločnosti ITEAD a spolupracujúcich partnerov. Podporuje vzdialené zapnutie / vypnutie pripojených elektrických zariadení, nastavenie rozvrhov časovania, zdieľanie zariadení, správu skupín a scény. S technológiou eWeLink môžete nastaviť farbu a jas pre viaceré LED diódy RGB, monitorovať teplotu a vlhkosť v reálnom čase zo zariadenia Sonoff TH, monitorovať údaje o domácom prostredí a oveľa viac.
+        \n\nViac zariadení sa pripravuje, prosím zostaňte naladení.</string>
+    <string name="my_device">Moje zariadenie</string>
     <string name="add_new_timer">Nový časovač</string>
     <string name="repeat">Opakuj</string>
     <string name="one">Jedna</string>
@@ -182,9 +178,9 @@
 
     <string name="complete">Uložiť</string>
     <string name="add_new_group">Pridať novú skupinu</string>
-
     <string name="info_newtime">V súčasnosti nie je žiadny časovač, kliknite na ikonu nižšie a pridajte nový časovač</string>
     <string name="run_cmd">Upraviť časovač</string>
+
 
     <string name="switch_on">ON</string>
     <string name="off_switch">OFF</string>
@@ -203,6 +199,7 @@
     <string name="register">Registrovať</string>
     <string name="personal_infomation">Osobné informácie</string>
 
+
     <string name="message_center">Centrum správ</string>
     <string name="intelligent_scene">Scéna eWeLink</string>
     <string name="feedback">Spätná väzba</string>
@@ -210,7 +207,6 @@
     <string name="info_reset_password">Zabudol som heslo</string>
     <string name="return_op">Naspäť</string>
     <string name="return_space">Naspäť</string>
-
     <string name="discovered_device">Nájdené zariadenie</string>
     <string name="select_add_device">Vyberte zariadenie, ktoré chcete pridať</string>
     <string name="next">Ďalej</string>
@@ -234,15 +230,15 @@
     <string name="enter_group_name">Názov vstupnej skupiny</string>
     <string name="selected_icon">vyberte ikonu</string>
     <string name="upload_icon">nahrať ikonu</string>
-
     <string name="enter_share_nuber">Zadajte telefónne číslo, ktoré chcete zdieľať</string>
     <string name="find_new_version">Bola nájdená nová verzia, inovujte prosím</string>
     <string name="upgrade">Inovácia</string>
     <string name="enter_device_name">Zadajte nové meno</string>
-    <string name="recevice_equipment">You have received a share device invitation message</string>
+    <string name="recevice_equipment">Dostali ste správu o zdieľaní zariadenia</string>
     <string name="my_devices">Moje zariadenie</string>
     <string name="delete">Odstrániť</string>
     <string name="firmware_upgrade">Aktualizácia firmvéru</string>
+
 
     <string name="register_users">registrovať</string>
     <string name="login_btn">Tlačidlo prihlásenia</string>
@@ -256,7 +252,7 @@
     <string name="cut">Vystrihnúť</string>
     <string name="manager_group">Spravovanie skupiny</string>
 
-    <string name="app_name">EWeLink</string>
+    <string name="app_name">eWeLink</string>
     <string name="reciver_invite">Používateľ %1$s chce zdieľať s vami %2$s. Súhlasíte?</string>
     <string name="new_home_kit">Aktualizácia eWeLink %1$s apk</string>
     <string name="versionString">Verzia：%1$s, skontrolujte novú verziu</string>
@@ -305,27 +301,26 @@
     <string name="version">Test</string>
     <string name="about_coolkit_weixin">Sledujte náš oficiálny účet WeChat, môžete ovládať všetky vaše zariadenia prostredníctvom prístupu k účtu eWeLink. Jednoducho naskenujte kód QR.</string>
 
+
+
     <string name="error_sms_code">Chybný verifikačný kód, skúste to znova</string>
-    <string name="reset_error">Obnoviť chybu</string>
+    <string name="reset_error">Resetovať chybu</string>
     <string name="reset_fail">Reset zlyhal</string>
     <string name="dont_reset_agin">Tento účet už existuje. Prosím, neregistrujte sa znovu</string>
     <string name="countrycode_smscode_error">Nesprávny kód krajiny alebo verifikačný kód</string>
-
     <string name="send_msg_limit">Prekročil ste maximálny počet žiadostí o overenie</string>
     <string name="send_msg_fail_check">Nepodarilo sa odoslať SMS, skontrolujte stav siete</string>
     <string name="send_msg_fail">Nepodarilo sa odoslať SMS</string>
-
     <string name="send_email_fail_check">Nepodarilo sa odoslať e-mail, skontrolujte stav siete</string>
     <string name="send_email_fail">Nepodarilo sa odoslať e-mail</string>
-
     <string name="send_email_success">E-mail bol úspešne odoslaný</string>
     <string name="send_sms_success">Správa bola úspešne odoslaná</string>
     <string name="confirm">Potvrďte</string>
     <string name="confirm_en_ok">OK</string>
     <string name="add_confirm">OK</string>
     <string name="puls_select">Vyberte kanál</string>
-
     <string name="edit_dialog">Úprava časovača</string>
+
 
     <string name="connectto_nopwd">Žiadne zadané heslo, Ste si istí, že WiFi nemá heslo?</string>
     <string name="infoweek">Týždeň</string>
@@ -378,7 +373,7 @@
     <string name="switchcountry">Vyberte svoju krajinu</string>
     <string name="password">Heslo</string>
     <string name="language_actionbar_text">Prepnúť jazyk</string>
-    <string name="current_version">Aktuálny</string>
+    <string name="current_version">Version</string>
     <string name="change_nickname">Zmeniť prezývku</string>
     <string name="nickname">Zadajte nový prezývku</string>
     <string name="on_change_language">Prepínanie</string>
@@ -396,7 +391,6 @@
     <string name="connected_device_wait">Pripojenie na zariadenia čakajte ...</string>
     <string name="regist_device_wait">Registrujem čakajte prosím ...</string>
     <string name="device_has_been_register">Pozor už ste pridali zariadenie!</string>//todo
-    CHECK
     <string name="delete_failed">Skontrolovať</string>
     <string name="groupName_notRepeat">Duplicitný názov skupiny</string>
     <string name="groupName_not">Názov skupiny nesmie byť prázdny</string>
@@ -404,7 +398,7 @@
     <string name="operat_success">Úspešne</string>
     <string name="switch_power">Power:</string>
     <string name="operating">Prevádzka</string>
-    <string name="device_belong_other">We are not sure which account is the device owner. If you have added this device with other account before, please log in the other account to delete the device first. Then re-add it with your current account. Otherwise, please contact the seller.</string>
+    <string name="device_belong_other">Nie sme si istí, ktorý účet je vlastníkom zariadenia. Ak ste predtým pridali toto zariadenie do iného účtu, prihláste sa do druhého účtu a najprv ho zmažte. Potom ho znova pridajte do svojho bežného účtu. V opačnom prípade kontaktujte predajcu.</string>
     <string name="back_device_list">Naspäť na zoznam</string>
     <string name="device_setting">Nastavenie</string>
     <string name="connect_device_fail">Nepodarilo sa pripojiť k zariadeniu. Prosím skúste znova</string>
@@ -419,7 +413,7 @@
     <string name="no_sensor">Nepodarilo sa načítať údaje snímača. Skontrolujte pripojenie</string>
     <string name="no_permission_try_system">Potrebujete povolenie. Môžete sa pokúsiť požiadať o nastavenie systému</string>
     <string name="need_extra_permission">Potrebujete ďalšie povolenie. Požiadať teraz?</string>
-    <string name="need_permission_coarse">Udeľte povolenie EweLink  na umiestnenie, alebo nemôžete pridať zariadenie!</string>
+    <string name="need_permission_coarse">Udeľte povolenie eWeLink  na umiestnenie, alebo nemôžete pridať zariadenie!</string>
 
 
     <!--温湿度翻译-->
@@ -552,7 +546,7 @@
     <string name="title_activity_debug_settings">Nastavenia</string>
 
     <string name="confirm_to_state_pair">Potvrdenie zariadenia v stave párovania</string>
-    <string name="longpress_to_state_pair">Stlačte a podržte párové tlačidlo po dobu 5 sekúnd, aby LED začala rýchlo blikať .</string>
+    <string name="longpress_to_state_pair">Press and hold the pairing button for 5s to enter into pairing mode. Please check led indicator blinking status.\nBulb or LED strip, please turn on and off for 3 times to enter pairing mode, the time interval is 2s.</string>
     <string name="other_pair_instruction_led">Ak necháte LED na zariadení Sonoff vstúpiť do párovacieho stavu, zapnite a vypnite trikrát, časový odstup medzi zapnutím a vypnutím by mal byť 2s, LED indikátor začne rýchlo blikáť.</string>
     <string name="other_pair_instruction">Pokyny na párovanie</string>
     <string name="choose_wifi">Vyberte WiFi</string>
@@ -685,6 +679,7 @@ based on your message history
     <string name="has_not_installed_wechat">Ešte ste nemate nainštalovaný WeChat</string>
     <string name="wechat_subscription_can_also_control">(Ovládanie zariadenia vo WeChat)</string>
 
+
     <string name="all_device">Všetky zariadenia</string>
     <string name="my_share">Zariadenia, ktoré zdieľam</string>
     <string name="share_to_me">Zariadenia sú zdieľané inými</string>
@@ -695,7 +690,6 @@ based on your message history
     <string name="scan_for_instructions">Skenovať užívateľskú príručku</string>
     <string name="group_nums_limit">Podpora max. 20 skupín</string>
     <string name="tip_group_empty_add">Momentálne žiadne skupiny, klepnite na tlačidlo nižšie a vytvorte ju teraz!</string>
-
     <string name="duration_every">všetky</string>
     <string name="duration_hours">hodinu</string>
     <string name="duration_excute_once">zápis vykonať</string>
@@ -719,8 +713,8 @@ based on your message history
     <string name="share_failed">Zdieľanie zlyhalo. Používateľ, s ktorým chcete zdieľať, nie je online. Požiadajte používateľa, aby sa prvýkrát prihlásil do služby eWeLink.</string>
     <string name="device_not_share_click_to_share">Kliknutím na ikonu nižšie ju zdieľate</string>
     <string name="list_already_has_account">Účet je už v zozname</string>
-    <string name="sure_delete">Odstraňiť?</string>
-    <string name="settinginfo_power_state">Power on state</string>
+    <string name="sure_delete">Odstráňiť?</string>
+    <string name="settinginfo_power_state">Stav zapnutia</string>
     <string name="duration_2not0">Čas nemôže byť 0</string>
     <string name="new_device_setting">Nastavenie zariadenia</string>
     <string name="duration_update_failed">Nepodarilo sa upraviť časovač slučky</string>
@@ -733,6 +727,9 @@ based on your message history
     <string name="only_own_can_operation">Iba vlastník môže meniť časovače.</string>
     <string name="fan_on">ON</string>
     <string name="fan_off">OFF</string>
+
+
+
 
     <string name="new_user_center_group">Skupina %1$s&#160;</string>
     <string name="new_user_center_scene">Scéna %1$s&#160;</string>
@@ -849,10 +846,10 @@ based on your message history
     <string name="dialog_share_permit_timer">Povolenie časovača</string>
 
     <string name="no_userful_device">Nie sú dostupné žiadne zariadenia</string>
-    <string name="duration_cycle">Restart cycle every:</string>
+    <string name="duration_cycle">Restart cycle:</string>
     <string name="duration_delay">After:</string>
-    <string name="duration_delay_do">minutes, change state to:</string>
-    <string name="duration_cycle_do">minutes, start in state:</string>
+    <string name="duration_delay_do">minutes, change status to:</string>
+    <string name="duration_cycle_do">minutes, start in status:</string>
     <string name="delay_start_again">Začať znovu</string>
     <string name="delay_timer_executing_alert">(Po: %1$sd %2$shr %3$smin spustiť)</string>
     <string name="delay_timer_stop_alert">(Po: %1$sd %2$shr %3$smin dokončiť)</string>
@@ -926,7 +923,7 @@ based on your message history
     <string name="qr_scan">Skenovanie</string>
     <string name="single_device_choose">Jednokanálové zariadenie</string>
     <string name="want_know_more">Čítaj viac</string>
-    <string name="app_name2">EWeLink </string>
+    <string name="app_name2">eWeLink</string>
     <string name="please_input_phone_number">Číslo karty</string>
 
     <string name="not_wifi_confirm_play_video">Určite používate mobilné údaje na prehrávanie s upozorneniami?</string>
@@ -939,7 +936,7 @@ based on your message history
     <string name="gsm_total">Údaje celkom:</string>
     <string name="gsm_used">Využitie dát:</string>
     <string name="gsm_has">Dostupné údaje:</string>
-    <string name="switch_operat_history">Záznam</string>
+    <string name="switch_operat_history">History</string>
     <string name="single_switch_history">History</string>
     <string name="qr_shaoyishao">Scan QR kód</string>
     <string name="device">Zariadenie</string>
@@ -960,7 +957,7 @@ based on your message history
     <string name="rgb5_read">Čítať</string>
     <string name="rgb5_party">Skupina</string>
     <string name="rgb5_play">Náhodný</string>
-    <string name="pair_gsm_device">GSM zariadenie</string>
+    <string name="pair_gsm_device">GSM Device</string>
     <string name="rgb5_dark">Tmavý</string>
     <string name="rgb5_bright">Svetlý</string>
     <string name="rgb5_cold">Studený</string>
@@ -1010,7 +1007,7 @@ based on your message history
         <item>Brunei Darussalam +673</item>
         <item>Bulgaria +359</item>
         <item>Burkina Faso +226</item>
-        <item>Burma +95</item>
+        <item>Myanmar +95</item>
         <item>Burundi +257</item>
         <item>Cambodia +855</item>
         <item>Cameroon +237</item>
@@ -1276,78 +1273,286 @@ based on your message history
     <string name="language_choice_frech">Français</string>
     <string name="language_choice_spanish">Español</string>
     <string name="language_choice_genman">Deutsch</string>
-    <string name="language_choice_portugal">português</string>
+    <string name="language_choice_portugal">Português(Brasil)</string>
     <string name="language_choice_greece">ελληνικά</string>
     <string name="language_choice_czech">český</string>
     <string name="language_choice_bulgaria">български</string>
     <string name="language_choice_turkey">Türkiye</string>
     <string name="language_choice_slovank">slovenského jazyk</string>
-    <string name="language_choice_slovenia">Slovenija Elijah jezik</string>
+    <string name="language_choice_slovenia">Slovenščina</string>
 
 
-    <string name="aromatherapy_light_switch">light</string>
-    <string name="aromatherapy_state_small">Small</string>
-    <string name="aromatherapy_state_big">Big</string>
-    <string name="install_googleplay_first">Please install Google Play</string>
+
+
+    <string name="aromatherapy_light_switch">Svetlo spínač</string>
+    <string name="aromatherapy_state_small">Stav malý</string>
+    <string name="aromatherapy_state_big">Stav veľký</string>
+    <string name="install_googleplay_first">Nainštalujte si službu Google Play</string>
     <string name="app_downloading">Downloading</string>
-    <string name="night_light">Night Light</string>
-    <string name="water_level">Water Level</string>
-    <string name="opent_light_switch_first">Please turn on the switch first</string>
-    <string name="add_remote_control">Add RF Remote</string>
-    <string name="button_name">Button</string>
-    <string name="wifi_rf_edit">Edit</string>
-    <string name="rf_single_button">1-button</string>
-    <string name="rf_double_button">2-button</string>
-    <string name="rf_three_button">3-button</string>
-    <string name="rf_four_button">4-button</string>
-    <string name="rf_curtain">Curtain</string>
+    <string name="night_light">Nočné svetlo</string>
+    <string name="water_level">Výška vodnej hladiny</string>
+    <string name="opent_light_switch_first">Prosím najprv zapnite vypínač</string>
+    <string name="add_remote_control">Pridať RF diaľkový ovládač</string>
+    <string name="button_name">Tlačidlo</string>
+    <string name="wifi_rf_edit">Edituj</string>
+    <string name="rf_single_button">1-tlačidlové</string>
+    <string name="rf_double_button">2-tlačidlové</string>
+    <string name="rf_three_button">3-tlačidlové</string>
+    <string name="rf_four_button">4-tlačidlové</string>
+    <string name="rf_curtain">Záves</string>
     <string name="rf_alarm">Alarm</string>
-    <string name="rf_open">Open</string>
-    <string name="rf_stop">Close</string>
+    <string name="rf_open">Otvoriť</string>
+    <string name="rf_stop">Zatvoriť</string>
     <string name="rf_close">Stop</string>
-    <string name="rf_remote_max_size">Supports up to 4 RF Remotes</string>
-    <string name="remote_control_name_not_empty">The RF Remote name cannot be empty</string>
-    <string name="rf_channel_name_not_empty">Button name can not be empty</string>
-    <string name="rf_has_item_alert">Press and hold the button to enter into learning mode</string>
-    <string name="alarm_history">Alarm History</string>
-    <string name="my_curtains">My Curtain</string>
-    <string name="my_remote_control">My RF Remote</string>
-    <string name="rfbridge_edit">Edit Name</string>
-    <string name="rfbridge_channel1_name">Button 1 Name:</string>
-    <string name="rfbridge_channel2_name">Button 2 Name:</string>
-    <string name="rfbridge_channel3_name">Button 3 Name:</string>
-    <string name="rfbridge_channel4_name">Button 4 Name:</string>
-    <string name="rfbridge_button_no_study">The button has not been learned yet</string>
-    <string name="delete_this_remote_control">Delete this RF Remote?</string>
-    <string name="alarm_push">Received an alarm</string>
-    <string name="alarm_time_push_at">Alarm happened at</string>
-    <string name="has_already_cancel_share">Share canceled.</string>
-    <string name="nest_cancel_auth">Nest authority canceled</string>
+    <string name="rf_remote_max_size">Podporuje až 4 RF diaľkové ovládače</string>
+    <string name="remote_control_name_not_empty">Názov RF diaľkového ovládača nemôže byť prázdny</string>
+    <string name="rf_channel_name_not_empty">Názov tlačidla nemôže byť prázdny</string>
+    <string name="rf_has_item_alert">Stlačením a podržaním tlačidla prejdete do režimu učenia</string>
+    <string name="alarm_history">História alarmov</string>
+    <string name="my_curtains">Moje závesy</string>
+    <string name="my_remote_control">Moje RF diaľkové ovládače</string>
+    <string name="rfbridge_edit">Upraviť názov</string>
+    <string name="rfbridge_channel1_name">Tlačidlo 1 Názov:</string>
+    <string name="rfbridge_channel2_name">Tlačidlo 2 Názov:</string>
+    <string name="rfbridge_channel3_name">Tlačidlo 3 Názov:</string>
+    <string name="rfbridge_channel4_name">Tlačidlo 4 Názov:</string>
+    <string name="rfbridge_button_no_study">Tlačidlo ešte nebolo naučené</string>
+
+
+    <string name="delete_this_remote_control">Odstrániť tento RF diaľkový ovládač?</string>
+    <string name="alarm_push">Bol prijatý alarm</string>
+    <string name="alarm_time_push_at">Alarm sa stal na adrese</string>
+    <string name="has_already_cancel_share">Zdieľanie bolo zrušené.</string>
+    <string name="nest_cancel_auth">Nest authorita bola zrušená</string>
     <string name="aromatherapy_colorful_light">Color Light</string>
-    <string name="top_than_close">Target temp. upper limit</string>
-    <string name="lower_than_open">Target temp. lower limit</string>
-    <string name="near_alarm">Recent Alarms</string>
-    <string name="ewelinktest">易微联测试</string>
-    <string name="rfbridge_remote_control_name">RF Remote Name:</string>
-    <string name="long_press_to_study_button">RF gateway is in learning mode, please press the RF Remote button or let the alarm go off in 1 min.</string>
-    <string name="enter_verifycode">Please enter verification code.</string>
-    <string name="has_send_verifycode_please_get">Verification code sent, please check.</string>
-    <string name="click_to_get_verifycode">Please click to send verification code.</string>
-    <string name="beijing_temp_big_more">The first value must be larger than the second.</string>
-    <string name="beijing_temp_big_range">Temp. Range: 6~35</string>
-    <string name="beijing_temp_small_range">Temp. Range: 5~34</string>
-    <string name="beijing_temp_small_less">The second value must be smaller than the first.</string>
-    <string name="has_already_send_to_you">Verification code has been sent to your phone or mailbox, please check and enter</string>
-    <string name="login_failed_retry_later">Login failed, please retry later</string>
-    <string name="has_no_useful_remote">No RF Remotes found</string>
-    <string name="alarm_notification">Alarm notifications</string>
-    <string name="no_authority_ops">No permission</string>
-    <string name="no_rfbridge_remote">Click below button to add RF Remote</string>
-    <string name="sure_delete_remote">Delete this RF Remote?</string>
-    <string name="duration_open">On</string>
-    <string name="duration_close">Off</string>
-    <string name="goto_rfbridge_know_more">Enter RF Bridge details, learn more at Alarm History</string>
-    <string name="nest_account_changed">Changing Nest account will delete the added Nest device, continue?</string>
+    <string name="top_than_close">Cieľová tepl. horná hranica</string>
+    <string name="lower_than_open">Cieľová tepl. dolná hranica</string>
+    <string name="near_alarm">Posledné alarmy</string>
+    <string name="ewelinktest">Jednoduché testovanie</string>
+    <string name="rfbridge_remote_control_name">RF diaľkový ovládač názov:</string>
+    <string name="long_press_to_study_button">RF brána je v režime učenia, stlačte tlačidlo diaľkového ovládača alebo nechajte RF bridge zhasnúť za 1 minútu.</string>
+    <string name="enter_verifycode">Prosím zadajte verifikačný kód.</string>
+    <string name="has_send_verifycode_please_get">Overovací kód bol odoslaný, prosím skontrolujte ho.</string>
+    <string name="click_to_get_verifycode">Kliknutím odošlete verifikačný kód.</string>
+    <string name="beijing_temp_big_more">Prvá hodnota musí byť väčšia ako druhá.</string>
+    <string name="beijing_temp_big_range">Tepl. rozsah: 6~35</string>
+    <string name="beijing_temp_small_range">Tepl. rozsah: 5~34</string>
+    <string name="beijing_temp_small_less">Druhá hodnota musí byť menšia ako prvá.</string>
+    <string name="has_already_send_to_you">Overovací kód bol odoslaný do vášho telefónu alebo poštovej schránky, skontrolujte a zadajte ho</string>
+    <string name="login_failed_retry_later">Prihlásenie zlyhalo, skúste to neskôr</string>
+    <string name="has_no_useful_remote">Neboli nájdené žiadne RF diaľkové ovládače</string>
+    <string name="alarm_notification">Alarm notifikácie</string>
+    <string name="no_authority_ops">Žiadne povolenia</string>
+    <string name="no_rfbridge_remote">Kliknutím na tlačidlo nižšie pridáte RF diaľkový ovládač</string>
+    <string name="sure_delete_remote">Odstrániť tento RF diaľkový ovládač?</string>
+    <string name="duration_open">ON</string>
+    <string name="duration_close">OFF</string>
+    <string name="goto_rfbridge_know_more">Zadajte detaily pre RF Bridge a dozviete sa viac o histórii alarmov</string>
+    <string name="nest_account_changed">Pri zmene účtu Nest sa odstráni pridané zariadenie Nest, chcete pokračovať?</string>
     <string name="cardview_device_on_line">online</string>
 
+
+
+    <!--youqiao-->
+    <string name="youqiao_statistics">Štatistika</string>
+    <string name="youqiao_alarm">Alarm</string>
+    <string name="youqiao_download">Download</string>
+    <string name="youqiao_fee_rate">Elektrická sadzba</string>
+    <string name="youqiao_fee_rate_per_unit">/kWh</string>
+    <string name="youqiao_energy_now">Napájanie v reálnom čase</string>
+    <string name="youqiao_threshold">Prah</string>
+    <string name="youqiao_electric">Aktuálne</string>
+    <string name="youqiao_voltage">Napätie</string>
+    <string name="youqiao_alarm_thresold">Nastavenie prahovej hodnoty alarmu</string>
+    <string name="youqiao_reset">Reset</string>
+    <string name="youqiao_fee">Elektrické nabíjanie</string>
+    <string name="youqiao_fee_total">Celkový:</string>
+    <string name="youqiao_not_null_input_thresold">Zadajte prosím %1$s</string>
+    <string name="youqiao_history_download_success">Stiahnuté do adresára:\n%1$s</string>
+    <string name="youqiao_history_download_failure">Nepodarilo sa prevziať, uistite sa, že pamäťová karta je správna</string>
+    <string name="youqiao_has_no_100_day_data">Nie sú žiadne údaje o histórii, skúste to znova neskôr.</string>
+
+
+    <string name="add_schedule">New Schedule</string>
+    <string name="add_timer">New Timer</string>
+    <string name="unknow">Unknown</string>
+    <string name="only_support_24">(Only supports 2.4G WiFi)</string>
+    <string name="faq_device_failed">Pairing failed...</string>
+    <string name="faq_alert">FAQ</string>
+    <string name="enter_faq">Read FAQ</string>
+    <string name="choice_execute_operate">Please select an action in Execute</string>
+    <string name="all_operate_not_be_keep">You can\’t set all channels\’ status as Keep</string>
+    <string name="you_can_create_scene">You can create scenes to turn on/off a gang of devices with one tap.</string>
+    <string name="you_can_create_smart_scene">You can create scenes to trigger on/off the devices by the data range from sensors or by the status changes from other device.</string>
+    <string name="let_your_device_operate_automatically">Let your devices operate automatically, you can even get rid of the phone.</string>
+    <string name="sure_device_closer_wifi">Please make sure your phone and the model are closer enough to WiFi router.</string>
+    <string name="detail_alert_device_offline">Device offline</string>
+    <string name="usercenter_app_name">eWeLink</string>
+
+    <string name="cant_operate_frequently">Do not repeat the operation frequently</string>
+    <string name="select_device">Select a device</string>
+    <string name="sure_delete_ezcamera">Confirm switching will delete all the fluorite camera devices under current account.</string>
+    <string name="ez_get_upgrade_info_failed">Failed to obtain version info.</string>
+    <string name="ez_upgrade_success_restart">Upgraded successfully, the device is restarting...</string>
+    <string name="ez_upgrade_progress">Upgrade progress: 0</string>
+    <string name="ez_input_verify_code_alert">Your video has been encrypted, please enter password to watch. Initial password is the verification code on the model\'s tag. If there is no such a tag, please enter ABCDEF(case sensitive).</string>
+    <string name="ez_input_device_verify_code">Please enter device\'s verification code</string>
+    <string name="other_device_setting">Settings</string>
+    <string name="ez_account">Fluorite account</string>
+    <string name="ez_unbind">Unbind</string>
+    <string name="ez_not_bind">Not bound yet</string>
+    <string name="sure_unbind_account">Are you sure to unbind the account?</string>
+    <string name="remoteplay_search_failed">Query failed. Please check if the cloud storage service is expired</string>
+    <string name="color_model">Color mode</string>
+    <string name="has_bound_ewelink">It has been bound with eWeLink account</string>
+    <string name="current_account_has_no_ez">No Fluorite devices under current account</string>
+    <string name="setting">Settings</string>
+    <string name="ez_camera">Fluorite Camera</string>
+    <string name="ez_change_account">Switch user＞</string>
+    <string name="ez_settings_device_serial">Serial number</string>
+    <string name="ez_current_version">Current version</string>
+    <string name="ez_latest_version">Latest version</string>
+    <string name="version_newest">Current version is the latest one</string>
+    <string name="detail_defend_c1_c2_f1">Activity detection reminder</string>
+    <string name="detail_safe_mode">Video/Image encryption</string>
+    <string name="ez_setting">Device Settings</string>
+    <string name="device_have_not_added">The device has not been added or has been deleted</string>
+    <string name="ez_device_name_hint">Device Name</string>
+    <string name="detail_modify_device_name_limit_tip">Please do not exceed %d characters</string>
+    <string name="ez_save">Save</string>
+    <string name="ez_modify_name">Change device name</string>
+    <string name="company_addr_is_empty">Cannot be empty</string>
+    <string name="ez_device_upgrade">Upgrade device</string>
+    <string name="countdown">Message %d seconds left</string>
+    <string name="encrypt_password_open_fail_networkexception">Operation failed, please check network connectivity</string>
+    <string name="encrypt_password_open_fail">Operation failed</string>
+    <string name="detail_safe_btn_tip">If your video is in public mode, others cannot watch it after opening encryption mode. Are you sure to open it?</string>
+    <string name="detail_safe_close_btn_tip">After closing encryption mode, the video and picture security level will be lowered. Are you sure to close it?</string>
+    <string name="input_device_verify_code">Please enter the device verification code</string>
+    <string name="ez_dialog_btn_disable_video_encrypt">Close video encryption</string>
+    <string name="encrypt_password_open_success">Successful</string>
+    <string name="select_all">All</string>
+    <string name="ez_check_all_message">Set as read</string>
+    <string name="ez_no_message">No messages</string>
+    <string name="network_error_retry_prompt">Poor network~</string>
+    <string name="ptz">Pan and tilt (PTZ)</string>
+    <string name="talk">Talk</string>
+    <string name="xlistview_footer_hint_no_more_device">No more devices</string>
+    <string name="xlistview_footer_hint_normal">Pull up to load more ...</string>
+    <string name="xlistview_footer_hint_ready">Release to load more...</string>
+    <string name="xlistview_footer_no_more">No more</string>
+    <string name="xlistview_footer_no_more_msg">No more messages</string>
+    <string name="xlistview_header_hint_loading">Loading, please wait...</string>
+    <string name="xlistview_header_hint_more">Pull down to load more...</string>
+    <string name="xlistview_header_hint_normal">Pull down to refresh</string>
+    <string name="xlistview_header_hint_ready">Release to refresh data</string>
+    <string name="xlistview_header_last_time">Latest update</string>
+    <string name="no_more_alarm_tip">The message can be saved for up to 7 days</string>
+    <string name="today">Today</string>
+    <string name="alarm_type_infrared">Detected human presence</string>
+    <string name="message_come_from_tip">Source：</string>
+    <string name="ez_event_message">Message</string>
+    <string name="edit_txt">Edit</string>
+    <string name="quality_hd">HD</string>
+    <string name="quality_flunet">Fluent</string>
+    <string name="quality_balanced">Balanced</string>
+    <string name="capture">Capture screenshot</string>
+    <string name="record">Record video</string>
+    <string name="remoteplayback_SDCard_disable_use">Memory card undetected</string>
+    <string name="remoteplayback_capture_fail_for_memory">Failed to capture screenshot due to limited storage space</string>
+    <string name="already_saved_to_volume">Saved to album</string>
+    <string name="start_voice_talk">Enabling Talk</string>
+    <string name="realplay_full_talk_start_tip">You can talk now</string>
+    <string name="press_to_talk_release_to_listen">Press and hold to talk \n release to listen</string>
+    <string name="ez_unbind_device">Please close terminal binding on the fluorite client</string>
+    <string name="remoteplayback_over_link">Too many device connections, please stop other connections and retry</string>
+    <string name="remoteplayback_record_fail_for_memory">The video is interrupted, the storage space is full</string>
+    <string name="remoteplayback_record_fail">Failed to record</string>
+    <string name="realplay_fail_connect_device">Playback failed, device connection exception</string>
+    <string name="realplay_set_fail_network">Failed to set, please check network connectivity</string>
+    <string name="realplay_play_talkback_fail_ison">You can only talk to one device at a time, please stop other talks and retry.</string>
+    <string name="realplay_play_talkback_fail_privacy">You cannot talk in privacy mode</string>
+    <string name="realplay_fail_device_not_exist">Device offline</string>
+    <string name="realplay_play_talkback_network_exception">Network abnormal, talk ended</string>
+    <string name="realplay_play_talkback_request_timeout">Request timed out, talk ended</string>
+    <string name="realplay_play_talkback_fail">Failed to enable Talk</string>
+    <string name="realplay_set_vediomode_fail">Failed to switch video quality mode</string>
+    <string name="realplay_play_fail_becauseof_network">Failed to play video, please check network connectivity</string>
+    <string name="added_camera_verycode_fail_title_txt">The verification you entered is incorrect, please re-enter</string>
+    <string name="setting_video_level">Switching video quality...</string>
+    <string name="camera_lens_too_busy">The camera is spinning, please wait...</string>
+    <string name="ptz_control_timeout_cruise_track_failed">The track is cruising, please wait</string>
+    <string name="ptz_mirroring_failed">Talking, you cannot operate PTZ</string>
+    <string name="ptz_is_preseting">The camera is spinning, please wait...</string>
+    <string name="ptz_operation_failed">Operation failed</string>
+    <string name="ptz_operation_too_frequently">Do not repeat the operation frequently</string>
+    <string name="ptz_preset_current_position_failed">You are now in this position</string>
+    <string name="ptz_preset_exceed_maxnum_failed">Can not add more</string>
+    <string name="ptz_preset_invalid_position_failed">The current location has been deleted, please return to refresh</string>
+    <string name="ptz_preset_sound_localization_failed">Listening to identify position, please wait</string>
+    <string name="ptz_privacying_failed">The lens is covered, you cannot operate PTZ</string>
+    <string name="ez_alarm_type_person_alarm">Human presence event</string>
+    <string name="alarm_type_baby_cry">Baby crying alarm occurred</string>
+    <string name="alarm_type_door">Door opening alarm occurred</string>
+    <string name="alarm_type_gas">Flammable gas alarm occurred</string>
+    <string name="alarm_type_motion_detection">Motion detection alarm occurred</string>
+    <string name="alarm_type_person_alarm">Human presence alarm occurred</string>
+    <string name="alarm_type_smoke">Smoke alarm occurred</string>
+    <string name="alarm_type_unknown">Unknown alarm occurred</string>
+    <string name="alarm_type_urgent_button">Emergency alarm occurred</string>
+    <string name="alarm_type_water">Water intrusion alarm occurred</string>
+    <string name="delete_confirm">Delete?</string>
+    <string name="alarm_message_del_success_txt">Deleted successfully</string>
+    <string name="alarm_message_del_fail_txt">Delete failed</string>
+    <string name="alarm_message_del_fail_network_exception">Delete failed, please check network connectivity</string>
+    <string name="alarm_message_check_fail">Failed to mark message</string>
+    <string name="alarm_message_check_fail_network_exception">Failed to mark message, please check network connectivity</string>
+    <string name="get_message_fail_service_exception">Failed to obtain event message</string>
+    <string name="message_video">Message video</string>
+    <string name="ez_event_message_detail">Message details</string>
+    <string name="from">Source</string>
+    <string name="ez_device_offline">Device offline</string>
+    <string name="camera_not_online">Device offline</string>
+    <string name="remoteplayback_capture_fail">Failed to capture screenshot</string>
+    <string name="remoteplayback_connect_device_error">Playback interrupted, please retry</string>
+    <string name="remoteplayback_connect_server_error">Failed to connect server, please retry</string>
+    <string name="remoteplayback_fail">Video playback failed</string>
+    <string name="remoteplayback_norecordfile">There is no query to video</string>
+    <string name="remoteplayback_norecordfile_alarm">There is no query to the alarm video of that time</string>
+    <string name="remoteplayback_searchfile_fail_for_device">Failed to query video</string>
+    <string name="remoteplayback_searchfile_fail_for_network">Failed to query video, please check network connectivity</string>
+    <string name="choice_mode">Select mode</string>
+    <string name="realplay_play_fail">Video playback failed</string>
+    <string name="detail_modify_success">Changed successfully</string>
+    <string name="input_right_ez_device_verify">Please enter correct verification code</string>
+    <string name="realplay_verifycode_error_placehold">The verification code is on the model\'s tag</string>
+    <string name="fan_light_small">Low</string>
+    <string name="fan_light_middle">Medium</string>
+    <string name="fan_light_high">High</string>
+    <string name="fan_light">Light</string>
+    <string name="fan_light_smart">Smart</string>
+    <string name="fan_light_text">Fan</string>
+    <string name="fan_light_switch">Light</string>
+    <string name="month">Month</string>
+    <string name="pop_speed">Speed</string>
+    <string name="only_mode1_can_diy">You can DIY only in ordinary mode</string>
+    <string name="light_belt_undiy">The button has not defined the color</string>
+    <string name="light_belt_diy_failed">DIY failed, please check network connectivity</string>
+
+    <string name="open_curtain">Open</string>
+    <string name="close_curtain">Close</string>
+    <string name="pause_curtain">Stop</string>
+    <string name="add_success_wait_second">Added successfully, the device is connecting to WIFI, it may take a few minutes, please wait.</string>
+    <string name="scene_operate_success">Executed successfully</string>
+    <string name="please_choice_execute_condition">Please add a condition</string>
+    <string name="no_userful_alarm_device">No alarms available</string>
+    <string name="no_userful_remote_device">No remote controllers available</string>
+    <string name="unknow_remote_has_deleted">Unknown remote controller (deleted)</string>
+    <string name="unknow_alarm_device">Unknown alarm (deleted) </string>
+    <string name="info_sure_delete_and_in_scene">Are you sure to delete the device? Related scene will be triggered by deleting it at the same time.</string>
+    <string name="no_userful_key">No available buttons</string>
+    <string name="light_belt_mode_2">Mode 2: Gradien</string>
+    <string name="light_belt_mode_3">Mode 3: Jump</string>
+    <string name="light_belt_custome_color">Custom color</string>
+    <string name="light_belt_long_click_diy">(Press and hold DIY to save selected color or color temp)</string>
 </resources>
