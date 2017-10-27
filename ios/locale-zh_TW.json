@@ -818,5 +818,18 @@
   "ADD_DEVICE_TOUCH_LIGHT":"灯带",
   "ADD_DEVICE_TOUCH_aromatherapy":"香薰机",
   "ADD_DEVICE_WIFI_S20":"S20",
-  "ADD_DEVICE_WIFI_OTHER":"其他"
+  "ADD_DEVICE_WIFI_OTHER":"其他",
+
+
+  "COLOR_MODEL":"颜色模式",
+  "CUSTOM_COLORS":"自定义颜色",
+  "CUSTOM_COLORS_TEXT":"(长按DIY按钮，可保存当前选中的颜色或色温)",
+  "Only_The_Owner":"只有设主人可以操作",
+  "LIGHT_BELT_COLOR_MODEL_SELECT":"选择模式",
+  "LIGHT_BELT_COLOR_MODEL_SELECT_2":"模式2:渐变",
+  "LIGHT_BELT_COLOR_MODEL_SELECT_3":"模式3:跳变",
+  "LIGHT_BELT_COLOR_MODEL_SELECT_SHEEP":"速度",
+
+  "ONLY_COMMON_MODE_DIY":"只有普通模式下才可以DIY",
+  "COMMON_MODE_CAN_NOT_SET_SPEED":"普通模式不可以设置速度"
 }
