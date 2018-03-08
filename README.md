@@ -2,42 +2,30 @@
 We created this project to support translation for eWelink
 
 ---
-# IOS翻译注意事项
+# 翻译注意事项
 
 ## 翻译文件：
-	country-all.js : 国家码名称翻译
-	locale-da.json : 丹麦翻译
-	locale-en.json : 英文翻译
-	locale-it.json : 意大利翻译
-	locale-pl.json : 葡萄牙翻译
-	locale-ru.json : 俄语翻译
-	locale-zh.json : 简体中文翻译
-	locale-zh_HK.json : 繁体中文（香港）翻译
-	locale-zh_TW.json : 繁体中文 （台湾）翻译
-	locale-fr.json : 法语翻译
-	locale-de.json : 德语翻译
-	locale-es.json : 西班牙语翻译
-	locale-bg.json : 保加利亚语
-	locale-el.json : 希腊语
-	locale-sk.json : 斯洛伐克语
-	locale-tr.json : 土耳其语
-	locale-cs.json ：捷克语
-	locale-pt_BR.json : 葡萄牙文(巴西)
-	locale-sl.json : 斯洛文尼亚语
+	1、locale-da.json : 丹麦翻译
+	2、locale-en.json : 英文翻译
+	3、locale-it.json : 意大利翻译
+	4、locale-pl.json : 葡萄牙翻译
+	5、locale-ru.json : 俄语翻译
+	6、locale-zh.json : 简体中文翻译
+	7、locale-zh_Hant.json : 繁体中文
+	8、locale-fr.json : 法语翻译
+	9、locale-de.json : 德语翻译
+	10、locale-es.json : 西班牙语翻译
+	11、locale-bg.json : 保加利亚语
+	12、locale-el.json : 希腊语
+	13、locale-sk.json : 斯洛伐克语
+	14、locale-tr.json : 土耳其语
+	15、locale-cs.json ：捷克语
+	16、locale-pt_BR.json : 葡萄牙文(巴西)
+	17、locale-sl.json : 斯洛文尼亚语
+	18、locale-vi.json : 越南语
+	18、locale-hu.json : 匈牙利语
 
 ## 翻译规则：
-	国家码翻译：对国家名称的国际化，使用JSON格式来描述一个国家，如果需要新增国家，请新增一个JSON格式
-	属性格式为：国家名称缩写+"_name"+":"+"具体国际化国家名称"，
-	例如 :
-	        {
-            	zh_name: '中国',
-            	en_name: 'China',
-            	ru_name: 'Китай',
-            	da_name: 'China',
-            	prefix: '+86'
-        	}
-
-    其他部分翻译：对具体app文字的，
     属性格式为："App标识符（仅用于app本身唯一性描述与使用，本身无意义"+":"+“具体国际化翻译”；
     例如：
 	    locale-zh.json :
@@ -53,49 +41,36 @@ We created this project to support translation for eWelink
 				  "ABOUTE_WELINK": "關於易微联",
 			}	
 
-*注意：仅需对 ”具体国际化国家名称“与”具体国际化翻译“翻译，即 ":" 后面的内容翻译即可；*
+	注意："%1$s","%2$s",....,"%N$s" 不用翻译.
+
 
 ---
 
 ---
-# IOS Translation Notes
+# Translation Notes
 
 ## Translation File:
-  country-all.js :  country code translation <br/>
-  locale-da.json :  Danish translation <br/>
-  locale-en.json :  English translation <br/>
-  locale-it.json :  Italian translation <br/>
-  locale-pl.json :  Portuguese translation <br/>
-  locale-ru.json :  Russian translation <br/>
-  locale-zh.json :  Simplified Chinese translation <br/>
-  locale-zh_HK.json : Traditional Chinese (HK) translation <br/>
-  locale-zh_TW.json : Traditional Chinese (Taiwan) translation <br/>
-  locale-fr.json : French translator <br/>
-  locale-de.json : German translator <br/>
-  locale-es.json : Spanish translator <br/>
-  locale-bg.json : Bulgarian translator <br/>
-  locale-el.json : Greek translator <br/>
-  locale-sk.json : Slovakia translator <br/>
-  locale-tr.json : Turkic translator <br/>
-  locale-cs.json ：Czech translator <br/>
-  locale-pt_BR.json : Portuguese Brazil translator <br/>
-  locale-sl.json : Republika Slovenija translator <br/>
+   1、locale-da.json :  Danish translation <br/>
+   2、locale-en.json :  English translation <br/>
+   3、locale-it.json :  Italian translation <br/>
+   4、locale-pl.json :  Portuguese translation <br/>
+   5、locale-ru.json :  Russian translation <br/>
+   6、locale-zh.json :  Simplified Chinese translation <br/>
+   7、locale-zh_Hant.json : Traditional Chinese translation <br/>
+   8、locale-fr.json : French translator <br/>
+   9、locale-de.json : German translator <br/>
+   10、locale-es.json : Spanish translator <br/>
+   11、locale-bg.json : Bulgarian translator <br/>
+   12、locale-el.json : Greek translator <br/>
+   13、locale-sk.json : Slovakia translator <br/>
+   14、locale-tr.json : Turkic translator <br/>
+   15、locale-cs.json ：Czech translator <br/>
+   16、locale-pt_BR.json : Portuguese Brazil translator <br/>
+   17、locale-sl.json : Republika Slovenija translator <br/>
+   18、locale-vi.json : Vietnamese translator <br/>
+   19、locale-hu.json : Hungarian translator <br/>
 
 ## Translation rules：
-
-	Country code translation: the name of a country or location should be described in JSON format. To add a new country or location, please add a country name in JSON format first.
-	The attribute format should be: country name abbreviation + "_ name" + ":" + "specific internationalized country name"
-
-	For example:
-	          {
-	              zh_name: '中国',
-	              en_name: 'China',
-	              ru_name: 'Китай',
-	              da_name: 'China',
-	              prefix: '+86'
-	          }
-
-	Other translation: for all other description and prompt words,
 	The attribute format should be: "App identifier (only for the app itself to distinguish among different descriptions, it does not have any meaning)" + ":" + "specific international translation";
 	For example:
 	      locale-zh.json :
@@ -111,111 +86,5 @@ We created this project to support translation for eWelink
 	          "ABOUTE_WELINK": "關於易微联",
 	      }  
 
-	* Note: it only needs to translate "specific internationalized country name" and "specific internationalized translation", which is the content behind the ":" *
+	ps:"%1$s","%2$s",....,"%N$s" unchanged.
 
----
-# Android翻译注意事项
-
-## 翻译文件：
-	values:英语
-	values-da-rDK:丹麦语
-	values-it-rIT:意大利语
-	values-pl-rPL:波兰语
-	values-ru-rRU:俄语
-	values-zh-rCN:简体中文
-	values-zh-rTW:繁体中文
-	values-bg-rBG:保加利亚语
-	values-tr-rTR:土耳其语
-	values-sk-rSK:斯洛伐克语
-	values-fr-rFR:法语
-	values-eu-rES:西班牙语
-	values-el-rGR:希腊语
-	values-de-rDE:德语
-	values-cs-rCZ:捷克语
-	values-sl-rSI:斯洛文尼亚语
-	values-pt-rPT:葡萄牙语
-	
-
-## 翻译规则：
-    例如:
-	1.<string-array name="phone_managers">
-	内容无需翻译.	
-	</string-array>
-
-	2.<string-array name="country_code1">
-		<item>xxx+yy</item>  
-	只需要翻译"+"之前的内容	
-	</string-array>
-
-	3.<string name="xxxxx">yyyyy</string>
-	只需要翻译yyyyy.
-
-	4.<string name="xxxxx">yyyyy%1$s</string>
-	只需要翻译yyyyy, "%1$s"不做修改.
-
-	5.<string name="xxxxx">yyyyy\n%1$s</string>
-	只需要翻译yyyyy, "\n%1$s"不做修改.
-
-	6.<string name="xxxxx">(timer: %1$sdays %2$shours %3$sminutes xx)</string>
-	只需要翻译timer: days  hours minutes xx
-	"%1$s","%2$s","%3$s"不做修改
-
-	7.<string name="xxxxx">yy\tzz</string>
-	只需要翻译yy,zz, "\t"不做修改.
-
-	8.<string name="xxxxx">yy\n\nzz</string>
-	只需要翻译yy,zz, "\n\n"不做修改.
-	
-	---
-# Android Translation Notes
-
-## Translation File:
-	values: English
-	values-da-rDK: Danish
-	values-it-rIT: Italian
-	values-pl-rPL: Polish
-	values-ru-rRU: Russian
-	values-zh-rCN: Simplified Chinese
-	values-zh-rTW: Traditional Chinese
-	values-bg-rBG: Bulgarian
-	values-tr-rTR: Turkish
-	values-sk-rSK: Slovakian
-	values-fr-rFR: French
-	values-eu-rES: Spanish
-	values-el-rGR: Greek
-	values-de-rDE: German
-	values-cs-rCZ: Czech
-	values-sl-rSI: Slovenia
-	values-pt-rPT: Portugal
-
-## Translation rules：
-    For example:
-	1.<string-array name="phone_managers">
-	 No need to translate.	
-	</string-array>
-
-	2.<string-array name="country_code1">
-		<item>xxx+yy</item>  
-	Please translate the content before "+".
-	</string-array>
-
-	3.<string name="xxxxx">yyyyy</string>
-	Only need to translate yyyyy.
-
-	4.<string name="xxxxx">yyyyy%1$s</string>
-	Only need to translate yyyyy. Keep "%1$s" unchanged.
-
-	5.<string name="xxxxx">yyyyy\n%1$s</string>
-	Only need to translate yyyyy. Keep "\n%1$s" unchanged.
-
-	6.<string name="xxxxx">(timer: %1$sdays %2$shours %3$sminutes xx)</string>
-	Only need to translate timer: days  hours minutes xx
-	Keep "%1$s","%2$s","%3$s" unchanged.
-
-	7.<string name="xxxxx">yy\tzz</string>
-	Only need to translate yy,zz. Keep "\t" unchanged.
-
-
-	8.<string name="xxxxx">yy\n\nzz</string>
-	Only need to translate yy,zz. Keep "\n\n" unchanged.
-	
