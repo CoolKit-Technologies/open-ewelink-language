@@ -23,7 +23,10 @@ We created this project to support translation for eWelink
 	16、locale-pt_BR.json : 葡萄牙文(巴西)
 	17、locale-sl.json : 斯洛文尼亚语
 	18、locale-vi.json : 越南语
-	18、locale-hu.json : 匈牙利语
+	19、locale-hu.json : 匈牙利语
+	20、locale-ja.json : 日本语
+	21、locale-ko.json : 韩语
+	22、locale-fi.json : 芬兰语
 
 ## 翻译规则：
     属性格式为："App标识符（仅用于app本身唯一性描述与使用，本身无意义"+":"+“具体国际化翻译”；
@@ -69,6 +72,10 @@ We created this project to support translation for eWelink
    17、locale-sl.json : Republika Slovenija translator <br/>
    18、locale-vi.json : Vietnamese translator <br/>
    19、locale-hu.json : Hungarian translator <br/>
+   20、locale-ja.json : Japanese translator <br/>
+   21、locale-ko.json : Korean translator <br/>
+   22、locale-fi.json : Finnish translator <br/>
+
 
 ## Translation rules：
 	The attribute format should be: "App identifier (only for the app itself to distinguish among different descriptions, it does not have any meaning)" + ":" + "specific international translation";
