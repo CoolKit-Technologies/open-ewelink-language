@@ -1184,6 +1184,12 @@
   "CAMERA_DEVICE_OFFLINE": "La cámara está fuera de línea.",
   "INCHING_ENABLE": "funcionará solo si la duración de la cuenta atrás está habilitada",
   "PLUSE_SWITCH_NOTICE": " deshabilitar el led de estado del dispositivo ",
+  "MEARI_PERSON_CHECK": "Human detection",
+  "MEARI_NICKNAME_LENGTH": "Please enter a valid username",
+  "MEARI_WIFI_PIR_DES": "One-Click Pairing",
+  "CAMERA_DEVICE_OFFLINE": "The camera status is offline",
+  "INCHING_ENABLE": "will work only if inching duration is enabled",
+  "PLUSE_SWITCH_NOTICE": " disable indicator light of device ",
   "EWELINK_ROUTER_ONEKEY_PAIRING_TEXT": "Please make sure the device is in pairing mode and close to eWeLink router.",
   "EWELINK_ROUTER_ONEKEY_HAS_BEEN_FOUND": "Found",
   "EWELINK_ROUTER_ONEKEY_PARING_SUCCESS": "Pairing successful",
@@ -1281,5 +1287,5 @@
   "PHONE_OR_EMAIL_ACCOUNT": "Móvil o correo electrónico",
   "ZIGBEE_ITEM_NUMBER": "Conexión del dispositivo:",
   "ENTER_PHONE_OR_EMAIL_ACCOUNT": "Introduzca el número de móvil o correo electrónico",
-  "ZIGBEE_ITEM_DEVICE_INIT": "Por favor, espere a que los dispositivos estén listos."
+  "ZIGBEE_ITEM_DEVICE_INIT": "Por favor, espere a que los dispositivos estén listos.",
 }
