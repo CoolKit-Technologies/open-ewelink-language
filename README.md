@@ -8,7 +8,7 @@ We created this project to support translation for eWelink
 	1、locale-da.json : 丹麦翻译
 	2、locale-en.json : 英文翻译
 	3、locale-it.json : 意大利翻译
-	4、locale-pl.json : 葡萄牙翻译
+	4、locale-pl.json : 波兰语翻译
 	5、locale-ru.json : 俄语翻译
 	6、locale-zh.json : 简体中文翻译
 	7、locale-zh_Hant.json : 繁体中文
@@ -56,7 +56,7 @@ We created this project to support translation for eWelink
    1、locale-da.json :  Danish translation <br/>
    2、locale-en.json :  English translation <br/>
    3、locale-it.json :  Italian translation <br/>
-   4、locale-pl.json :  Portuguese translation <br/>
+   4、locale-pl.json :  Polish translation <br/>
    5、locale-ru.json :  Russian translation <br/>
    6、locale-zh.json :  Simplified Chinese translation <br/>
    7、locale-zh_Hant.json : Traditional Chinese translation <br/>
