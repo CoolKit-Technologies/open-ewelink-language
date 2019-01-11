@@ -1370,5 +1370,14 @@
   "PHONE_OR_EMAIL_ACCOUNT": "手机号或邮箱",
   "ZIGBEE_ITEM_NUMBER": "子设备:",
   "ENTER_PHONE_OR_EMAIL_ACCOUNT": "请输入手机号或邮箱",
-  "ZIGBEE_ITEM_DEVICE_INIT": "设备还在初始化中,请稍候.."
+  "ZIGBEE_ITEM_DEVICE_INIT": "设备还在初始化中,请稍候..",
+  "PASSWORD_FORMAT_ERROR": "密码格式错误",
+  "ewelinkcamera_active_warning": "免费激活摄像头",
+  "FEEDBACK_OPTION_CUSTOM_CAMERA": "定制摄像头",
+  "app_camera_install_together": "检测到您的手机同时安装了易微联app和易微联摄像头app,请将两个软件分别安装在不同的手机上",
+  "MORE_THAN_SCENE_NUMBER": "您的场景数量已超过上限",
+  "WARNING_TITLE": "警告",
+  "ewelinkcamera_battery_low_warning": "易微联摄像头端电量过低,请及时充电!",
+  "MORE_THAN_GROUP_NUMBER": "您的分组数量已超过上限",
+  "EXIT_APP": "退出应用"
 }

@@ -1268,5 +1268,14 @@
   "PHONE_OR_EMAIL_ACCOUNT": "Mobile or email",
   "ZIGBEE_ITEM_NUMBER": "Device connection:",
   "ENTER_PHONE_OR_EMAIL_ACCOUNT": "Enter Mobile or Email",
-  "ZIGBEE_ITEM_DEVICE_INIT": "Please wait for devices to be ready."
+  "ZIGBEE_ITEM_DEVICE_INIT": "Please wait for devices to be ready.",
+  "PASSWORD_FORMAT_ERROR": "Unacceptable characters.",
+  "ewelinkcamera_active_warning": "免费激活摄像头",
+  "FEEDBACK_OPTION_CUSTOM_CAMERA": "eWeLink Camera",
+  "app_camera_install_together": "You installed eWeLink app and eWeLink Camera app on the same device. Please install them on two different devices.",
+  "MORE_THAN_SCENE_NUMBER": "You’ve reached the maximum number of scenes.",
+  "WARNING_TITLE": "Warning",
+  "ewelinkcamera_battery_low_warning": "Low battery on eWeLink Camera.Please charge it.",
+  "MORE_THAN_GROUP_NUMBER": "You’ve reached the maximum number of groups.",
+  "EXIT_APP": "退出应用"
 }
