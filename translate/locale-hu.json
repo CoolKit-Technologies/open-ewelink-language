@@ -327,7 +327,7 @@
   "unknow_remote_has_deleted": "Ismeretlen távirányító (törölve)",
   "info_sure_delete_and_in_scene": "Biztosan törli a készüléket? A kapcsolódó jelenet egyidejűleg törlődik.",
   "no_userful_key": "Nincs elérhető gomb",
-  "youqiao_big_power": "The max. value of max. power is 3300",
+  "youqiao_big_power": "A max. teljesítmény max. értéke 3300",
   "youqiao_small_power": "The min. power is 0.1",
   "youqiao_smaller_power_small_than_bigger": "The min. power must be smaller than the max. power",
   "youqiao_big_electric": "The max. current is 15",
